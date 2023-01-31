@@ -1,1 +1,90 @@
-{"sections":{"ug-index-header":{"type":"ug-index-header","settings":{}},"ug-index-carousel":{"type":"ug-index-carousel","settings":{}},"ug-index-image":{"type":"ug-index-image","settings":{}},"ug-index-fit-life":{"type":"ug-index-fit-life","settings":{}},"ug-index-benefit":{"type":"ug-index-benefit","settings":{}},"ug-index-featured":{"type":"ug-index-featured","settings":{}},"ug-index-link":{"type":"ug-index-link","settings":{}}},"order":["ug-index-header","ug-index-carousel","ug-index-image","ug-index-fit-life","ug-index-benefit","ug-index-featured","ug-index-link"]}
+{
+  "sections": {
+    "ug-index-header": {
+      "type": "ug-index-header",
+      "settings": {
+      }
+    },
+    "ug-index-carousel": {
+      "type": "ug-index-carousel",
+      "blocks": {
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/New_Year_1_pc.jpg?v=1672984617",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/New_Year_1.jpg?v=1672984754",
+            "title": "New Year, New Charger, New You",
+            "subtitle": "Pay$1 to get a Organiser Bag with order over $80",
+            "button_text": "Learn More",
+            "link": "\/pages\/new-year"
+          }
+        },
+        "ug-index-carousel-2": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Available_now_2_PC.jpg?v=1672984617",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Available_now_2.jpg?v=1672984754",
+            "title": "",
+            "subtitle": "",
+            "button_text": "",
+            "link": "#"
+          }
+        },
+        "ug-index-carousel-3": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Nexode_200W_4_PC.jpg?v=1672984617",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Nexode_200W_4.jpg?v=1672984755",
+            "title": "Nexode 200W Desktop Charger",
+            "subtitle": "6 Ports Support Team Work",
+            "button_text": "Shop Now",
+            "link": "\/products\/ugreen-nexode-200w-usb-c-desktop-charger"
+          }
+        }
+      },
+      "block_order": [
+        "ug-index-carousel-1",
+        "ug-index-carousel-2",
+        "ug-index-carousel-3"
+      ],
+      "settings": {
+        "custom_style": "",
+        "banner_index": "2"
+      }
+    },
+    "ug-index-image": {
+      "type": "ug-index-image",
+      "settings": {
+      }
+    },
+    "ug-index-fit-life": {
+      "type": "ug-index-fit-life",
+      "settings": {
+      }
+    },
+    "ug-index-benefit": {
+      "type": "ug-index-benefit",
+      "settings": {
+      }
+    },
+    "ug-index-featured": {
+      "type": "ug-index-featured",
+      "settings": {
+      }
+    },
+    "ug-index-link": {
+      "type": "ug-index-link",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ug-index-header",
+    "ug-index-carousel",
+    "ug-index-image",
+    "ug-index-fit-life",
+    "ug-index-benefit",
+    "ug-index-featured",
+    "ug-index-link"
+  ]
+}

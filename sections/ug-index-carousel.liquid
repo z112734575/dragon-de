@@ -78,11 +78,6 @@
     .green-home-banner .swiper-pagination-bullet-active {
         background: rgba(255, 255, 255, 1);
     }
-    .green-home-banner .swiper-index3 .green-home-banner-box {
-        text-align: left;
-        top: 11vw;
-        left: 20vw;
-    }
     @media (max-width: 767px) {
         .green-home-banner {
             height: 580px
@@ -119,123 +114,46 @@
             width: 40px;
             height: 4px;
         }
-        .green-home-banner .swiper-index3 .green-home-banner-box {
-            text-align: center;
-            top: 15%;
-            left: 0;
-        }
     }
+    {{ section.settings.custom_style }}
     /*banner*/
 </style>
 
 <section class="swiper green-home-banner">
     <div class="swiper-wrapper">
-        <a href="/pages/new-year" class="swiper-slide">
-            <div class="green-home-banner-box">
-                <div class="title">
-                    <p>New Year, New Charger, New You</p>
+        {% for block in section.blocks %}
+            {% assign settings = block.settings %}
+            {% assign pc_image_url = settings.pc_image_url | split: "." %}
+            {% assign mobile_image_url = settings.mobile_image_url | split: "." %}
+            <a class="swiper-slide swiper-index{{ forloop.index }}" href="{{ settings.link }}">
+                <div class="green-home-banner-box">
+                    {% if settings.title %}
+                        <div class="title">
+                            <p>{{ settings.title }}</p>
+                        </div>
+                    {% endif %}
+
+                    {% if settings.subtitle %}
+                        <div class="sub">{{ settings.subtitle }}</div>
+                    {% endif %}
+
+                    {% if settings.button_text %}
+                        <div class="btn">
+                            <span>{{ settings.button_text }}</span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-xiayiye"></use>
+                            </svg>
+                        </div>
+                    {% endif %}
                 </div>
-                <div class="sub">Pay$1 to get a Organiser Bag with order over $80</div>
-                <div class="btn">
-                    <span>Learn More</span>
-                    <svg class="icon" aria-hidden="true">
-                        <use xlink:href="#icon-xiayiye"></use>
-                    </svg>
-                </div>
-            </div>
-            <picture>
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_750x.jpg?v=1672984754"
-                        media="(max-width: 375px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_1536x.jpg?v=1672984754"
-                        media="(max-width: 768px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_pc_1920x.jpg?v=1672984617"
-                        media="(max-width: 1080px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_pc_2560x.jpg?v=1672984617"
-                        media="(max-width: 1200px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_pc_3840x.jpg?v=1672984617"
-                        media="(max-width: 1920px)">
-                <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/New_Year_1_pc_3840x.jpg?v=1672984617"
-                     alt="New Year, Charge">
-            </picture>
-        </a>
-        <a href="#" class="swiper-slide">
-            <picture>
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_750x.jpg?v=1672984754"
-                        media="(max-width: 375px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_1536x.jpg?v=1672984754"
-                        media="(max-width: 768px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_PC_1920x.jpg?v=1672984617"
-                        media="(max-width: 1080px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_PC_2560x.jpg?v=1672984617"
-                        media="(max-width: 1200px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_PC_3840x.jpg?v=1672984617"
-                        media="(max-width: 1920px)">
-                <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Available_now_2_PC_3840x.jpg?v=1672984617"
-                     alt="image">
-            </picture>
-        </a>
-        {% comment %}<a href="/pages/Power-Station-Survey%20" class="swiper-slide swiper-index3">{% endcomment %}
-            {% comment %}<div class="green-home-banner-box">{% endcomment %}
-                {% comment %}<div class="title">{% endcomment %}
-                    {% comment %}<p>Power Station Survey</p>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-                {% comment %}<div class="sub">Participate for a Chance to Win</div>{% endcomment %}
-                {% comment %}<div class="btn">{% endcomment %}
-                    {% comment %}<span>Join Now</span>{% endcomment %}
-                    {% comment %}<svg class="icon" aria-hidden="true">{% endcomment %}
-                        {% comment %}<use xlink:href="#icon-xiayiye"></use>{% endcomment %}
-                    {% comment %}</svg>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-            {% comment %}</div>{% endcomment %}
-            {% comment %}<picture>{% endcomment %}
-                {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_750x.jpg?v=1672984755"{% endcomment %}
-                        {% comment %}media="(max-width: 375px)">{% endcomment %}
-                {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_1536x.jpg?v=1672984755"{% endcomment %}
-                        {% comment %}media="(max-width: 768px)">{% endcomment %}
-                {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_PC_1920x.jpg?v=1672984617"{% endcomment %}
-                        {% comment %}media="(max-width: 1080px)">{% endcomment %}
-                {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_PC_2560x.jpg?v=1672984617"{% endcomment %}
-                        {% comment %}media="(max-width: 1200px)">{% endcomment %}
-                {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_PC_3840x.jpg?v=1672984617"{% endcomment %}
-                        {% comment %}media="(max-width: 1920px)">{% endcomment %}
-                {% comment %}<img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Power_Station_Survey_3_PC_3840x.jpg?v=1672984617"{% endcomment %}
-                     {% comment %}alt="image">{% endcomment %}
-            {% comment %}</picture>{% endcomment %}
-        {% comment %}</a>{% endcomment %}
-        <a href="/products/ugreen-nexode-200w-usb-c-desktop-charger" class="swiper-slide">
-            <div class="green-home-banner-box">
-                <div class="title">
-                    <p>Nexode 200W Desktop Charger</p>
-                </div>
-                <div class="sub">6 Ports Support Team Work</div>
-                <div class="btn">
-                    <span>Shop Now</span>
-                    <svg class="icon" aria-hidden="true">
-                        <use xlink:href="#icon-xiayiye"></use>
-                    </svg>
-                </div>
-            </div>
-            <picture>
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_750x.jpg?v=1672984755"
-                        media="(max-width: 375px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_1536x.jpg?v=1672984755"
-                        media="(max-width: 768px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_PC_1920x.jpg?v=1672984617"
-                        media="(max-width: 1080px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_PC_2560x.jpg?v=1672984617"
-                        media="(max-width: 1200px)">
-                <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_PC_3840x.jpg?v=1672984617"
-                        media="(max-width: 1920px)">
-                <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/Nexode_200W_4_PC_3840x.jpg?v=1672984617"
-                     alt="image">
-            </picture>
-        </a>
+                {% render "ug-picture", pc_image_url:  settings.pc_image_url, mobile_image_url: settings.mobile_image_url, alt: settings.title %}
+            </a>
+        {% endfor %}
     </div>
     <div class="swiper-pagination"></div>
     <div class="swiper-button-prev"></div>
     <div class="swiper-button-next"></div>
 </section>
-
 
 
 <script>
@@ -266,8 +184,8 @@
                 delay: 5000,
             }
         })
-
-        const CHANGE_COLOR_INDEX = [2] // banner 需要改变 header 颜色的序号
+        const banner_index = `{{ section.settings.banner_index }}`;
+        const CHANGE_COLOR_INDEX = banner_index.split(',') // banner 需要改变 header 颜色的序号
 
         const normalLogo = 'https://cdn.shopify.com/s/files/1/0257/5246/9566/files/95.svg?v=1663919287';
         const colorLogo = 'https://cdn.shopify.com/s/files/1/0257/5246/9566/files/logo_color__2X_5a5b583f-27a2-43db-8ec5-413265a5d565.png?v=1673246856';
@@ -277,7 +195,7 @@
         const mobileLogo = $('.header__mobile-logo')
 
         green615swiper.on('slideChange', function (event) {
-            if (CHANGE_COLOR_INDEX.indexOf(event.activeIndex) >= 0) {
+            if (CHANGE_COLOR_INDEX.indexOf(String(event.activeIndex)) >= 0) {
                 header.addClass('header-thirdly-type')
                 if (header.hasClass('header-second-type') || header.hasClass('header-hover')) return;
                 mobileLogo.attr('src', blackLogo)
@@ -292,3 +210,67 @@
     })
 
 </script>
+
+{% schema %}
+{
+  "name": "Green Home Banner",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Banner Settings"
+    },
+    {
+      "type": "textarea",
+      "id": "custom_style",
+      "label": "Custom style",
+      "info": "添加自定义的样式"
+    },
+    {
+      "type": "text",
+      "id": "banner_index",
+      "label": "Banner Index",
+      "info": "需要标题变色的Banner 的序号，从0开始，多个用逗号隔开"
+    }
+  ],
+  "max_blocks": 5,
+  "blocks": [
+    {
+      "name": "Slide Item",
+      "type": "ug-index-carousel-item",
+      "settings": [
+        {
+          "type": "text",
+          "id": "pc_image_url",
+          "label": "Pc image url"
+        },
+        {
+          "type": "text",
+          "id": "mobile_image_url",
+          "label": "Mobile image url"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "text",
+          "id": "subtitle",
+          "label": "Subtitle"
+        },
+        {
+          "type": "text",
+          "id": "button_text",
+          "label": "Button text"
+        },
+        {
+          "type": "text",
+          "id": "link",
+          "label": "Link",
+          "info": "跳转链接"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
