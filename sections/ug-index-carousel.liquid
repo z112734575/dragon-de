@@ -195,6 +195,7 @@
         const mobileLogo = $('.header__mobile-logo')
 
         green615swiper.on('slideChange', function (event) {
+            console.log(event.activeIndex, 'event.activeIndex')
             if (CHANGE_COLOR_INDEX.indexOf(String(event.activeIndex)) >= 0) {
                 header.addClass('header-thirdly-type')
                 if (header.hasClass('header-second-type') || header.hasClass('header-hover')) return;
