@@ -229,7 +229,6 @@
           },
           "8898f2a5-cefa-4323-b799-3606db2f2b69": {
             "type": "bl_col",
-            "disabled": true,
             "settings": {
               "col_heading": "Products",
               "menu": "",
@@ -281,7 +280,6 @@
           },
           "footer-8": {
             "type": "bl_col",
-            "disabled": true,
             "settings": {
               "col_heading": "To Our Clients",
               "menu": "",
