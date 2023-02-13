@@ -273,8 +273,135 @@
     "cart_page": {
       "title": "Einkaufswagen",
       "label": {
-        "product": "Produkt"
+        "product": "Produkt",
+        "price": "Preis",
+        "quantity": "Menge",
+        "total": "Gesamt"
+      },
+      "empty": "Ihr Warenkorb ist leer.",
+      "empty_html": "Bevor Sie zur Kasse gehen, müssen Sie einige Produkte in Ihren Warenkorb legen.<br> Auf unserer Seite \"Shop\" finden Sie viele interessante Produkte.",
+      "update": "Warenkorb aktualisieren",
+      "checkout": "Kasse"
+    }
+  },
+  "templates": {
+    "404": {
+      "subtext": "Verzeihung! Seite, die Sie suchen, kann nicht gefunden werden.",
+      "link_html": "Gehen Sie zurück zur <a href=\"&lt;span%20class='notranslate'&gt;%7B%7Blink%7D%7D&lt;\/span&gt;\" rel=\"home\">Startseite<\/a>"
+    },
+    "contact": {
+      "form": {
+        "name": "Dein Name (erforderlich)",
+        "email": "Ihre E-Mailadresse (erforderlich)",
+        "phone": "Deine Telefonnummer",
+        "message": "Ihre Nachricht",
+        "submit": "Schicken",
+        "post_success": "Danke, dass sie uns kontaktiert haben. Wir werden uns so schnell wie möglich bei Ihnen melden.",
+        "error_heading": "Bitte passen Sie Folgendes an:"
       }
+    }
+  },
+  "customer": {
+    "form": {
+      "error_heading": "Bitte passen Sie Folgendes an:"
+    },
+    "account": {
+      "title": "MEIN KONTO",
+      "make_order": "Machen Sie Ihre erste Bestellung",
+      "none": "Sie haben noch keine Bestellungen aufgegeben.",
+      "hello_html": "Hallo <strong>{{name}}<\/strong> (nicht <strong>{{name}}<\/strong> ? <a href=\"&lt;span%20class='notranslate'&gt;%7B%7Blink%7D%7D&lt;\/span&gt;\">Abmelden<\/a> )",
+      "manage_subs": "Abonnements verwalten",
+      "dashboard": "Armaturenbrett",
+      "wishlist": "Wunschzettel",
+      "details": "Kontodetails :",
+      "log_out": "Ausloggen",
+      "address_2": "Adresse 2:"
+    },
+    "menu": {
+      "dashboard": "Armaturenbrett",
+      "addresses": "Adressen",
+      "logout": "Ausloggen"
+    },
+    "activate_account": {
+      "title": "Konto aktivieren",
+      "subtext": "Erstellen Sie Ihr Passwort, um Ihr Konto zu aktivieren.",
+      "password": "Passwort",
+      "password_confirm": "Bestätige das Passwort",
+      "submit": "Konto aktivieren",
+      "cancel": "Einladung ablehnen"
+    },
+    "addresses": {
+      "title": "Adressen",
+      "default": "Standard",
+      "add_new": "Füge eine neue Adresse hinzu",
+      "edit_address": "Adresse bearbeiten",
+      "first_name": "Vorname",
+      "last_name": "Familienname, Nachname",
+      "company": "Unternehmen",
+      "address1": "Adresse",
+      "address2": "Wohnung, Suite usw.",
+      "city": "Stadt",
+      "country": "Land\/Region",
+      "province": "Provinz",
+      "zip": "Postleitzahl",
+      "phone": "Telefon",
+      "set_default": "Als Standardadresse festlegen",
+      "add": "Adresse hinzufügen",
+      "update": "Adresse aktualisieren",
+      "cancel": "Stornieren",
+      "edit": "Bearbeiten",
+      "delete": "Löschen",
+      "delete_confirm": "Möchten Sie diese Adresse wirklich löschen?"
+    },
+    "login": {
+      "title": "ANMELDUNG",
+      "create_account": "Neukunde? Erstelle deinen Account",
+      "password": "Passwort",
+      "forgot_password": "Haben Sie Ihr Passwort vergessen?",
+      "submit": "Anmelden",
+      "sign_in": "anmelden",
+      "guest_title": "Als Gast fortfahren",
+      "guest_continue": "Weitermachen"
+    },
+    "orders": {
+      "title": "Bestellverlauf:",
+      "order_number": "Befehl",
+      "order_number_link": "Bestellnummer {{ number }}",
+      "date": "Datum",
+      "payment_status": "Zahlungsstatus",
+      "fulfillment_status": "Erfüllungsstatus",
+      "total": "Gesamt",
+      "none": "Sie haben noch keine Bestellungen aufgegeben."
+    },
+    "order": {
+      "title": "Bestellen Sie {{ name }}",
+      "date_html": "Platziert am {{ date }}",
+      "cancelled_html": "Bestellung storniert am {{ date }}",
+      "cancelled_reason": "Grund: {{ reason }}",
+      "billing_address": "Rechnungsadresse",
+      "payment_status": "Zahlungsstatus",
+      "shipping_address": "Lieferanschrift",
+      "fulfillment_status": "Erfüllungsstatus",
+      "discount": "Rabatt",
+      "shipping": "Versand",
+      "tax": "Steuer",
+      "product": "Produkt",
+      "sku": "Artikelnummer",
+      "price": "Preis",
+      "quantity": "Menge",
+      "total": "Gesamt",
+      "fulfilled_at_html": "Erfüllt am {{ date }}",
+      "subtotal": "Zwischensumme",
+      "track_shipment": "Sendung verfolgen",
+      "gift_note": "Geschenknachricht",
+      "note": "Besondere Anweisungen für den Verkäufer"
+    },
+    "recover_password": {
+      "title": "Setze dein Passwort zurück",
+      "email": "E-Mail-Addresse",
+      "submit": "Passwort zurücksetzen",
+      "save": "Speichern",
+      "cancel": "Stornieren"
     }
   }
 }
