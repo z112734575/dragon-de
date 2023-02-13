@@ -230,7 +230,7 @@
           "8898f2a5-cefa-4323-b799-3606db2f2b69": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Products",
+              "col_heading": "Produkte",
               "menu": "",
               "menu_style": "1",
               "col_dk": "auto",
@@ -265,7 +265,7 @@
           "16cc28da-fdbf-4890-88c0-e9da1c801c51": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "About",
+              "col_heading": "Über uns",
               "menu": "about",
               "menu_style": "1",
               "col_dk": "auto",
@@ -281,7 +281,7 @@
           "footer-8": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "To Our Clients",
+              "col_heading": "Für unsere Kunden",
               "menu": "",
               "menu_style": "1",
               "col_dk": "auto",
@@ -297,7 +297,7 @@
           "footer-6": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Service",
+              "col_heading": "Dienst",
               "menu": "service",
               "menu_style": "1",
               "col_dk": "auto",
@@ -412,7 +412,7 @@
           "f2f882a2-6364-4a10-a61b-6f380ad4b3ba": {
             "type": "bl_col",
             "settings": {
-              "col_heading": "Select Your Region",
+              "col_heading": "Land\/Region wählen",
               "menu": "",
               "menu_style": "1",
               "col_dk": "auto",
