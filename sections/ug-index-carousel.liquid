@@ -125,7 +125,7 @@
             {% assign settings = block.settings %}
             {% assign pc_image_url = settings.pc_image_url | split: "." %}
             {% assign mobile_image_url = settings.mobile_image_url | split: "." %}
-            <a class="swiper-slide swiper-index{{ forloop.index }}" href="{{ settings.link }}">
+            <a class="{{ settings.className }} swiper-slide swiper-index{{ forloop.index }}" href="{{ settings.link }}">
                 <div class="green-home-banner-box">
                     {% if settings.title %}
                         <div class="title">
