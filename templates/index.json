@@ -11,16 +11,17 @@
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/New_Year_1_pc.jpg?v=1672984617",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/New_Year_1.jpg?v=1672984754",
-            "title": "New Year, New Charger, New You",
-            "subtitle": "Pay$1 to get a Organiser Bag with order over $80",
-            "button_text": "Learn More",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_100w_charger_pc_2x_4ea0fdf7-2c2a-4b57-b18a-d16961ebf943.jpg?v=1676283711",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_100w_charger_mobile.jpg?v=1676283711",
+            "title": "Nexode 100W Ladegerät",
+            "subtitle": "4-in-1 Multiport-Ladegerät",
+            "button_text": "Jetzt kaufen",
             "link": "\/pages\/new-year"
           }
         },
         "ug-index-carousel-2": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Available_now_2_PC.jpg?v=1672984617",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Available_now_2.jpg?v=1672984754",
