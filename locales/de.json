@@ -137,7 +137,42 @@
       "on": "An",
       "read_more": "Weiterlesen",
       "back_to": "Zurück zu {{title}}",
-      "view_all": "Mehr sehen"
+      "view_all": "Mehr sehen",
+      "by_author": "Von {{ author }}"
+    },
+    "portfolio": {
+      "filter_all": "Alle"
+    },
+    "comments": {
+      "title": "Hinterlasse einen Kommentar",
+      "comments_note_html": "Deine Email-Adresse wird nicht veröffentlicht. Pflichtfelder sind markiert <span class=\"required\">*<\/span>",
+      "message": "Kommentar",
+      "post": "Kommentar hinzufügen",
+      "moderated": "Bitte beachte, dass Kommentare vor der Veröffentlichung genehmigt werden müssen",
+      "success_moderated": "Ihr Kommentar wurde erfolgreich veröffentlicht. Wir werden es in Kürze veröffentlichen, da unser Blog moderiert wird.",
+      "success": "Ihr Kommentar wurde erfolgreich veröffentlicht! Danke schön!",
+      "unapproved": "Die angegebene E-Mail-Adresse ist nicht zum Posten von Kommentaren zugelassen.",
+      "error_heading": "Bitte passen Sie Folgendes an:",
+      "with_count": {
+        "zero": "0 Kommentar",
+        "one": "1 Kommentar",
+        "other": "{{ count }} Kommentare"
+      },
+      "with_count_2": {
+        "zero": "Hinterlasse einen Kommentar",
+        "one": "1 Kommentar",
+        "other": "{{ count }} Kommentare"
+      },
+      "with_count_html": {
+        "zero": "0 <span>Kommentar<\/span>",
+        "one": "1 <span>Kommentar<\/span>",
+        "other": "{{ count }} <span>Kommentare<\/span>"
+      },
+      "comments_title_html": {
+        "zero": "0 Gedanken zu „ <span>{{title}}<\/span> “",
+        "one": "1 Gedanke zu „ <span>{{title}}<\/span> “",
+        "other": "{{ count }} Gedanken zu „ <span>{{title}}<\/span> “"
+      }
     }
   },
   "products": {
@@ -148,7 +183,18 @@
       "view_360": "360-Grad-Produktansicht",
       "click_zoom": "klicken um zu vergrößern",
       "will_not_ship_until_html": "Wird erst am <span data-incoming-date>{{date}}<\/span> versendet",
-      "will_be_in_stock_after_html": "Wird nach dem <span data-incoming-date>{{date}}<\/span> auf Lager sein"
+      "will_be_in_stock_after_html": "Wird nach dem <span data-incoming-date>{{date}}<\/span> auf Lager sein",
+      "countdown_text": {
+        "day": "Tag",
+        "day_plural": "Tage",
+        "hr": "Stunde",
+        "hr_plural": "Std.",
+        "min": "Mindest",
+        "min_plural": "Min",
+        "sec": "Sek",
+        "sec_plural": "Sek"
+      },
+      "order_dayNames": "Sonntag Montag Dienstag Mittwoch Donnerstag Freitag Samstag"
     },
     "fbt": {
       "title": "Wird oft zusammen gekauft",
@@ -177,6 +223,75 @@
         "other": "<span class=\"cp\">{{count}}<\/span> Produkte gefunden"
       },
       "clear_filter": "Filter löschen"
+    },
+    "aria_label": {
+      "select_option": "Optionen für „ {{product_title}} “ auswählen",
+      "add_to_cart": "Fügen Sie „ {{product_title}} “ zu Ihrem Einkaufswagen hinzu",
+      "read_more": "Lesen Sie mehr über „ {{product_title}} “"
+    },
+    "breadcrumb": {
+      "home": "Heim",
+      "back_to": "Zurück zu {{title}}"
+    },
+    "badge": {
+      "new": "Neu",
+      "sold_out": "Ausverkauft",
+      "on_sale": "Verkauf",
+      "pre_order": "Vorbestellen",
+      "save_amoun_html": "- {{ saved_amount }} %",
+      "save_amount_fixed_html": "- {{ saved_amount }}",
+      "save_amount_2_html": "SPAREN Sie {{ saved_amount }} %",
+      "save_amount_fixed_2_html": "SPAREN Sie {{ saved_amount }}"
+    },
+    "product": {
+      "include_taxes": "Steuern inklusive.",
+      "shipping_policy_html": "<a href=\"&lt;span%20class='notranslate'&gt;%7B%7B%20link%20%7D%7D&lt;\/span&gt;\">Versand<\/a> wird an der Kasse berechnet.",
+      "from_price_html": "<span class=\"&lt;span class='notranslate'&gt;{{ class }}&lt;\/span&gt;\">Ab<\/span> {{price_min}}",
+      "Please_choose_pr_options": "Bitte wählen Sie einige Produktoptionen aus, bevor Sie dieses Produkt in Ihren Warenkorb legen.",
+      "choose_an_option": "Wähle eine Option",
+      "add_to_cart": "In den Warenkorb legen",
+      "pre_order": "Vorbestellen",
+      "unavailable": "Nicht verfügbar",
+      "sold_out": "Ausverkauft",
+      "notice_only_stock": "Nicht genügend Artikel verfügbar. Nur noch {{max}} übrig.",
+      "login_to_wishlist": "Melden Sie sich an, um die Wunschliste zu verwenden",
+      "add_to_wishlist": "Zur Wunschliste hinzufügen",
+      "remove_wishlist": "Wunschliste entfernen",
+      "browse_wishlist": "Wunschliste durchsuchen",
+      "compare": "Vergleichen",
+      "added_text_compare": "Produkte vergleichen",
+      "na": "N \/ A",
+      "available": "Verfügbarkeit :",
+      "in_stock_status": "Auf Lager",
+      "pre_oder_status": "Auf Lager",
+      "sold_out_status": "Ausverkauft",
+      "product_size_guide": "Größentabelle",
+      "delivery_return": "Lieferung &amp; Rücksendung",
+      "ask_question": "Stelle eine Frage"
+    },
+    "product_card": {
+      "read_more": "Weiterlesen",
+      "view": "Produkte ansehen",
+      "quick_view": "Schnellansicht",
+      "quick_shop": "Kaufe jetzt",
+      "quick_shop_text": {
+        "replace_item_atc": "Artikel ersetzen",
+        "replace_item_pre": "Artikel ersetzen"
+      },
+      "select_option": "Optionen wählen",
+      "swatch_limit": "Mehr Farben anzeigen",
+      "swatch_limit_less": "Weniger Farben anzeigen",
+      "offer_end_in": "Angebot endet in:",
+      "countdown_text": {
+        "day": "Tag",
+        "day_plural": "Tage",
+        "hr": "Stunde",
+        "hr_plural": "Std.",
+        "min": "Mindest",
+        "min_plural": "Min",
+        "sec": "Sek",
+        "sec_plural": "Sek"
+      }
     }
   },
   "search": {
@@ -532,6 +647,26 @@
       "login_form_submit": "Eingeben",
       "signup_form_success": "Wir senden Ihnen kurz vor der Eröffnung eine E-Mail!",
       "password_link": "Mit Passwort eingeben"
+    }
+  },
+  "list_collections": {
+    "pagination": {
+      "load_more": "Mehr laden",
+      "load_prev": "Vorherige laden",
+      "bar_with_count_html": "Sie haben <span data-current-bar>{{current_count}}<\/span> von {{total_count}} Sammlungen angesehen"
+    }
+  },
+  "collections": {
+    "general": {
+      "no_matches": "Es wurden keine Produkte gefunden, die Ihrer Auswahl entsprechen.",
+      "sort_by_label": "Sortiere nach:",
+      "sort_button": "Sortieren"
+    },
+    "pagination": {
+      "view_all": "Alle ansehen",
+      "load_more": "Mehr laden",
+      "load_prev": "Vorherige laden",
+      "bar_with_count_html": "Sie haben <span data-current-bar>{{current_count}}<\/span> von {{total_count}} Produkten angesehen"
     }
   }
 }
