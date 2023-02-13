@@ -273,6 +273,12 @@ window._usfGlobalSettings = {
 		.usf-skeleton-container .usf-c-select:before{
 		  margin: 30px;
 		}
+		
+		.usf-skeleton-container .usf-sr-container{
+		  width: 100%;
+		  padding: 0;
+		  float: none;
+		}
 	  }
 	  
 	  .usf-skeleton-container .usf-filters:before,
@@ -425,6 +431,10 @@ window._usfGlobalSettings = {
 <!-- END USF -->
 
 {% comment %}USF
+
+
+
+
 <!-- sections/main-search.liquid -->
 {{ 'section.css' | asset_url | stylesheet_tag }}
 {{ 'collection-pages.css' | asset_url | stylesheet_tag }}
@@ -798,6 +808,8 @@ window._usfGlobalSettings = {
 {%- endif -%}
   
 {%- endpaginate -%}
+
+
 
 USF{% endcomment %}
 {%- schema -%}
