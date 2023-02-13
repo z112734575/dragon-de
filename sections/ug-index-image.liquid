@@ -102,29 +102,11 @@
     /*topImage*/
 </style>
 <script src="//at.alicdn.com/t/c/font_3793264_oiw59ftw93s.js"></script>
+{% assign settings = block.settings %}
 <div>
     <a href="{{settings.link}}">
         <div class="topImage">
             <div class="mainBanner">
-                {% comment %} <picture>
-                    <source
-                        srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/mobile_top_img_750x.jpg?v=1673442886"
-                        media="(max-width: 375px)">
-                    <source
-                        srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/mobile_top_img_1536x.jpg?v=1673442886"
-                        media="(max-width: 768px)">
-                    <source
-                        srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/top_img_1920x.jpg?v=1673442886"
-                        media="(max-width: 1080px)">
-                    <source
-                        srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/top_img_2560x.jpg?v=1673442886"
-                        media="(max-width: 1200px)">
-                    <source
-                        srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/top_img_3840x.jpg?v=1673442886"
-                        media="(max-width: 1920px)">
-                    <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/top_img_3840x.jpg?v=1673442886"
-                        alt="image">
-                </picture> {% endcomment %}
                 {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url:
                 settings.mobile_image_url, alt: settings.title %}
             </div>
