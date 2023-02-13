@@ -1,2 +1,280 @@
 {
+  "sections": {
+    "announcement": {
+      "label": "Bekanntmachung",
+      "close": "schließen"
+    },
+    "lookbook": {
+      "title": {
+        "product": "Produkt"
+      }
+    },
+    "countdown_text": {
+      "day": "Tag",
+      "day_plural": "Tage",
+      "hr": "Stunde",
+      "hr_plural": "Std.",
+      "min": "Mindest",
+      "min_plural": "Min",
+      "sec": "Sek",
+      "sec_plural": "Sek"
+    },
+    "newsletter_form": {
+      "submit": "Abonnieren",
+      "subscribing": "Abonnieren...",
+      "confirmation": "Danke fürs Abonnieren",
+      "error_exist": "E-Mail bereits für ein anderes Konto verwendet"
+    },
+    "agree_mail": {
+      "conditions": "Sie müssen den Bedingungen zustimmen, um sich anzumelden.",
+      "link_conditions_html": "Ich stimme den <a href=\"&lt;span%20class='notranslate'&gt;%7B%7Blink%7D%7D&lt;\/span&gt;\" class=\"t4s-text__link\">AGB<\/a> zu.",
+      "link_conditions_emty": "Ich stimme den Nutzungsbedingungen zu."
+    }
+  },
+  "general": {
+    "meta": {
+      "tags": "Getaggt \" {{ tags }} \"",
+      "page": "Seite {{ page }}"
+    },
+    "aria": {
+      "close": "Schließen",
+      "back_to_top": "Zurück an die Spitze"
+    },
+    "popup": {
+      "close": "Schließen",
+      "close_esc": "Schließen (Esc)",
+      "loading": "Wird geladen...",
+      "pswp_share": "Aktie",
+      "pswp_fs": "Vollbild umschalten",
+      "pswp_zoom": "Rein \/ rauszoomen",
+      "pswp_facebook": "Auf Facebook teilen",
+      "pswp_twitter": "Twittern",
+      "pswp_pinterest": "Pin es",
+      "pswp_prev": "Zurück (Pfeil links)",
+      "pswp_next": "Weiter (Pfeil rechts)"
+    },
+    "newsletter_popup": {
+      "email_placeholder": "Ihre E-Mail-Adresse",
+      "submit": "Abonnieren",
+      "subscribing": "Abonnieren...",
+      "confirmation": "Danke fürs Abonnieren"
+    },
+    "pagination": {
+      "label": "Seitennummerierung",
+      "page": "Seite {{ number }}",
+      "next": "Nächste",
+      "previous": "Vorher"
+    },
+    "breadcrumb": {
+      "home": "Heim"
+    },
+    "mobile_menu": {
+      "menu": "Speisekarte",
+      "close": "Menü schließen, Kategorien",
+      "categories": "Kategorien",
+      "wishlist": "Wunschzettel",
+      "compare": "vergleichen",
+      "search": "Suchen",
+      "login_register": "Anmeldung Registrieren",
+      "my_account": "Mein Konto"
+    },
+    "sidebar": {
+      "open": "Seitenleiste öffnen",
+      "close": "Seitenleiste schließen",
+      "title": "Seitenleiste"
+    }
+  },
+  "socials": {
+    "share_fb": "Auf Facebook teilen",
+    "share_tw": "Auf Twitter teilen",
+    "share_em": "Per E-Mail teilen",
+    "share_pr": "Auf Pinterest teilen",
+    "share_tu": "Auf Tumblr teilen",
+    "share_tl": "Auf Telegramm teilen",
+    "share_wa": "Auf WhatsApp teilen",
+    "follow_fb": "Folgen Sie auf Facebook",
+    "follow_tw": "Auf Twitter folgen",
+    "follow_it": "Folgen Sie auf Instagram",
+    "follow_dr": "Folgen Sie Dribbble",
+    "follow_ld": "Folgen Sie Linkedin",
+    "follow_pr": "Folgen Sie auf Pinterest",
+    "follow_tu": "Auf Tumblr folgen",
+    "follow_yt": "Folgen Sie auf YouTube",
+    "follow_vm": "Folgen Sie auf Vimeo",
+    "follow_bh": "Folgen Sie Behance",
+    "follow_sc": "Folgen Sie auf Soundcloud",
+    "follow_tt": "Folgen Sie Tiktok",
+    "follow_sp": "Folgen Sie Snapchat"
+  },
+  "accessibility": {
+    "skip_to_text": "Zum Inhalt springen",
+    "skip_to_product_info": "Zu den Produktinformationen springen",
+    "close": "Schließen",
+    "unit_price_separator": "pro",
+    "error": "Fehler",
+    "refresh_page": "Die Auswahl einer Auswahl führt zu einer vollständigen Seitenaktualisierung.",
+    "link_messages": {
+      "new_window": "Öffnet in einem neuen Fenster.",
+      "external": "Öffnet externe Website."
+    },
+    "of": "von",
+    "next_slide": "Nach rechts schieben",
+    "previous_slide": "Nach links schieben",
+    "loading": "Wird geladen...",
+    "total_reviews": "Gesamtbewertungen",
+    "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen"
+  },
+  "blogs": {
+    "filter_all": "Alle",
+    "pagination": {
+      "view_all": "Alle ansehen",
+      "load_more": "Mehr Beiträge laden",
+      "load_prev": "Vorherige laden",
+      "bar_with_count_html": "Sie haben <span data-current-bar>{{current_count}}<\/span> von {{total_count}} Beiträgen angesehen"
+    },
+    "article": {
+      "by": "Von",
+      "on": "An",
+      "read_more": "Weiterlesen",
+      "back_to": "Zurück zu {{title}}",
+      "view_all": "Mehr sehen"
+    }
+  },
+  "products": {
+    "product_single": {
+      "order_monthNames": "Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember",
+      "view_in_space": "Sehen Sie sich in Ihrem Raum an",
+      "view_in_space_label": "Ansicht in Ihrem Bereich, lädt Artikel in Augmented-Reality-Fenster",
+      "view_360": "360-Grad-Produktansicht",
+      "click_zoom": "klicken um zu vergrößern",
+      "will_not_ship_until_html": "Wird erst am <span data-incoming-date>{{date}}<\/span> versendet",
+      "will_be_in_stock_after_html": "Wird nach dem <span data-incoming-date>{{date}}<\/span> auf Lager sein"
+    },
+    "fbt": {
+      "title": "Wird oft zusammen gekauft",
+      "tt_price": "Gesamtpreis:",
+      "add_tc": "Ausgewählte in den Warenkorb legen",
+      "this_item": "Dieser Gegenstand:"
+    },
+    "notify_stock": {
+      "trigger": "Benachrichtige mich, wenn es verfügbar ist",
+      "title": "Registrieren Sie sich, um eine Benachrichtigung zu erhalten, wenn dieser Artikel wieder auf Lager ist.",
+      "email": "E-Mail-Addresse",
+      "please": "Bitte benachrichtigen Sie mich, wenn dieses Produkt verfügbar ist",
+      "success": "Danke! Wir benachrichtigen Sie, sobald dieses Produkt verfügbar ist!",
+      "button": "Senden Sie mir eine E-Mail, wenn verfügbar"
+    },
+    "facets": {
+      "apply": "Anwenden",
+      "clear": "Klar",
+      "clear_all": "Alles löschen",
+      "from": "Aus",
+      "filter_and_sort": "Filtern und sortieren",
+      "title_price": "Preis",
+      "results_with_count_html": {
+        "zero": "<span class=\"cp\">0<\/span> Produkt gefunden",
+        "one": "<span class=\"cp\">1<\/span> Produkt gefunden",
+        "other": "<span class=\"cp\">{{count}}<\/span> Produkte gefunden"
+      },
+      "clear_filter": "Filter löschen"
+    }
+  },
+  "search": {
+    "general": {
+      "title": "Unsere Website durchsuchen",
+      "heading": {
+        "one": "Suchergebnis",
+        "other": "Suchergebnisse"
+      },
+      "results_others": "Ergebnisse aus Artikel, Seite",
+      "quick_search": "Schnelle Suche:",
+      "close_search": "Suche schließen",
+      "suggest": "Brauchen Sie Inspiration?",
+      "placeholder": "Suchen",
+      "placeholder_products": "Suche nach Produkten",
+      "submit": "suchen",
+      "all_categories": "Alle Kategorien",
+      "no_results": "Keine übereinstimmenden Ergebnisse",
+      "no_product_results": "Es wurden keine Produkte gefunden, die Ihrer Auswahl entsprechen.",
+      "sort_by_label": "Sortiere nach:",
+      "sort_button": "Sortieren"
+    },
+    "search_for": "Suchen Sie nach \" {{ terms }} \"",
+    "pagination": {
+      "view_all": "Alle ansehen",
+      "load_more": "Mehr laden",
+      "load_prev": "Vorherige laden",
+      "bar_with_count_html": "Sie haben <span data-current-bar>{{current_count}}<\/span> von {{total_count}} Produkten angesehen"
+    },
+    "results_with_term": {
+      "zero": "Suchergebnis für: „ {{ terms }} “",
+      "one": "Suchergebnis für: „ {{ terms }} “",
+      "other": "Suchergebnisse für: „ {{ terms }} “"
+    },
+    "results_with_count_and_term": {
+      "zero": "Suchergebnis für: „ {{ terms }} “",
+      "one": "{{ count }} Suchergebnis für: “ {{ terms }} ”",
+      "other": "{{ count }} Suchergebnisse für: “ {{ terms }} ”"
+    }
+  },
+  "cart": {
+    "general": {
+      "cookies_required": "Aktivieren Sie Cookies, um den Warenkorb zu verwenden",
+      "taxes_and_shipping_at_checkout": "Steuern und Versandkosten werden an der Kasse berechnet",
+      "taxes_and_shipping_policy_at_checkout_html": "Steuern und <a href=\"&lt;span%20class='notranslate'&gt;%7B%7B%20link%20%7D%7D&lt;\/span&gt;\" target=\"_blank\">Versandkosten<\/a> werden an der Kasse berechnet",
+      "taxes_included_but_shipping_at_checkout": "Inklusive MwSt. und Versandkosten werden an der Kasse berechnet",
+      "taxes_included_and_shipping_policy_html": "Steuern inklusive. <a href=\"&lt;span%20class='notranslate'&gt;%7B%7B%20link%20%7D%7D&lt;\/span&gt;\" target=\"_blank\">Versand<\/a> wird an der Kasse berechnet.",
+      "taxes_discounts_and_shipping_at_checkout": "Steuern, Versand und Rabattcodes werden an der Kasse berechnet",
+      "taxes_discounts_and_shipping_policy_at_checkout_html": "Steuern, <a href=\"&lt;span%20class='notranslate'&gt;%7B%7B%20link%20%7D%7D&lt;\/span&gt;\" target=\"_blank\">Versand<\/a> und Rabattcodes werden an der Kasse berechnet",
+      "taxes_included_discounts_but_shipping_at_checkout": "Steuern inklusive. Versand- und Rabattcodes werden an der Kasse berechnet",
+      "taxes_included_discounts_and_shipping_policy_html": "Steuern inklusive. <a href=\"&lt;span%20class='notranslate'&gt;%7B%7B%20link%20%7D%7D&lt;\/span&gt;\" target=\"_blank\">Versand-<\/a> und Rabattcodes werden an der Kasse berechnet.",
+      "terms_and_conditions_html": "Ich stimme den <a href=\"&lt;span%20class='notranslate'&gt;%7B%7Blink%7D%7D&lt;\/span&gt;\" target=\"_blank\">AGB<\/a> zu.",
+      "terms_and_conditions": "Ich stimme den Nutzungsbedingungen zu.",
+      "edit_item": "Bearbeiten Sie dieses Element",
+      "remove_item": "entferne diesen Gegenstand",
+      "recurring_mess": "Wiederkehrende Lieferung alle {{frequency}} {{frequency_unit}} . Jederzeit ändern oder kündigen",
+      "agree_checkout": "Sie müssen den Verkaufsbedingungen zustimmen, um zur Kasse zu gehen."
+    },
+    "tool": {
+      "save": "Speichern",
+      "cancel": "Stornieren",
+      "note": "Bestellhinweis hinzufügen",
+      "edit_note": "Bestellnotiz bearbeiten",
+      "placeholder_note": "Wie können wir Ihnen helfen?",
+      "gift_wrap_html": "<span class=\"cd\">Möchten Sie eine Geschenkverpackung?<\/span> Nur {{ money }}",
+      "add_gift_wrap": "Fügen Sie eine Geschenkverpackung hinzu",
+      "add_coupon": "Fügen Sie einen Gutschein hinzu",
+      "info_coupon": "Der Gutscheincode funktioniert auf der Checkout-Seite",
+      "placeholder_coupon": "Gutscheincode"
+    },
+    "shipping_estimator": {
+      "title": "Versand schätzen",
+      "country": "Land",
+      "province": "Provinz",
+      "zip_code": "PLZ",
+      "estimate": "Schätzen",
+      "multiple_rates": "Wir haben [number_of_rates] verfügbare Versandkosten für [Adresse] gefunden, beginnend bei [Preis].",
+      "one_rate": "Wir haben einen verfügbaren Versandtarif für [Adresse] gefunden.",
+      "no_rates": "Entschuldigung, wir versenden nicht an dieses Ziel.",
+      "errors": "Es gibt einige Fehler:"
+    },
+    "shipping_threshold": {
+      "text_1_html": "Kostenloser Versand für alle Bestellungen über <span class=\"t4s-cr\">{{ money }}<\/span>",
+      "text_2_html": "Fast geschafft, fügen Sie <span class=\"t4s-cr\">{{ money }}<\/span> mehr hinzu, um <span class=\"t4s-ch\">KOSTENLOSEN VERSAND zu erhalten!<\/span>",
+      "text_3": "[Herzlichen Glückwunsch!] Sie erhalten kostenlosen Versand!"
+    },
+    "mini_cart": {
+      "title": "Einkaufswagen",
+      "close_cart": "Warenkorb schließen",
+      "empty": "Ihr Warenkorb ist leer.",
+      "checkout": "Kasse",
+      "view": "Warenkorb ansehen"
+    },
+    "cart_page": {
+      "title": "Einkaufswagen",
+      "label": {
+        "product": "Produkt"
+      }
+    }
+  }
 }
