@@ -137,14 +137,14 @@
                         <div class="sub">{{ settings.subtitle }}</div>
                     {% endif %}
 
-                    {% if settings.button_text %}
+                    {% unless settings.button_text == '' %}
                         <div class="btn">
                             <span>{{ settings.button_text }}</span>
                             <svg class="icon" aria-hidden="true">
                                 <use xlink:href="#icon-xiayiye"></use>
                             </svg>
                         </div>
-                    {% endif %}
+                    {% endunless %}
                 </div>
                 {% render "ug-picture", pc_image_url:  settings.pc_image_url, mobile_image_url: settings.mobile_image_url, alt: settings.title %}
             </a>
@@ -194,8 +194,8 @@
         const logo = $('.header__normal-logo')
         const mobileLogo = $('.header__mobile-logo')
 
-        green615swiper.on('slideChange', function (event) {
-            if (CHANGE_COLOR_INDEX.indexOf(String(event.activeIndex)) >= 0) {
+        function changeHeaderColor(index) {
+            if (CHANGE_COLOR_INDEX.indexOf(String(index)) >= 0) {
                 header.addClass('header-thirdly-type')
                 if (header.hasClass('header-second-type') || header.hasClass('header-hover')) return;
                 mobileLogo.attr('src', blackLogo)
@@ -206,6 +206,13 @@
                 mobileLogo.attr('src', normalLogo)
                 logo.attr('src', normalLogo)
             }
+        }
+        if(CHANGE_COLOR_INDEX.indexOf('0') >= 0) {
+            // 如果第一张需要改变颜色，需要初始化
+            changeHeaderColor(0)
+        }
+        green615swiper.on('slideChange', function (event) {
+            changeHeaderColor(event.realIndex)
         });
     })
 
@@ -268,6 +275,12 @@
           "id": "link",
           "label": "Link",
           "info": "跳转链接"
+        },
+        {
+          "type": "text",
+          "id": "className",
+          "label": "class name",
+          "info": "自定义你轮播类名"
         }
       ]
     }
