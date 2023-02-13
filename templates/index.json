@@ -61,11 +61,12 @@
       "settings": {
         "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/top_img.jpg?v=1673442886",
         "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/mobile_top_img.jpg?v=1673442886",
-        "title": "Nexode 100W Ladegerät",
+        "title": "Überlegene GaN-Technologie ermöglicht <br> stärkere und schnellere Ladegeräte",
         "subtitle": "4-in-1 Multiport-Ladegerät",
         "button_text": "Jetzt kaufen",
         "link": "\/pages\/new-year",
-        "className": ""
+        "className": "",
+        "custom_style": ""
       }
     },
     "ug-index-whybuy": {
