@@ -68,6 +68,14 @@
         "className": ""
       }
     },
+    "ug-index-whybuy": {
+      "type": "ug-index-whybuy",
+      "settings": {
+        "reason1": "Schnelle, kostenlose Lieferung",
+        "reason2": "30-tägige risikofreie Probe",
+        "reason3": "2-jährige Produktgarantie"
+      }
+    },
     "ug-index-fit-life": {
       "type": "ug-index-fit-life",
       "settings": {
@@ -93,6 +101,7 @@
     "ug-index-header",
     "ug-index-carousel",
     "ug-index-image",
+    "ug-index-whybuy",
     "ug-index-fit-life",
     "ug-index-benefit",
     "ug-index-featured",
