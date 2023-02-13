@@ -749,7 +749,7 @@
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2": {
             "type": "mega",
             "settings": {
-              "title": "Products",
+              "title": "Produkte",
               "url": "#",
               "open_link": "_self",
               "icon": "",
@@ -828,7 +828,7 @@
           "16e2ef48-b04b-46f0-bf5f-d12823645624": {
             "type": "drop",
             "settings": {
-              "title": "Chargers",
+              "title": "Ladegeräte",
               "url": "#",
               "open_link": "_self",
               "menu": "",
@@ -845,7 +845,7 @@
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
             "settings": {
-              "title": "Hub & Adapter",
+              "title": "Hubs \/ Adapters",
               "url": "#",
               "open_link": "_self",
               "menu": "",
