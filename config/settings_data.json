@@ -1178,19 +1178,19 @@
           "btn_config-0": {
             "type": "custom1",
             "settings": {
-              "color_primary": "#131414",
-              "color_second": "#ffffff",
-              "color_primary_hover": "#131414",
-              "color_second_hover": "#ffffff"
+              "color_primary": "#ffb100",
+              "color_second": "#fff",
+              "color_primary_hover": "#ff4e00",
+              "color_second_hover": "#fff"
             }
           },
           "btn_config-1": {
             "type": "custom2",
             "settings": {
-              "color_primary": "#f7f7f7",
-              "color_second": "#222222",
-              "color_primary_hover": "#ffffff",
-              "color_second_hover": "#222222"
+              "color_primary": "#27ae60",
+              "color_second": "#fff",
+              "color_primary_hover": "#0048ff",
+              "color_second_hover": "#fff"
             }
           }
         },
@@ -1604,7 +1604,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
             "settings": {
-              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/index-189a2d6f.js?v=1674984154\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/index-f10acf31.css?v=1674984154\">\n<div id=\"ug-mega-menu-app\"><\/div>",
+              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-bd287ce1.js?v=1676382249\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-854df2a3.css?v=1676382248\">\n<div id=\"ug-mega-menu-app\"><\/div>",
               "page": "",
               "col": "12"
             }
@@ -2249,10 +2249,10 @@
           "ef55a72d-2a3a-4be2-b303-7904b5feef29": {
             "type": "custom1",
             "settings": {
-              "btn_color_primary": "#abb1b4",
-              "btn_color_second": "#ffffff",
-              "btn_color_primary_hover": "#56cfe1",
-              "btn_color_second_hover": "#ffffff"
+              "btn_color_primary": "#ffb100",
+              "btn_color_second": "#fff",
+              "btn_color_primary_hover": "#ff4e00",
+              "btn_color_second_hover": "#fff"
             }
           }
         },
