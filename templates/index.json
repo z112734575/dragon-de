@@ -16,7 +16,7 @@
             "title": "Nexode 100W Ladegerät",
             "subtitle": "4-in-1 Multiport-Ladegerät",
             "button_text": "Jetzt kaufen",
-            "link": "\/pages\/new-year",
+            "link": "\/collections\/gan-ladegerat",
             "className": "nexode-100w"
           }
         },
@@ -41,7 +41,7 @@
             "title": "Überlegene GaN-Technologie ermöglicht <br> stärkere und schnellere Ladegeräte",
             "subtitle": "",
             "button_text": "Mehr erfahren",
-            "link": "\/products\/ugreen-nexode-200w-usb-c-desktop-charger",
+            "link": "\/products\/ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
             "className": ""
           }
         }
@@ -64,7 +64,7 @@
         "title": "Nexode 200W Desktop-Ladegerät",
         "subtitle": "6 Ports unterstützen Teamarbeit",
         "button_text": "Jetzt kaufen",
-        "link": "\/pages\/new-year",
+        "link": "\/products\/ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
         "className": "",
         "custom_style": ""
       }
@@ -84,6 +84,7 @@
     },
     "ug-index-benefit": {
       "type": "ug-index-benefit",
+      "disabled": true,
       "settings": {
       }
     },
