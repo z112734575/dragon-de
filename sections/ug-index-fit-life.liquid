@@ -1,215 +1,218 @@
 <style>
-    /**    fit life*!*/
-    .ug-fit-life-section {
-        width: 100%;
-        padding-top: 100px;
-        padding-bottom: 100px;
-        background: #F0F0F2;
-    }
-    .ug-fit-life-section .title {
-        font-weight: bold;
-        color: black;
-        line-height: 60px;
-        font-size: 36px;
-        text-align: center;
-        margin-bottom: 36px;
-    }
-    .fit-life-box {
-        background: #fff;
-        opacity: .5;
-    }
-    .fit-life-box.swiper-slide {
-        width: 49.74vw;
-    }
-    .fit-life-box .top-image {
-        width: 100%;
-        padding-bottom: 50%;
-        overflow: hidden;
-        position: relative;
-    }
-    .fit-life-box .top-image img {
-        height: 100%;
-        width: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        object-fit: cover;
-    }
-    .fit-life-box.swiper-slide-active {
-        opacity: 1;
-    }
-    .fit-life-box .title {
-        font-size: 24px;
-        font-weight: bold;
-        color: #000000;
-        line-height: 1.2;
-        margin-bottom: 20px;
-    }
-    .fit-life-box .bottom {
-        text-align: left;
-        padding: 1.46vw 1.46vw 2.7vw;
-    }
-    .fit-life-box .bottom .title {
-        font-size: 1.25vw;
-        font-weight: bold;
-        color: #000000;
-        line-height: 1.2;
-        text-align: left;
-        margin-bottom: 1.04vw;
-    }
-    .fit-life-box .bottom .content {
-        font-size: 1.04vw;
-        color: #727273;
-        line-height: 1.2;
-        margin-bottom: 1.46vw;
-    }
-    .fit-life-box .bottom .learn-more {
-        font-size: 1.04vw;
-        color: #00CC88;
-        line-height: 1.2;
-        text-decoration: underline;
-        font-weight: 600;
-    }
-    .fit-life-box .icon {
-        width: 0.8em;
-        height: 0.8em;
-    }
-    .ug-fit-life .swiper-button-next, .ug-fit-life .swiper-button-prev {
-        background: none;
-        color: #fff;
-        top: 35%;
-    }
-    .ug-fit-life .swiper-button-next:after, .ug-fit-life .swiper-button-prev:after {
-        font-size: 1vw;
-    }
-    .ug-fit-life .swiper-button-prev {
-        left: 25vw;
-    }
-    .ug-fit-life .swiper-button-next {
-        right: 25vw;
-    }
-    .ug-fit-life .swiper-pagination {
-        bottom: 35% !important;
-    }
-    .ug-fit-life .swiper-pagination .swiper-pagination-bullet {
-        background: rgba(255, 255, 255, 0.5);
-    }
-    .ug-fit-life .swiper-pagination .swiper-pagination-bullet-active {
-        background: rgba(255, 255, 255, 1);
-    }
-    .ug-featured-swiper {
-        width: 1200px;
-    }
-    @media (max-width: 767px) {
-        .ug-featured-swiper {
-            width: 100%;
-        }
-        .ug-fit-life-section {
-            padding-top: 50px;
-            padding-bottom: 50px;
-        }
-        .ug-fit-life-section .title {
-            font-size: 24px;
-            line-height: 1.2;
-            margin-bottom: 20px;
-        }
-        .fit-life-box {
-            width: 76.53vw;
-        }
-        .ug-fit-life {
-            margin-left: 20px;
-            flex-shrink: 0;
-        }
-        .fit-life-box .bottom {
-            padding: 18px 12px;
-        }
-        .ug-fit-life .bottom .title {
-            font-size: 20px;
-            margin-bottom: 8px;
-        }
-        .fit-life-box .bottom .content {
-            font-size: 14px;
-            line-height: 1.2;
-            margin-bottom: 16px;
-        }
-        .fit-life-box .bottom .learn-more {
-            font-size: 14px;
-        }
-    }
-    {{section.settings.custom_style}}
-    /*    fit life*/
+  /**    fit life*!*/
+  .ug-fit-life-section {
+      width: 100%;
+      padding-top: 100px;
+      padding-bottom: 100px;
+      background: #F0F0F2;
+  }
+  .ug-fit-life-section .title {
+      font-weight: bold;
+      color: black;
+      line-height: 60px;
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 36px;
+  }
+  .fit-life-box {
+      background: #fff;
+      opacity: .5;
+  }
+  .fit-life-box.swiper-slide {
+      width: 49.74vw;
+  }
+  .fit-life-box .top-image {
+      width: 100%;
+      padding-bottom: 50%;
+      overflow: hidden;
+      position: relative;
+  }
+  .fit-life-box .top-image img {
+      height: 100%;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      object-fit: cover;
+  }
+  .fit-life-box.swiper-slide-active {
+      opacity: 1;
+  }
+  .fit-life-box .title {
+      font-size: 24px;
+      font-weight: bold;
+      color: #000000;
+      line-height: 1.2;
+      margin-bottom: 20px;
+  }
+  .fit-life-box .bottom {
+      text-align: left;
+      padding: 1.46vw 1.46vw 2.7vw;
+  }
+  .fit-life-box .bottom .title {
+      font-size: 1.25vw;
+      font-weight: bold;
+      color: #000000;
+      line-height: 1.2;
+      text-align: left;
+      margin-bottom: 1.04vw;
+  }
+  .fit-life-box .bottom .content {
+      font-size: 1.04vw;
+      color: #727273;
+      line-height: 1.2;
+      margin-bottom: 1.46vw;
+  }
+  .fit-life-box .bottom .learn-more {
+      font-size: 1.04vw;
+      color: #00CC88;
+      line-height: 1.2;
+      text-decoration: underline;
+      font-weight: 600;
+  }
+  .fit-life-box .icon {
+      width: 0.8em;
+      height: 0.8em;
+  }
+  .ug-fit-life .swiper-button-next, .ug-fit-life .swiper-button-prev {
+      background: none;
+      color: #fff;
+      top: 35%;
+  }
+  .ug-fit-life .swiper-button-next:after, .ug-fit-life .swiper-button-prev:after {
+      font-size: 1vw;
+  }
+  .ug-fit-life .swiper-button-prev {
+      left: 25vw;
+  }
+  .ug-fit-life .swiper-button-next {
+      right: 25vw;
+  }
+  .ug-fit-life .swiper-pagination {
+      bottom: 35% !important;
+  }
+  .ug-fit-life .swiper-pagination .swiper-pagination-bullet {
+      background: rgba(255, 255, 255, 0.5);
+  }
+  .ug-fit-life .swiper-pagination .swiper-pagination-bullet-active {
+      background: rgba(255, 255, 255, 1);
+  }
+  .ug-featured-swiper {
+      width: 1200px;
+  }
+  @media (max-width: 767px) {
+      .ug-featured-swiper {
+          width: 100%;
+      }
+      .ug-fit-life-section {
+          padding-top: 50px;
+          padding-bottom: 50px;
+      }
+      .ug-fit-life-section .title {
+          font-size: 24px;
+          line-height: 1.2;
+          margin-bottom: 20px;
+      }
+      .fit-life-box {
+          width: 76.53vw;
+      }
+      .ug-fit-life {
+          margin-left: 20px;
+          flex-shrink: 0;
+      }
+      .fit-life-box .bottom {
+          padding: 18px 12px;
+      }
+      .ug-fit-life .bottom .title {
+          font-size: 20px;
+          margin-bottom: 8px;
+      }
+      .fit-life-box .bottom .content {
+          font-size: 14px;
+          line-height: 1.2;
+          margin-bottom: 16px;
+      }
+      .fit-life-box .bottom .learn-more {
+          font-size: 14px;
+      }
+  }
+  {{section.settings.custom_style}}
+  /*    fit life*/
 </style>
 
 <section class="ug-fit-life-section">
-    <div class="title">Umfassende Lösungen, Ihr bester Freund</div>
-    <div class="ug-fit-life swiper">
-        <div class="fit-life-main swiper-wrapper">
-            {% for block in section.blocks %}
-                {% assign settings = block.settings %}
-                <div class="fit-life-box swiper-slide">
-                    <a href="{{ setting.link }}">
-                        <div class="top-image">
-                            {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url: settings.mobile_image_url,
-                                    alt: settings.title %}
-                        </div>
-                        <div class="bottom">
-                            <div class="title">{{ settings.title }}</div>
-                            <div class="content">{{ setting.content }}</div>
-                            <p class="learn-more">
-                                <span>{{ setting.button_text }}</span>
-                                <svg class="icon" aria-hidden="true">
-                                    <use xlink:href="#icon-xiayiye"></use>
-                                </svg>
-                            </p>
-                        </div>
-                    </a>
-                </div>
-            {% endfor %}
+  <div class="title">{{ section.settings.section_title }}</div>
+  <div class="ug-fit-life swiper">
+    <div class="fit-life-main swiper-wrapper">
+      {% for block in section.blocks %}
+        {% assign settings = block.settings %}
+        <div class="fit-life-box swiper-slide">
+          <a href="{{ setting.link }}">
+            <div class="top-image">
+              {% render 'ug-picture',
+                pc_image_url: settings.pc_image_url,
+                mobile_image_url: settings.mobile_image_url,
+                alt: settings.title
+              %}
+            </div>
+            <div class="bottom">
+              <div class="title">{{ settings.title }}</div>
+              <div class="content">{{ setting.content }}</div>
+              <p class="learn-more">
+                <span>{{ setting.button_text }}</span>
+                <svg class="icon" aria-hidden="true">
+                  <use xlink:href="#icon-xiayiye"></use>
+                </svg>
+              </p>
+            </div>
+          </a>
         </div>
-        <div class="swiper-pagination"></div>
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
+      {% endfor %}
     </div>
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
 </section>
 
 <script>
-    if (isMobile()) {
-        $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev, .ug-fit-life-section .swiper-pagination').hide();
-        const fitSwiper = new Swiper('.ug-fit-life', {
-            slidesPerView: 1.2,
-            spaceBetween: 20,
-            loop: true,
-            autoplay: {
-                delay: 5000,
-            },
-        })
-    } else {
-        $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').hide();
-        $('.ug-fit-life-section').mouseover(function () {
-            $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').show();
-        });
+  if (isMobile()) {
+      $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev, .ug-fit-life-section .swiper-pagination').hide();
+      const fitSwiper = new Swiper('.ug-fit-life', {
+          slidesPerView: 1.2,
+          spaceBetween: 20,
+          loop: true,
+          autoplay: {
+              delay: 5000,
+          },
+      })
+  } else {
+      $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').hide();
+      $('.ug-fit-life-section').mouseover(function () {
+          $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').show();
+      });
 
-        $('.ug-fit-life-section').mouseleave(function () {
-            $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').hide();
-        });
-        const fitSwiper = new Swiper('.ug-fit-life', {
-            slidesPerView: 'auto',
-            spaceBetween: 20,
-            speed: 1000,
-            centeredSlides: true,
-            loop: true,
-            pagination: {
-                el: ".swiper-pagination",
-            },
-            navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            },
-            autoplay: {
-                delay: 5000,
-            },
-        })
-    }
+      $('.ug-fit-life-section').mouseleave(function () {
+          $('.ug-fit-life-section .swiper-button-next,.ug-fit-life-section .swiper-button-prev').hide();
+      });
+      const fitSwiper = new Swiper('.ug-fit-life', {
+          slidesPerView: 'auto',
+          spaceBetween: 20,
+          speed: 1000,
+          centeredSlides: true,
+          loop: true,
+          pagination: {
+              el: ".swiper-pagination",
+          },
+          navigation: {
+              nextEl: ".swiper-button-next",
+              prevEl: ".swiper-button-prev",
+          },
+          autoplay: {
+              delay: 5000,
+          },
+      })
+  }
 </script>
 
 {% schema %}
@@ -219,6 +222,11 @@
     {
       "type": "header",
       "content": "Carousel Item Setting"
+    },
+    {
+      "type": "text",
+      "id": "section_title",
+      "label": "Section Title"
     },
     {
       "type": "textarea",
