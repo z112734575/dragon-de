@@ -231,7 +231,7 @@
             "type": "bl_col",
             "settings": {
               "col_heading": "Produkte",
-              "menu": "",
+              "menu": "footer-products",
               "menu_style": "1",
               "col_dk": "auto",
               "col_tb": "6",
@@ -280,6 +280,7 @@
           },
           "footer-8": {
             "type": "bl_col",
+            "disabled": true,
             "settings": {
               "col_heading": "Für unsere Kunden",
               "menu": "",
