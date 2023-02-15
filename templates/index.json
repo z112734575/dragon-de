@@ -83,36 +83,36 @@
         "ug-index-fit-life-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd.jpg?v=1672920279",
-            "mobile_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd.jpg?v=1672920279",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd.jpg?v=1672920279",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd.jpg?v=1672920279",
             "title": "Lösungen für zu Hause",
             "content": "Ob Sie arbeiten, Videos ansehen oder Kochrezepte nachschlagen - mit Ugreen Produkten bleiben alle Ihre Geräte im Haus vollständig aufgeladen.",
             "button_text": "Heimladegeräte",
-            "link": "/collections/losungen-fur-zu-hause",
+            "link": "\/collections\/losungen-fur-zu-hause",
             "className": ""
           }
         },
         "ug-index-fit-life-carousel-2": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_Travel_2x_f9513e98-64fd-4243-8022-2ac51a18594b.jpg?v=1672920278",
-            "mobile_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_Travel_2x_f9513e98-64fd-4243-8022-2ac51a18594b.jpg?v=1672920278",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_Travel_2x_f9513e98-64fd-4243-8022-2ac51a18594b.jpg?v=1672920278",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_Travel_2x_f9513e98-64fd-4243-8022-2ac51a18594b.jpg?v=1672920278",
             "title": "Lösungen für unterwegs",
             "content": "Halten Sie Ihre Geräte unterwegs verbunden. Zuverlässige und effektive Produkte sind unterwegs unverzichtbar und Ugreen-Produkte sind das perfekte Zubehör für jeden Ausflug.",
             "button_text": "Tragbare Geräte für die Reise",
-            "link": "/collections/losungen-fur-unterwegs",
+            "link": "\/collections\/losungen-fur-unterwegs",
             "className": ""
           }
         },
         "ug-index-fit-life-carousel-3": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3.jpg?v=1672920279",
-            "mobile_image_url": "https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3.jpg?v=1672920279",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3.jpg?v=1672920279",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3.jpg?v=1672920279",
             "title": "Geschäftslösungen",
             "content": "Hubs und Adapter von Ugreen unterstützen Sie und Ihr Team bei der Erhaltung der Produktivität, Förderung der Kreativität und Unterstützung der Zusammenarbeit. Machen Sie im Büro noch mehr, einfacher denn je.",
             "button_text": "Hubs & Adapter für das Geschäft",
-            "link": "/collections/geschaftslosungen",
+            "link": "\/collections\/geschaftslosungen",
             "className": ""
           }
         }
@@ -123,8 +123,7 @@
         "ug-index-fit-life-carousel-3"
       ],
       "settings": {
-        "custom_style": ".nexode-100w .green-home-banner-box {\n   left: 12vw;\n    right: auto;\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n}\n.nexode-100w .green-home-banner-box .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.nexode-100w .green-home-banner-box {\n    text-align: center;\n    top: 15%;\n}\n}",
-        "banner_index": "0"
+        "custom_style": ".nexode-100w .green-home-banner-box {\n   left: 12vw;\n    right: auto;\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n}\n.nexode-100w .green-home-banner-box .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.nexode-100w .green-home-banner-box {\n    text-align: center;\n    top: 15%;\n}\n}"
       }
     },
     "ug-index-benefit": {
