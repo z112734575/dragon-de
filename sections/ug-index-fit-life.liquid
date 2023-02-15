@@ -147,7 +147,7 @@
       {% for block in section.blocks %}
         {% assign settings = block.settings %}
         <div class="fit-life-box swiper-slide">
-          <a href="{{ setting.link }}">
+          <a href="{{ settings.link }}">
             <div class="top-image">
               {% render 'ug-picture',
                 pc_image_url: settings.pc_image_url,
@@ -157,9 +157,9 @@
             </div>
             <div class="bottom">
               <div class="title">{{ settings.title }}</div>
-              <div class="content">{{ setting.content }}</div>
+              <div class="content">{{ settings.content }}</div>
               <p class="learn-more">
-                <span>{{ setting.button_text }}</span>
+                <span>{{ settings.button_text }}</span>
                 <svg class="icon" aria-hidden="true">
                   <use xlink:href="#icon-xiayiye"></use>
                 </svg>
