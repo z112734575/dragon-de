@@ -3,6 +3,7 @@
     .ug-fit-life-section {
         width: 100%;
         padding-top: 100px;
+        padding-bottom: 100px;
         background: #F0F0F2;
     }
     .ug-fit-life-section .title {
@@ -13,7 +14,6 @@
         text-align: center;
         margin-bottom: 36px;
     }
-
     .fit-life-box {
         background: #fff;
         opacity: .5;
@@ -106,6 +106,7 @@
         }
         .ug-fit-life-section {
             padding-top: 50px;
+            padding-bottom: 50px;
         }
         .ug-fit-life-section .title {
             font-size: 24px;
@@ -135,6 +136,7 @@
             font-size: 14px;
         }
     }
+    {{section.settings.custom_style}}
     /*    fit life*/
 </style>
 
@@ -142,36 +144,28 @@
     <div class="title">Umfassende Lösungen, Ihr bester Freund</div>
     <div class="ug-fit-life swiper">
         <div class="fit-life-main swiper-wrapper">
-            <div class="fit-life-box swiper-slide">
-                <a href="/collections/home-solutions">
-                    <div class="top-image">
-                        <picture>
-                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_750x.jpg?v=1672920279"
-                                    media="(max-width: 375px)">
-                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_1536x.jpg?v=1672920279"
-                                    media="(max-width: 768px)">
-                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_2160x.jpg?v=1672920279"
-                                    media="(max-width: 1080px)">
-                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_2400x.jpg?v=1672920279"
-                                    media="(max-width: 1200px)">
-                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_3840x.jpg?v=1672920279"
-                                    media="(max-width: 1920px)">
-                            <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_home_work_2x_dab5f865-36ac-4fa3-9d4d-f1b4bcac4ebd_3840x.jpg?v=1672920279"
-                                 alt="mainBanner">
-                        </picture>
-                    </div>
-                    <div class="bottom">
-                        <div class="title">Lösungen für zu Hause</div>
-                        <div class="content">Ob Sie arbeiten, Videos ansehen oder Kochrezepte nachschlagen - mit Ugreen Produkten bleiben alle Ihre Geräte im Haus vollständig aufgeladen. </div>
-                        <p class="learn-more">
-                            <span>Heimladegeräte</span>
-                            <svg class="icon" aria-hidden="true">
-                                <use xlink:href="#icon-xiayiye"></use>
-                            </svg>
-                        </p>
-                    </div>
-                </a>
-            </div>
+            {% for block in section.blocks %}
+                {% assign settings = block.settings %}
+                <div class="fit-life-box swiper-slide">
+                    <a href="{{ setting.link }}">
+                        <div class="top-image">
+                            {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url: settings.mobile_image_url,
+                                    alt: settings.title %}
+                        </div>
+                        <div class="bottom">
+                            <div class="title">{{ settings.title }}</div>
+                            <div class="content">{{ setting.content }}</div>
+                            <p class="learn-more">
+                                <span>{{ setting.button_text }}</span>
+                                <svg class="icon" aria-hidden="true">
+                                    <use xlink:href="#icon-xiayiye"></use>
+                                </svg>
+                            </p>
+                        </div>
+                    </a>
+                </div>
+            {% endfor %}
+
             <div class="fit-life-box swiper-slide">
                 <a href="/collections/travel-solutions">
                     <div class="top-image">
@@ -192,7 +186,10 @@
                     </div>
                     <div class="bottom">
                         <div class="title">Lösungen für unterwegs</div>
-                        <div class="content">Halten Sie Ihre Geräte unterwegs verbunden. Zuverlässige und effektive Produkte sind unterwegs unverzichtbar und Ugreen-Produkte sind das perfekte Zubehör für jeden Ausflug. </div>
+                        <div class="content">Halten Sie Ihre Geräte unterwegs verbunden. Zuverlässige und effektive
+                            Produkte sind unterwegs unverzichtbar und Ugreen-Produkte sind das perfekte Zubehör für
+                            jeden Ausflug.
+                        </div>
                         <p class="learn-more">
                             <span>Tragbare Geräte für die Reise</span>
                             <svg class="icon" aria-hidden="true">
@@ -204,97 +201,37 @@
             </div>
             <div class="fit-life-box swiper-slide">
                 <a href="/collections/business-solutions">
-                <div class="top-image">
-                    <picture>
-                        <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_750x.jpg?v=1672920279"
-                                media="(max-width: 375px)">
-                        <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_1536x.jpg?v=1672920279"
-                                media="(max-width: 768px)">
-                        <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_2160.jpg?v=1672920279x"
-                                media="(max-width: 1080px)">
-                        <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_2400x.jpg?v=1672920279"
-                                media="(max-width: 1200px)">
-                        <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_3840x.jpg?v=1672920279"
-                                media="(max-width: 1920px)">
-                        <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_3840x.jpg?v=1672920279"
-                             alt="mainBanner">
-                    </picture>
-                </div>
-                <div class="bottom">
-                    <div class="title">Geschäftslösungen</div>
-                    <div class="content">Hubs und Adapter von Ugreen unterstützen Sie und Ihr Team bei der Erhaltung der Produktivität, Förderung der Kreativität und Unterstützung der Zusammenarbeit. Machen Sie im Büro noch mehr, einfacher denn je.</div>
-                    <p class="learn-more">
-                        <span>Hubs & Adapter für das Geschäft</span>
-                        <svg class="icon" aria-hidden="true">
-                            <use xlink:href="#icon-xiayiye"></use>
-                        </svg>
-                    </p>
-                </div>
+                    <div class="top-image">
+                        <picture>
+                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_750x.jpg?v=1672920279"
+                                    media="(max-width: 375px)">
+                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_1536x.jpg?v=1672920279"
+                                    media="(max-width: 768px)">
+                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_2160.jpg?v=1672920279x"
+                                    media="(max-width: 1080px)">
+                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_2400x.jpg?v=1672920279"
+                                    media="(max-width: 1200px)">
+                            <source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_3840x.jpg?v=1672920279"
+                                    media="(max-width: 1920px)">
+                            <img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_team-work_2x_937d26e8-6428-4337-838a-acebd41c42c3_3840x.jpg?v=1672920279"
+                                 alt="mainBanner">
+                        </picture>
+                    </div>
+                    <div class="bottom">
+                        <div class="title">Geschäftslösungen</div>
+                        <div class="content">Hubs und Adapter von Ugreen unterstützen Sie und Ihr Team bei der Erhaltung
+                            der Produktivität, Förderung der Kreativität und Unterstützung der Zusammenarbeit. Machen
+                            Sie im Büro noch mehr, einfacher denn je.
+                        </div>
+                        <p class="learn-more">
+                            <span>Hubs & Adapter für das Geschäft</span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-xiayiye"></use>
+                            </svg>
+                        </p>
+                    </div>
                 </a>
             </div>
-
-            {% comment %}<div class="fit-life-box swiper-slide">{% endcomment %}
-                {% comment %}<div class="top-image">{% endcomment %}
-                    {% comment %}<picture>{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_750x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 375px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_1536x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 768px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_2160x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1080px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_2400x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1200px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_3840x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1920px)">{% endcomment %}
-                        {% comment %}<img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/FOR_YOUR_PHONE_PAD_OR_NOTEBOOK_2x_997e39a4-4ff4-4d3a-9b88-3a443ec8ac4f_3840x.jpg?v=1672920278"{% endcomment %}
-                             {% comment %}alt="mainBanner">{% endcomment %}
-                    {% comment %}</picture>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-                {% comment %}<div class="bottom">{% endcomment %}
-                    {% comment %}<div class="title">BUSINESS SOLUTIONS</div>{% endcomment %}
-                    {% comment %}<div class="content">Help you employees get things done from anywhere, with more security,{% endcomment %}
-                        {% comment %}greater{% endcomment %}
-                        {% comment %}flexibility, and increased comfort.{% endcomment %}
-                    {% comment %}</div>{% endcomment %}
-                    {% comment %}<a href="/" class="learn-more">{% endcomment %}
-                        {% comment %}<span>Learn More Hubs &amp; Adapters</span>{% endcomment %}
-                        {% comment %}<svg class="icon" aria-hidden="true">{% endcomment %}
-                            {% comment %}<use xlink:href="#icon-xiayiye"></use>{% endcomment %}
-                        {% comment %}</svg>{% endcomment %}
-                    {% comment %}</a>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-            {% comment %}</div>{% endcomment %}
-            {% comment %}<div class="fit-life-box swiper-slide">{% endcomment %}
-                {% comment %}<div class="top-image">{% endcomment %}
-                    {% comment %}<picture>{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_750x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 375px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_1536x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 768px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_2160x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1080px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_2400x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1200px)">{% endcomment %}
-                        {% comment %}<source srcset="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_3840x.jpg?v=1672920278"{% endcomment %}
-                                {% comment %}media="(max-width: 1920px)">{% endcomment %}
-                        {% comment %}<img src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/for_music_2x_d9c87723-28df-49d2-8c33-f952d4379a40_3840x.jpg?v=1672920278"{% endcomment %}
-                             {% comment %}alt="mainBanner">{% endcomment %}
-                    {% comment %}</picture>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-                {% comment %}<div class="bottom">{% endcomment %}
-                    {% comment %}<div class="title">BUSINESS SOLUTIONS</div>{% endcomment %}
-                    {% comment %}<div class="content">Help you employees get things done from anywhere, with more security,{% endcomment %}
-                        {% comment %}greater{% endcomment %}
-                        {% comment %}flexibility, and increased comfort.{% endcomment %}
-                    {% comment %}</div>{% endcomment %}
-                    {% comment %}<a href="/" class="learn-more">{% endcomment %}
-                        {% comment %}<span>Learn More Hubs &amp; Adapters</span>{% endcomment %}
-                        {% comment %}<svg class="icon" aria-hidden="true">{% endcomment %}
-                            {% comment %}<use xlink:href="#icon-xiayiye"></use>{% endcomment %}
-                        {% comment %}</svg>{% endcomment %}
-                    {% comment %}</a>{% endcomment %}
-                {% comment %}</div>{% endcomment %}
-            {% comment %}</div>{% endcomment %}
         </div>
         <div class="swiper-pagination"></div>
         <div class="swiper-button-prev"></div>
@@ -341,3 +278,67 @@
         })
     }
 </script>
+
+{% schema %}
+{
+  "name": "UGreen Fit Lite",
+  "settings": [
+    {
+      "type": "header",
+      "content": "Carousel Item Setting"
+    },
+    {
+      "type": "textarea",
+      "id": "custom_style",
+      "label": "Custom style",
+      "info": "添加自定义的样式"
+    }
+  ],
+  "max_blocks": 10,
+  "blocks": [
+    {
+      "name": "Carousel Item",
+      "type": "ug-index-carousel-item",
+      "settings": [
+        {
+          "type": "text",
+          "id": "pc_image_url",
+          "label": "Pc image url"
+        },
+        {
+          "type": "text",
+          "id": "mobile_image_url",
+          "label": "Mobile image url"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        },
+        {
+          "type": "text",
+          "id": "content",
+          "label": "Content"
+        },
+        {
+          "type": "text",
+          "id": "button_text",
+          "label": "Button text"
+        },
+        {
+          "type": "text",
+          "id": "link",
+          "label": "Link",
+          "info": "跳转链接"
+        },
+        {
+          "type": "text",
+          "id": "className",
+          "label": "class name",
+          "info": "自定义你轮播类名"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
