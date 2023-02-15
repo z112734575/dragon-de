@@ -561,7 +561,7 @@
           "top-bar-1": {
             "type": "text",
             "settings": {
-              "text": "<p>JEDE 2 ARTIKEL 5% RABATT<\/p>",
+              "text": "<p>JEDE 2 ARTIKEL 15% RABATT<\/p>",
               "countdown": "2022\/04\/19",
               "txt_day": "days",
               "dayx": 0,
@@ -1179,18 +1179,18 @@
             "type": "custom1",
             "settings": {
               "color_primary": "#ffb100",
-              "color_second": "#fff",
+              "color_second": "#ffffff",
               "color_primary_hover": "#ff4e00",
-              "color_second_hover": "#fff"
+              "color_second_hover": "#ffffff"
             }
           },
           "btn_config-1": {
             "type": "custom2",
             "settings": {
               "color_primary": "#27ae60",
-              "color_second": "#fff",
+              "color_second": "#ffffff",
               "color_primary_hover": "#0048ff",
-              "color_second_hover": "#fff"
+              "color_second_hover": "#ffffff"
             }
           }
         },
@@ -2250,9 +2250,9 @@
             "type": "custom1",
             "settings": {
               "btn_color_primary": "#ffb100",
-              "btn_color_second": "#fff",
+              "btn_color_second": "#ffffff",
               "btn_color_primary_hover": "#ff4e00",
-              "btn_color_second_hover": "#fff"
+              "btn_color_second_hover": "#ffffff"
             }
           }
         },
