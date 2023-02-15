@@ -784,7 +784,7 @@
             "type": "base",
             "settings": {
               "title": "Nexode Series",
-              "url": "shopify:\/\/pages\/nexode-series",
+              "url": "shopify:\/\/collections\/gan-ladegerat",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -829,7 +829,7 @@
             "type": "drop",
             "settings": {
               "title": "Ladegeräte",
-              "url": "#",
+              "url": "shopify:\/\/collections\/ladegerat",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -846,7 +846,7 @@
             "type": "drop",
             "settings": {
               "title": "Hubs \/ Adapters",
-              "url": "#",
+              "url": "shopify:\/\/collections\/hub-adapter",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -861,6 +861,7 @@
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "Supports",
               "url": "#",
