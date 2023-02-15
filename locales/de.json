@@ -311,7 +311,7 @@
       }
     },
     "grouped": {
-      "tt_price": ""
+      "tt_price": "Zwischensumme:"
     }
   },
   "search": {
@@ -382,7 +382,7 @@
       "add_coupon": "Fügen Sie einen Gutschein hinzu",
       "info_coupon": "Der Gutscheincode funktioniert auf der Checkout-Seite",
       "placeholder_coupon": "Gutscheincode",
-      "coupon": ""
+      "coupon": "Coupon:"
     },
     "shipping_estimator": {
       "title": "Versand schätzen",
@@ -394,7 +394,7 @@
       "one_rate": "Wir haben einen verfügbaren Versandtarif für [Adresse] gefunden.",
       "no_rates": "Entschuldigung, wir versenden nicht an dieses Ziel.",
       "errors": "Es gibt einige Fehler:",
-      "rate_value": ""
+      "rate_value": "[rate_title] at [rate]"
     },
     "shipping_threshold": {
       "text_1_html": "Kostenloser Versand für alle Bestellungen über <span class=\"t4s-cr\">{{ money }}<\/span>",
@@ -407,7 +407,7 @@
       "empty": "Ihr Warenkorb ist leer.",
       "checkout": "Kasse",
       "view": "Warenkorb ansehen",
-      "subtotal": ""
+      "subtotal": "Zwischensumme:"
     },
     "cart_page": {
       "title": "Einkaufswagen",
@@ -421,7 +421,7 @@
       "empty_html": "Bevor Sie zur Kasse gehen, müssen Sie einige Produkte in Ihren Warenkorb legen.<br> Auf unserer Seite \"Shop\" finden Sie viele interessante Produkte.",
       "update": "Warenkorb aktualisieren",
       "checkout": "Kasse",
-      "subtotal": ""
+      "subtotal": "Zwischensumme:"
     }
   },
   "templates": {
