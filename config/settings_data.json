@@ -562,7 +562,7 @@
           "top-bar-1": {
             "type": "text",
             "settings": {
-              "text": "<p>JEDE 2 ARTIKEL 15% RABATT<\/p>",
+              "text": "<p>15% Rabatt auf Ihren ersten Einkauf erhalten<\/p>",
               "countdown": "2022\/04\/19",
               "txt_day": "days",
               "dayx": 0,
