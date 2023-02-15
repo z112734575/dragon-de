@@ -1606,7 +1606,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
             "settings": {
-              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-aea90145.js?v=1676446019\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-91673a0b.css?v=1676446019\">\n<div id=\"ug-mega-menu-app\"><\/div>",
+              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0669\/7336\/8632\/files\/index-b2780e85.js?v=1676473590\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopifycdn.net\/s\/files\/1\/0669\/7336\/8632\/files\/index-3ebe166c.css?v=1676473590\">\n<div id=\"ug-mega-menu-app\"><\/div>",
               "page": "",
               "col": "12"
             }
