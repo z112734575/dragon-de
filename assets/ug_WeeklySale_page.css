@@ -177,24 +177,24 @@
   align-items: center;
   justify-content: space-between;
   width: 100%;
+  margin-top: 0.625vw;
 }
-.limited_products .limited_products_list_box .product_buy form {
+.limited_products .limited_products_list_box .product_buy .buy_now {
   width: 49%;
-}
-.limited_products .limited_products_list_box .product_buy input {
-  width: 100%;
   color: #ffffff;
   font-size: 0.833vw;
   font-weight: 600;
   border-radius: 3.125vw;
   padding: 0.46875vw 0;
   line-height: 0.99vw;
+  background: #000;
   transition: all 0.3s;
+  text-align: center;
 }
-.limited_products .limited_products_list_box .product_buy input:hover {
+.limited_products .limited_products_list_box .product_buy .buy_now:hover {
   background: #00cc88;
 }
-.limited_products .limited_products_list_box .product_buy a {
+.limited_products .limited_products_list_box .product_buy .learn_more {
   display: inline-block;
   width: 49%;
   color: #333;
@@ -207,7 +207,7 @@
   line-height: 0.99vw;
   transition: all 0.3s;
 }
-.limited_products .limited_products_list_box .product_buy a:hover {
+.limited_products .limited_products_list_box .product_buy .learn_more:hover {
   border-color: #00cc88;
   color: #00cc88;
 }
@@ -315,7 +315,6 @@
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  margin: 0 0 0.78125vw 0;
 }
 .limited_off .off_list_box .product_code p {
   margin: 0;
@@ -331,11 +330,10 @@
   text-decoration: underline;
   font-size: 0.729vw;
 }
-.limited_off .off_list_box .product_buy form {
-  width: 100%;
-  margin-bottom: 0.625vw;
+.limited_off .off_list_box .product_buy {
+  margin: 0.78125vw 0 0 0;
 }
-.limited_off .off_list_box .product_buy input {
+.limited_off .off_list_box .product_buy .buy_now {
   width: 100%;
   color: #ffffff;
   font-size: 0.833vw;
@@ -344,11 +342,15 @@
   padding: 0.46875vw 0;
   line-height: 0.99vw;
   transition: all 0.3s;
+  margin-bottom: 0.625vw;
+  display: inline-block;
+  background: #000;
+  text-align: center;
 }
-.limited_off .off_list_box .product_buy input:hover {
+.limited_off .off_list_box .product_buy .buy_now:hover {
   background: #00cc88;
 }
-.limited_off .off_list_box .product_buy a {
+.limited_off .off_list_box .product_buy .learn_more {
   display: inline-block;
   width: 100%;
   color: #333;
@@ -361,7 +363,7 @@
   line-height: 0.99vw;
   transition: all 0.3s;
 }
-.limited_off .off_list_box .product_buy a:hover {
+.limited_off .off_list_box .product_buy .learn_more:hover {
   border-color: #00cc88;
   color: #00cc88;
 }
@@ -541,13 +543,13 @@
     font-size: 3.2vw;
     padding-left: 2.133vw;
   }
-  .limited_products .limited_products_list_box .product_buy input {
+  .limited_products .limited_products_list_box .product_buy .buy_now {
     font-size: 3.733vw;
     padding: 1.867vw 0;
     line-height: 3.733vw;
     border-radius: 16vw;
   }
-  .limited_products .limited_products_list_box .product_buy a {
+  .limited_products .limited_products_list_box .product_buy .learn_more {
     font-size: 3.733vw;
     padding: 1.867vw 0;
     line-height: 3.733vw;
@@ -593,7 +595,6 @@
     height: 9.1vw;
   }
   .limited_off .off_list_box .product_code {
-    margin-bottom: 4.267vw;
     justify-content: space-between;
   }
   .limited_off .off_list_box .product_code p {
@@ -612,16 +613,17 @@
     font-size: 3.2vw;
     padding-left: 2.133vw;
   }
-  .limited_off .off_list_box .product_buy form {
-    margin-bottom: 2.133vw;
+  .limited_off .off_list_box .product_buy {
+    margin-top: 0.4em;
   }
-  .limited_off .off_list_box .product_buy input {
+  .limited_off .off_list_box .product_buy .buy_now {
     font-size: 3.733vw;
     padding: 1.867vw 0;
     line-height: 3.733vw;
     border-radius: 16vw;
+    margin-bottom: 2.133vw;
   }
-  .limited_off .off_list_box .product_buy a {
+  .limited_off .off_list_box .product_buy .learn_more {
     font-size: 3.733vw;
     padding: 1.867vw 0;
     line-height: 3.733vw;
