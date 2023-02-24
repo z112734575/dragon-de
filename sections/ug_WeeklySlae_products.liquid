@@ -150,69 +150,6 @@
     {% endfor %}
   </div>
   <div class="off_products_box" id="ug-section2">
-    {% for product in section.settings.product_list2 %}
-      <div class="off_product_list">
-        <div class="off_list_box">
-          <a href="{{ product.url }}">
-            <div class="product_img">
-              <img src="{{ product.featured_media | img_url: "400x" }}">
-            </div>
-            <p class="product_title">{{ product.title }}</p>
-            {% assign compare_at_price = product.compare_at_price %}
-            {% assign price = product.price %}
-            {% assign showDiscountBar = compare_at_price | minus: price %}
-            {% assign discountbar = product.metafields.custom.discountbar.value %}
-            {% assign discount_sum = discountbar[0] %}
-            {% assign discount_code = discountbar[1] %}
-            {% assign discount_sumM = 100 | minus: discount_sum %}
-            {% if discount_sum %}
-              <p class="product_prie">
-                {{ price | times: discount_sumM | divided_by: 100 | money }}
-                <span>{{ product.price | money }}</span>
-              </p>
-              <div class="product_sale">
-                <p>
-                  -{{ discount_sum -}}
-                  <span>%</span>
-                </p>
-              </div>
-            {% elsif showDiscountBar > 1 %}
-              <p class="product_prie">
-                {{ product.price | money }}
-                <span>{{ product.compare_at_price | money }}</span>
-              </p>
-              <div class="product_sale">
-                <p>
-                  -{{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}
-                  <span>%</span>
-                </p>
-              </div>
-            {% else %}
-              <p class="product_prie">{{ product.price | money }}</p>
-            {% endif %}
-            <!--
-              <div class="product_code">
-                <p>Code: {{ discount_code }}</p>
-                <button data-ug-copy-data="{{ discount_code }}" class="copy-btn">Copy</button>
-              </div>
-            -->
-          </a>
-          <div class="product_buy">
-            <a
-              href="{{ product.url }}"
-              class="t4s-pr-item-btn t4s-pr-addtocart buy_now"
-              data-variant-id="{{product.variants.first.id}}"
-              data-action-atc
-              rel="nofollow"
-              >Buy Now</a
-            >
-            <a href="{{ product.url }}" class="learn_more">Learn more</a>
-          </div>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-  <div class="off_products_box" id="ug-section3">
     {% for product in section.settings.product_list3 %}
       <div class="off_product_list">
         <div class="off_list_box">
@@ -275,8 +212,71 @@
       </div>
     {% endfor %}
   </div>
-  <div class="off_products_box" id="ug-section4">
+  <div class="off_products_box" id="ug-section3">
     {% for product in section.settings.product_list4 %}
+      <div class="off_product_list">
+        <div class="off_list_box">
+          <a href="{{ product.url }}">
+            <div class="product_img">
+              <img src="{{ product.featured_media | img_url: "400x" }}">
+            </div>
+            <p class="product_title">{{ product.title }}</p>
+            {% assign compare_at_price = product.compare_at_price %}
+            {% assign price = product.price %}
+            {% assign showDiscountBar = compare_at_price | minus: price %}
+            {% assign discountbar = product.metafields.custom.discountbar.value %}
+            {% assign discount_sum = discountbar[0] %}
+            {% assign discount_code = discountbar[1] %}
+            {% assign discount_sumM = 100 | minus: discount_sum %}
+            {% if discount_sum %}
+              <p class="product_prie">
+                {{ price | times: discount_sumM | divided_by: 100 | money }}
+                <span>{{ product.price | money }}</span>
+              </p>
+              <div class="product_sale">
+                <p>
+                  -{{ discount_sum -}}
+                  <span>%</span>
+                </p>
+              </div>
+            {% elsif showDiscountBar > 1 %}
+              <p class="product_prie">
+                {{ product.price | money }}
+                <span>{{ product.compare_at_price | money }}</span>
+              </p>
+              <div class="product_sale">
+                <p>
+                  -{{ compare_at_price | minus: price | times: 100 | divided_by: compare_at_price }}
+                  <span>%</span>
+                </p>
+              </div>
+            {% else %}
+              <p class="product_prie">{{ product.price | money }}</p>
+            {% endif %}
+            <!--
+              <div class="product_code">
+                <p>Code: {{ discount_code }}</p>
+                <button data-ug-copy-data="{{ discount_code }}" class="copy-btn">Copy</button>
+              </div>
+            -->
+          </a>
+          <div class="product_buy">
+            <a
+              href="{{ product.url }}"
+              class="t4s-pr-item-btn t4s-pr-addtocart buy_now"
+              data-variant-id="{{product.variants.first.id}}"
+              data-action-atc
+              rel="nofollow"
+              >Buy Now</a
+            >
+            <a href="{{ product.url }}" class="learn_more">Learn more</a>
+          </div>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+  <div class="off_products_box" id="ug-section4">
+    {% for product in section.settings.product_list2 %}
       <div class="off_product_list">
         <div class="off_list_box">
           <a href="{{ product.url }}">
