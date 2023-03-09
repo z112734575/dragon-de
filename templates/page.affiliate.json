@@ -342,6 +342,7 @@
         "0431ceed-5630-44bf-8d79-10157527327c": {
           "type": "image_parent",
           "settings": {
+            "image_mb": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -398,6 +399,7 @@
         "5e9cc704-fdae-446a-8161-6a1835582cc2": {
           "type": "image_parent",
           "settings": {
+            "image_mb": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -454,6 +456,7 @@
         "208ff639-2453-43de-a545-c33d07547ca5": {
           "type": "image_parent",
           "settings": {
+            "image_mb": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -510,6 +513,7 @@
         "04e510de-8717-4fb3-9e6d-c4b2e2c0ea12": {
           "type": "image_parent",
           "settings": {
+            "image_mb": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -566,6 +570,7 @@
         "6fdf064b-b53f-465a-a916-92ae5789227a": {
           "type": "image_parent",
           "settings": {
+            "image_mb": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -1673,6 +1678,7 @@
         "39cfa4eb-af69-41b1-a6ef-1b3ec28a36eb": {
           "type": "image",
           "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_915.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1689,7 +1695,7 @@
         "40f11462-f270-4353-b035-6188246803ea": {
           "type": "custom_button",
           "settings": {
-            "button_text": "Get Started",
+            "button_text": "Loslegen",
             "button_link": "https:\/\/www.shareasale.com\/shareasale.cfm?merchantID=88373",
             "target_link": "_self",
             "fontf": "inherit",
@@ -1751,7 +1757,7 @@
         "07531300-07c5-4c4c-9de5-261148b1545b": {
           "type": "custom_button",
           "settings": {
-            "button_text": "Get Started",
+            "button_text": "Loslegen",
             "button_link": "https:\/\/af.uppromote.com\/ugreenmall\/register",
             "target_link": "_self",
             "fontf": "inherit",
