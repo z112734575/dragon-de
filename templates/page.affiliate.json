@@ -21,8 +21,6 @@
         "template--14473888792638__99edf05a-ff88-418e-a085-d70b1944a189-1666835455dd318b1e-0": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/banner_PC_2x_6d2d6c1a-8f1c-4f0d-86ff-47949a203e67.png",
-            "image_mb": "shopify:\/\/shop_images\/Banner-mobile.png",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -57,7 +55,7 @@
         "template--14473888792638__99edf05a-ff88-418e-a085-d70b1944a189-1666835455dd318b1e-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Enjoy up to 15% in commission Make Money Easily",
+            "text": "Profitieren Sie von bis zu 15 % Provision und verdienen Sie leicht Geld",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -139,7 +137,7 @@
         "template--14473888792638__99c0c86b-7e0e-4607-ad2f-ace458b6f8b3-166684002473575360-1": {
           "type": "custom_text",
           "settings": {
-            "text": "10-15% Commission on \nEach Referred Sale",
+            "text": "10-15 % Provision auf jeden vermittelten Verkauf",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -176,7 +174,7 @@
         "a2ed4161-a839-4d11-9bce-d2e23416588e": {
           "type": "custom_text",
           "settings": {
-            "text": "Up to Date \nBanners, Coupons, Deals",
+            "text": "Aktuelle Banner, Gutscheine und Angebote",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -213,7 +211,7 @@
         "1f0a9842-ce8c-4740-9c95-a4cbf18499a8": {
           "type": "custom_text",
           "settings": {
-            "text": "Monthly Newsletter \nand Datafeed",
+            "text": "Monatlicher Newsletter und Datenerfassung",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -250,7 +248,7 @@
         "b488f9f4-366c-4aec-8864-e79aa579d3c7": {
           "type": "custom_text",
           "settings": {
-            "text": "Dedicated, Professional \nPartner Program",
+            "text": "Engagiertes und professionelles Partnerprogramm",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -287,7 +285,7 @@
         "632f1bf1-5b8f-402a-8472-5a7e94463787": {
           "type": "custom_text",
           "settings": {
-            "text": "30-Day Cookie Duration",
+            "text": "30 Tage Cookie-Laufzeit",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -342,7 +340,6 @@
         "0431ceed-5630-44bf-8d79-10157527327c": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -377,7 +374,7 @@
         "365760b8-27d0-43cd-ad54-53a91dcfa6b3": {
           "type": "custom_text",
           "settings": {
-            "text": "10-15% Commission on \nEach Referred Sale",
+            "text": "10-15 % Provision auf jeden vermittelten Verkauf",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -399,7 +396,6 @@
         "5e9cc704-fdae-446a-8161-6a1835582cc2": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -434,7 +430,7 @@
         "f6f13c2e-e714-48d0-9448-d69341936fbb": {
           "type": "custom_text",
           "settings": {
-            "text": "Up to Date \nBanners, Coupons, Deals",
+            "text": "Aktuelle Banner, Gutscheine und Angebote",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -456,7 +452,6 @@
         "208ff639-2453-43de-a545-c33d07547ca5": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -491,7 +486,7 @@
         "bdbfb325-d0ce-459c-be92-da8517a137f4": {
           "type": "custom_text",
           "settings": {
-            "text": "Monthly Newsletter \nand Datafeed",
+            "text": "Monatlicher Newsletter und Datenerfassung",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -513,7 +508,6 @@
         "04e510de-8717-4fb3-9e6d-c4b2e2c0ea12": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -548,7 +542,7 @@
         "479cf548-704d-457a-9822-65c56686ad74": {
           "type": "custom_text",
           "settings": {
-            "text": "Dedicated, Professional \nPartner Program",
+            "text": "Engagiertes und professionelles Partnerprogramm",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -570,7 +564,6 @@
         "6fdf064b-b53f-465a-a916-92ae5789227a": {
           "type": "image_parent",
           "settings": {
-            "image": "shopify:\/\/shop_images\/block.jpg",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -605,7 +598,7 @@
         "7614246e-7687-4a8d-b4e1-f6faedf1f576": {
           "type": "custom_text",
           "settings": {
-            "text": "30-Day Cookie Duration",
+            "text": "30 Tage Cookie-Laufzeit",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -695,7 +688,7 @@
         "template--14473888792638__f665116c-ee7c-4295-b7b4-d08e2c573baf-1666856045a80728e5-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Why Join Us?",
+            "text": "Warum Partner werden?",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -732,7 +725,7 @@
         "587715e5-8d07-4088-a266-1c6f5c3d95e9": {
           "type": "custom_text",
           "settings": {
-            "text": "Our Affiliate Program enables every possible partner to join and promote Ugreen, gain commissions from every sale through your affiliate link. Share your affiliate link and win reward, everyone could be a marketer on here.",
+            "text": "Unser Partnerprogramm ermöglicht es jedem potenziellen Partner, sich Ugreen anzuschließen und für Ugreen zu werben. Erhalten Sie Provisionen für jeden Verkauf über Ihren Partner-Link. Teilen Sie Ihren Partner-Link und gewinnen Sie eine Belohnung, jeder kann hier ein Marketer sein.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -753,7 +746,7 @@
         "54b636f3-d401-4d81-a304-8d332cc84ee8": {
           "type": "custom_text",
           "settings": {
-            "text": "1. We have warehouses in the USA, Germany and UK.",
+            "text": "1. Wir haben Lager in den USA, Deutschland und Großbritannien.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -774,7 +767,7 @@
         "74665961-93b1-4997-b416-ae7499f399b1": {
           "type": "custom_text",
           "settings": {
-            "text": "2. We have affordable prices",
+            "text": "2. Wir haben günstige Preise.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -795,7 +788,7 @@
         "7453687d-e23a-438c-a42b-daf4686a5b64": {
           "type": "custom_text",
           "settings": {
-            "text": "3. We offer free shipping and 3-7 days delivery.",
+            "text": "3. Wir bieten kostenlosen Versand und 3-7 Tage Lieferzeit.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -816,7 +809,7 @@
         "8a64a6d7-a396-48fd-a606-7ac53f211fbf": {
           "type": "custom_text",
           "settings": {
-            "text": "4. We offer no hassle 30-days returns",
+            "text": "4. Wir bieten ein unkompliziertes 30-Tage-Rückgaberecht.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -885,7 +878,7 @@
         "template--14473888792638__b7697561-aee5-416d-a1ee-25dd54ab4d65-16668576938e6945af-1": {
           "type": "custom_text",
           "settings": {
-            "text": "How Do I Earn Commission?",
+            "text": "Wie kann ich Provision verdienen?",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -942,14 +935,12 @@
             "padding_inner": ",40px,0,0",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_image": "shopify:\/\/shop_images\/Group_910.png",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
         "ad126b34-6f0c-425f-854a-23160c5ac632": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step1.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -966,7 +957,7 @@
         "template--14473888792638__96cd7fa3-fd1c-49b7-af25-a549e7df62ce-16668576938e6945af-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Visit ugreen.com to apply for the affiliate program",
+            "text": "Besuchen Sie ugreen.com, um sich für das Partnerprogramm anzumelden",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -997,14 +988,12 @@
             "padding_inner": ",40px,0,0",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_image": "shopify:\/\/shop_images\/Group_910.png",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
         "4a506b7f-98a8-419b-a9ec-1e684820ebcd": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step2.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1021,7 +1010,7 @@
         "ea335f47-d7a9-4d96-91d2-07753ace32cd": {
           "type": "custom_text",
           "settings": {
-            "text": "Share an",
+            "text": "Teilen Sie",
             "remove_br_tag": true,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1042,7 +1031,7 @@
         "ad55b26b-8828-4e3b-81cd-45b9706a3567": {
           "type": "custom_text",
           "settings": {
-            "text": "affiliate link",
+            "text": "einen Partner-Link",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1073,14 +1062,12 @@
             "padding_inner": ",30px,0,0",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_image": "shopify:\/\/shop_images\/Group_910.png",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
         "6db45bb1-705d-4707-9416-5f3dc1e630a3": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step3.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1097,7 +1084,7 @@
         "6fc797e1-a2f4-4d77-a7aa-015f52775abd": {
           "type": "custom_text",
           "settings": {
-            "text": "Get customers to click your link and make a purchase",
+            "text": "Erreichen Sie, dass Kunden auf Ihren Link klicken und einen Kauf tätigen",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1128,14 +1115,12 @@
             "padding_inner": ",40px,0,0",
             "padding_inner_tb": "",
             "padding_inner_mb": "",
-            "bg_image": "shopify:\/\/shop_images\/Group_910.png",
             "bg_cl": "rgba(0,0,0,0)"
           }
         },
         "e7a30fe4-50d3-4e8e-bdcf-6687b8c40a43": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step4.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1152,7 +1137,7 @@
         "31e8647a-e0aa-4758-98ac-3c5a49dda8b1": {
           "type": "custom_text",
           "settings": {
-            "text": "Wait for your order to be confirmed",
+            "text": "Warten Sie auf die Bestätigung der Bestellung",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1189,7 +1174,6 @@
         "c08db4ed-0f2d-46e6-886f-eb971f06afec": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step5.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1206,7 +1190,7 @@
         "19d140db-de2d-44d5-a743-182305879225": {
           "type": "custom_text",
           "settings": {
-            "text": "Get your",
+            "text": "Erhalten Sie",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1227,7 +1211,7 @@
         "0af39082-377a-402e-83b2-d934a64f8925": {
           "type": "custom_text",
           "settings": {
-            "text": "commission!",
+            "text": "Ihre Provision!",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1305,7 +1289,6 @@
         "69040b8b-dfdd-4541-8f5c-258d0ae29693": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step1.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1322,7 +1305,7 @@
         "template--14473888792638__9e20080e-e3ec-42d7-906a-cc69d0dbdaff-1666947114daf83566-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Visit ugreen.com to apply for the affiliate program",
+            "text": "Besuchen Sie ugreen.com, um sich für das Partnerprogramm anzumelden",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1343,7 +1326,6 @@
         "573ae108-6a14-4729-afdf-ef3f64b35fb0": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_916.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1376,7 +1358,6 @@
         "4de0ca58-5161-4ed3-a499-549053c094db": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step2.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1393,7 +1374,7 @@
         "47c4c2c2-0ccf-4028-a67e-ad30dfee83ec": {
           "type": "custom_text",
           "settings": {
-            "text": "Share an affiliate link",
+            "text": "Teilen Sie einen Partner-Link",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1414,7 +1395,6 @@
         "c54e7b4b-0308-4929-afd2-3e867404322f": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_916.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1447,7 +1427,6 @@
         "1f7b534f-2b88-44dc-8e5e-7677523d0c83": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step3.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1464,7 +1443,7 @@
         "747dd95d-aae9-4bd5-a13a-229ec0bb0ce1": {
           "type": "custom_text",
           "settings": {
-            "text": "Get customers to click your link and make a purchase",
+            "text": "Erreichen Sie, dass Kunden auf Ihren Link klicken und einen Kauf tätigen",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1485,7 +1464,6 @@
         "8e2fe239-4eae-402c-9301-06275f5ec5e9": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_916.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1518,7 +1496,6 @@
         "27c14937-c675-4635-b08d-760f450c7a17": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step4.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1535,7 +1512,7 @@
         "8fecff5e-9948-4e3b-8358-02d92ba14f10": {
           "type": "custom_text",
           "settings": {
-            "text": "Wait for your order to be confirmed",
+            "text": "Warten Sie auf die Bestätigung der Bestellung",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1556,7 +1533,6 @@
         "f44a977a-fa3b-4f3f-be6f-37f9fa64e193": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_916.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1589,7 +1565,6 @@
         "5b521f17-cb5c-4e9e-8177-d9804d4c3c49": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/step5.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1606,7 +1581,7 @@
         "75bd263c-3d32-4ab0-954d-f6d4b5677025": {
           "type": "custom_text",
           "settings": {
-            "text": "Get your commission!",
+            "text": "Erhalten Sie Ihre Provision!",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1686,7 +1661,6 @@
         "39cfa4eb-af69-41b1-a6ef-1b3ec28a36eb": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_915.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1749,7 +1723,6 @@
         "b081b000-ba08-41d1-a8fa-449adb848c95": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/Group_914.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
@@ -1842,7 +1815,7 @@
         "template--14473888792638__823b826e-3022-4f74-97f3-59d0cb229576-166693669805a6346a-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Common Questions and Answers",
+            "text": "Allgemeine Fragen und Antworten",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -1879,7 +1852,7 @@
         "7f7de41d-7315-476c-b158-c43d79e2f582": {
           "type": "custom_text",
           "settings": {
-            "text": "1. Who is allowed to join the program?",
+            "text": "1. Wer kann am Programm teilnehmen?",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -1900,7 +1873,7 @@
         "9cc421e4-465f-42c7-9eb4-6506bf865e11": {
           "type": "custom_text",
           "settings": {
-            "text": "Whether you are a large network, content site, social media influencer or blogger, we have simple linking tools to meet your advertising needs and help you monetize",
+            "text": "Egal, ob Sie ein großes Netzwerk, eine Content-Website, ein Influencer in sozialen Netzwerken oder ein Blogger sind, wir haben einfache Link-Tools, um Ihren Werbebedarf zu decken und Ihnen bei der Moneterisierung zu helfen.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1937,7 +1910,7 @@
         "3d68d1e6-6030-4221-8c57-fa04e8fa4026": {
           "type": "custom_text",
           "settings": {
-            "text": "2. How do I join the program? Is there need for a fee?",
+            "text": "2. Wie kann ich am Programm teilnehmen? Wird eine Gebühr erhoben?",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -1958,7 +1931,7 @@
         "ede32101-4e67-4d52-ad8e-47417065da89": {
           "type": "custom_text",
           "settings": {
-            "text": "Step 1: Apply for the affiliate program and sign up as an affiliate or a publisher.",
+            "text": "Schritt 1: Bewerben Sie sich für das Partnerprogramm und registrieren Sie sich als Partner oder Publisher.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -1979,7 +1952,7 @@
         "5cf07bbe-35ca-4660-9300-81a1141219d1": {
           "type": "custom_text",
           "settings": {
-            "text": "Step 2: Receive our links, promote them, and watch your commission roll in.",
+            "text": "Schritt 2: Sie erhalten unsere Links, bewerben diese und erhalten Ihre Provision.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -2000,7 +1973,7 @@
         "5017366b-4fa2-4982-bc2c-cd81e4e8cdec": {
           "type": "custom_text",
           "settings": {
-            "text": "If you have any questions about our program, please let us know and we'll be with you as soon as we can!",
+            "text": "Wenn Sie Fragen zu unserem Programm haben, lassen Sie es uns wissen und wir melden uns so schnell wie möglich bei Ihnen!",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
@@ -2044,7 +2017,7 @@
         "3005ca38-1079-43fd-8dfb-afaaacfac005": {
           "type": "custom_text",
           "settings": {
-            "text": "3. Contact Us",
+            "text": "3. Kontaktieren Sie uns",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#000000",
@@ -2065,7 +2038,7 @@
         "cbd19f7a-4224-4c72-873f-1764fec38980": {
           "type": "custom_text",
           "settings": {
-            "text": "For more information or question about our Affiliate Program, please feel free to contact",
+            "text": "Wenn Sie weitere Informationen oder Fragen zu unserem Partnerprogramm haben, zögern Sie nicht, uns zu kontaktieren.",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#6b6b6b",
