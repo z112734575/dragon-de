@@ -1741,6 +1741,7 @@
         "b081b000-ba08-41d1-a8fa-449adb848c95": {
           "type": "image",
           "settings": {
+            "image_child": "shopify:\/\/shop_images\/Group_914.png",
             "img_link": "",
             "open_link": "_self",
             "img_width": 0,
