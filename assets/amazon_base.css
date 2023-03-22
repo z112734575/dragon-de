@@ -613,3 +613,8 @@ html[dir="rtl"]
   margin: 0;
   padding: 0;
 }
+@media screen and (max-width: 768px) {
+  .aplus-v2 .aplus-carousel-actions {
+    position: initial !important;
+  }
+}
