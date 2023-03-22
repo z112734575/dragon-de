@@ -439,148 +439,166 @@ html[dir="rtl"] .aplus-v2 .premium-aplus-module-14 .text-panel-container {
   background-color: #ffa500;
 }
 .aplus-v2 .premium-aplus-module-12 .aplus-carousel-card {
-                position: relative;
-                width: 100%;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-carousel-container {
-                position: relative;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-card-details-wrapper {
-                position: absolute;
-                top: 0;
-                width: 50%;
-                height: 100%;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-card-detail {
-                display: table;
-                width: 100%;
-                height: 100%
-            }
-            .aplus-v2 .premium-aplus-module-12 .card-description {
-                text-align: left;
-            }
-            html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .card-description {
-                text-align: right;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-table-cell {
-                display: table-cell;
-                vertical-align: middle;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background {
-                padding: 20px;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color {
-                background: rgba(0, 0, 0, 0.5);
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h1,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h5,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol .a-list-item,
-            .aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul .a-list-item {
-                color: #fff;
-            }
-            .aplus-v2 .premium-aplus-module-12 .description {
-                padding-top: 20px;
-            }
-            /* nav */
-            .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions {
-                position: absolute;
-                top: 20px;
-                width: 100%;
-                text-align: center;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn {
-                display: inline-block;
-                margin: 7px 10px;
-                cursor: pointer;
-                border-radius: 30px;
-                border: 2px solid #000;
-                line-height: 2.5em;
-                min-width: 200px;
-                background-color: #fff;
-                white-space: nowrap;
-                color: #000;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-carousel-index {
-                display: none;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.aplus-active {
-                border-color: #fff;
-                background-color: #000;
-                color: #fff;
-            }
-            /*
+  position: relative;
+  width: 100%;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-carousel-container {
+  position: relative;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-card-details-wrapper {
+  position: absolute;
+  top: 0;
+  width: 50%;
+  height: 100%;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-card-detail {
+  display: table;
+  width: 100%;
+  height: 100%;
+}
+.aplus-v2 .premium-aplus-module-12 .card-description {
+  text-align: left;
+}
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .card-description {
+  text-align: right;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-table-cell {
+  display: table-cell;
+  vertical-align: middle;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background {
+  padding: 20px;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color {
+  background: rgba(0, 0, 0, 0.5);
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color,
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h1,
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color h5,
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol,
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ul,
+.aplus-v2 .premium-aplus-module-12 .aplus-text-background-color ol .a-list-item,
+.aplus-v2
+  .premium-aplus-module-12
+  .aplus-text-background-color
+  ul
+  .a-list-item {
+  color: #fff;
+}
+.aplus-v2 .premium-aplus-module-12 .description {
+  padding-top: 20px;
+}
+/* nav */
+.aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions {
+  position: absolute;
+  top: 20px;
+  width: 100%;
+  text-align: center;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-goto-btn {
+  display: inline-block;
+  margin: 7px 10px;
+  cursor: pointer;
+  border-radius: 30px;
+  border: 2px solid #000;
+  line-height: 2.5em;
+  min-width: 200px;
+  background-color: #fff;
+  white-space: nowrap;
+  color: #000;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-carousel-index {
+  display: none;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.aplus-active {
+  border-color: #fff;
+  background-color: #000;
+  color: #fff;
+}
+/*
             * Regimen template specific css
             */
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
-                text-align: left;
-            }
-            html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
-                text-align: right;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen {
-                text-align: right;
-                top: 50%;
-                width: 250px;
-                right: 75px;
-                -webkit-transform: translateY(-50%);
-                -moz-transform: translateY(-50%);
-                -o-transform: translateY(-50%);
-                transform: translateY(-50%);
-            }
-            html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen {
-                text-align: left;
-                top: 50%;
-                left: 75px;
-                right: auto;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
-                display: inline-block;
-                margin: 10px 10px;
-                cursor: pointer;
-                border-radius: 30px;
-                border: 2px solid #000;
-                line-height: 2.5em;
-                width: 220px;
-                background-color: #fff;
-                white-space: nowrap;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active {
-                border-color: #fff;
-                background-color: #000;
-                color: #fff;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index {
-                display: inline-block;
-                margin-left: 6px;
-                width: 16px;
-                line-height: 26px;
-                color: #000;
-                text-align: center;
-            }
-            html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions .regimen .aplus-carousel-index {
-                margin-left: 0px;
-                margin-right: 6px;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active .aplus-carousel-index {
-                color: #fff;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen {
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100%;
-                background-color: #000;
-                opacity: 0.5;
-                text-align: center;
-            }
-            .aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen .aplus-headline {
-                color: #fff;
-                line-height: 2em;
-            }
-
+.aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
+  text-align: left;
+}
+html[dir="rtl"] .aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
+  text-align: right;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-carousel-actions.regimen {
+  text-align: right;
+  top: 50%;
+  width: 250px;
+  right: 75px;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+html[dir="rtl"]
+  .aplus-v2
+  .premium-aplus-module-12
+  .aplus-carousel-actions.regimen {
+  text-align: left;
+  top: 50%;
+  left: 75px;
+  right: auto;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen {
+  display: inline-block;
+  margin: 10px 10px;
+  cursor: pointer;
+  border-radius: 30px;
+  border: 2px solid #000;
+  line-height: 2.5em;
+  width: 220px;
+  background-color: #fff;
+  white-space: nowrap;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-goto-btn.regimen.aplus-active {
+  border-color: #fff;
+  background-color: #000;
+  color: #fff;
+}
+.aplus-v2
+  .premium-aplus-module-12
+  .aplus-carousel-actions
+  .regimen
+  .aplus-carousel-index {
+  display: inline-block;
+  margin-left: 6px;
+  width: 16px;
+  line-height: 26px;
+  color: #000;
+  text-align: center;
+}
+html[dir="rtl"]
+  .aplus-v2
+  .premium-aplus-module-12
+  .aplus-carousel-actions
+  .regimen
+  .aplus-carousel-index {
+  margin-left: 0px;
+  margin-right: 6px;
+}
+.aplus-v2
+  .premium-aplus-module-12
+  .aplus-goto-btn.regimen.aplus-active
+  .aplus-carousel-index {
+  color: #fff;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  opacity: 0.5;
+  text-align: center;
+}
+.aplus-v2 .premium-aplus-module-12 .aplus-headline-top.regimen .aplus-headline {
+  color: #fff;
+  line-height: 2em;
+}
 
 .aplus-carousel-actions {
   z-index: 100;
@@ -590,8 +608,8 @@ html[dir="rtl"] .aplus-v2 .premium-aplus-module-14 .text-panel-container {
   visibility: visible;
   z-index: 101;
 }
-    #aplus ol ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-    }
+#aplus ol ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
