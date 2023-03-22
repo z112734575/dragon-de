@@ -446,4 +446,9 @@ html[dir="rtl"] .aplus-v2 .premium-aplus-module-14 .text-panel-container {
   visibility: visible;
   z-index: 101;
 }
+    #aplus ol ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
 
