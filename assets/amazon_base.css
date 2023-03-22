@@ -612,6 +612,13 @@ html[dir="rtl"]
   margin: 0;
   padding: 0;
 }
+.t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  margin: 0;
+}
 @media screen and (max-width: 768px) {
   .aplus-v2 .aplus-carousel-actions {
     position: initial !important;

@@ -6727,18 +6727,6 @@ ul {
   color: #0f1111;
 }
 
-.a-unordered-list li,
-ul li {
-  list-style: disc;
-}
-
-.a-unordered-list .a-unordered-list li,
-.a-unordered-list ul li,
-ul .a-unordered-list li,
-ul ul li {
-  list-style: circle;
-}
-
 .a-ordered-list,
 ol {
   margin: 0 0 0 20px;
