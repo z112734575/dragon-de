@@ -241,8 +241,7 @@ html[dir="rtl"]
  * Premium modules global styles
  */
 .aplus-v2.desktop {
-  max-width: 1464px;
-  min-width: 800px;
+  max-width: 1280px;
   margin-left: auto;
   margin-right: auto;
   word-wrap: break-word;
