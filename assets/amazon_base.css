@@ -438,19 +438,6 @@ html[dir="rtl"] .aplus-v2 .premium-aplus-module-14 .text-panel-container {
 .aplus-mantle.aplus-module .carousel-slider-circle.aplus-carousel-active {
   background-color: #ffa500;
 }
-.aplus-carousel-actions {
-  z-index: 100;
-}
-.a-carousel-left,
-.a-carousel-right {
-  visibility: visible;
-  z-index: 101;
-}
-    #aplus ol ul {
-        list-style: none;
-        margin: 0;
-        padding: 0;
-    }
 .aplus-v2 .premium-aplus-module-12 .aplus-carousel-card {
                 position: relative;
                 width: 100%;
@@ -594,3 +581,17 @@ html[dir="rtl"] .aplus-v2 .premium-aplus-module-14 .text-panel-container {
                 line-height: 2em;
             }
 
+
+.aplus-carousel-actions {
+  z-index: 100;
+}
+.a-carousel-left,
+.a-carousel-right {
+  visibility: visible;
+  z-index: 101;
+}
+    #aplus ol ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
