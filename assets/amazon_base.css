@@ -622,5 +622,6 @@ html[dir="rtl"]
 @media screen and (max-width: 768px) {
   .aplus-v2 .aplus-carousel-actions {
     position: initial !important;
+    transform: none !important;
   }
 }
