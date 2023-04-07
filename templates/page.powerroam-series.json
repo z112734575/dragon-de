@@ -367,7 +367,7 @@
         "f263dbe4-39c1-4f89-8370-e0c2e7482da5"
       ],
       "settings": {
-        "se_height": "t4s_ratio_cuspx",
+        "se_height": "t4s_ratioadapt",
         "custom_dk": true,
         "height_dk": 600,
         "custom_tb": true,
