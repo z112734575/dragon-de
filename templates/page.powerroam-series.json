@@ -113,6 +113,7 @@
         },
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-1": {
           "type": "custom_text",
+          "disabled": true,
           "settings": {
             "text": "Summer 2022",
             "remove_br_tag": false,
@@ -136,7 +137,7 @@
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-2": {
           "type": "custom_text",
           "settings": {
-            "text": "New Arrival Collection",
+            "text": "Free Juice, Popcorn, and Coffee",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#dddddd",
@@ -380,7 +381,7 @@
         "au_hover": true,
         "nav_btn": true,
         "btn_vi": "hover",
-        "btn_owl": "outline",
+        "btn_owl": "default",
         "btn_shape": "round",
         "btn_cl": "dark",
         "btn_size": "small",
