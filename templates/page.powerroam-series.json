@@ -56,11 +56,27 @@
         "sidebar_bdr": 5,
         "sidebar_pd": 10
       }
+    },
+    "ug-images": {
+      "type": "ug-images",
+      "settings": {
+        "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_7f352fec-13a5-4ca4-b9d9-e7fa7c86cf63.jpg?v=1679910374",
+        "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile.jpg?v=1679910375",
+        "title": "The Best Deals Are One Click Away",
+        "description": "Join Ugreen Rewards Now for exclusive offers!",
+        "btn_text": "Join Now",
+        "title_color": "#000000",
+        "desc_color": "#727273",
+        "btn_color": "#000000",
+        "hover_btn_color": "#00cc88",
+        "mobile_text_top": "15%"
+      }
     }
   },
   "order": [
     "heading",
     "main",
-    "sidebar-page"
+    "sidebar-page",
+    "ug-images"
   ]
 }
