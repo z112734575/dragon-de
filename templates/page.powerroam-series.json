@@ -340,7 +340,7 @@
             "text": "Free Beer and Live Music",
             "remove_br_tag": false,
             "fontf": "inherit",
-            "text_cl": "#ddd",
+            "text_cl": "#dddddd",
             "text_fs": 70,
             "text_lh": 70,
             "text_fw": 300,
@@ -758,6 +758,157 @@
         "mg_mb": ",,30px,",
         "pd_mb": ""
       }
+    },
+    "0c1f940d-edf1-40ff-97d6-e9d7dc50b439": {
+      "type": "iconbox",
+      "blocks": {
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-0": {
+          "type": "item",
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gift",
+            "icon_awesome_fs": 50,
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "Share on-site photos to win 20 Free PowerRoam 1200W!",
+            "des": "Post an on-site photo of you on social media with the hashtags #UgreenPowerRoam and TAG Ugreen's official account"
+          }
+        },
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "Heading",
+            "des": "Use this text to description"
+          }
+        },
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "Heading",
+            "des": "Use this text to description"
+          }
+        },
+        "df76a8e0-2839-4a32-b083-b4c2145311ac": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "link": "",
+            "open_link": "_self",
+            "icon_pos": "start",
+            "icon": "las la-gem",
+            "icon_awesome_fs": 50,
+            "icon_image_width": 0,
+            "img_svg": "",
+            "w_image_svg": 60,
+            "w_image_svg_mb": 40,
+            "heading": "Heading",
+            "des": "Use this text to description"
+          }
+        }
+      },
+      "block_order": [
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-0",
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-1",
+        "template--18525058498903__0c1f940d-edf1-40ff-97d6-e9d7dc50b439-1680861529d2453f99-2",
+        "df76a8e0-2839-4a32-b083-b4c2145311ac"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "source": "line_awe",
+        "pd_content": "20px,20px,20px,20px",
+        "layout_des": "1",
+        "col_dk": "1",
+        "col_tb": "2",
+        "col_mb": "1",
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "loop": true,
+        "au_time": 0,
+        "au_hover": true,
+        "nav_btn": false,
+        "btn_vi": "hover",
+        "btn_owl": "default",
+        "btn_shape": "none",
+        "btn_cl": "dark",
+        "btn_size": "small",
+        "btn_hidden_mobile": true,
+        "nav_dot": false,
+        "dot_owl": "default",
+        "dots_cl": "dark",
+        "dots_round": true,
+        "dots_space": 10,
+        "dots_hidden_mobile": false,
+        "enable_border": true,
+        "enable_shadow": true,
+        "cl_border": "#f6f6f8",
+        "cl_head": "#222",
+        "cl_icon": "#222",
+        "cl_des": "#878787",
+        "cl_box": "#fff",
+        "cl_box_hover": "#eb4c4e",
+        "cl_content_hover": "#fff",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "a3d36fd0-07d2-48a2-a2f4-d4d51a09ece4": {
+      "type": "quote",
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "content_quote": "<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? Quis nostrum exercitationem ullam.<\/p>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
@@ -770,6 +921,8 @@
     "a04d5f1a-a9f5-4142-bbca-6bfc81a0f636",
     "8a301ffd-44ab-4735-a250-913461ca5268",
     "92e76764-6e27-40bd-92a0-a87cdc0561dd",
-    "c77d1287-3f71-4736-8dfd-685706fe5a0e"
+    "c77d1287-3f71-4736-8dfd-685706fe5a0e",
+    "0c1f940d-edf1-40ff-97d6-e9d7dc50b439",
+    "a3d36fd0-07d2-48a2-a2f4-d4d51a09ece4"
   ]
 }
