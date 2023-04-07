@@ -80,7 +80,6 @@
           "type": "image_parent",
           "settings": {
             "image": "shopify:\/\/shop_images\/CAM02_Final.jpg",
-            "image_mb": "shopify:\/\/shop_images\/1.3-_Mobile.png",
             "image_position": "8",
             "cl_img": "",
             "link_img1": "",
@@ -488,6 +487,7 @@
     },
     "a04d5f1a-a9f5-4142-bbca-6bfc81a0f636": {
       "type": "image_text",
+      "disabled": true,
       "blocks": {
         "template--18525058498903__a04d5f1a-a9f5-4142-bbca-6bfc81a0f636-168085621136b2102b-0": {
           "type": "bl_image",
@@ -571,6 +571,7 @@
     },
     "8a301ffd-44ab-4735-a250-913461ca5268": {
       "type": "image_text",
+      "disabled": true,
       "blocks": {
         "template--18525058498903__8a301ffd-44ab-4735-a250-913461ca5268-168085621136b2102b-0": {
           "type": "bl_image",
@@ -657,6 +658,7 @@
     },
     "92e76764-6e27-40bd-92a0-a87cdc0561dd": {
       "type": "image_text",
+      "disabled": true,
       "blocks": {
         "template--18525058498903__92e76764-6e27-40bd-92a0-a87cdc0561dd-168085621136b2102b-0": {
           "type": "bl_image",
