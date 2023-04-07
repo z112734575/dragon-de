@@ -245,18 +245,19 @@
             "animation": "none"
           }
         },
-        "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-6": {
+        "f263dbe4-39c1-4f89-8370-e0c2e7482da5": {
           "type": "custom_text",
+          "disabled": true,
           "settings": {
-            "text": "Free Beer and Live Music",
+            "text": "Text",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
-            "text_fs": 70,
-            "text_lh": 70,
-            "text_fw": 300,
+            "text_fs": 16,
+            "text_lh": 0,
+            "text_fw": 400,
             "text_ls": 0,
-            "text_mgb": 25,
+            "text_mgb": 15,
             "font_italic": false,
             "text_shadow": false,
             "hidden_mobile": false,
@@ -310,7 +311,7 @@
             "text_align": "center",
             "text_align_mb": "center",
             "content_width": "auto",
-            "cv_pos": 50,
+            "cv_pos": 30,
             "ch_pos": 50,
             "cv_pos_mb": 50,
             "ch_pos_mb": 50,
@@ -333,18 +334,18 @@
             "animation_delay": 40
           }
         },
-        "f263dbe4-39c1-4f89-8370-e0c2e7482da5": {
+        "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-6": {
           "type": "custom_text",
           "settings": {
-            "text": "Text",
+            "text": "Free Beer and Live Music",
             "remove_br_tag": false,
             "fontf": "inherit",
-            "text_cl": "#ffffff",
-            "text_fs": 16,
-            "text_lh": 0,
-            "text_fw": 400,
+            "text_cl": "#ddd",
+            "text_fs": 70,
+            "text_lh": 70,
+            "text_fw": 300,
             "text_ls": 0,
-            "text_mgb": 15,
+            "text_mgb": 25,
             "font_italic": false,
             "text_shadow": false,
             "hidden_mobile": false,
@@ -363,10 +364,10 @@
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-3",
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-4",
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-5",
-        "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-6",
+        "f263dbe4-39c1-4f89-8370-e0c2e7482da5",
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-7",
         "0f87ff7a-e55f-49c4-b29e-101fef1a4ba8",
-        "f263dbe4-39c1-4f89-8370-e0c2e7482da5"
+        "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-6"
       ],
       "settings": {
         "se_height": "t4s_ratioadapt",
