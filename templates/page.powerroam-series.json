@@ -224,6 +224,7 @@
         },
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-5": {
           "type": "custom_text",
+          "disabled": true,
           "settings": {
             "text": "Summer 2022",
             "remove_br_tag": false,
@@ -247,7 +248,7 @@
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-6": {
           "type": "custom_text",
           "settings": {
-            "text": "Lookbook Collection",
+            "text": "Free Beer and Live Music",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
