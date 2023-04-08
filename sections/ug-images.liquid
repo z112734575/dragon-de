@@ -9,6 +9,7 @@
     assign desc_color = settings.desc_color
     assign btn_color = settings.btn_color
     assign mobile_text_top = settings.mobile_text_top
+    assign link = settings.link
 %}
 <style>
     /*topImage*/
@@ -95,16 +96,18 @@
             <div class="mainBanner">
                 {% render "ug-picture", pc_image_url: pc_image_url, mobile_image_url: mobile_image_url, alt: title %}
             </div>
-            <div class="topImageText" >
+            <div class="topImageText">
                 <h1 class="title" style="color: {{ title_color }}">{{ title }}</h1>
                 <h2 class="subTitle" style="color: {{ desc_color }}">{{ description }}</h2>
                 {% if btn_text != '' %}
-                    <div class="btn" style="border-color: {{ btn_color }};color: {{ btn_color }}">
-                        <span>{{ btn_text }}</span>
-                        <svg class="icon" aria-hidden="true">
-                            <use xlink:href="#icon-xiayiye"></use>
-                        </svg>
-                    </div>
+                    <a href="{{ link }}">
+                        <div class="btn" style="border-color: {{ btn_color }};color: {{ btn_color }}">
+                            <span>{{ btn_text }}</span>
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#icon-xiayiye"></use>
+                            </svg>
+                        </div>
+                    </a>
                 {% endif %}
             </div>
         </div>
@@ -174,11 +177,19 @@
       "id": "mobile_text_top",
       "label": "移动端文字距离顶部高度",
       "default": "15%"
+    },
+    {
+      "type": "text",
+      "id": "link",
+      "label": "跳转链接",
+      "default": "#"
     }
   ],
-  "presets": [{
-    "name": "ugreen Images"
-  }]
+  "presets": [
+    {
+      "name": "ugreen Images"
+    }
+  ]
 }
 {% endschema %}
 
