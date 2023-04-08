@@ -66,9 +66,9 @@
         "title": "Ugreen PowerRoam Launch Event in Berlin",
         "description": "Event Date: April 22  <br> Event Time: 11:00 - 20:00 GMT+1 <br> Location: Mercedes-Platz, 10243 Berlin, Germany",
         "btn_text": "Jetzt Beitreten",
-        "title_color": "#000000",
-        "desc_color": "#727273",
-        "btn_color": "#000000",
+        "title_color": "#ffffff",
+        "desc_color": "#ffffff",
+        "btn_color": "#ffffff",
         "hover_btn_color": "#00cc88",
         "mobile_text_top": "15%"
       }
