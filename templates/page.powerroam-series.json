@@ -578,6 +578,30 @@
     "5cf57aa1-3417-4176-b266-c2e237abd608": {
       "type": "image_text",
       "blocks": {
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "Free Coffee & Experience Center",
+            "text": "",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        },
         "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-0": {
           "type": "bl_image",
           "settings": {
@@ -606,35 +630,11 @@
             "dots_space": 10,
             "dots_hidden_mobile": false
           }
-        },
-        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1": {
-          "type": "bl_text",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "text_size": "40,15",
-            "txt_align": "center",
-            "sub_heading": "",
-            "heading": "Free Coffee & Experience Center",
-            "text": "",
-            "subhd_color": "#222222",
-            "hd_color": "#222222",
-            "des_color": "#878787",
-            "use_shadow": false,
-            "button_label": "Button label",
-            "button_link": "",
-            "open_link": "_blank",
-            "btn_icon": false,
-            "button_style": "default",
-            "btn_size": "large",
-            "btn_cl": "dark",
-            "button_effect": "default"
-          }
         }
       },
       "block_order": [
-        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-0",
-        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1"
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1",
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-0"
       ],
       "settings": {
         "design_heading": "1",
@@ -744,6 +744,30 @@
     "f292121c-1a06-4f18-b5b5-4d265813f781": {
       "type": "image_text",
       "blocks": {
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "Free Juice & Popcorn.",
+            "text": "",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        },
         "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-0": {
           "type": "bl_image",
           "settings": {
@@ -772,35 +796,11 @@
             "dots_space": 10,
             "dots_hidden_mobile": false
           }
-        },
-        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1": {
-          "type": "bl_text",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "text_size": "40,15",
-            "txt_align": "center",
-            "sub_heading": "",
-            "heading": "Free Juice & Popcorn.",
-            "text": "",
-            "subhd_color": "#222222",
-            "hd_color": "#222222",
-            "des_color": "#878787",
-            "use_shadow": false,
-            "button_label": "Button label",
-            "button_link": "",
-            "open_link": "_blank",
-            "btn_icon": false,
-            "button_style": "default",
-            "btn_size": "large",
-            "btn_cl": "dark",
-            "button_effect": "default"
-          }
         }
       },
       "block_order": [
-        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-0",
-        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1"
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1",
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-0"
       ],
       "settings": {
         "design_heading": "1",
