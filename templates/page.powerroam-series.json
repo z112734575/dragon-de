@@ -89,6 +89,7 @@
     },
     "7de7b16c-35b4-49ea-9f81-0007ec924972": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--18525058498903__7de7b16c-35b4-49ea-9f81-0007ec924972-1680856051cf985336-0": {
           "type": "image_parent",
@@ -531,8 +532,8 @@
             "text_size": "40,15",
             "txt_align": "center",
             "sub_heading": "",
-            "heading": "Image with text",
-            "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "heading": "Welcome to Join Ugreen Powerroam Event!",
+            "text": "",
             "subhd_color": "#222222",
             "hd_color": "#222222",
             "des_color": "#878787",
@@ -551,6 +552,255 @@
       "block_order": [
         "template--18525058498903__db5ed349-a61b-4f35-97ec-4c9246785349-16811139477cf6b7b5-0",
         "template--18525058498903__db5ed349-a61b-4f35-97ec-4c9246785349-16811139477cf6b7b5-1"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "5cf57aa1-3417-4176-b266-c2e237abd608": {
+      "type": "image_text",
+      "blocks": {
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-0": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/CAM02_Final.jpg",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        },
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "Free Coffee & Experience Center",
+            "text": "",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-0",
+        "template--18525058498903__5cf57aa1-3417-4176-b266-c2e237abd608-16811139477cf6b7b5-1"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "5e7d8244-58ed-4a54-bde4-0e9afbc3273b": {
+      "type": "image_text",
+      "blocks": {
+        "template--18525058498903__5e7d8244-58ed-4a54-bde4-0e9afbc3273b-16811139477cf6b7b5-0": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/CAM04_Final.jpg",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        },
+        "template--18525058498903__5e7d8244-58ed-4a54-bde4-0e9afbc3273b-16811139477cf6b7b5-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "Free Beer & Live Music",
+            "text": "",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18525058498903__5e7d8244-58ed-4a54-bde4-0e9afbc3273b-16811139477cf6b7b5-0",
+        "template--18525058498903__5e7d8244-58ed-4a54-bde4-0e9afbc3273b-16811139477cf6b7b5-1"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 30,
+        "space_h_item": "20",
+        "space_v_item": "10",
+        "space_h_item_mb": "20",
+        "space_v_item_mb": "10",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "f292121c-1a06-4f18-b5b5-4d265813f781": {
+      "type": "image_text",
+      "blocks": {
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-0": {
+          "type": "bl_image",
+          "settings": {
+            "image1": "shopify:\/\/shop_images\/CAM03_Final.jpg",
+            "col_dk": "6",
+            "col_tb": "6",
+            "layout_des": "carousel",
+            "post_mobile": "default",
+            "image_ratio": "ratioadapt",
+            "image_size": "cover",
+            "image_position": "8",
+            "loop": true,
+            "au_time": 0,
+            "au_hover": true,
+            "nav_btn": false,
+            "btn_vi": "hover",
+            "btn_owl": "default",
+            "btn_shape": "none",
+            "btn_cl": "dark",
+            "btn_size": "small",
+            "btn_hidden_mobile": true,
+            "nav_dot": false,
+            "dot_owl": "default",
+            "dots_cl": "dark",
+            "dots_round": true,
+            "dots_space": 10,
+            "dots_hidden_mobile": false
+          }
+        },
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1": {
+          "type": "bl_text",
+          "settings": {
+            "col_dk": "6",
+            "col_tb": "6",
+            "text_size": "40,15",
+            "txt_align": "center",
+            "sub_heading": "",
+            "heading": "Free Juice & Popcorn.",
+            "text": "",
+            "subhd_color": "#222222",
+            "hd_color": "#222222",
+            "des_color": "#878787",
+            "use_shadow": false,
+            "button_label": "Button label",
+            "button_link": "",
+            "open_link": "_blank",
+            "btn_icon": false,
+            "button_style": "default",
+            "btn_size": "large",
+            "btn_cl": "dark",
+            "button_effect": "default"
+          }
+        }
+      },
+      "block_order": [
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-0",
+        "template--18525058498903__f292121c-1a06-4f18-b5b5-4d265813f781-16811139477cf6b7b5-1"
       ],
       "settings": {
         "design_heading": "1",
@@ -596,6 +846,9 @@
     "83016a3a-097e-44df-9327-bfee70b183bf",
     "7de7b16c-35b4-49ea-9f81-0007ec924972",
     "db5ed349-a61b-4f35-97ec-4c9246785349",
+    "5cf57aa1-3417-4176-b266-c2e237abd608",
+    "5e7d8244-58ed-4a54-bde4-0e9afbc3273b",
+    "f292121c-1a06-4f18-b5b5-4d265813f781",
     "c77d1287-3f71-4736-8dfd-685706fe5a0e"
   ]
 }
