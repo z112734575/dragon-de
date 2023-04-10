@@ -64,7 +64,7 @@
         "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
         "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
         "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
-        "description": "Veranstaltungsdatum: 22. April <br>  Veranstaltungszeit: 11:00 - 20:00 GMT+1   <br>  Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
+        "description": "Veranstaltungsdatum: 22. April   Veranstaltungszeit: 11:00 - 20:00 GMT+1     Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
         "btn_text": "Jetzt Beitreten",
         "title_color": "#ffffff",
         "desc_color": "#ffffff",
@@ -72,6 +72,19 @@
         "hover_btn_color": "#00cc88",
         "mobile_text_top": "15%",
         "link": "#powerroam-series-email"
+      }
+    },
+    "83016a3a-097e-44df-9327-bfee70b183bf": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n    .ugreen-house-picture {\n        max-width: 1280px;\n        margin: 120px auto;\n        border-radius: 8px;\n        overflow: hidden;\n    }\n    .ugreen-house-picture img {\n        width: 100%;\n    }\n    @media (max-width: 768px) {\n        .ugreen-house-picture {\n            margin: 60px auto;\n        }\n    }\n\n    }\n<\/style>\n<div class=\"ugreen-house-picture\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/CAM03_FINAL_V4_1_1.jpg?v=1681089936\" alt=\"\">\n<\/div>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
       }
     },
     "7de7b16c-35b4-49ea-9f81-0007ec924972": {
@@ -497,6 +510,7 @@
     "main",
     "sidebar-page",
     "ug-images",
+    "83016a3a-097e-44df-9327-bfee70b183bf",
     "7de7b16c-35b4-49ea-9f81-0007ec924972",
     "c77d1287-3f71-4736-8dfd-685706fe5a0e"
   ]
