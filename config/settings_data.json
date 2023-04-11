@@ -776,8 +776,8 @@
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
             "settings": {
-              "title": "Hubs \/ Adapters",
-              "url": "shopify:\/\/collections\/hub-adapter",
+              "title": "Hubs",
+              "url": "shopify:\/\/collections\/hubs",
               "open_link": "_self",
               "menu": "",
               "icon": "",
