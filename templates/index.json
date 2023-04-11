@@ -5,9 +5,35 @@
       "settings": {
       }
     },
+    "ug-index-image": {
+      "type": "ug-index-image",
+      "settings": {
+        "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.2_-_Web.png?v=1679540557",
+        "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.3-_Mobile.png?v=1679540550",
+        "title": "Überlegene GaN-Technologie ermöglicht stärkere und schnellere Ladegeräte.",
+        "subtitle": "",
+        "button_text": "Jetzt kaufen",
+        "link": "\/collections\/gan-ladegerat",
+        "className": "",
+        "custom_style": ""
+      }
+    },
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "disabled": true,
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.2_-_Web.png?v=1679540557",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.3-_Mobile.png?v=1679540550",
+            "title": "Überlegene GaN-Technologie ermöglicht stärkere und schnellere Ladegeräte.",
+            "subtitle": "",
+            "button_text": "Jetzt kaufen",
+            "link": "\/products\/ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
+            "className": ""
+          }
+        },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -56,44 +82,18 @@
             "link": "\/collections\/festplattengehause",
             "className": ""
           }
-        },
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Nexode_200W_PC_98a652d8-9d73-4ad8-8a20-6ad7f743ba01.jpg?v=1677726529",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Nexode_200W.jpg?v=1677726527",
-            "title": "Nexode 200W Desktop-Ladegerät",
-            "subtitle": "6 Ports unterstützen Teamarbeit",
-            "button_text": "Jetzt kaufen",
-            "link": "\/products\/ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
-            "className": ""
-          }
         }
       },
       "block_order": [
+        "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
-        "758dee12-0c83-4073-ab52-baa690d72db1"
+        "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
       "settings": {
         "custom_style": ".nexode-100w .green-home-banner-box {\n   left: 12vw;\n    right: auto;\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n}\n.nexode-100w .green-home-banner-box .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.nexode-100w .green-home-banner-box {\n    text-align: center;\n    top: 15%;\n}\n}",
         "banner_index": ""
-      }
-    },
-    "ug-index-image": {
-      "type": "ug-index-image",
-      "settings": {
-        "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.2_-_Web.png?v=1679540557",
-        "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.3-_Mobile.png?v=1679540550",
-        "title": "Überlegene GaN-Technologie ermöglicht stärkere und schnellere Ladegeräte.",
-        "subtitle": "",
-        "button_text": "Jetzt kaufen",
-        "link": "\/collections\/gan-ladegerat",
-        "className": "",
-        "custom_style": ""
       }
     },
     "ug-index-whybuy": {
@@ -175,8 +175,8 @@
   },
   "order": [
     "ug-index-header",
-    "ug-index-carousel",
     "ug-index-image",
+    "ug-index-carousel",
     "ug-index-whybuy",
     "ug-index-fit-life",
     "ug-index-benefit",
