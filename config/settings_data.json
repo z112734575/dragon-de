@@ -1720,10 +1720,10 @@
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58": {
             "type": "menu",
             "settings": {
-              "title": "Products",
+              "title": "Produkte",
               "url": "",
               "open_link": "_self",
-              "menu": "",
+              "menu": "m-produkte",
               "icon": "",
               "lb": "",
               "lb_cl": ""
