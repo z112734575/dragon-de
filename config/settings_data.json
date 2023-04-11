@@ -1807,7 +1807,7 @@
             "type": "menu",
             "settings": {
               "title": "Kontakt",
-              "url": "shopify:\/\/pages\/contact",
+              "url": "shopify:\/\/pages\/contact-us-custom",
               "open_link": "_self",
               "menu": "",
               "icon": "",
