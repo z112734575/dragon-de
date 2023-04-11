@@ -1806,7 +1806,7 @@
             "type": "menu",
             "settings": {
               "title": "Support",
-              "url": "#",
+              "url": "shopify:\/\/pages\/contact",
               "open_link": "_self",
               "menu": "",
               "icon": "",
