@@ -1743,10 +1743,9 @@
           },
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd": {
             "type": "menu",
-            "disabled": true,
             "settings": {
-              "title": "Halloween",
-              "url": "\/collections\/halloween-event",
+              "title": "Tragbare Powerstation",
+              "url": "shopify:\/\/collections\/power-station",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -1770,8 +1769,8 @@
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf": {
             "type": "menu",
             "settings": {
-              "title": "Chargers",
-              "url": "shopify:\/\/collections\/charger",
+              "title": "LADEGERÄT",
+              "url": "shopify:\/\/collections\/ladegerat",
               "open_link": "_self",
               "menu": "",
               "icon": "",
