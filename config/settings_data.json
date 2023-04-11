@@ -792,10 +792,9 @@
           },
           "00add30b-e435-436e-be83-c631fd494b0e": {
             "type": "base",
-            "disabled": true,
             "settings": {
-              "title": "Autumn Deals",
-              "url": "shopify:\/\/collections\/autumn-deals",
+              "title": "Docking Station",
+              "url": "shopify:\/\/collections\/docking-station",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -838,10 +837,9 @@
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
-            "disabled": true,
             "settings": {
-              "title": "Supports",
-              "url": "#",
+              "title": "Erkundung",
+              "url": "shopify:\/\/pages\/contact-us-custom",
               "open_link": "_self",
               "menu": "",
               "icon": "",
