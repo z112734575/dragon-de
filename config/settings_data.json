@@ -1792,6 +1792,7 @@
           },
           "8d7adc9a-6e6f-4c96-849e-005240cb0084": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Stands & Protectors",
               "url": "shopify:\/\/collections\/holder-protectors",
