@@ -1747,8 +1747,8 @@
               "open_link": "_self",
               "menu": "",
               "icon": "",
-              "lb": "",
-              "lb_cl": ""
+              "lb": "New",
+              "lb_cl": "#11f5d7"
             }
           },
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf": {
@@ -1771,8 +1771,8 @@
               "open_link": "_self",
               "menu": "",
               "icon": "",
-              "lb": "",
-              "lb_cl": ""
+              "lb": "Hot",
+              "lb_cl": "#ec0101"
             }
           },
           "6f549481-942e-4bc2-82b1-22f3208c3997": {
