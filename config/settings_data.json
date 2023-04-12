@@ -756,23 +756,6 @@
               "lb_cl": "#ec0101"
             }
           },
-          "16e2ef48-b04b-46f0-bf5f-d12823645624": {
-            "type": "drop",
-            "settings": {
-              "title": "Power Stations",
-              "url": "shopify:\/\/collections\/power-station",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "New",
-              "lb_cl": "#15f2de",
-              "lazy_mn": true,
-              "pos_sub": "bottom",
-              "pos": "left"
-            }
-          },
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
             "settings": {
@@ -785,6 +768,23 @@
               "cl": "#ec0101",
               "lb": "",
               "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "16e2ef48-b04b-46f0-bf5f-d12823645624": {
+            "type": "drop",
+            "settings": {
+              "title": "Power Stations",
+              "url": "shopify:\/\/collections\/power-station",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "New",
+              "lb_cl": "#15f2de",
               "lazy_mn": true,
               "pos_sub": "bottom",
               "pos": "left"
@@ -877,8 +877,8 @@
           "01924df3-a82c-4cbe-9111-6f2932b314af",
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
           "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
-          "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
+          "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "00add30b-e435-436e-be83-c631fd494b0e",
           "90140798-89e3-4cdf-98ac-6b1d30579962",
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
