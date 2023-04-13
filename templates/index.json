@@ -46,6 +46,18 @@
             "className": ""
           }
         },
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
+            "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
+            "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
+            "button_text": "Mehr erfahren",
+            "link": "\/pages\/powerroam-series",
+            "className": ""
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -55,19 +67,6 @@
             "subtitle": "Empower your life, Roam the world",
             "button_text": "Jetzt kaufen",
             "link": "\/products\/15050",
-            "className": ""
-          }
-        },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
-            "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
-            "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
-            "button_text": "Mehr erfahren",
-            "link": "\/pages\/powerroam-series",
             "className": ""
           }
         },
@@ -87,8 +86,8 @@
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-1",
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
       "settings": {
