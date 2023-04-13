@@ -21,15 +21,15 @@
             "className": ""
           }
         },
-        "ug-index-carousel-1": {
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "title": "Ugreen PowerRoam",
+            "subtitle": "Empower your life, Roam the world",
             "button_text": "Jetzt kaufen",
-            "link": "\/collections\/hub-adapter",
+            "link": "\/products\/15050",
             "className": ""
           }
         },
@@ -45,15 +45,15 @@
             "className": ""
           }
         },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+        "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
-            "title": "Ugreen PowerRoam",
-            "subtitle": "Empower your life, Roam the world",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "",
             "button_text": "Jetzt kaufen",
-            "link": "\/products\/15050",
+            "link": "\/collections\/hub-adapter",
             "className": ""
           }
         },
@@ -72,9 +72,9 @@
       },
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
-        "ug-index-carousel-1",
-        "ug-index-carousel-11",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
+        "ug-index-carousel-11",
+        "ug-index-carousel-1",
         "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
       "settings": {
