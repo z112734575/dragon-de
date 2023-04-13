@@ -1580,7 +1580,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
             "settings": {
-              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-fd4b6a51.js?v=1681369866\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-de-eeaa7cff.css?v=1679491134\">\n<div id=\"ug-mega-menu-app\"><\/div>",
+              "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-de-2564b571.js?v=1679491134\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-de-eeaa7cff.css?v=1679491134\">\n<div id=\"ug-mega-menu-app\"><\/div>",
               "page": "",
               "col": "12"
             }
@@ -1779,13 +1779,13 @@
             "type": "menu",
             "disabled": true,
             "settings": {
-              "title": "COMMUNITY",
-              "url": "https:\/\/community.ugreen.com\/",
+              "title": "Power Station PowerRoam 1200",
+              "url": "https:\/\/de.ugreen.com\/pages\/powerroam",
               "open_link": "_self",
               "menu": "",
               "icon": "",
-              "lb": "",
-              "lb_cl": ""
+              "lb": "New",
+              "lb_cl": "#0fecce"
             }
           },
           "8d7adc9a-6e6f-4c96-849e-005240cb0084": {
