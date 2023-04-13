@@ -33,18 +33,6 @@
             "className": ""
           }
         },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
-            "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
-            "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
-            "button_text": "Mehr erfahren",
-            "link": "\/pages\/powerroam-series",
-            "className": ""
-          }
-        },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -68,14 +56,27 @@
             "link": "\/collections\/festplattengehause",
             "className": ""
           }
+        },
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "disabled": true,
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
+            "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
+            "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
+            "button_text": "Mehr erfahren",
+            "link": "\/pages\/powerroam-series",
+            "className": ""
+          }
         }
       },
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-11",
         "ug-index-carousel-1",
-        "86777b6a-bde9-4981-9d0b-274743aba41c"
+        "86777b6a-bde9-4981-9d0b-274743aba41c",
+        "ug-index-carousel-11"
       ],
       "settings": {
         "custom_style": ".nexode-100w .green-home-banner-box {\n   left: 12vw;\n    right: auto;\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n}\n.nexode-100w .green-home-banner-box .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.nexode-100w .green-home-banner-box {\n    text-align: center;\n    top: 15%;\n}\n}",
