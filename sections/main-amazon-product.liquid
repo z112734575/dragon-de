@@ -1788,7 +1788,8 @@
             const mySwiper = new Swiper('.a-carousel-viewport', {
                 loop: true,
             });
-            mySwiper.forEach(function (swiper) {
+            const swiperArray = mySwiper?.length > 1 ? mySwiper : [mySwiper]
+            swiperArray.forEach(function (swiper) {
                 const  swiperWrap = $('.aplus-carousel-container').has($(swiper.el)) // 找到父级
                 swiperWrap.find('.a-carousel-left').click(function () {
                     swiper.slidePrev()
