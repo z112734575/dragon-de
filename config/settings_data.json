@@ -1727,6 +1727,18 @@
               "lb_cl": ""
             }
           },
+          "6f549481-942e-4bc2-82b1-22f3208c3997": {
+            "type": "menu",
+            "settings": {
+              "title": "Power Station PowerRoam 1200",
+              "url": "https:\/\/de.ugreen.com\/pages\/powerroam",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "New",
+              "lb_cl": "#0fecce"
+            }
+          },
           "a0d1607c-521f-49bd-8ed4-1c384cca180e": {
             "type": "menu",
             "settings": {
@@ -1747,7 +1759,7 @@
               "open_link": "_self",
               "menu": "",
               "icon": "",
-              "lb": "New",
+              "lb": "",
               "lb_cl": "#11f5d7"
             }
           },
@@ -1773,19 +1785,6 @@
               "icon": "",
               "lb": "Hot",
               "lb_cl": "#ec0101"
-            }
-          },
-          "6f549481-942e-4bc2-82b1-22f3208c3997": {
-            "type": "menu",
-            "disabled": true,
-            "settings": {
-              "title": "Power Station PowerRoam 1200",
-              "url": "https:\/\/de.ugreen.com\/pages\/powerroam",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "lb": "New",
-              "lb_cl": "#0fecce"
             }
           },
           "8d7adc9a-6e6f-4c96-849e-005240cb0084": {
@@ -1871,11 +1870,11 @@
           "mb_nav-3",
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4",
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58",
+          "6f549481-942e-4bc2-82b1-22f3208c3997",
           "a0d1607c-521f-49bd-8ed4-1c384cca180e",
           "a6508826-0ecb-4412-a5d8-a7547aa8d015",
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf",
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd",
-          "6f549481-942e-4bc2-82b1-22f3208c3997",
           "8d7adc9a-6e6f-4c96-849e-005240cb0084",
           "06092e7b-58cd-4790-9721-e86ddd55d4a0",
           "mb_nav-4",
