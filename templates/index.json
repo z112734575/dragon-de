@@ -179,22 +179,21 @@
         "914a7dc5-0679-4c54-abf9-6721e9d89ebb"
       ],
       "settings": {
-        "title": "Shop by Category",
+        "title": "Nach Kategorie Einkaufen",
         "pc_icon_size": "",
         "mobile_icon_size": ""
       }
     },
     "ug-product-list": {
       "type": "ug-product-list",
-      "disabled": true,
       "settings": {
         "product_list": [
-          "100w-3c1a-gan-fast-charger",
-          "ugreen-nexode-200w-usb-c-desktop-charger",
-          "ugreen-nexode-45w-dual-c-port-wall-charger",
-          "ugreen-m-2-nvme-sata-ssd-enclosure-adapter"
+          "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+          "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
         ],
-        "title": "Hot Sale",
+        "title": "Heißer Verkauf",
         "subtitle": "",
         "mobile_product_type": "column",
         "product_item_bg_color": "#f8f8f9",
@@ -271,10 +270,10 @@
     },
     "ug-index-blog": {
       "type": "ug-index-blog",
-      "disabled": true,
       "blocks": {
         "825b9746-c7d0-4d97-a9ef-ba573b1ebc66": {
           "type": "ug-index-blog-item",
+          "disabled": true,
           "settings": {
             "title": "How to select between USB-C Hub and Docking Station?",
             "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/pic1_pc.jpg?v=1681805831",
