@@ -1602,7 +1602,7 @@
   <div id="ugreen-top-tips">{{ se_stts.top_tips_text }}</div>
 {%- endif -%}
 
-{% render '600w-share-pop', product_id: product.id %}
+{% comment %}{% render '600w-share-pop', product_id: product.id %}{% endcomment %}
 
 {%- liquid
   assign current_variant = product.selected_or_first_available_variant | default: product.variants.first
@@ -1788,8 +1788,7 @@
             const mySwiper = new Swiper('.a-carousel-viewport', {
                 loop: true,
             });
-            const swiperArray = mySwiper?.length > 1 ? mySwiper : [mySwiper]
-            swiperArray.forEach(function (swiper) {
+            mySwiper.forEach(function (swiper) {
                 const  swiperWrap = $('.aplus-carousel-container').has($(swiper.el)) // 找到父级
                 swiperWrap.find('.a-carousel-left').click(function () {
                     swiper.slidePrev()
