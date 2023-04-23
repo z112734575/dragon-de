@@ -286,22 +286,22 @@
         "2f682d42-1614-4781-ba3e-ff7d3fb6f30b": {
           "type": "ug-index-blog-item",
           "settings": {
-            "title": "USB-C vs A vs B: Which One Do You Need for Your Product?",
+            "title": "USB C vs. A vs. B: Was brauchen Sie für Ihr Produkt?",
             "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/pic2_pc.jpg?v=1681805832",
             "date": "Feb  18, 2023",
             "description": "",
-            "link": "https:\/\/blog.ugreen.com\/usb-c-a-b-difference\/",
+            "link": "https:\/\/de.ugreen.com\/blogs\/kaufberatung\/usb-c-vs-a-vs-b",
             "tag": "Buying Guides"
           }
         },
         "fe469495-d8cb-424c-af61-09b08c7155ab": {
           "type": "ug-index-blog-item",
           "settings": {
-            "title": "Low Latency 101: Understanding Bluetooth Earbuds’ Latency",
+            "title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
             "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/pic3_pc.jpg?v=1681805832",
             "date": "Mar  5, 2023",
             "description": "",
-            "link": "https:\/\/blog.ugreen.com\/low-latency-101-understanding-bluetooth-earbud-latency\/",
+            "link": "https:\/\/de.ugreen.com\/blogs\/kaufberatung\/niedrige-latenz-101",
             "tag": "Tips & Tutorials"
           }
         }
@@ -312,7 +312,7 @@
         "fe469495-d8cb-424c-af61-09b08c7155ab"
       ],
       "settings": {
-        "title": "Learn More About All the Latest Tech"
+        "title": "Erfahren Sie mehr über die neueste Technologie"
       }
     },
     "ug-index-featured": {

@@ -793,7 +793,7 @@
             "type": "drop",
             "settings": {
               "title": "Power Stations",
-              "url": "shopify:\/\/pages\/powerroam-powerstation",
+              "url": "shopify:\/\/collections\/power-station",
               "open_link": "_self",
               "menu": "",
               "icon": "",
@@ -1812,7 +1812,7 @@
             "type": "menu",
             "settings": {
               "title": "Tragbare Powerstation",
-              "url": "shopify:\/\/pages\/powerroam-powerstation",
+              "url": "shopify:\/\/collections\/power-station",
               "open_link": "_self",
               "menu": "",
               "icon": "",
