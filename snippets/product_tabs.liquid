@@ -194,7 +194,7 @@ assign listTyCurent2 = ''  -%}
                           {%- unless the_snippet_reviews contains 'Liquid error' %}{{ the_snippet_reviews }}{% endunless -%}
                         {%- when '7' -%}{%- render 'judgeme_widgets', widget_type: 'judgeme_review_widget', concierge_install: true, product: product -%}
                         {%- when '8' -%}
-                            {%- render "reviews-importer",product : product -%}
+                            {% comment %}{%- render "reviews-importer",product : product -%}{% endcomment %}
                             <div class="scm-container custom" style="display: none;"><div id="scm-reviews-importer" class="scm-reviews-importer"><iframe id="scm-reviews-importer-iframe" width="100%"></iframe></div></div>
                         {%- else -%}
                           <div class="star-rating review_widget_other">{{bk_setts.review_liquid}}</div>
