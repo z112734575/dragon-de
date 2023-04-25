@@ -547,6 +547,9 @@
       "block_order": [
         "opinew-reviews-widget"
       ],
+      "custom_css": [
+        "#shopify-block-opinew-reviews-widget{max-width: 1200px; margin: 0 auto;}"
+      ],
       "settings": {
       }
     }
