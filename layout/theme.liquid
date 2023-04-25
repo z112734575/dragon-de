@@ -202,7 +202,8 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     <script src="//staticxx.s3.amazonaws.com/aio_stats_lib_v1.min.js?v=1.0"></script>
     {% include 'hulk_po_vd.liquid' %}
     {% render 'gsf-conversion-pixels' %}
-  </head>
+  {% render 'opinew_head' %}
+</head>
 
   <body
     class="template-{{ request.page_type | handle }} {{class_lazy}}"
