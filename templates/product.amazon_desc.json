@@ -534,6 +534,21 @@
       "type": "apps",
       "settings": {
       }
+    },
+    "opinew-reviews-product-page-code": {
+      "type": "apps",
+      "blocks": {
+        "opinew-reviews-widget": {
+          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "opinew-reviews-widget"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -543,6 +558,7 @@
     "sidebar",
     "product-recommendations",
     "recently-viewed-products",
-    "loox-product-reviews-app-section"
+    "loox-product-reviews-app-section",
+    "opinew-reviews-product-page-code"
   ]
 }
