@@ -674,7 +674,53 @@
                     </style>
                   {% endunless %}
                   {% comment %}ugreen{% endcomment %}
-                  <div class="scm-reviews-rate" data-go-id="#{{idTabReview}}" data-rate-version2={{ product.metafields.scm_review_importer.reviewsData.reviewCountInfo | json }} data-product-id= {{ product.id }}></div>
+                  {%- if bk_stts.rating -%}
+                      {%- assign pid = product.id -%}
+                      <a
+                              href="#{{ idTabReview }}"
+                              data-go-id="#{{ idTabReview }}"
+                              class="t4s-product__review t4s-d-inline-block"
+                      >
+                          {%- case settings.app_review -%}
+                              {%- when '1' -%}
+                                  <span
+                                          class="shopify-product-reviews-badge"
+                                          data-id="{{ pid }}"
+                                  ></span>
+                              {%- when '2' -%}
+                                  <div class="review-widget">
+                                      <ryviu-widget-total
+                                              reviews_data="{{ pr_metafields.ryviu.product_reviews_info | escape }}"
+                                              product_id="{{ pid }}"
+                                              handle="{{ product.handle }}"
+                                      ></ryviu-widget-total>
+                                  </div>
+                              {%- when '3' -%}
+                                  <div
+                                          product-id="{{ pid }}"
+                                          class="alr-display-review-badge"
+                                  ></div>
+                              {%- when '4' -%}
+                                  <div
+                                          class="loox-rating"
+                                          data-id="{{ pid }}"
+                                          data-rating="{{ pr_metafields.loox.avg_rating }}"
+                                          data-raters="{{ pr_metafields.loox.num_reviews }}"
+                                  ></div>
+                              {%- when '5' -%}
+                                  {%- capture the_snippet_review_avg %}{% render 'ssw-widget-avg-rate-profile' %}{% endcapture -%}
+                                  {%- unless the_snippet_review_avg contains 'Liquid error' -%}
+                                      {{- the_snippet_review_avg -}}
+                                  {%- endunless -%}
+                              {%- when '7' -%}
+                                  {{ product.metafields.judgeme.badge }}
+                              {%- when '8' -%}
+                                  <div class="scm-reviews-rate t4s-grid-rating" data-rate-version2={{ product.metafields.scm_review_importer.reviewsData.reviewCountInfo | json }} data-product-id= {{ product.id }}></div>
+                              {%- else -%}
+                                  <div class="t4s-pr_rating t4s-review_pr_other">{{ bk_stts.review_liquid }}</div>
+                          {%- endcase -%}
+                      </a>
+                  {%- endif -%}
                 {%- when 'price_review' -%}
                   <div
                     class="t4s-product__price-review"
@@ -692,53 +738,6 @@
                       type_sale: bk_stts.type_sale,
                       price_varies_style: bk_stts.price
                     -%}
-                    {% comment %}{%- if bk_stts.rating -%}{% endcomment %}
-                      {% comment %}{%- assign pid = product.id -%}{% endcomment %}
-                      {% comment %}<a{% endcomment %}
-                        {% comment %}href="#{{ idTabReview }}"{% endcomment %}
-                        {% comment %}data-go-id="#{{ idTabReview }}"{% endcomment %}
-                        {% comment %}class="t4s-product__review t4s-d-inline-block"{% endcomment %}
-                      {% comment %}>{% endcomment %}
-                        {% comment %}{%- case settings.app_review -%}{% endcomment %}
-                          {% comment %}{%- when '1' -%}{% endcomment %}
-                            {% comment %}<span{% endcomment %}
-                              {% comment %}class="shopify-product-reviews-badge"{% endcomment %}
-                              {% comment %}data-id="{{ pid }}"{% endcomment %}
-                            {% comment %}></span>{% endcomment %}
-                          {% comment %}{%- when '2' -%}{% endcomment %}
-                            {% comment %}<div class="review-widget">{% endcomment %}
-                              {% comment %}<ryviu-widget-total{% endcomment %}
-                                {% comment %}reviews_data="{{ pr_metafields.ryviu.product_reviews_info | escape }}"{% endcomment %}
-                                {% comment %}product_id="{{ pid }}"{% endcomment %}
-                                {% comment %}handle="{{ product.handle }}"{% endcomment %}
-                              {% comment %}></ryviu-widget-total>{% endcomment %}
-                            {% comment %}</div>{% endcomment %}
-                          {% comment %}{%- when '3' -%}{% endcomment %}
-                            {% comment %}<div{% endcomment %}
-                              {% comment %}product-id="{{ pid }}"{% endcomment %}
-                              {% comment %}class="alr-display-review-badge"{% endcomment %}
-                            {% comment %}></div>{% endcomment %}
-                          {% comment %}{%- when '4' -%}{% endcomment %}
-                            {% comment %}<div{% endcomment %}
-                              {% comment %}class="loox-rating"{% endcomment %}
-                              {% comment %}data-id="{{ pid }}"{% endcomment %}
-                              {% comment %}data-rating="{{ pr_metafields.loox.avg_rating }}"{% endcomment %}
-                              {% comment %}data-raters="{{ pr_metafields.loox.num_reviews }}"{% endcomment %}
-                            {% comment %}></div>{% endcomment %}
-                          {% comment %}{%- when '5' -%}{% endcomment %}
-                            {% comment %}{%- capture the_snippet_review_avg %}{% render 'ssw-widget-avg-rate-profile' %}{% endcapture -%}{% endcomment %}
-                            {% comment %}{%- unless the_snippet_review_avg contains 'Liquid error' -%}{% endcomment %}
-                              {% comment %}{{- the_snippet_review_avg -}}{% endcomment %}
-                            {% comment %}{%- endunless -%}{% endcomment %}
-                          {% comment %}{%- when '7' -%}{% endcomment %}
-                            {% comment %}{{ product.metafields.judgeme.badge }}{% endcomment %}
-                            {% comment %}{%- when '8' -%}{% endcomment %}
-                                {% comment %}<div class="scm-reviews-rate t4s-grid-rating" data-rate-version2={{ product.metafields.scm_review_importer.reviewsData.reviewCountInfo | json }} data-product-id= {{ product.id }}></div>{% endcomment %}
-                          {% comment %}{%- else -%}{% endcomment %}
-                            {% comment %}<div class="t4s-pr_rating t4s-review_pr_other">{{ bk_stts.review_liquid }}</div>{% endcomment %}
-                        {% comment %}{%- endcase -%}{% endcomment %}
-                      {% comment %}</a>{% endcomment %}
-                    {% comment %}{%- endif -%}{% endcomment %}
                   </div>
 
                   {%- if bk_stts.tax_ship and cart.taxes_included or shop.shipping_policy.body != blank -%}
