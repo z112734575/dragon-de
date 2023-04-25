@@ -29,10 +29,27 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "sma_reviews_section_auto": {
+      "type": "apps",
+      "blocks": {
+        "sma_reviews_section_auto": {
+          "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/lai-product-section\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
+          "settings": {
+            "lai_product": ""
+          }
+        }
+      },
+      "block_order": [
+        "sma_reviews_section_auto"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
     "e52a5a92-65b4-4c4c-b49a-89794135b02c",
-    "605d565f-55f8-4446-8c81-1ae2d3df3aa8"
+    "605d565f-55f8-4446-8c81-1ae2d3df3aa8",
+    "sma_reviews_section_auto"
   ]
 }
