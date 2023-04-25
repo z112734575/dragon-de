@@ -532,6 +532,7 @@
     },
     "loox-product-reviews-app-section": {
       "type": "apps",
+      "disabled": true,
       "settings": {
       }
     },
@@ -548,7 +549,7 @@
         "opinew-reviews-widget"
       ],
       "custom_css": [
-        "#shopify-block-opinew-reviews-widget{max-width: 1200px; margin: 0 auto;}"
+        "#shopify-block-opinew-reviews-widget {max-width: 1200px; margin: 0 auto;}"
       ],
       "settings": {
       }
@@ -559,7 +560,8 @@
         "sma_reviews_section_auto": {
           "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/lai-product-section\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
           "settings": {
-            "lai_product": ""
+            "lai_product": "",
+            "title": ""
           }
         }
       },
