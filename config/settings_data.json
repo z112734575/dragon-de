@@ -2816,12 +2816,6 @@
 
     ],
     "blocks": {
-      "1762459649": {
-        "type": "shopify:\/\/apps\/facebook-pixel-&-tiktok-pixel\/blocks\/one-pixel\/fbbf7f1f-cacf-481b-802e-aa7043758c9c",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "opinew-global-code": {
         "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/global\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
         "disabled": false,
@@ -2830,6 +2824,12 @@
       },
       "lai_embed_block_auto": {
         "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/appBlockEmbed\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "4631727407673331639": {
+        "type": "shopify:\/\/apps\/omnitrack-facebook-pixels\/blocks\/app_snippet\/23ef33fb-c988-4959-840f-ab56d7775513",
         "disabled": false,
         "settings": {
         }
