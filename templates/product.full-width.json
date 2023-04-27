@@ -330,7 +330,7 @@
         "product_list": [
 
         ],
-        "sticky_mode": "2",
+        "sticky_mode": "1",
         "sticky_show": "1",
         "ani": "none",
         "time": 6
@@ -541,7 +541,8 @@
         "sma_reviews_section_auto": {
           "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/lai-product-section\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
           "settings": {
-            "lai_product": ""
+            "lai_product": "",
+            "title": ""
           }
         }
       },
