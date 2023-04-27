@@ -1309,3 +1309,9 @@
   fill: currentColor;
   overflow: hidden;
 }
+
+/* inbox icon */
+#shopify-chat > iframe {
+  bottom: 120px;
+  right: 12px;
+}
