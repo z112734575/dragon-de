@@ -1312,6 +1312,6 @@
 
 /* inbox icon */
 #shopify-chat > iframe {
-  bottom: 120px;
-  right: 12px;
+  bottom: 120px !important;
+  right: 12px !important;
 }
