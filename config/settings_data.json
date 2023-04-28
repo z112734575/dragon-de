@@ -438,7 +438,7 @@
           "f469677a-faf1-4b98-b3e6-f58d9689442d": {
             "type": "custom_text",
             "settings": {
-              "text": "wir akzeptieren",
+              "text": "Wir akzeptieren",
               "remove_br_tag": false,
               "fontf": "inherit",
               "text_cl": "#ffffff",
