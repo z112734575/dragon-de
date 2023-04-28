@@ -792,7 +792,7 @@
           "16e2ef48-b04b-46f0-bf5f-d12823645624": {
             "type": "drop",
             "settings": {
-              "title": "Power Stations",
+              "title": "PowerStation",
               "url": "shopify:\/\/pages\/powerroam-powerstation",
               "open_link": "_self",
               "menu": "",
