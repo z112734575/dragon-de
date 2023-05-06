@@ -280,6 +280,17 @@
             "tag": "Buying Guides"
           }
         },
+        "fe469495-d8cb-424c-af61-09b08c7155ab": {
+          "type": "ug-index-blog-item",
+          "settings": {
+            "title": "Die ultimative tragbare Stromversorgungslösung: Ugreen PowerRoam-Serie",
+            "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A_03.jpg?v=1683366785",
+            "date": "Mar  5, 2023",
+            "description": "",
+            "link": "https:\/\/de.ugreen.com\/blogs\/kaufberatung\/ugreen-powerroam-serie",
+            "tag": "Tips & Tutorials"
+          }
+        },
         "2f682d42-1614-4781-ba3e-ff7d3fb6f30b": {
           "type": "ug-index-blog-item",
           "settings": {
@@ -290,23 +301,12 @@
             "link": "https:\/\/de.ugreen.com\/blogs\/kaufberatung\/usb-c-vs-a-vs-b",
             "tag": "Buying Guides"
           }
-        },
-        "fe469495-d8cb-424c-af61-09b08c7155ab": {
-          "type": "ug-index-blog-item",
-          "settings": {
-            "title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
-            "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/pic3_pc.jpg?v=1681805832",
-            "date": "Mar  5, 2023",
-            "description": "",
-            "link": "https:\/\/de.ugreen.com\/blogs\/kaufberatung\/niedrige-latenz-101",
-            "tag": "Tips & Tutorials"
-          }
         }
       },
       "block_order": [
         "825b9746-c7d0-4d97-a9ef-ba573b1ebc66",
-        "2f682d42-1614-4781-ba3e-ff7d3fb6f30b",
-        "fe469495-d8cb-424c-af61-09b08c7155ab"
+        "fe469495-d8cb-424c-af61-09b08c7155ab",
+        "2f682d42-1614-4781-ba3e-ff7d3fb6f30b"
       ],
       "settings": {
         "title": "Erfahren Sie mehr über die neueste Technologie"
