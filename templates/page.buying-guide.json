@@ -1,0 +1,20 @@
+{
+  "sections": {
+    "ce21d704-cac6-4a10-8364-732e86533503": {
+      "type": "BuyingGuide",
+      "settings": {
+        "product_list": [
+          "ugreen-9-in-1-usb-c-hub-with-4k-hdmi",
+          "6-in-2-usb-c-hub-for-macbook-pro",
+          "ugreen-usb-c-hub-hdmi-adapter",
+          "ugreen-usb-c-triple-display-docking-station",
+          "ugreen-9-in-1-usb-c-docking-station",
+          "usb-c-to-gigabit-rj45-ethernet-adapter"
+        ]
+      }
+    }
+  },
+  "order": [
+    "ce21d704-cac6-4a10-8364-732e86533503"
+  ]
+}
