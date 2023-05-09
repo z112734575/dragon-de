@@ -1786,6 +1786,7 @@
           },
           "mb_nav-2": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Dienst",
               "url": "shopify:\/\/products\/analogue-resin-strap",
@@ -1810,7 +1811,6 @@
           },
           "mb_nav-3": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "Dienst",
               "url": "shopify:\/\/blogs\/fashion",
@@ -1823,14 +1823,13 @@
           },
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
             "type": "menu",
-            "disabled": true,
             "settings": {
               "title": "Über uns",
               "url": "shopify:\/\/pages\/new-year",
               "open_link": "_self",
               "menu": "about",
               "icon": "",
-              "lb": "HOT",
+              "lb": "",
               "lb_cl": "#ff7e00"
             }
           },
