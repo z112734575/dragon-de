@@ -780,7 +780,7 @@
             "type": "drop",
             "settings": {
               "title": "Tragbare Powerstation",
-              "url": "shopify:\/\/pages\/powerroam-powerstation",
+              "url": "shopify:\/\/collections\/power-station",
               "open_link": "_self",
               "menu": "",
               "icon": "",
