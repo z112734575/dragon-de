@@ -871,10 +871,10 @@
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
             "type": "drop",
             "settings": {
-              "title": "Kontakt",
+              "title": "SUPPORT",
               "url": "shopify:\/\/pages\/contact-us-custom",
               "open_link": "_self",
-              "menu": "",
+              "menu": "support",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
