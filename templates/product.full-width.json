@@ -215,7 +215,7 @@
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
           "type": "tab_des",
           "settings": {
-            "title": "Overview",
+            "title": "Funktionen",
             "enable_products_diff": true
           }
         },
@@ -229,14 +229,14 @@
         "0cce4997-b8d6-4ea9-8b2a-3a940780863b": {
           "type": "tab_liquid",
           "settings": {
-            "title": "Specs",
+            "title": "Technische Daten",
             "custom_liquid": "{{product.metafields.custom.specs}}"
           }
         },
         "56e67368-7424-4d73-8f14-dacdda4c59be": {
           "type": "tab_rivui",
           "settings": {
-            "title": "Reviews",
+            "title": "Rezensionen",
             "review_liquid": ""
           }
         },
