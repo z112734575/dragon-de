@@ -1,0 +1,77 @@
+<h1>Frequently Asked Questions</h1>
+<div class="question-wrapper">
+    {% for field in shop.metafields.simpfaq  %}
+        {% assign faq = field | last | split: '***SIMP***' %}
+            <div class="question-wrap">
+            	<h2>{{ faq[0] }} </h2>
+            	<div class="answer"><p>{{ faq[1] }}</p></div>
+            </div>
+    {% endfor %}   
+    <style type="text/css">
+    body{ font-family:arial;}
+    h1{ text-align:center; margin-bottom:40px;}
+    .question-wrap{ border:solid 1px #dcdcdc; margin-bottom:15px;}
+    .question-wrap h2{ background:#dcdcdc; color:#333; font-size:18px; padding:8px; font-weight:normal; position:relative; padding-left:25px; margin:0; cursor: pointer;}
+    .question-wrap h2.active{ background:#666; color:#fff; cursor: pointer;}
+    .question-wrap h2:before{ content:"+"; position:absolute; left:8px; top:8px;  font-size:20px;}
+    .question-wrap h2.active:before{ content:"-"; }
+    .question-wrap .answer{ font-size:14px; color:#666; padding:15px; line-height:20px; margin:0; display:none;}
+    .question-wrapper{max-width: 100%; margin: 0 auto; width: 60%;}
+    .question-wrap .answer ul{padding-left: 15px;}
+    .question-wrap .answer ol{padding-left: 15px;}
+    </style>
+    
+    <script type="text/javascript">
+        var sqaLoadScript = function(url, callback) {
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            if (script.readyState) {
+                script.onreadystatechange = function() {
+                    if (script.readyState == 'loaded' || script.readyState == 'complete') {
+                        script.onreadystatechange = null;
+                        callback();
+                    }
+                };
+            } else {
+                script.onload = function() {
+                    callback();
+                };
+            }
+            script.src = url;
+            document.getElementsByTagName('head')[0].appendChild(script);
+        };
+        
+        var prepareAdditionalEvent = function(sqa_jQuery) {
+            sqa_jQuery(document).ready(function(){
+               sqa_jQuery(".question-wrap:first-child h2").addClass('active');
+               sqa_jQuery(".question-wrap:first-child div").addClass('active_tab').show();
+               sqa_jQuery(".question-wrap h2").click(function(){
+                   if(sqa_jQuery(this).hasClass('active')){
+                   
+                   }else{
+                    sqa_jQuery(".question-wrap div").removeClass('active_tab').slideUp();
+                    sqa_jQuery(".question-wrap h2").removeClass('active');
+                    sqa_jQuery(this).addClass('active');
+                    sqa_jQuery(this).next().addClass('active_tab').slideDown();
+                   }    
+               });
+            });
+        };
+        
+        if (!window.jQuery || typeof jQuery === 'undefined') {
+            sqaLoadScript('//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js', function() {
+                sqa_jQuery = jQuery.noConflict(true);
+                 prepareAdditionalEvent(sqa_jQuery);
+            });
+            
+        }else{
+            prepareAdditionalEvent(jQuery);
+        }
+    </script>
+</div>  
+           
+           
+           
+           
+           
+        
