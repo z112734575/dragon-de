@@ -538,7 +538,6 @@
     },
     "opinew-reviews-product-page-code": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "opinew-reviews-widget": {
           "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
