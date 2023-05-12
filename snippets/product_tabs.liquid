@@ -156,6 +156,7 @@ assign listTyCurent2 = ''  -%}
                 <a id="t44_{{bk_id}}" href="#{{idTabDes}}" rel="nofollow" class="t4s-tab__title t4s-fwm t4s-ch" data-t4s-tab-item data-no-instant><span class="t4s-tab__text">{{bk_stts.title | escape}}</span><span class="t4s-tab__icon"></span></a>
                 <div class="tabText_wrap is-pe"><div class="t4s-tab__text tab">{{bk_stts.title | escape}}</div></div>
                 <div id="{{idTabDes}}" class="t4s-rte t4s-tab-content{{class_first_tab}}" data-t4s-tab-content>{{- product.description -}}</div>
+                  {% render "ug-product-compare", custom: product.metafields.custom, current_product: product %}
 <!--                 <div>test---</div> -->
 <!--                 <div style="height: 500px">轮播</div> -->
                 {%- if bk_stts.enable_products_diff -%}
