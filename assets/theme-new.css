@@ -1309,3 +1309,6 @@
   fill: currentColor;
   overflow: hidden;
 }
+.ug-menu-custom ul {
+  list-style: none !important;
+}
