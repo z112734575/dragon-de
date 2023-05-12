@@ -229,7 +229,7 @@
         "0cce4997-b8d6-4ea9-8b2a-3a940780863b": {
           "type": "tab_liquid",
           "settings": {
-            "title": "Technische Daten",
+            "title": "Specs",
             "custom_liquid": "{{product.metafields.custom.specs}}"
           }
         },
