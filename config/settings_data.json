@@ -846,7 +846,7 @@
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
-              "lb": "New",
+              "lb": "Neu",
               "lb_cl": "#15f2de"
             }
           },
@@ -1752,13 +1752,13 @@
             "type": "menu",
             "disabled": true,
             "settings": {
-              "title": "Docking Station",
+              "title": "72H Blitzverkauf",
               "url": "shopify:\/\/collections\/docking-station",
               "open_link": "_self",
               "menu": "",
               "icon": "",
-              "lb": "",
-              "lb_cl": ""
+              "lb": "Neu",
+              "lb_cl": "#15f2de"
             }
           },
           "a6508826-0ecb-4412-a5d8-a7547aa8d015": {
