@@ -85,18 +85,25 @@
         "4556941b-3614-4b1f-8b9e-8d449c378b3f": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Hubs & Docking Station",
+            "tabs_title": "Hard Drive Enclosures",
             "product_list": [
-
+              "60638",
+              "ugreen-nvme-m-2-gehause-usb-3-2-nvme-ssd-gehause-adapter-mit-kuhlkissen-10-gbps-fur-nvme-pcie-m-key-m-b-key-in-2230-2242-2260-2280-mit-usb-cc-und-ac-kabel-werkzeuglos",
+              "ugreen-m-2-nvme-sata-ssd-gehause-usb-3-2-gen-2-10-gbps-aluminium-m2-gehause-mit-kuhlkissen-fur-nvme-ssd-und-sata-von-m-key-m-b-key-in-2280-2242-2230-2260-kompatibel-mit-970-evo-plus-760p-usw",
+              "ugreen-m-2-ssd-adapter-ssd-gehause-m2-gehause-usb-3-2-10-gbps-gen2-aluminium-m-2-ssd-gehause-fur-nvme-und-sata-ssd-in-2280-2242-2230-2260-kompatibel-mit-970-pro-970-evo-usw"
             ]
           }
         },
         "0096b536-6c02-4451-92ec-e4a59ca6a88c": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Hard Drive Enclosures",
+            "tabs_title": "Hubs & Docking Station",
             "product_list": [
-
+              "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+              "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
+              "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
+              "90912-1",
+              "ugreen-usb-c-adapter-10-in-1-usb-c-docking-station-mit-4k-hdmi-vga-gigabit-ethernet-usb-3-0-100w-pd-sd-tf-kartenleser-und-3-5-mm-audio-kompatibel-mit-macbook-ipad-ipad-mini-6-spectre-x360-usw"
             ]
           }
         },
@@ -105,7 +112,9 @@
           "settings": {
             "tabs_title": "Fast Chargers",
             "product_list": [
-
+              "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-3-port-pd-charger-60w-kompatibel-mit-steam-deck-macbook-pro-air-ipad-pro-air-iphone-14-14-pro-14-pro-max-13-12-11-galaxy-s22-s21-usw",
+              "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-usb-c-power-adapter-ladestecker-kompatibel-mit-iphone-14-14-pro-14-pro-max-13-13-mini-12-11-se-2022-ipad-pro-galaxy-s22-s21-usw-weiss",
+              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-pd-usb-c-ladestecker-ladeadapter-unterstutzt-20w-kompatibel-mit-iphone-14-pro-max-14-13-12-se-2022-ipad-pro-macbook-air-galaxy-s22-pixel-7-pro-6"
             ]
           }
         },
@@ -114,7 +123,10 @@
           "settings": {
             "tabs_title": "Stands",
             "product_list": [
-
+              "90850",
+              "ugreen-tablet-stander-aluminium-verstellbar-tablet-halterung-tisch-tablet-halter-kompatibel-mit-ipad-pro-air-mini-11-12-9-galaxy-tab-a-a7-iphone-14-huawei-matepad-surface-bis-13-5-zoll-anthrazit",
+              "ugreen-handyhalterung-auto-saugnapf-360-kfz-handy-halterung-auto-2-in-1-universale-autohalterung-handy-handyhalter-auto-smartphone-kompatibel-mit-iphone-14-13-12-pro-max-galaxy-s22-s21-redmi-huawei",
+              "ugreen-handyhalterung-auto-luftung-schwerkraft-gerauschlos-360-grad-handyhalter-furs-auto-handy-halterung-kfz-autohalterung-handy-kompatibel-with-iphone-14-14-pro-max-galaxy-huawei-smartphone-usw"
             ]
           }
         }
