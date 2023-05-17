@@ -26,7 +26,7 @@
     "ba30f705-8ef4-4326-9574-a9913009c92c": {
       "type": "custom-html",
       "settings": {
-        "code": "<section class=\"ug_bundles\">\n        <div class=\"contant\">\n            <div class=\"ug_bundles_box\">\n                <div class=\"item\">\n                    <div class=\"left\">\n                        <p>€10 Off<\/p>\n                        <span>Ordes of 79+<\/span>\n                    <\/div>\n                    <div class=\"right\">\n                        <p>Code: Ugreen10<\/p>\n                        <button data-ug-copy-data=\"Ugreen10\" class=\"copy-btn\">Copy<\/button>\n                    <\/div>\n                <\/div>\n                <div class=\"item\">\n                    <div class=\"left\">\n                        <p>€25 Off<\/p>\n                        <span>Ordes of 149+<\/span>\n                    <\/div>\n                    <div class=\"right\">\n                        <p>Code: Ugreen25<\/p>\n                        <button data-ug-copy-data=\"Ugreen25\" class=\"copy-btn\">Copy<\/button>\n                    <\/div>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/section>",
+        "code": "<section class=\"ug_bundles\">\n    <div class=\"contant\">\n        <div class=\"ug_bundles_box\">\n            <div class=\"item\">\n                <div class=\"left\">\n                    <p>10 € RABATT<\/p>\n                    <span>BESTELLUNGEN VON 79+<\/span>\n                <\/div>\n                <div class=\"right\">\n                    <p>CODE: UGREEN10<\/p>\n                    <button data-ug-copy-data=\"UGREEN10\" class=\"copy-btn\">KOPIE<\/button>\n                <\/div>\n            <\/div>\n            <div class=\"item\">\n                <div class=\"left\">\n                    <p>€25 RABATT<\/p>\n                    <span>BESTELLUNGEN VON 149+<\/span>\n                <\/div>\n                <div class=\"right\">\n                    <p> CODE: UGREEN25<\/p>\n                    <button data-ug-copy-data=\"UGREEN25\" class=\"copy-btn\">KOPIE<\/button>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -41,7 +41,7 @@
     "e8f15098-8dc6-40ea-98fc-74037a3d1191": {
       "type": "custom-html",
       "settings": {
-        "code": "<section class=\"svg_title\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xlink:href=\"#icon-discount_icon1\"><\/use>\n        <\/svg>\n        <h2> <span>Buy More, Save More<\/span>\n<\/h2>\n\n    <\/section>",
+        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-discount_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Mehr kaufen, mehr sparen<\/span>\n<\/h2>\n\n<\/section>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -163,7 +163,7 @@
     "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
       "type": "custom-html",
       "settings": {
-        "code": "<section class=\"svg_title\">\n        <svg class=\"icon\" aria-hidden=\"true\">\n            <use xlink:href=\"#icon-sale_icon1\"><\/use>\n        <\/svg>\n        <h2> <span>Best Sellers<\/span>\n<\/h2>\n    <\/section>",
+        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -210,7 +210,7 @@
     "121d9e92-ecf9-4049-b9c6-bf173a4295fe": {
       "type": "custom-html",
       "settings": {
-        "code": "<section class=\"details_box\">\n    <div class=\"section_box\">\n        <h2>Details<\/h2>\n        <ul>\n            <li>All products on this page are prices after discounts, and at the same time enjoy full discounts.<\/li>\n            <li>Order over €79 get €10 off (Code: <button data-ug-copy-data=\"UGREEN10\" class=\"copy-btn\">UGREEN10<\/button>),Order over €149 get €25 off (Code: <button data-ug-copy-data=\"UGREEN25\" class=\"copy-btn\">UGREEN25<\/button>)<\/li>\n            <li>This event and subsequent discount only applies to products on the event page.<\/li>\n        <\/ul>\n    <\/div>\n<\/section>\n<script src=\"https:\/\/at.alicdn.com\/t\/c\/font_3829374_0qkgxntptos.js\"><\/script>\n<script type=\"text\/javascript\">\n     \/\/ copy\n    $(function() {\n    let timeId = null;\n    $('[data-ug-copy-data]').click(function () {\n        clearTimeout(timeId);\n        timeId = setTimeout(() => {\n            var copyText = $(this).attr('data-ug-copy-data');\n            var input = document.createElement('input');\n            input.setAttribute('value',copyText);\n            document.body.appendChild(input);\n            input.select();\n            if (document.execCommand('copy')) {\n                document.execCommand('copy');\n                $(this).text('Copied!');\n                }\n                document.body.removeChild(input);\n        },200);});\n        $('.ug-product-buy-btn').text('Add to Chat');\n    })\n<\/script>",
+        "code": "<section class=\"details_box\">\n    <div class=\"section_box\">\n        <h2>Details：<\/h2>\n        <ul>\n            <li>1. Alle Produkte auf dieser Seite sind Preise nach Rabatten, und zur gleichen Zeit genießen Sie volle Rabatte.<\/li>\n            <li>2. Für Bestellungen ab €79 sichern Sie sich €10 Rabatt (Code: <button data-ug-copy-data=\"UGREEN10\" class=\"copy-btn\">UGREEN10<\/button>),Für Bestellungen ab €149 sichern Sie sich einen Rabatt von €25 (Code:<button data-ug-copy-data=\"UGREEN25\" class=\"copy-btn\">UGREEN25<\/button>)<\/li>\n            <li>3. Diese Aktion und der anschließende Rabatt gelten NUR für die Produkte auf der Aktionsseite.<\/li>\n        <\/ul>\n    <\/div>\n<\/section>\n<script src=\"https:\/\/at.alicdn.com\/t\/c\/font_3829374_0qkgxntptos.js\"><\/script>\n<script type=\"text\/javascript\">\n     \/\/ copy\n    $(function() {\n    let timeId = null;\n    $('[data-ug-copy-data]').click(function () {\n        clearTimeout(timeId);\n        timeId = setTimeout(() => {\n            var copyText = $(this).attr('data-ug-copy-data');\n            var input = document.createElement('input');\n            input.setAttribute('value',copyText);\n            document.body.appendChild(input);\n            input.select();\n            if (document.execCommand('copy')) {\n                document.execCommand('copy');\n                $(this).text('Copied!');\n                }\n                document.body.removeChild(input);\n        },200);});\n        $('.ug-product-buy-btn').text('In den Warenkorb legen');\n    })\n<\/script>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
