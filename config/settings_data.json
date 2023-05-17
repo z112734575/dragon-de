@@ -808,6 +808,7 @@
           },
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "Hubs",
               "url": "shopify:\/\/collections\/hubs",
