@@ -96,7 +96,7 @@
         "button_text": "Jetzt kaufen",
         "link": "\/pages\/72h-blitzverkauf",
         "className": "banner_left",
-        "custom_style": ".topImageText {\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n    max-width: 1280px;\n    margin: 0 auto;\n}\n.topImageText .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.topImageText {\n    text-align: center;\n    top: 15%;\n}\n}"
+        "custom_style": ".banner_left .topImageText {\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n    max-width: 1280px;\n    margin: 0 auto;\n}\n.banner_left .topImageText .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.banner_left .topImageText {\n    text-align: center;\n    top: 15%;\n}\n}"
       }
     },
     "ug-index-whybuy": {
