@@ -10,6 +10,7 @@
       "blocks": {
         "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_DE.png?v=1684372664",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_DE.png?v=1684372659",
@@ -33,18 +34,6 @@
             "className": "banner_left"
           }
         },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
-            "title": "Ugreen Tragbare Powerstation",
-            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
-            "button_text": "Jetzt kaufen",
-            "link": "pages\/powerroam-powerstation",
-            "className": ""
-          }
-        },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -54,6 +43,18 @@
             "subtitle": "",
             "button_text": "Jetzt kaufen",
             "link": "\/collections\/hub-adapter",
+            "className": ""
+          }
+        },
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "title": "Ugreen Tragbare Powerstation",
+            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
+            "button_text": "Jetzt kaufen",
+            "link": "pages\/powerroam-powerstation",
             "className": ""
           }
         },
@@ -74,8 +75,8 @@
       "block_order": [
         "86777b6a-bde9-4981-9d0b-274743aba41c",
         "758dee12-0c83-4073-ab52-baa690d72db1",
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-1",
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11"
       ],
       "settings": {
