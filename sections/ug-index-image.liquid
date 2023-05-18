@@ -1,3 +1,7 @@
+{% assign settings = section.settings %}
+{% assign text_color = settings.text_color %}
+
+
 <style>
     .icon {
         width: 1em;
@@ -28,13 +32,12 @@
         left: 50%;
         transform: translateX(-50%);
         text-align: center;
-        color: white;
     }
 
     .topImageText h1 {
         font-size: 2vw;
         font-weight: bold;
-        color: #fff;
+        color: inherit;
 
     }
 
@@ -42,7 +45,7 @@
         font-size: 1.2vw;
         font-weight: 400;
         margin: .5vw 0 1.2vw 0;
-        color: #fff;
+        color: inherit;
     }
 
     .topImageText .btn {
@@ -51,11 +54,12 @@
         line-height: 2.5vw;
         text-align: center;
         padding: 0 1.67vw;
-        border: 1px solid white;
+        border: 1px solid {{text_color}};
         border-radius: 60px;
         font-size: 0.83vw;
         cursor: pointer;
         font-weight: 600;
+      color: inherit
     }
 
     .topImageText .btn:hover {
@@ -101,27 +105,30 @@
   {{section.settings.custom_style}}
     /*topImage*/
 </style>
-<script src="//at.alicdn.com/t/c/font_3829374_9fbnj23d42i.js"></script>
-{% assign settings = section.settings %}
+
+
 <div class="{{ settings.className }}">
-    <a href="{{settings.link}}">
-        <div class="topImage">
-            <div class="mainBanner">
-                {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url:
-                settings.mobile_image_url, alt: settings.title %}
-            </div>
-            <div class="topImageText">
-                <h1 class="title">{{settings.title}}</h1>
-                <h2 class="subTitle">{{settings.subtitle}}</h2>
-                <div class="btn">
-                    <span>{{settings.button_text}}</span>
-                    <svg class="icon" aria-hidden="true">
-                        <use xlink:href="#icon-xiayiye"></use>
-                    </svg>
-                </div>
-            </div>
+  <a href="{{settings.link}}">
+    <div class="topImage">
+      <div class="mainBanner">
+        {% render 'ug-picture',
+          pc_image_url: settings.pc_image_url,
+          mobile_image_url: settings.mobile_image_url,
+          alt: settings.title
+        %}
+      </div>
+      <div class="topImageText" style="color: {{ text_color }}">
+        <h1 class="title">{{ settings.title }}</h1>
+        <h2 class="subTitle">{{ settings.subtitle }}</h2>
+        <div class="btn">
+          <span>{{ settings.button_text }}</span>
+          <svg class="icon" aria-hidden="true">
+            <use xlink:href="#icon-xiayiye"></use>
+          </svg>
         </div>
-    </a>
+      </div>
+    </div>
+  </a>
 </div>
 
 {% schema %}
@@ -162,6 +169,12 @@
 "id": "link",
 "label": "Link",
 "info": "跳转链接"
+},
+  {
+"type": "color",
+"id": "text_color",
+"label": "文案配色",
+"default": "#FFFFFF"
 },
 {
 "type": "text",
