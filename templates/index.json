@@ -48,12 +48,12 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/2_Banner-_Web.png?v=1677659094",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/2.1_Banner-_Mobile.png?v=1677659089",
-            "title": "Festplattengehäuse, Dateiübertragungen auf Flash.",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_DE.png?v=1684372664",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_DE.png?v=1684372659",
+            "title": "",
             "subtitle": "",
-            "button_text": "Jetzt kaufen",
-            "link": "\/collections\/festplattengehause",
+            "button_text": "",
+            "link": "\/pages\/powerroam-powerstation",
             "className": ""
           }
         },
