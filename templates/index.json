@@ -10,14 +10,13 @@
       "blocks": {
         "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
-          "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_DE.png?v=1684372664",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_DE.png?v=1684372659",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_DE_472157fb-ca20-43fe-9a6c-ef1433a24747.webp?v=1684393382",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_DE_df594a56-1eee-4a91-9613-7d8e4f3f4425.webp?v=1684393380",
             "title": "",
             "subtitle": "",
             "button_text": "",
-            "link": "\/pages\/powerroam-powerstation",
+            "link": "\/collections\/power-station\/products\/15054a",
             "className": ""
           }
         },
