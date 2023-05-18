@@ -1,3 +1,5 @@
+{% assign settings = section.settings %}
+{% assign text_color = settings.text_color %}
 <style>
     .icon {
         width: 1em;
@@ -28,21 +30,19 @@
         left: 50%;
         transform: translateX(-50%);
         text-align: center;
-        color: white;
     }
 
     .topImageText h1 {
         font-size: 2vw;
         font-weight: bold;
-        color: #fff;
-
+        color: inherit;
     }
 
     .topImageText h2 {
         font-size: 1.2vw;
         font-weight: 400;
         margin: .5vw 0 1.2vw 0;
-        color: #fff;
+        color: inherit;
     }
 
     .topImageText .btn {
@@ -51,11 +51,12 @@
         line-height: 2.5vw;
         text-align: center;
         padding: 0 1.67vw;
-        border: 1px solid white;
+        border: 1px solid {{text_color}};
         border-radius: 60px;
         font-size: 0.83vw;
         cursor: pointer;
         font-weight: 600;
+        color: inherit;
     }
 
     .topImageText .btn:hover {
@@ -101,11 +102,10 @@
 
     /*topImage*/
 </style>
-<script src="//at.alicdn.com/t/c/font_3829374_9fbnj23d42i.js"></script>
-{% assign settings = section.settings %}
+
 <div>
     <a href="{{settings.link}}">
-        <div class="topImage">
+        <div class="topImage" style="color: {{ text_color }}">
             <div class="mainBanner">
                 {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url:
                 settings.mobile_image_url, alt: settings.title %}
