@@ -779,7 +779,7 @@
           "90140798-89e3-4cdf-98ac-6b1d30579962": {
             "type": "base",
             "settings": {
-              "title": "72H Blitzverkauf",
+              "title": "Deals & Events",
               "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
               "open_link": "_self",
               "icon": "",
@@ -1752,7 +1752,7 @@
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf": {
             "type": "menu",
             "settings": {
-              "title": "72H Blitzverkauf",
+              "title": "Deals & Events",
               "url": "shopify:\/\/collections\/docking-station",
               "open_link": "_self",
               "menu": "",
