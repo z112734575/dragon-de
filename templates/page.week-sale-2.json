@@ -25,6 +25,7 @@
     },
     "ba30f705-8ef4-4326-9574-a9913009c92c": {
       "type": "custom-html",
+      "disabled": true,
       "settings": {
         "code": "<section class=\"ug_bundles\">\n    <div class=\"contant\">\n        <div class=\"ug_bundles_box\">\n            <div class=\"item\">\n                <div class=\"left\">\n                    <p>€10 RABATT<\/p>\n                    <span>BESTELLUNGEN VON 79+<\/span>\n                <\/div>\n                <div class=\"right\">\n                    <p>CODE: UGREEN10<\/p>\n                    <button data-ug-copy-data=\"UGREEN10\" class=\"copy-btn\">KOPIE<\/button>\n                <\/div>\n            <\/div>\n            <div class=\"item\">\n                <div class=\"left\">\n                    <p>€25 RABATT<\/p>\n                    <span>BESTELLUNGEN VON 149+<\/span>\n                <\/div>\n                <div class=\"right\">\n                    <p> CODE: UGREEN25<\/p>\n                    <button data-ug-copy-data=\"UGREEN25\" class=\"copy-btn\">KOPIE<\/button>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
         "layout": "t4s-container-fluid",
@@ -188,10 +189,10 @@
       "type": "ug-product-list",
       "settings": {
         "product_list": [
-          "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
-          "15054a",
-          "ugreen-power-station-mit-byd-gemeinsam-entwickeltes-powerroam-600"
+          "snap-deal-ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+          "snap-deal-ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
+          "snap-deal-ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
+          "ugreen-tragbare-powerstation-mit-byd-gemeinsam-entwickeltes-1200w-1024wh"
         ],
         "title": "",
         "subtitle": "",
