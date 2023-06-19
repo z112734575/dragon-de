@@ -29,10 +29,62 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "5c93b076-6793-4ebc-b3e9-7af91272c3cd": {
+      "type": "accordion",
+      "blocks": {
+        "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-0": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Für welche Produkte sind die Rabatte gültig?",
+            "content": "<p>Für alle Produkte außer für neue Produkte<\/p>"
+          }
+        },
+        "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-2": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Wann endet die Rabattaktion?",
+            "content": "<p>Die Aktion beginnt am 16. Juni 2023 um 12:00 Uhr und endet am 26. Juni 2023 um 12:00 Uhr (deutsche Zeit, UTC\/GMT +2)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-0",
+        "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-2"
+      ],
+      "settings": {
+        "design_heading": "1",
+        "heading_align": "t4s-text-center",
+        "top_heading": "",
+        "icon_heading": "las la-gem",
+        "top_subheading": "",
+        "tophead_mb": 0,
+        "accor_des": "1",
+        "title_cl": "#333333",
+        "bg_title_cl": "#ffffff",
+        "title_active_cl": "#333333",
+        "bg_title_active_cl": "#ffffff",
+        "content_cl": "#939393",
+        "bg_content_cl": "#ffffff",
+        "content_align": "t4s-text-start",
+        "layout": "t4s-container-wrap",
+        "custom_width": 1000,
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
     }
   },
   "order": [
     "b09b3576-448b-4d2b-81a0-b6e700824f0b",
-    "a517b3d0-f836-4ad2-9f68-4946454e8c3d"
+    "a517b3d0-f836-4ad2-9f68-4946454e8c3d",
+    "5c93b076-6793-4ebc-b3e9-7af91272c3cd"
   ]
 }
