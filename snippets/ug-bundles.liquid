@@ -213,7 +213,7 @@
                                     {% assign bundles_price = cVariant.price %}
                                     {% assign bundles_compare_at_price = cVariant.compare_at_price %}
                                     {% else %}
-                                    {% assign current_price = discount_price | money %}
+                                    {% assign current_price = discount_price %}
                                     {% assign current_compare_at_price = cVariant.price | money %}
                                     {% assign current_save = discount_percentage %}
                                     {% assign bundles_price = cVariant.price | times: bundles_discount | divided_by: 100.0 %}
