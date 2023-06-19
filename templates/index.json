@@ -14,6 +14,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_DE_472157fb-ca20-43fe-9a6c-ef1433a24747.webp?v=1684393382",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_DE_df594a56-1eee-4a91-9613-7d8e4f3f4425.webp?v=1684393380",
+            "text_color": "#000000",
             "title": "",
             "subtitle": "",
             "button_text": "",
@@ -26,6 +27,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "text_color": "#fff",
             "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
             "subtitle": "",
             "button_text": "Jetzt kaufen",
@@ -38,6 +40,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "text_color": "#ffffff",
             "title": "Ugreen Tragbare Powerstation",
             "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
             "button_text": "Jetzt kaufen",
@@ -51,6 +54,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.2_-_Web.png?v=1679540557",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.3-_Mobile.png?v=1679540550",
+            "text_color": "#000000",
             "title": "Ermöglicht stärkere und schnellere Ladegeräte.",
             "subtitle": "Überlegene GaN-Technologie",
             "button_text": "Jetzt kaufen",
@@ -64,6 +68,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
+            "text_color": "#000000",
             "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
             "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
             "button_text": "Mehr erfahren",
