@@ -1,36 +1,26 @@
 {
   "sections": {
-    "166424923084310cbd": {
-      "type": "custom-html",
+    "ug-product-top-placeholder": {
+      "type": "ug-product-top-placeholder",
       "settings": {
-        "code": "<div id=\"ugreen-product-top-placeholder\"><\/div>\n<style>\n\/*new products page style*\/\n.t4s-badge-price {\n\tborder:border-radius:3px 3px 3px 3px!important;\n\tborder:1px solid #00CC88;\n\tbackground:rgba(0,0,0,0)!important;\n\tfont-size:12px;\n\tfont-weight:400;\n\tcolor:#00CC88!important;\n\tline-height:14px!important;\n}\n.t4s-section-main-product .t4s-product__info-container .t4s-product-price del {\n\tfont-size:16px;\n\tfont-weight:400;\n\tcolor:#757575;\n\tline-height:19px;\n}\n.t4s-product-form__buttons .t4s-quantity-wrapper button {\n\tborder-radius:50%;\n}\n.ug-product-discount-box {\n\tbackground-image:url('https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Group_276_0d24b96a-14bb-49b6-b830-eb30477ccc97.png')!important;\n\tbackground-size:100% 100%!important;\n}\n\n.t4s-pr__notify-stock.t4s-btn-color-dark,.t4s-payment-button.t4s-btn-color-dark .shopify-payment-button__button--unbranded {\n\tbackground:linear-gradient(344deg,#F6D898 2%,#F6DDB2 100%)!important;\n\tcolor:#000!important;\n}\n.discount_information_show{\n\tpadding:108px 20px 20px 20px;\n}\n.discount_information {\n\t\n\tbackground:#FAFAFC;\n\tposition:relative;\n}\n.discount_information_box {\n\tpadding:20px;\n\tposition:absolute;\n\tz-index:2;\n\twidth:100%;\n\tmargin-top:-200px;\n}\n.discount_information ul {\n\tmargin:0;\n\tpadding:20px 0 0 0;\n\tdisplay:flex;\n\tflex-direction:row;\n\tflex-wrap:wrap;\n\talign-content:space-around;\n\tjustify-content:flex-start;\n\talign-items:center;\n\tborder-top:1px solid #DEDEDE;\n}\n.discount_information ul li {\n\tborder-radius:2px 2px 2px 2px;\n\tborder:1px solid #27231E;\n\tfont-size:13px;\n\tfont-weight:500;\n\tcolor:#27231E;\n\tline-height:15px;\n\tpadding:2px 8px;\n\tmargin-right:5px;\n}\n.discount_information ul li:nth-child(1) {\n\tborder:none;\n\tpadding:0;\n\tmargin:0 0 10px 0;\n\twidth:100%;\n}\n.t4s-product-price {\n\tdisplay:flex;\n\talign-items:center;\n}\n.t4s-product-price del {\n\torder:1;\n\tmargin-top:10px;\n}\n.t4s-product-price ins {\n\torder:0;\n}\n.t4s-product-price span {\n\torder:2;\n\tmargin-left:20px;\n}\n.t4s-product__price-review .t4s-product-price {\n\torder:1;\n}\n.t4s-product__price-review a {\n\torder:0;\n\twidth:100%;\n}\n.t4s-product-form__variants{\n\tmargin-top: 20px;\n}\n.discount_information_ul_show{\n\tpadding: 20px!important;\n\tborder: none!important;\n}\n@media (max-width:768px) {\n.discount_information_show {\n\tpadding:108px 10px 10px 10px;\n}\n.discount_information ul {\n\tpadding:15px 0 0 0;\n}\n.discount_information_box {\n\tpadding:10px;\n\tmargin-top:-195px;\n\twidth:92%;\n}\n\n.discount_information ul li {\n\tfont-size:12px;\n\tmargin:0 0 3px 3px;\n\tpadding: 1px 3px;\n}\n}<\/style>",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,,,",
-        "pd": "",
-        "mg_mb": ",,,,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
       }
     },
     "breadcrumb": {
       "type": "brc-nav-product",
       "settings": {
         "breadcrumb_pr": true,
-        "back_next_pr": false,
+        "back_next_pr": true,
         "cl_bg": "#f6f6f6",
         "cl_link": "#222222"
       }
     },
     "main": {
-      "type": "main-product",
+      "type": "new-main-product",
       "blocks": {
         "column1-delivery-info": {
           "type": "column1-delivery-info",
           "settings": {
-            "custom_liquid": "<div class=\"product-page-shipping\">\n        <ul>\n            <li>\n                <a href=\"\/pages\/lager\">\n                <img\n                    src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Free_d91a3d44-4223-4efa-96c5-24a0208ba40a.png?v=1657071380\" \/>lokales Lager\n           <\/a>\n                <\/li>\n            <li>\n                <a href=\"\/policies\/refund-policy\">\n                <img\n                    src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/risk_633c5d7e-5e60-4194-9e77-6655815c7e18.png?v=1657071380\" \/>30-tägige risikofreie Probe\n           <\/a>\n        <\/li>\n            <li>\n                <img\n                    src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/price_0228abcd-25b5-42db-9a6d-4910043a9482.png?v=1657071380\" \/>2-jährige Produktgarantie\n            <\/li>\n        <\/ul>\n    <\/div>\n    <style>\n        \/*       物流提示样式 *\/\n        .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping {\n            width: 100%;\n            margin: 40px 0 0 0;\n        }\n\n        .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 0;\n            margin: 0;\n        }\n\n        .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul li {\n            font-size: 12px;\n        }\n\n        .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul li img {\n            margin-right: 4px;\n        }\n\n        @media (max-width: 768px) {\n            .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping {\n                display: none;\n            }\n        }\n    <\/style>",
+            "custom_liquid": "<div class=\"product-page-shipping\">\n    <ul>\n        <li>\n            <a href=\"\/pages\/warehouse\" class=\"shipping-icon\">\n                <img\n                        src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/Free_d91a3d44-4223-4efa-96c5-24a0208ba40a.png?v=1657071380\" \/>Local Warehouse\n\n            <\/a>\n        <\/li>\n        <li>\n            <a href=\"\/policies\/refund-policy\" class=\"shipping-icon\">\n                <img\n                        src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/risk_633c5d7e-5e60-4194-9e77-6655815c7e18.png?v=1657071380\" \/>30-day Risk-Free Trial\n\n            <\/a>\n        <\/li>\n        <li class=\"shipping-icon\">\n            <img\n                    src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/price_0228abcd-25b5-42db-9a6d-4910043a9482.png?v=1657071380\" \/>Two-year Product Warranty\n        <\/li>\n        <li class=\"shipping-icon\">\n            <img\n                    src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/4_f8206356-677e-4953-b79c-49c853d10b48.png?v=1687164867\" \/>Product VAT Incl\n        <\/li>\n    <\/ul>\n<\/div>\n<style>\n    \/*       物流提示样式 *\/\n    .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping {\n        width: 100%;\n        margin: 40px 0 0 0;\npadding-top: 32px;\n    border-top: 1px solid rgba(0,0,0,0.1);\n\n    }\n\n    .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        padding: 0;\n        margin: 0;\n    }\n\n    .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul li {\n        font-size: 12px;\n    }\n\n    .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping ul li img {\n        width: 32px;\n    }\n    .product-page-shipping .shipping-icon {\n        display: flex;\n        flex-direction: column;\n        justify-content: center;\n        align-items: center;\n    }\n\n    @media (max-width: 768px) {\n        .t4s-section-main-product .t4s-product__media-wrapper .product-page-shipping {\n            display: none;\n        }\n    }\n<\/style>",
             "custom_liquid_mobile": ""
           }
         },
@@ -71,6 +61,12 @@
           "settings": {
           }
         },
+        "499dbc35-5fcc-4406-a16a-539fb4222185": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"discount_information\">\n    {% assign discountbar = product.metafields.custom.discountbar.value %}\n    {% assign discount_sum = discountbar[0] %}\n    {% assign discount_code = discountbar[1] %}\n    {% assign discount_text = discountbar[2] %}\n    {% if product.metafields.custom.discountbar and discount_text == 'Weekly Sale' %}\n        {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n\n        <div class=\"ug-product-discount\">\n            <div class=\"ug-product-discount-box\">\n                <div class=\"ug-product-discount-sum\">\n                    <span class=\"percent\">{{ discount_sum }}%<\/span>\n                    <span class=\"off\">OFF<\/span>\n                    <div class=\"desc\">{{ discount_text }}<\/div>\n                <\/div>\n                <div class=\"ug-product-discount-code\">\n                    <span>Code: {{ discount_code }}  <\/span>\n                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n                    <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n                <\/div>\n            <\/div>\n        <\/div>\n    {% endif %}\n    <!-- {% if product.metafields.custom.discount_information %}\n        {% assign discount_information = product.metafields.custom.discount_information.value %}\n        {% assign discount_text_1 = discount_information[0] %}\n        {% assign discount_text_2 = discount_information[1] %}\n        {% assign discount_text_3 = discount_information[2] %}\n        <ul>\n            <li style=\"color:#F28B00;\">UGREEN bundles :<\/li>\n            <li>{{ discount_text_1 }}<\/li>\n            <li>{{ discount_text_2 }}<\/li>\n            <li>{{ discount_text_3 }}<\/li>\n        <\/ul>\n    {% endif %} -->\n<\/div>"
+          }
+        },
         "description": {
           "type": "description",
           "disabled": true,
@@ -80,12 +76,6 @@
             "length": 31,
             "readm": false,
             "readm_txt": "Read more"
-          }
-        },
-        "499dbc35-5fcc-4406-a16a-539fb4222185": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"discount_information\">\n    {% if product.metafields.custom.discountbar %}\n    {{ 'ug-discount.css' | asset_url | stylesheet_tag }}\n    {% assign discountbar = product.metafields.custom.discountbar.value %}\n    {% assign discount_sum = discountbar[0] %}\n    {% assign discount_code = discountbar[1] %}\n    {% assign discount_text = discountbar[2] %}\n    {% assign discount_sum_custom = discountbar[3] %}\n    <div class=\"ug-product-discount\">\n        <div class=\"ug-product-discount-box\">\n            <div class=\"ug-product-discount-sum\">\n                {% if discount_sum_custom %}\n                <span class=\"percent\">{{ discount_sum_custom }}<\/span>\n                {% else %}\n                <span class=\"percent\">{{ discount_sum }}%<\/span>\n                {% endif %}\n                <span class=\"off\">OFF<\/span>\n                <div class=\"desc\">{{ discount_text }}<\/div>\n            <\/div>\n            <div class=\"ug-product-discount-code\">\n                <span>Code: {{ discount_code }}  <\/span>\n                <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btn\">COPY<\/button>\n                <button data-clipboard-text=\"{{ discount_code }}\" class=\"ug-product-discount-btned\">COPIED<\/button>\n            <\/div>\n        <\/div>\n    <\/div>\n    {%endif%}\n    {% if product.metafields.custom.discount_information %}\n    {% assign discount_information = product.metafields.custom.discount_information.value %}\n    {% assign discount_text_1 = discount_information[0] %}\n    {% assign discount_text_2 = discount_information[1] %}\n    {% assign discount_text_3 = discount_information[2] %}\n    <ul>\n        <li style=\"color:#F28B00;\">UGREEN bundles :<\/li>\n        <li>{{discount_text_1}}<\/li>\n        <li>{{discount_text_2}}<\/li>\n        <li>{{discount_text_3}}<\/li>\n    <\/ul>\n    {%endif%}\n<\/div>"
           }
         },
         "form": {
@@ -107,7 +97,7 @@
             "button_style": "default",
             "button_color": "custom1",
             "button_effect": "fade",
-            "show_dynamic_checkout": true,
+            "show_dynamic_checkout": false,
             "btn_txt2": "2",
             "button_color_payment": "dark",
             "product_list": [
@@ -161,19 +151,18 @@
             "al": "start",
             "mess": "Pay with Ease",
             "size": 14,
-            "source": "2",
-            "wimg": 65,
-            "svg": "visa,paypal,maestro,american_express,discover,apple_pay,diners_club,jcb,shopify_pay,klarna",
-            "height": 40
+            "source": "1",
+            "wimg": 70,
+            "svg": "visa,amazon_payments,american_express,apple_pay,diners_club,discover,jcb,master,shopify_pay,paypal,klarna",
+            "height": 28
           }
         },
         "trust_delivery": {
           "type": "trust_delivery",
-          "disabled": true,
           "settings": {
             "mess": "Trusted Delivery",
             "size": 14,
-            "imageList": ""
+            "image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/pic.png?v=1686559360"
           }
         },
         "4e85739a-0cb1-4fda-9fe8-441ed6ed155c": {
@@ -215,7 +204,7 @@
         "95d4f334-8ea7-4cd2-b609-2373b1e848b8": {
           "type": "tab_des",
           "settings": {
-            "title": "Funktionen",
+            "title": "Overview",
             "enable_products_diff": true
           }
         },
@@ -236,7 +225,7 @@
         "56e67368-7424-4d73-8f14-dacdda4c59be": {
           "type": "tab_rivui",
           "settings": {
-            "title": "Rezensionen",
+            "title": "Reviews",
             "review_liquid": ""
           }
         },
@@ -278,8 +267,8 @@
         "fae2b5d0-792b-4897-acfb-2adce51192b7",
         "price_review",
         "short_description",
-        "description",
         "499dbc35-5fcc-4406-a16a-539fb4222185",
+        "description",
         "form",
         "size_delivery_ask",
         "a74558c2-2c9e-4f22-a4eb-506aadd91c17",
@@ -314,7 +303,7 @@
         "enable_zoom_click_mb": true,
         "enable_video_looping": false,
         "nav_btn": true,
-        "btn_vi": "always",
+        "btn_vi": "hover",
         "btn_owl": "default",
         "btn_shape": "round",
         "btn_cl": "custom1",
@@ -325,12 +314,12 @@
         "tabs_position": "external",
         "enable_first_tab": true,
         "tabs_layout": "default",
-        "bg": "#f6f6f8",
+        "bg": "#ffffff",
         "bg_mb": "#ffffff",
         "product_list": [
 
         ],
-        "sticky_mode": "1",
+        "sticky_mode": "2",
         "sticky_show": "1",
         "ani": "none",
         "time": 6
@@ -434,7 +423,7 @@
         "icon_heading": "las la-gem",
         "top_subheading": "",
         "tophead_mb": 30,
-        "product_des": "1",
+        "product_des": "4",
         "show_vendor": false,
         "use_cdt": false,
         "limit": 12,
@@ -532,56 +521,32 @@
     },
     "loox-product-reviews-app-section": {
       "type": "apps",
-      "disabled": true,
-      "settings": {
-      }
-    },
-    "opinew-reviews-product-page-code": {
-      "type": "apps",
       "blocks": {
-        "opinew-reviews-widget": {
-          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "disabled": true,
+        "loox-product-reviews": {
+          "type": "shopify:\/\/apps\/loox-product-reviews-photos\/blocks\/loox-dynamic-section\/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
           "settings": {
+            "only_photos": false,
+            "aggregated": false,
+            "limit": 20,
+            "hide_thumbnails": false,
+            "maxwidth": 1080
           }
         }
       },
       "block_order": [
-        "opinew-reviews-widget"
-      ],
-      "custom_css": [
-        "#shopify-block-opinew-reviews-widget {max-width: 1200px; margin: 0 auto;}"
-      ],
-      "settings": {
-      }
-    },
-    "sma_reviews_section_auto": {
-      "type": "apps",
-      "blocks": {
-        "sma_reviews_section_auto": {
-          "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/lai-product-section\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
-          "settings": {
-            "lai_product": "",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "sma_reviews_section_auto"
+        "loox-product-reviews"
       ],
       "settings": {
       }
     }
   },
   "order": [
-    "166424923084310cbd",
+    "ug-product-top-placeholder",
     "breadcrumb",
     "main",
     "sidebar",
     "product-recommendations",
     "recently-viewed-products",
-    "loox-product-reviews-app-section",
-    "opinew-reviews-product-page-code",
-    "sma_reviews_section_auto"
+    "loox-product-reviews-app-section"
   ]
 }

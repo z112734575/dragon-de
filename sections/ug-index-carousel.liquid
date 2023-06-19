@@ -15,7 +15,6 @@
         left: 0;
         right: 0;
         top: 7.292vw;
-        color: #fff;
     }
     .green-home-banner-box .title {
         font-size: 2vw;
@@ -34,43 +33,39 @@
         line-height: 2.5vw;
         text-align: center;
         padding: 0 1.67vw;
-        border: 2px solid white;
+        border: 2px solid;
         border-radius: 60px;
         font-size: 0.83vw;
         cursor: pointer;
         font-weight: 600;
     }
     .green-home-banner-box .btn:hover {
-        background: #00CC88!important;
+        background: #00CC88 !important;
         color: white;
-        border-color: #00CC88!important;
+        border-color: #00CC88 !important;
     }
     .green-home-banner-box .icon {
         /*width: .8em;*/
         /*height: .8em;*/
     }
-    .green-home-banner .swiper-button-next,
-    .green-home-banner .swiper-button-prev {
+    .green-home-banner .swiper-button-next, .green-home-banner .swiper-button-prev {
         color: rgb(0, 0, 0);
         background: rgba(255, 255, 255, 0.4);
         width: 2.083vw;
         height: 2.083vw;
         border-radius: 50%;
     }
-    .green-home-banner .swiper-button-next:after,
-    .green-home-banner .swiper-button-prev:after {
+    .green-home-banner .swiper-button-next:after, .green-home-banner .swiper-button-prev:after {
         font-size: 0.729vw;
         width: 100%;
         height: 100%;
         text-align: center;
         line-height: 2.183vw;
     }
-    .green-home-banner .swiper-button-prev,
-    .green-home-banner .swiper-rtl .swiper-button-next {
+    .green-home-banner .swiper-button-prev, .green-home-banner .swiper-rtl .swiper-button-next {
         left: 1.042vw;
     }
-    .green-home-banner .swiper-button-next,
-    .green-home-banner .swiper-rtl .swiper-button-prev {
+    .green-home-banner .swiper-button-next, .green-home-banner .swiper-rtl .swiper-button-prev {
         right: 2.038vw;
     }
     .green-home-banner .swiper-pagination-bullet {
@@ -119,7 +114,7 @@
             height: 4px;
         }
     }
-    {{section.settings.custom_style}}
+    {{ section.settings.custom_style }}
     /*banner*/
 </style>
 
@@ -127,10 +122,15 @@
     <div class="swiper-wrapper">
         {% for block in section.blocks %}
             {% assign settings = block.settings %}
-            {% assign pc_image_url = settings.pc_image_url | split: "." %}
-            {% assign mobile_image_url = settings.mobile_image_url | split: "." %}
-            <a class="{{ settings.className }} swiper-slide swiper-index{{ forloop.index }}" href="{{ settings.link }}">
-                <div class="green-home-banner-box">
+            {% assign pc_image_url = settings.pc_image_url | split: '.' %}
+            {% assign mobile_image_url = settings.mobile_image_url | split: '.' %}
+            {% assign text_color = settings.text_color %}
+            {% assign className = settings.className %}
+            <a
+                    class="swiper-slide swiper-index{{ forloop.index }} {{ className }}"
+                    href="{{ settings.link }}"
+            >
+                <div class="green-home-banner-box" style="color: {{ text_color }};">
                     {% if settings.title %}
                         <div class="title">
                             <p>{{ settings.title }}</p>
@@ -142,7 +142,7 @@
                     {% endif %}
 
                     {% unless settings.button_text == '' %}
-                        <div class="btn">
+                        <div class="btn" style="border-color: {{ text_color }};">
                             <span>{{ settings.button_text }}</span>
                             <svg class="icon" aria-hidden="true">
                                 <use xlink:href="#icon-xiayiye"></use>
@@ -150,8 +150,11 @@
                         </div>
                     {% endunless %}
                 </div>
-                {% render "ug-picture", pc_image_url: settings.pc_image_url, mobile_image_url: settings.mobile_image_url,
-                        alt: settings.title %}
+                {% render 'ug-picture',
+                        pc_image_url: settings.pc_image_url,
+                        mobile_image_url: settings.mobile_image_url,
+                        alt: settings.title
+                %}
             </a>
         {% endfor %}
     </div>
@@ -160,8 +163,9 @@
     <div class="swiper-button-next"></div>
 </section>
 
-
 <script>
+
+
     $(function () {
         if (!isMobile()) {
             $('.green-home-banner .swiper-button-next,.green-home-banner .swiper-button-prev').hide();
@@ -186,7 +190,7 @@
                 prevEl: '.swiper-button-prev',
             },
             autoplay: {
-                delay: 5000,
+                delay: 500000,
             }
         })
         const banner_index = `{{ section.settings.banner_index }}`;
@@ -212,8 +216,7 @@
                 logo.attr('src', normalLogo)
             }
         }
-
-        if (CHANGE_COLOR_INDEX.indexOf('0') >= 0) {
+        if(CHANGE_COLOR_INDEX.indexOf('0') >= 0) {
             // 如果第一张需要改变颜色，需要初始化
             changeHeaderColor(0)
         }
@@ -221,6 +224,8 @@
             changeHeaderColor(event.realIndex)
         });
     })
+
+
 
 </script>
 
@@ -262,17 +267,23 @@
           "label": "Mobile image url"
         },
         {
-          "type": "text",
+          "type": "color",
+          "id": "text_color",
+          "label": "文字颜色",
+          "default": "#000000"
+        },
+        {
+          "type": "textarea",
           "id": "title",
           "label": "Title"
         },
         {
-          "type": "text",
+          "type": "textarea",
           "id": "subtitle",
           "label": "Subtitle"
         },
         {
-          "type": "text",
+          "type": "textarea",
           "id": "button_text",
           "label": "Button text"
         },
