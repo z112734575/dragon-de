@@ -41,6 +41,14 @@
             "content": "<p>Für alle Produkte außer für neue Produkte<\/p>"
           }
         },
+        "a068eb45-2803-41b2-8b4d-10181ae4d0d9": {
+          "type": "accor_item",
+          "settings": {
+            "icon": "none",
+            "title": "Wie kann ich die Höhe des Rabatts beurteilen?",
+            "content": "<p>Methode 1: Klicken Sie nach zusätzlichem Kauf auf die Schaltfläche \"Abrechnung\". Der Rabattbetrag wird auf der Abrechnungsseite angezeigt.<br\/>Methode 2: Vergleichen Sie den Gesamtpreis der Produkte, die Sie benötigen, mit den oben genannten Gutscheinen. Der Höchstpreis für diese Aktion beträgt 199-35 Euro.<\/p>"
+          }
+        },
         "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-2": {
           "type": "accor_item",
           "settings": {
@@ -52,6 +60,7 @@
       },
       "block_order": [
         "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-0",
+        "a068eb45-2803-41b2-8b4d-10181ae4d0d9",
         "template--14509032046654__5c93b076-6793-4ebc-b3e9-7af91272c3cd-16871719066fb35c8d-2"
       ],
       "settings": {
