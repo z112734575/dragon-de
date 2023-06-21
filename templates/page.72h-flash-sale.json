@@ -17,6 +17,7 @@
     },
     "d2230466-b5fe-49cc-ac39-926497ba0c21": {
       "type": "page_banner",
+      "disabled": true,
       "settings": {
         "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE_banner_pc_7d823671-8b6c-4ee1-9c9d-0e16bd1dbf48.webp?v=1684906655",
         "mol_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE_banner_mobile_a5753bb4-a731-490a-a9ec-13e5c98a4938.webp?v=1684906653",
