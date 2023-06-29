@@ -625,7 +625,7 @@
       "top-activity-bar": {
         "type": "top-activity-bar",
         "settings": {
-          "enable": true,
+          "enable": false,
           "pc_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0665\/9660\/2144\/files\/pc_79831c46-ed6b-458e-9b0c-744913ad405d.png?v=1687176420",
           "mobile_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile.png?v=1687226672",
           "pc_height": "auto",
