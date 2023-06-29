@@ -22,19 +22,6 @@
             "className": "buy-more-save-more"
           }
         },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "",
-            "button_text": "Jetzt kaufen",
-            "link": "\/collections\/hub-adapter",
-            "className": ""
-          }
-        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -45,6 +32,19 @@
             "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
             "button_text": "Jetzt kaufen",
             "link": "collections\/power-station",
+            "className": ""
+          }
+        },
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "text_color": "#ffffff",
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "",
+            "button_text": "Jetzt kaufen",
+            "link": "\/collections\/hub-adapter",
             "className": ""
           }
         },
@@ -79,8 +79,8 @@
       },
       "block_order": [
         "86777b6a-bde9-4981-9d0b-274743aba41c",
-        "ug-index-carousel-1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
+        "ug-index-carousel-1",
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-11"
       ],
