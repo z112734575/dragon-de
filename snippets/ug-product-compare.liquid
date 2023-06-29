@@ -29,7 +29,6 @@
         border-bottom: 1px solid #e5e5e5;
     }
     .ug-product-compare-main > .table-row > div:first-child {
-        padding: 12px;
         width: 200px;
         flex-shrink: 0;
         text-align: start;
@@ -39,6 +38,9 @@
         background: white;
         color: black;
         font-weight: 700;
+        padding: 12px 12px 12px 0;
+        display: flex;
+        align-items: center;
     }
     .ug-product-compare-main > .table-row > div:not(:first-child) {
         width: 25%;
@@ -85,6 +87,9 @@
         -webkit-box-orient: vertical;
     }
     @media (max-width: 768px) {
+        .ug-product-compare-wrap {
+            margin-bottom: 36px;
+        }
         .ug-product-compare-title {
             font-size: 24px;
             font-weight: 600;
