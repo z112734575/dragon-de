@@ -520,7 +520,6 @@
         "17b367f3-4221-487c-a6f8-05b0c8f65c0c": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/60638.png",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
@@ -629,7 +628,6 @@
         "83fb889e-2c6f-428c-8b2b-0d5a749f2505": {
           "type": "image",
           "settings": {
-            "image_child": "shopify:\/\/shop_images\/90396_b616cf9d-f1d6-4e72-87ff-0cfaa168b677.png",
             "img_width": 0,
             "img_width_mb": 0,
             "hidden_mobile": false,
