@@ -1,12 +1,120 @@
+{%- liquid
+  assign se_stts = section.settings
+  assign se_blocks = section.blocks
+  assign date = se_stts.date
+  assign box_title = se_stts.box_title
+  assign box_more_title = se_stts.box_more_title
+  assign box_more_url = se_stts.box_more_url
+-%}
+
+<section class="ug_blog_box_5">
+  <div class="ug_section_box">
+    <div class="blog_title">
+      <h2>{{ box_title }}</h2>
+      <a href="{{ box_more_url }}">
+        {{- box_more_title }}
+        <svg class="icon" aria-hidden="true">
+          <use xlink:href="#icon-xiayiye"></use>
+        </svg>
+      </a>
+    </div>
+    <div class="blog_list">
+      {%- for block in se_blocks -%}
+        {%- assign bk_stts = block.settings -%}
+        {%- assign article = bk_stts.article -%}
+        <div class="item">
+          <a href="{{article.url}}">
+            <div class="blog_img">
+              <img
+                src="{{ article.image | img_url: "400x" }}"
+                alt=""
+              >
+            </div>
+            <div class="blog_text">
+              <h3>{{ article.title }}</h3>
+              <span>{{ article.published_at | time_tag: format: date }}</span>
+            </div>
+          </a>
+        </div>
+      {%- endfor -%}
+    </div>
+  </div>
+</section>
+
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
-  }
+  "name": "Blog Tags list",
+  "tag": "section",
+    "max_blocks": 3,
+  "settings": [
+    {
+        "type": "header",
+        "content": "Blog Tags list"
+    },
+    {
+        "type": "text",
+        "id": "box_title",
+        "label": "Box Title",
+        "default": "Buying Guides"
+      },
+    {
+        "type": "text",
+        "id": "box_more_title",
+        "label": "Box More Title",
+        "default": "More Buying Guides"
+      },
+    {
+        "type": "url",
+        "id": "box_more_url",
+      "label": "Box More URL"
+      },
+    {
+        "type": "select",
+        "id": "date",
+        "options": [
+          {
+            "value": "abbreviated_date",
+            "label": "Apr 19, 1994"
+          },
+          {
+            "value": "basic",
+            "label": "4/19/1994"
+          },
+          {
+            "value": "date",
+            "label": "April 19, 1994"
+          },
+          {
+            "value": "%b %d",
+            "label": "Apr 19"
+          }
+        ],
+        "label": "Date format",
+        "info":"different format options display for various languages.",
+        "default": "date"
+      }
+  ],
+  "blocks": [
+    {
+      "type": "article",
+      "name": "Article",
+      "settings": [
+        {
+          "type": "article",
+          "id": "article",
+          "label": "Article"
+        }
+      ]
+    }
+  ],
+   "presets": [
+      {
+        "name": "Blog Tags list",
+        "category": "Homepage"
+      }
+    ]
+}
 {% endschema %}
 
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
+{%- javascript -%}
+{%- endjavascript -%}
