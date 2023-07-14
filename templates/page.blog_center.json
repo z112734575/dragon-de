@@ -1,66 +1,230 @@
 {
   "sections": {
-    "heading": {
-      "type": "heading-template",
+    "397388d8-4257-4b0e-a373-f48b6c576ea0": {
+      "type": "custom-html",
       "settings": {
-        "use_specify_image": true,
-        "parallax": false,
-        "color": "#000000",
-        "overlay": 54,
-        "padding": 50,
-        "paddingmb": 50,
-        "mg_b": 50,
-        "mg_bmb": 50,
-        "content_align": "t4s-text-center",
-        "bg_pos": "center center",
-        "bg_repeat": "no-repeat",
-        "bg_size": "cover",
-        "use_cus_css": false,
-        "code_cus_css": ".SectionID {\nbackground-color:red\n}"
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "settings": {
-        "layout": "t4s-container-wrap",
+        "code": "<style>\n    .ug_section_box h2 {\n        color: #000;\n        font-size: 1.25vw;\n        font-weight: 600;\n        line-height: 1.667vw;\n    }\n\n    .ug_section_box h3 {\n        color: #000;\n        font-size: 1.042vw;\n        font-weight: 600;\n        line-height: 1.458vw;\n    }\n\n    .ug_section_box h4 {\n        color: #000;\n        font-size: 0.833vw;\n        font-weight: 600;\n        line-height: 1.25vw;\n    }\n\n    .ug_section_box span {\n        color: #A4A4A6;\n        font-size: 0.625vw;\n        line-height: 0.625vw;\n    }\n\n    .ug_section_box img {\n        border-radius: 4px;\n\n    }\n\n    .ug_blog_box_1 {\n        padding: 4.167vw 0;\n    }\n\n    .ug_section_box {\n        width: 100%;\n        max-width: 66.667vw;\n        margin: 0 auto;\n    }\n\n    .blog_title {\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        margin-bottom: 2.083vw;\n    }\n\n    .blog_title h2 {\n        font-size: 1.875vw;\n        font-weight: 700;\n        line-height: 1.875vw;\n        margin: 0 !important;\n    }\n\n    .blog_title a {\n        color: #00CC88;\n        font-size: 0.833vw;\n        font-weight: 500;\n        line-height: 0.833vw;\n    }\n\n    .blog_title a svg {\n        width: 0.9375vw;\n        height: 0.9375vw;\n    }\n\n    .blog_img {\n        overflow: hidden;\n    }\n\n    .blog_img img {\n        transition: .4s;\n    }\n\n    .item:hover img {\n        transform: scale(1.1);\n    }\n\n    \/* ug_blog_box_1 *\/\n    .ug_blog_box_1 .ug_section_box {\n        display: flex;\n        gap: 1.042vw;\n    }\n\n    .ug_blog_box_1 .ug_section_box>div>p {\n        font-size: 0.833vw;\n        font-weight: 500;\n        line-height: 0.625vw;\n        color: #00CC88;\n        width: 100%;\n        margin: 0;\n    }\n\n    .ug_blog_box_1 .left {\n        display: flex;\n        flex-wrap: wrap;\n        gap: 1.042vw;\n    }\n\n    .ug_blog_box_1 .left .item {\n        max-width: 15.885vw;\n        position: relative;\n\n    }\n\n    .ug_blog_box_1 .left .blog_list .item {\n        margin-bottom: 1.042vw;\n    }\n\n    .ug_blog_box_1 .left .item img {\n        height: 9.375vw;\n        width: 100%;\n        object-fit: cover;\n    }\n\n    .ug_blog_box_1 .left div:nth-child(3) {\n        max-width: 28.333vw;\n    }\n\n    .ug_blog_box_1 .left div:nth-child(3) img {\n        height: 21.875vw;\n    }\n\n    .ug_blog_box_1 .left .item h3,\n    .ug_blog_box_1 .left .item h2 {\n        margin: 0.625vw 0 0.417vw 0;\n    }\n\n    .ug_blog_box_1 .left .item h3 {\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 3;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_1 .left .item h2 {\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 2;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_1 .left .item .blog_tag {\n        position: absolute;\n        top: 0.625vw;\n        left: 0.625vw;\n        padding: 0.208vw 0.417vw;\n        font-size: 0.729vw;\n        color: #fff;\n        background: rgba(0, 0, 0, 0.50);\n    }\n\n    .ug_blog_box_1 .left .item p {\n        color: #727273;\n        font-size: 0.833vw;\n        line-height: 1.25vw;\n        margin: 1.042vw 0 0 0;\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 2;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_1 .right {\n        max-width: 20.104vw;\n        width: 100%;\n    }\n\n    .ug_blog_box_1 .right .item {\n        padding: 1.042vw 0;\n        border-bottom: 1px solid #EAEAEA;\n    }\n\n    .ug_blog_box_1 .right .item a {\n        display: flex;\n        flex-wrap: wrap;\n        width: 100%;\n        justify-content: space-between;\n    }\n\n    .ug_blog_box_1 .right .item img {\n        width: 7.396vw;\n        height: 5.729vw;\n        object-fit: cover;\n    }\n\n    .ug_blog_box_1 .right .item .blog_text {\n        padding: 0.3125vw 0;\n        max-width: 11.667vw;\n        \n    }\n    .ug_blog_box_1 .right .item .blog_text h3{\n      overflow: hidden;\n      text-overflow: ellipsis;\n      display: -webkit-box;\n      -webkit-line-clamp: 3;\n      -webkit-box-orient: vertical;\n    }\n    .ug_blog_box_1 .right h4 {\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 3;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_1 .right div:last-child {\n        border: none;\n    }\n\n    \/* ug_blog_box_2 *\/\n    .ug_blog_box_2 {\n        padding: 3.125vw 0;\n    }\n\n    .ug_blog_box_2 .ug_section_box {\n        padding: 2.865vw 5.729vw;\n        box-shadow: 0vw 0.417vw 1.042vw rgba(0, 0, 0, 0.08);\n        display: flex;\n        align-items: center;\n        gap: 4.167vw;\n    }\n\n    .ug_blog_box_2 .ug_section_box img {\n        max-width: 6.25vw;\n    }\n\n    .ug_blog_box_2 .ug_section_box .ug_form h2 {\n        font-size: 1.458vw;\n        font-weight: 500;\n        line-height: 1.458vw;\n    }\n\n    .ug_blog_box_2 .ug_section_box .ug_form h2 span {\n        font-size: 1.458vw;\n        font-weight: 700;\n        color: #000;\n    }\n\n    .ug_blog_box_2 .ug_section_box .ug_form p {\n        color: #727273;\n        font-size: 1.042vw;\n        line-height: 1.042vw;\n        margin: 0.78125vw 0 2.083vw 0;\n    }\n\n    .ug_form .ug_blog_input {\n        display: flex;\n        gap: 1.458vw;\n        position: relative;\n    }\n\n    .ug_form .ug_blog_input .Polaris-FormLayout {\n        width: 100%;\n        max-width: 26.042vw;\n    }\n\n    .ug_form .ug_blog_input .Polaris-FormLayout .element-group input {\n        width: 100%;\n        height: 2.5vw;\n        border-radius: 3.125vw;\n        background: #F2F2F2;\n        font-size: 0.833vw;\n        color: #BBB;\n    }\n\n    .ug_form .ug_blog_input .submit-btn {\n        width: 8.542vw;\n        height: 2.5vw;\n        border-radius: 3.125vw;\n        background: #000;\n        font-size: 0.833vw;\n        color: #FFF;\n        padding: 0;\n    }\n\n    .ug_form .ug_blog_input .submit-btn:hover {\n        background: #00CC88;\n    }\n\n    .ug_form .ug_blog_input .alert-success {\n        position: absolute;\n        left: 0;\n    }\n\n    \/* ug_blog_box_3 *\/\n    .ug_blog_box_3 {\n        padding: 3.125vw 0;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog {\n        display: flex;\n        gap: 2.083vw;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .left {\n        position: relative;\n        max-width: 32.8125vw;\n        width: 100%;\n        height: 20.833vw;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .left img {\n        width: 100%;\n        height: 20.833vw;\n        object-fit: cover;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .left h2 {\n        color: #fff;\n        position: absolute;\n        bottom: 1.458vw;\n        left: 1.458vw;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right {\n        width: 100%;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right .item {\n        padding: 1.042vw 0;\n        border-bottom: 1px solid #EAEAEA;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right .item a {\n        display: flex;\n        flex-wrap: wrap;\n        width: 100%;\n        justify-content: space-between;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right .item img {\n        width: 8.542vw;\n        height: 5.521vw;\n        object-fit: cover;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right .item .blog_text {\n        padding: 0.78125vw 0;\n        max-width: 21.094vw;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right h3 {\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 2;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right div:nth-child(1) {\n        padding-top: 0;\n    }\n\n    .ug_blog_box_3 .ug_buying_blog .right div:last-child {\n        padding-bottom: 0;\n        border: none;\n    }\n\n    \/* ug_blog_box_4 *\/\n    .ug_blog_box_4 .left,\n    .ug_blog_box_4 .ug_buying_blog .right .item .blog_text {\n        order: 1;\n    }\n\n    \/* ug_blog_box_5 *\/\n    .ug_blog_box_5 {\n        padding: 3.125vw 0;\n    }\n\n    .ug_blog_box_5 .blog_list {\n        display: flex;\n        justify-content: space-between;\n        gap: 2.083vw;\n    }\n    .ug_blog_box_5 .blog_list .item{\n      flex: 1;\n    }\n    .ug_blog_box_5 .ug_section_box h3 {\n        margin: 1.042vw 0 0.417vw 0;\n        overflow: hidden;\n        text-overflow: ellipsis;\n        display: -webkit-box;\n        -webkit-line-clamp: 2;\n        -webkit-box-orient: vertical;\n    }\n\n    .ug_blog_box_5 .ug_section_box span {\n        font-size: 0.833vw;\n        line-height: 1.25vw;\n    }\n\n    .ug_blog_box_5 .blog_img img {\n        width: 100%;\n        height: 13.281vw;\n        object-fit: cover;\n    }\n\n    @media (max-width: 768px) {\n        .ug_section_box h2 {\n            font-size: 5.333vw;\n            line-height: 7.467vw;\n        }\n\n        .ug_section_box h3,\n        .ug_section_box h4 {\n            font-size: 4.267vw;\n            line-height: 6.4vw;\n        }\n\n        .ug_section_box span {\n            font-size: 3.733vw;\n            line-height: 6.4vw;\n        }\n\n        .blog_title {\n            margin-bottom: 7.467vw;\n        }\n\n        .blog_title h2 {\n            font-size: 6.4vw !important;\n            line-height: 6.4vw !important;\n        }\n        .blog_title a{\n          font-size: 4.267vw;\n          line-height: 4.267vw;\n        }\n        .blog_title a svg{\n          width: 4.8vw;\n          height: 4.8vw;\n        }\n        \/* ug_blog_box_1 *\/\n        .ug_blog_box_1 {\n            padding: 10.667vw 4.8vw;\n        }\n\n        .ug_section_box {\n            max-width: 100%;\n        }\n\n        .ug_blog_box_1 .ug_section_box {\n            gap: 16vw;\n            flex-direction: column;\n        }\n\n        .ug_blog_box_1 .left {\n            width: 100%;\n            gap: 5.333vw\n        }\n\n        .ug_blog_box_1 .ug_section_box>div>p {\n            font-size: 4.267vw;\n            line-height: 3.2vw;\n        }\n\n        .ug_blog_box_1 .left .blog_list {\n            order: 2;\n        }\n\n        .ug_blog_box_1 .left .blog_list .item {\n            max-width: 100%;\n            margin-bottom: 10.667vw;\n        }\n\n        .ug_blog_box_1 .left .blog_list div:last-child {\n            margin: 0;\n        }\n\n        .ug_blog_box_1 .left div:nth-child(3) {\n            max-width: 100%;\n            margin-bottom: 5.333vw;\n        }\n\n        .ug_blog_box_1 .left .item img,\n        .ug_blog_box_1 .left div:nth-child(3) img {\n            height: auto;\n        }\n\n        .ug_blog_box_1 .left .item p {\n            font-size: 3.733vw;\n            margin: 3.2vw 0 0 0;\n            line-height: 5.333vw;\n\n        }\n\n        .ug_blog_box_1 .left .item h3,\n        .ug_blog_box_1 .left .item h2 {\n            margin: 3.2vw 0 2.133vw 0;\n        }\n\n        .ug_blog_box_1 .right {\n            max-width: 100%;\n        }\n\n        .ug_blog_box_1 .right .item {\n            padding: 5.333vw 0;\n        }\n\n        .ug_blog_box_1 .right .item .blog_text {\n            max-width: 100%;\n            padding: 0;\n        }\n\n        .ug_blog_box_1 .right .item .blog_img {\n            display: none;\n        }\n\n        .ug_blog_box_1 .left .item .blog_tag {\n            top: 3.2vw;\n            left: 3.2vw;\n            padding: 1.067vw 2.133vw;\n            font-size: 3.733vw;\n        }\n\n        \/* ug_blog_box_2 *\/\n        .ug_blog_box_2 {\n            padding: 8vw 4.8vw;\n        }\n\n        .ug_blog_box_2 .ug_section_box {\n            padding: 10.667vw 5.333vw;\n            gap: 5.333vw;\n            flex-direction: column;\n            box-shadow: 0vw 2.133vw 5.333vw rgba(0, 0, 0, 0.08);\n        }\n\n        .ug_blog_box_2 .ug_section_box img {\n            max-width: 21.333vw;\n        }\n\n        .ug_blog_box_2 .ug_section_box .ug_form {\n            text-align: center;\n        }\n\n        .ug_blog_box_2 .ug_section_box .ug_form h2 {\n            font-size: 6.4vw;\n            line-height: 8.533vw;\n            padding: 0 8vw;\n        }\n\n        .ug_blog_box_2 .ug_section_box .ug_form h2 span {\n            font-size: 6.4vw;\n        }\n\n        .ug_blog_box_2 .ug_section_box .ug_form p {\n            font-size: 3.733vw;\n            line-height: 5.333vw;\n            margin: 3.2vw 0 5.333vw 0;\n        }\n\n        .ug_form .ug_blog_input {\n            flex-direction: column;\n            gap: 2.133vw;\n        }\n\n        .ug_form .ug_blog_input .Polaris-FormLayout {\n            max-width: 100%;\n        }\n\n        .ug_form .ug_blog_input .Polaris-FormLayout .element-group input {\n            height: 12.8vw;\n            border-radius: 16vw;\n            font-size: 3.733vw;\n        }\n\n        .ug_form .ug_blog_input .submit-btn {\n            width: 100%;\n            height: 12.8vw;\n            border-radius: 16vw;\n            font-size: 3.733vw;\n        }\n\n        .ug_form .ug_blog_input .alert-success {\n            position: relative;\n        }\n\n        \/* ug_blog_box_3 *\/\n        .ug_blog_box_3,\n        .ug_blog_box_5 {\n            padding: 8vw 4.8vw;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog {\n            gap: 5.333vw;\n            flex-direction: column;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .left {\n            max-width: 100%;\n            height: auto;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .left img {\n            height: auto;\n            margin-bottom: 2.667vw;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .left h2 {\n            position: relative;\n            bottom: 0;\n            left: 0;\n            color: #000;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .right .item .blog_img {\n            display: none;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .right .item .blog_text {\n            padding: 0;\n            max-width: 100%;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .right>div:nth-child(1) {\n            border-top: 1px solid #EAEAEA;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .right .item {\n            padding: 5.333vw 0 !important;\n        }\n\n        .ug_blog_box_3 .ug_buying_blog .left {\n            order: 0;\n        }\n\n        .ug_blog_box_5 .blog_list {\n            width: 100%;\n            overflow-y: auto;\n            gap: 3.2vw;\n        }\n\n        .ug_blog_box_5 .blog_list .item {\n            flex: none;\n            max-width: 80vw;\n        }\n\n        .ug_blog_box_5 .ug_section_box h2 {\n            font-size: 4.267vw;\n            line-height: 6.4vw;\n            margin: 3.2vw 0 2.133vw 0;\n        }\n\n        .ug_blog_box_5 .ug_section_box span {\n            font-size: 12px;\n            line-height: 12px;\n        }\n\n        .ug_blog_box_5 .blog_img img {\n          height: 50.667vw;\n        }\n    }\n<\/style>",
+        "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
-        "mg": "60px,,60px,",
+        "mg": "",
         "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": ""
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
       }
     },
-    "sidebar-page": {
-      "type": "sidebar-page",
-      "disabled": true,
+    "70ab769d-49b9-4078-9378-130a70a775b9": {
+      "type": "blog_center",
       "blocks": {
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08": {
-          "type": "blog_cate",
+        "2c76bd4b-0c1c-4292-b82d-e5f536cc459f": {
+          "type": "article",
           "settings": {
-            "title": "Blog categories",
-            "cat_link_list": "",
-            "count": true
+            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        },
+        "7f51704e-0f4a-4d15-8faf-eb1a41a77eeb": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/ugreen-powerroam-tragbare-powerstation-startet-in-berlin"
+          }
+        },
+        "c4a1b2d4-46d9-40b4-ba96-6e97689874c7": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/festplattengehause-vs-nas"
+          }
+        },
+        "f136168b-d03d-4638-8051-f02e1ee84ede": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/usb-pd-technologie"
           }
         }
       },
       "block_order": [
-        "f69681ed-b75e-42de-be58-fdf73b3b7e08"
+        "2c76bd4b-0c1c-4292-b82d-e5f536cc459f",
+        "7f51704e-0f4a-4d15-8faf-eb1a41a77eeb",
+        "c4a1b2d4-46d9-40b4-ba96-6e97689874c7",
+        "f136168b-d03d-4638-8051-f02e1ee84ede"
       ],
       "settings": {
-        "enable_drawer": false,
-        "space": 50,
-        "size": "medium",
-        "br_style": "none",
-        "brcolor": "#222222",
-        "sidebar_bdr": 5,
-        "sidebar_pd": 10
+        "blog_tag_1": "Today’s Picks",
+        "featured_article": "powerstation\/richtige-ladegeraete-auswaehlen",
+        "featured_article_1": "powerstation\/iphone-batterie-und-ladetechnik",
+        "featured_article_2": "powerstation\/ein-vollstandiger-leitfaden-zu-vga",
+        "blog_tag_2": "Most Recent",
+        "date": "date"
+      }
+    },
+    "b8e8c9f9-4031-482a-b69a-652c18751758": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<section class=\"ug_blog_box_2\">\n    <div class=\"ug_section_box\">\n        <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0665\/9660\/2144\/files\/Email_icon_bdb996d2-9880-48bf-9d23-cedf50157858.svg?v=1689249963\" alt=\"\">\n        <div class=\"ug_form\">\n            <h2>\n<span>Upgrade <\/span>Your Inbox With Ugreen<\/h2>\n            <p>Sign up to receive tech tips &amp;tutorials, reviews, deals, coupons and more from Ugreen.<\/p>\n            <div class=\"cs-custom-form s1022841069\">\n                <div class=\"form-col-wrap\">\n                    <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"c5fc528d-0995-41d6-b1b2-adbd08cdaa60\">\n                        <div class=\"ug_blog_input\">\n                            <div class=\"Polaris-FormLayout\">\n                              <div class=\"Polaris-FormLayout__Item\">\n                                <div class=\"sc-jJEKmz\">\n                                    <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                        <div class=\"element-group  cs-width-100\"><input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Enter You Email Address\" class=\"\"><\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                            <\/div>\n                            <div class=\"element-group\">\n                                <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                    <button type=\"submit\" class=\"submit-btn\" style=\"font-weight: 600\">\n                                        Subscribe\n                                    <\/button>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                    <\/form>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e": {
+      "type": "blog_buying_guides",
+      "blocks": {
+        "70f59e36-48b0-456e-b18c-7c58fe45e758": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/usb-c-hub-faq"
+          }
+        },
+        "fa51033f-408a-4ccd-a48a-cc58948394b2": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        },
+        "927f7f2d-c44c-4d75-adca-4de3b6c0be99": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/usb-c-ladegerate-faq"
+          }
+        }
+      },
+      "block_order": [
+        "70f59e36-48b0-456e-b18c-7c58fe45e758",
+        "fa51033f-408a-4ccd-a48a-cc58948394b2",
+        "927f7f2d-c44c-4d75-adca-4de3b6c0be99"
+      ],
+      "settings": {
+        "section_id": "ug_blog_box_3",
+        "box_title": "Buying Guides",
+        "box_more_title": "More Buying Guides",
+        "box_more_url": "",
+        "blog_img": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/81I8FNLqZPL_534f90c9-77ad-48da-b1b4-313c0512bbcc.jpg?v=1689141500",
+        "blog_title": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World",
+        "blog_url": "",
+        "date": "date"
+      }
+    },
+    "fabc6a84-fefb-4705-a404-2565883c824e": {
+      "type": "blog_buying_guides",
+      "blocks": {
+        "a4fba30f-46e8-4763-8d02-a7a23387dec3": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/tragbare-powerstation-beim-camping"
+          }
+        },
+        "921737c9-61bc-47ae-abdf-b2a66b0514c3": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/power-delivery-3-1"
+          }
+        },
+        "b4bdef7f-514d-4ef6-ae94-a14eada4d854": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        }
+      },
+      "block_order": [
+        "a4fba30f-46e8-4763-8d02-a7a23387dec3",
+        "921737c9-61bc-47ae-abdf-b2a66b0514c3",
+        "b4bdef7f-514d-4ef6-ae94-a14eada4d854"
+      ],
+      "settings": {
+        "section_id": "ug_blog_box_4",
+        "box_title": "Buying Guides",
+        "box_more_title": "More Buying Guides",
+        "box_more_url": "",
+        "blog_img": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/81I8FNLqZPL_534f90c9-77ad-48da-b1b4-313c0512bbcc.jpg?v=1689141500",
+        "blog_title": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World",
+        "blog_url": "",
+        "date": "date"
+      }
+    },
+    "bf504a34-6bb9-4b51-8576-a6eafaec39e4": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "c0010a05-c090-4763-83c3-7e5471719ca8": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        },
+        "0e416e13-ce9c-443a-a618-2d339c4b66c0": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/usb-c-ladegerate-faq"
+          }
+        },
+        "87d20512-c008-4ccf-b4ee-64d4c7288465": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/von-earth-day-bis-zum-alltag"
+          }
+        }
+      },
+      "block_order": [
+        "c0010a05-c090-4763-83c3-7e5471719ca8",
+        "0e416e13-ce9c-443a-a618-2d339c4b66c0",
+        "87d20512-c008-4ccf-b4ee-64d4c7288465"
+      ],
+      "settings": {
+        "box_title": "Buying Guides",
+        "box_more_title": "More Buying Guides",
+        "box_more_url": "",
+        "date": "date"
+      }
+    },
+    "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "8b9c668b-de6d-4a95-a042-4eff937d6f59": {
+          "type": "article",
+          "settings": {
+            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        },
+        "b8077f2e-a228-4246-a7d8-57b2925a83cd": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/usb-pd-technologie"
+          }
+        },
+        "a0d43162-c296-49fa-91d9-8661b70d6e6d": {
+          "type": "article",
+          "settings": {
+            "article": "powerstation\/ugreen-powerroam-serie"
+          }
+        }
+      },
+      "block_order": [
+        "8b9c668b-de6d-4a95-a042-4eff937d6f59",
+        "b8077f2e-a228-4246-a7d8-57b2925a83cd",
+        "a0d43162-c296-49fa-91d9-8661b70d6e6d"
+      ],
+      "settings": {
+        "box_title": "Buying Guides",
+        "box_more_title": "More Buying Guides",
+        "box_more_url": "",
+        "date": "date"
       }
     }
   },
   "order": [
-    "heading",
-    "main",
-    "sidebar-page"
+    "397388d8-4257-4b0e-a373-f48b6c576ea0",
+    "70ab769d-49b9-4078-9378-130a70a775b9",
+    "b8e8c9f9-4031-482a-b69a-652c18751758",
+    "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
+    "fabc6a84-fefb-4705-a404-2565883c824e",
+    "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
+    "d1a92bb6-e4ab-4d92-9421-602bf1386bad"
   ]
 }
