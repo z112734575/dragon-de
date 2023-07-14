@@ -7,6 +7,7 @@
   assign box_more_url = se_stts.box_more_url
   assign blog_img = se_stts.blog_img
   assign blog_title = se_stts.blog_title
+  assign blog_url = se_stts.blog_url
   assign section_id = se_stts.section_id
 -%}
 
@@ -23,6 +24,7 @@
     </div>
     <div class="ug_buying_blog">
       <div class="left">
+         <a href="{{blog_url}}">
         <div class="blog_img">
           <img
             src="{{ blog_img }}"
@@ -30,6 +32,7 @@
           >
         </div>
         <h2>{{ blog_title }}</h2>
+           </a>
       </div>
       <div class="right">
         {%- for block in se_blocks -%}
@@ -98,6 +101,11 @@
         "id": "blog_title",
         "label": "Blog title",
         "default": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World"
+      },
+    {
+        "type": "text",
+        "id": "blog_url",
+        "label": "Blog Url"
       },
     {
         "type": "select",
