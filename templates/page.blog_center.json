@@ -105,7 +105,7 @@
         "box_title": "Einkaufsratgeber",
         "box_more_title": "More",
         "box_more_url": "",
-        "blog_img": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/81I8FNLqZPL_534f90c9-77ad-48da-b1b4-313c0512bbcc.jpg?v=1689141500",
+        "blog_img": "https:\/\/i.ytimg.com\/vi\/Azs4REVc4k0\/maxresdefault.jpg",
         "blog_title": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World",
         "blog_url": "https:\/\/youtu.be\/Azs4REVc4k0",
         "date": "date"
@@ -129,7 +129,7 @@
         "b4bdef7f-514d-4ef6-ae94-a14eada4d854": {
           "type": "article",
           "settings": {
-            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+            "article": "powerstation\/ugreen-powerroam-serie"
           }
         }
       },
@@ -155,19 +155,19 @@
         "c0010a05-c090-4763-83c3-7e5471719ca8": {
           "type": "article",
           "settings": {
-            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+            "article": "powerstation\/bluetooth-5-2"
           }
         },
         "0e416e13-ce9c-443a-a618-2d339c4b66c0": {
           "type": "article",
           "settings": {
-            "article": "ladegerat\/usb-c-ladegerate-faq"
+            "article": "powerstation\/usb-pd-technologie"
           }
         },
         "87d20512-c008-4ccf-b4ee-64d4c7288465": {
           "type": "article",
           "settings": {
-            "article": "powerstation\/von-earth-day-bis-zum-alltag"
+            "article": "powerstation\/power-delivery-3-1"
           }
         }
       },
@@ -189,19 +189,19 @@
         "8b9c668b-de6d-4a95-a042-4eff937d6f59": {
           "type": "article",
           "settings": {
-            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+            "article": "powerstation\/kabelloses-laden"
           }
         },
         "b8077f2e-a228-4246-a7d8-57b2925a83cd": {
           "type": "article",
           "settings": {
-            "article": "powerstation\/usb-pd-technologie"
+            "article": "powerstation\/richtige-ladegeraete-auswaehlen"
           }
         },
         "a0d43162-c296-49fa-91d9-8661b70d6e6d": {
           "type": "article",
           "settings": {
-            "article": "powerstation\/ugreen-powerroam-serie"
+            "article": "powerstation\/ein-vollstandiger-leitfaden-zu-vga"
           }
         }
       },
@@ -211,8 +211,8 @@
         "a0d43162-c296-49fa-91d9-8661b70d6e6d"
       ],
       "settings": {
-        "box_title": "Buying Guides",
-        "box_more_title": "More Buying Guides",
+        "box_title": "Tipps & Anleitungen",
+        "box_more_title": "More",
         "box_more_url": "",
         "date": "date"
       }
