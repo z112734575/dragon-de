@@ -96,7 +96,7 @@
     "ug-index-image": {
       "type": "ug-index-image",
       "custom_css": [
-        ".topImage {margin-top: 10px;}"
+
       ],
       "settings": {
         "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1.2_-_Web.png?v=1679540557",
