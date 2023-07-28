@@ -1,7 +1,7 @@
 {%- liquid
 assign admin_sp = request.design_mode
 assign page_type = request.page_type
-assign enable_quickview = settings.enable_quickview 
+assign enable_quickview = settings.enable_quickview
 assign enable_quickshop = settings.enable_quickshop -%}
 
 <svg aria-hidden="true" focusable="false" role="presentation" xmlns="http://www.w3.org/2000/svg" class="t4s-d-none"><defs>
@@ -44,7 +44,7 @@ assign enable_quickshop = settings.enable_quickshop -%}
   <symbol id="t4s-icon-link">
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="feather feather-link-2"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"/><line x1="8" y1="12" x2="16" y2="12"/></svg>
   </symbol>
-  <symbol id="t4s-select-arrow"> 
+  <symbol id="t4s-select-arrow">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 12"><polyline fill="none" stroke="currentColor" points="17 2 9.5 10 2 2" fill-rule="evenodd" stroke-width="2" stroke-linecap="square"></polyline></svg>
   </symbol>
 </defs></svg>
@@ -80,7 +80,7 @@ assign enable_quickshop = settings.enable_quickshop -%}
     cart_change_url: '{{ routes.cart_change_url }}',
     cart_update_url: '{{ routes.cart_update_url }}'
   };
-  
+
   window.T4SProductStrings = {
     pleaseChooseOptions: `{{ 'products.product.Please_choose_pr_options' | t }}`,
     addToCart: `{{ 'products.product.add_to_cart' | t }}`,
@@ -104,7 +104,7 @@ assign enable_quickshop = settings.enable_quickshop -%}
     swatch_limit: `{{ 'products.product_card.swatch_limit' | t }}`,
     swatch_limit_less: `{{ 'products.product_card.swatch_limit_less' | t }}`,
     compare: `{{ 'products.product.compare' | t }}`,
-    added_text_cp: `{{ 'products.product.added_text_compare' | t }}`, 
+    added_text_cp: `{{ 'products.product.added_text_compare' | t }}`,
     add_to_wishlist: `{{ 'products.product.add_to_wishlist' | t }}`,
     remove_wishlist: `{{ 'products.product.remove_wishlist' | t }}`,
     browse_wishlist: `{{ 'products.product.browse_wishlist' | t }}`,
@@ -124,7 +124,7 @@ assign enable_quickshop = settings.enable_quickshop -%}
     frm_notify_stock_success: `{{'products.notify_stock.success' | t }}`,
     frm_newsletter_popup_success: `{{'sections.newsletter_form.confirmation' | t}}`
   };
-  
+
   window.T4Sconfigs = {
     theme: 'kalles',
     cartCurrency: {{ cart.currency.iso_code | json }},
@@ -189,12 +189,12 @@ assign enable_quickshop = settings.enable_quickshop -%}
     document.addEventListener("contextmenu", function(event) {
       event.preventDefault();
       // console.log(event.target)
-      // var notInput = (event.target || event.srcElement).tagName.toLowerCase() !== "input" && (event.target || event.srcElement).tagName.toLowerCase() !== "textarea";if (notInput && (event.target || event.srcElement).innerText) {event.preventDefault();} 
+      // var notInput = (event.target || event.srcElement).tagName.toLowerCase() !== "input" && (event.target || event.srcElement).tagName.toLowerCase() !== "textarea";if (notInput && (event.target || event.srcElement).innerText) {event.preventDefault();}
     });
     // disable_right_click_img
     document.addEventListener("mousedown", function(event) { if ((event.target || event.srcElement).tagName.toLowerCase() === "img") {
         // Middle-click to open in new tab
-        if (event.which == 2) { event.preventDefault(); } 
+        if (event.which == 2) { event.preventDefault(); }
     } });
     document.addEventListener("contextmenu", function(event) { if ((event.target || event.srcElement).tagName.toLowerCase() === "img") { event.preventDefault(); } });
     // Drag and drop <img> elements
@@ -206,22 +206,22 @@ assign enable_quickshop = settings.enable_quickshop -%}
 </script>
 <template id="btns_pr_temp">
   {%- if enable_quickview %}<a href="t4s_pr_url" data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-quickview" data-action-quickview><span class="t4s-svg-pr-icon"><svg viewBox="0 0 24 24"><use xlink:href="#t4s-icon-qv"></use></svg></span><span class="t4s-text-pr">{{'products.product_card.quick_view' | t}}</span></a>{% endif %}[split_t4nt]
-  
+
   {%- if settings.enable_compe %}<a href="t4s_pr_url" data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-compare" data-action-compare><span class="t4s-svg-pr-icon"><svg class="t4s-svg-cp" viewBox="0 0 24 24"><use xlink:href="#t4s-icon-cp"></use></svg></span><span class="t4s-text-pr">{{'products.product.compare' | t}}</span></a>{% endif %}[split_t4nt]
-  
+
   {%- if settings.wishlist_mode == "1" -%}
      <a href="t4s_pr_url" data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-wishlist" data-action-wishlist><span class="t4s-svg-pr-icon"><svg viewBox="0 0 24 24"><use xlink:href="#t4s-icon-wis"></use></svg></span><span class="t4s-text-pr">{{'products.product.add_to_wishlist' | t}}</span></a>
   {%- elsif settings.wishlist_mode == "2" and shop.customer_accounts_enabled -%}
-     {%- if customer -%} 
+     {%- if customer -%}
      <a href="t4s_pr_url" data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-wishlist" data-action-wishlist><span class="t4s-svg-pr-icon"><svg viewBox="0 0 24 24"><use xlink:href="#t4s-icon-wis"></use></svg></span><span class="t4s-text-pr">{{'products.product.add_to_wishlist' | t}}</span></a>
      {%- else -%}
      <a href="{{routes.account_login_url}}" data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-wishlist" data-action-wishlist-login><span class="t4s-svg-pr-icon"><svg viewBox="0 0 24 24"><use xlink:href="#t4s-icon-wis"></use></svg></span><span class="t4s-text-pr">{{'products.product.login_to_wishlist' | t}}</span></a>
      {%- endif -%}
   {%- endif -%}[split_t4nt]
-  
+
   {%- if settings.enable_atc -%}<a href="t4s_pr_url" data-atc-selector data-tooltip="" data-pr-id="" rel="nofollow" class="t4s-pr-item-btn t4s-pr-addtocart" dat-qty="1"><span class="t4s-svg-pr-icon"><svg viewBox="0 0 24 24"><use xlink:href="#t4s-icon-atc"></use></svg></span><span class="t4s-text-pr">{{'products.product.add_to_cart' | t}}</span></a>{% endif %}[split_t4nt]
   {%- if settings.show_qty -%}
-  <div data-quantity-wrapper class="t4s-quantity-wrapper t4s-quantity-pr-item"> 
+  <div data-quantity-wrapper class="t4s-quantity-wrapper t4s-quantity-pr-item">
     <button data-quantity-selector data-decrease-qty type="button" class="t4s-quantity-selector is--minus"><svg focusable="false" class="icon icon--minus" viewBox="0 0 10 2" role="presentation"><path d="M10 0v2H0V0z" fill="currentColor"></path></svg></button>
     <input data-quantity-value type="number" class="t4s-quantity-input" step="1" min="1" max="9999" name="quantity" value="1" size="4" pattern="[0-9]*" inputmode="numeric">
     <button data-quantity-selector data-increase-qty type="button" class="t4s-quantity-selector is--plus"><svg focusable="false" class="icon icon--plus" viewBox="0 0 10 10" role="presentation"><path d="M6 4h4v2H6v4H4V6H0V4h4V0h2v4z" fill="currentColor" fill-rule="evenodd"></path></svg></button>
@@ -260,7 +260,7 @@ assign enable_quickshop = settings.enable_quickshop -%}
      {%- if mobile_nav_type == '1' or mobile_nav_type == '2' -%}
      <div class="t4s-drawer__header"><span>{% if mobile_nav_type == '1' %}{%- assign navActive = 'is--active' -%}{{ 'general.mobile_menu.menu' | t }}{% else %}{%- assign catActive = 'is--active' -%}{{ 'general.mobile_menu.categories' | t }}{% endif %}</span></div>
      {%- else -%}
-      
+
       {%- if mobile_nav_type == '3' -%}
        {%- assign navActive = 'is--active' -%}
        {%- assign catActive = '' -%}
@@ -279,13 +279,18 @@ assign enable_quickshop = settings.enable_quickshop -%}
    </div>
    <button class="t4s-drawer-menu__close t4s-pe-none t4s-op-0 t4s-pf" data-drawer-close aria-label="{{'general.mobile_menu.close' | t}}"><svg class="t4s-iconsvg-close" role="presentation" viewBox="0 0 16 14"><path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path></svg></button>
    {%- if page_type != 'cart' and settings.cart_type != 'disable' %}{% section 'mini_cart' %}{% endif -%}
-   
+
 {%- else -%}
+  <style>
+  #t4s-menu-drawer {
+  width: 100vw;
+  }
+  </style>
    <div id="t4s-menu-drawer" class="t4s-drawer t4s-drawer__left lazyloadt4s {% if settings.header_design != 'sidebar' %} t4s-d-lg-none{% endif %}" aria-hidden="true" data-rendert4s="{{ routes_search_url }}/?view=mn"></div>
-   <button class="t4s-drawer-menu__close t4s-pe-none t4s-op-0 t4s-pf" data-drawer-close aria-label="{{'general.mobile_menu.close' | t}}"><svg class="t4s-iconsvg-close" role="presentation" viewBox="0 0 16 14"><path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path></svg></button>
+  <button class="t4s-drawer-menu__close  t4s-op-0 t4s-pf" data-drawer-close aria-label="{{'general.mobile_menu.close' | t}}" style="background: transparent;color: black;"><svg class="t4s-iconsvg-close" role="presentation" viewBox="0 0 16 14"><path d="M15 0L1 14m14 0L1 0" stroke="currentColor" fill="none" fill-rule="evenodd"></path></svg></button>
 {%- endif -%}
 
-{%- liquid 
+{%- liquid
 assign locale_selector = false
 assign currency_selector = false
 if shop.enabled_currencies.size > 1
@@ -316,7 +321,7 @@ if admin_sp
   endunless
   if page_type == 'collection' or page_type == 'search'
      section 'facets'
-  endif 
+  endif
   if page_type == 'collection'
      section 'facets_tags'
   endif
@@ -339,7 +344,7 @@ section 't4s_custom_color'
 endif
 if settings.falling_snow
 echo '<div id="t4s-snow_ef" class="t4s-dn"></div>'
-endif 
+endif
 echo '<div id="t4s-append-component" class="t4s-d-none"></div>' -%}
 <template id="t4s-style-popup">
 {%- if enable_quickview -%}
@@ -352,6 +357,6 @@ echo '<div id="t4s-append-component" class="t4s-d-none"></div>' -%}
 <link rel="stylesheet" href="{{ 'theme.min.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="{{ 'drawer.min.css' | asset_url }}" media="print" onload="this.media='all'">
 <link rel="stylesheet" href="https://cdn.shopify.com/s/files/1/0601/0827/5898/t/32/assets/line-awesome.min.css?v=86766576465918945231657718088" media="print" onload="this.media='all'">
-{%- if settings.colors_css %}<link rel="stylesheet" href="{{ 'colors.css' | asset_url }}" media="print" onload="this.media='all'">{% endif -%} 
+{%- if settings.colors_css %}<link rel="stylesheet" href="{{ 'colors.css' | asset_url }}" media="print" onload="this.media='all'">{% endif -%}
 {%- if settings.custom_css %}{{- 'custom.css' | asset_url | stylesheet_tag:preload:true -}}{% endif -%}
 {%- if admin_sp %}<style>.t4s-section-admn-fixed { position: fixed;top: 100px;pointer-events: none; z-index: -1;opacity: 0; }.t4s-section-admn2-fixed { position: fixed;top: 100px;z-index: 468; }</style>{% endif -%}
