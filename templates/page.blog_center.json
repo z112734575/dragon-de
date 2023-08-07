@@ -18,42 +18,54 @@
     "70ab769d-49b9-4078-9378-130a70a775b9": {
       "type": "blog_center",
       "blocks": {
-        "2c76bd4b-0c1c-4292-b82d-e5f536cc459f": {
-          "type": "article",
+        "ee977260-f4be-404b-b3ff-8c94fe2beb7c": {
+          "type": "Item",
           "settings": {
-            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/niedrige-latenz-101-1691120170774_1200x.png?v=1691128796",
+            "article_title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
+            "article_time": "4. Aug 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/bluetooth\/niedrige-latenz-101-die-latenz-von-bluetooth-kopfhorern-verstehen"
           }
         },
-        "7f51704e-0f4a-4d15-8faf-eb1a41a77eeb": {
-          "type": "article",
+        "8e23d530-7d6c-4950-a5c1-c8bc8762ac2f": {
+          "type": "Item",
           "settings": {
-            "article": "powerstation\/ugreen-powerroam-serie"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/ugreen-usb-ethernet-adapter-collection-1690875055799_1200x.webp?v=1690879405",
+            "article_title": "Der vollständige Leitfaden für einen USB-Ethernet-Adapter | UGREEN",
+            "article_time": "1. Aug 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/adapter\/lan-usb-ethernet-adapters"
           }
         },
-        "c4a1b2d4-46d9-40b4-ba96-6e97689874c7": {
-          "type": "article",
+        "992610b2-40d3-4d7f-8b6c-48c8de50bac5": {
+          "type": "Item",
           "settings": {
-            "article": "powerstation\/festplattengehause-vs-nas"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/magsafe-charger-1690536404477_1200x.webp?v=1690537757",
+            "article_title": "Die Pro und Contra des Apple MagSafe-Ladegeräts",
+            "article_time": "28. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/die-pro-und-contra-des-apple-magsafe-ladegerats"
           }
         },
-        "f136168b-d03d-4638-8051-f02e1ee84ede": {
-          "type": "article",
+        "c6815414-9b77-4083-8423-c35310bcda9d": {
+          "type": "Item",
           "settings": {
-            "article": "powerstation\/usb-pd-technologie"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-pc-1690335924045_1200x.jpg?v=1690336022",
+            "article_title": "Wie können Sie Steam Deck verwenden, um Ihre PC-Spiele zu steuern?",
+            "article_time": "26. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/wie-konnen-sie-steam-deck-verwenden-um-ihre-pc-spiele-zu-steuern"
           }
         }
       },
       "block_order": [
-        "2c76bd4b-0c1c-4292-b82d-e5f536cc459f",
-        "7f51704e-0f4a-4d15-8faf-eb1a41a77eeb",
-        "c4a1b2d4-46d9-40b4-ba96-6e97689874c7",
-        "f136168b-d03d-4638-8051-f02e1ee84ede"
+        "ee977260-f4be-404b-b3ff-8c94fe2beb7c",
+        "8e23d530-7d6c-4950-a5c1-c8bc8762ac2f",
+        "992610b2-40d3-4d7f-8b6c-48c8de50bac5",
+        "c6815414-9b77-4083-8423-c35310bcda9d"
       ],
       "settings": {
         "blog_tag_1": "Today’s Picks",
         "featured_article": "powerstation\/richtige-ladegeraete-auswaehlen",
         "featured_article_1": "powerstation\/iphone-batterie-und-ladetechnik",
-        "featured_article_2": "powerstation\/ugreen-powerroam-tragbare-powerstation-startet-in-berlin",
+        "featured_article_2": "ladegerat\/gan-ladegerat-vs-pd-ladegerat",
         "blog_tag_2": "Most Recent",
         "date": "date"
       }
@@ -75,31 +87,6 @@
     },
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e": {
       "type": "blog_buying_guides",
-      "blocks": {
-        "70f59e36-48b0-456e-b18c-7c58fe45e758": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/usb-c-hub-faq"
-          }
-        },
-        "fa51033f-408a-4ccd-a48a-cc58948394b2": {
-          "type": "article",
-          "settings": {
-            "article": "ladegerat\/gan-ladegerat-vs-pd-ladegerat"
-          }
-        },
-        "927f7f2d-c44c-4d75-adca-4de3b6c0be99": {
-          "type": "article",
-          "settings": {
-            "article": "ladegerat\/usb-c-ladegerate-faq"
-          }
-        }
-      },
-      "block_order": [
-        "70f59e36-48b0-456e-b18c-7c58fe45e758",
-        "fa51033f-408a-4ccd-a48a-cc58948394b2",
-        "927f7f2d-c44c-4d75-adca-4de3b6c0be99"
-      ],
       "settings": {
         "section_id": "ug_blog_box_3",
         "box_title": "Einkaufsratgeber",
@@ -107,37 +94,11 @@
         "box_more_url": "",
         "blog_img": "https:\/\/i.ytimg.com\/vi\/Azs4REVc4k0\/maxresdefault.jpg",
         "blog_title": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World",
-        "blog_url": "https:\/\/youtu.be\/Azs4REVc4k0",
-        "date": "date"
+        "blog_url": "https:\/\/youtu.be\/Azs4REVc4k0"
       }
     },
     "fabc6a84-fefb-4705-a404-2565883c824e": {
       "type": "blog_buying_guides",
-      "blocks": {
-        "a4fba30f-46e8-4763-8d02-a7a23387dec3": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/tragbare-powerstation-beim-camping"
-          }
-        },
-        "921737c9-61bc-47ae-abdf-b2a66b0514c3": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/sicherheit-von-camping-powerstationen"
-          }
-        },
-        "b4bdef7f-514d-4ef6-ae94-a14eada4d854": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/tws-dynamic-drivers-erklaert"
-          }
-        }
-      },
-      "block_order": [
-        "a4fba30f-46e8-4763-8d02-a7a23387dec3",
-        "921737c9-61bc-47ae-abdf-b2a66b0514c3",
-        "b4bdef7f-514d-4ef6-ae94-a14eada4d854"
-      ],
       "settings": {
         "section_id": "ug_blog_box_4",
         "box_title": "Reviews",
@@ -145,76 +106,23 @@
         "box_more_url": "",
         "blog_img": "https:\/\/i.ytimg.com\/vi\/CN7Sawwqfrg\/maxresdefault.jpg",
         "blog_title": "[MakeUseOf]Almost Perfect: The UGreeen PowerRoam 1200 and SC200 Solar Panels",
-        "blog_url": "https:\/\/youtu.be\/CN7Sawwqfrg",
-        "date": "date"
+        "blog_url": "https:\/\/youtu.be\/CN7Sawwqfrg"
       }
     },
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4": {
       "type": "blog_tags_list",
-      "blocks": {
-        "c0010a05-c090-4763-83c3-7e5471719ca8": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/bluetooth-5-2"
-          }
-        },
-        "0e416e13-ce9c-443a-a618-2d339c4b66c0": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/usb-pd-technologie"
-          }
-        },
-        "87d20512-c008-4ccf-b4ee-64d4c7288465": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/power-delivery-3-1"
-          }
-        }
-      },
-      "block_order": [
-        "c0010a05-c090-4763-83c3-7e5471719ca8",
-        "0e416e13-ce9c-443a-a618-2d339c4b66c0",
-        "87d20512-c008-4ccf-b4ee-64d4c7288465"
-      ],
       "settings": {
         "box_title": "Tech-Trends",
         "box_more_title": "More",
-        "box_more_url": "",
-        "date": "date"
+        "box_more_url": ""
       }
     },
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
       "type": "blog_tags_list",
-      "blocks": {
-        "8b9c668b-de6d-4a95-a042-4eff937d6f59": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/kabelloses-laden"
-          }
-        },
-        "b8077f2e-a228-4246-a7d8-57b2925a83cd": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/richtige-ladegeraete-auswaehlen"
-          }
-        },
-        "a0d43162-c296-49fa-91d9-8661b70d6e6d": {
-          "type": "article",
-          "settings": {
-            "article": "powerstation\/ein-vollstandiger-leitfaden-zu-vga"
-          }
-        }
-      },
-      "block_order": [
-        "8b9c668b-de6d-4a95-a042-4eff937d6f59",
-        "b8077f2e-a228-4246-a7d8-57b2925a83cd",
-        "a0d43162-c296-49fa-91d9-8661b70d6e6d"
-      ],
       "settings": {
         "box_title": "Tipps & Anleitungen",
         "box_more_title": "More",
-        "box_more_url": "",
-        "date": "date"
+        "box_more_url": ""
       }
     }
   },
