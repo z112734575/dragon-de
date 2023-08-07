@@ -87,6 +87,40 @@
     },
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e": {
       "type": "blog_buying_guides",
+      "blocks": {
+        "9cce815e-d7d9-4857-a93b-3733dee79961": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2023\/03\/gaming-laptop-docking-station.png?resize=600%2C300&ssl=1",
+            "article_title": "Die ultimative Gaming-Laptop-Dockingstation-Anleitung",
+            "article_time": "21. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/gaming-laptop-dockingstation-anleitung"
+          }
+        },
+        "36f04067-bbd5-4ca8-934c-d393903a5363": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/gan-charger-1689047212471_1200x.jpg?v=1689054834",
+            "article_title": "GaN-Ladegerät vs. PD-Ladegerät: Was ist der Unterschied?",
+            "article_time": "11. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/gan-ladegerat-vs-pd-ladegerat"
+          }
+        },
+        "8144ec73-8604-492c-89c1-0eaa720bf2f7": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/usb-c-ladegerate-1689229528405_1200x.webp?v=1689233284",
+            "article_title": "USB-C Ladegeräte: 5 häufig gestellte grundlegende Fragen",
+            "article_time": "13. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/usb-c-ladegerate-faq"
+          }
+        }
+      },
+      "block_order": [
+        "9cce815e-d7d9-4857-a93b-3733dee79961",
+        "36f04067-bbd5-4ca8-934c-d393903a5363",
+        "8144ec73-8604-492c-89c1-0eaa720bf2f7"
+      ],
       "settings": {
         "section_id": "ug_blog_box_3",
         "box_title": "Einkaufsratgeber",
