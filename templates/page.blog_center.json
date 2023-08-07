@@ -125,7 +125,7 @@
         "section_id": "ug_blog_box_3",
         "box_title": "Einkaufsratgeber",
         "box_more_title": "More",
-        "box_more_url": "",
+        "box_more_url": "shopify:\/\/pages\/usb-c-hub-vs-docking-station-how-to-choose",
         "blog_img": "https:\/\/i.ytimg.com\/vi\/Azs4REVc4k0\/maxresdefault.jpg",
         "blog_title": "Ugreen PowerRoam 1200W Power Station - Empower Your Life, Roam the World",
         "blog_url": "https:\/\/youtu.be\/Azs4REVc4k0"
@@ -133,11 +133,45 @@
     },
     "fabc6a84-fefb-4705-a404-2565883c824e": {
       "type": "blog_buying_guides",
+      "blocks": {
+        "48d5111f-a00f-4869-8903-3b6ceb78cf4e": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/64766c95b1ce1e54822a193c\/Ugreen-1200W-PowerRoam-unboxing\/960x0.jpg?format=jpg&width=960",
+            "article_title": "[Forbes]Review: Ugreen’s New PowerRoam 1200 Portable Power Station",
+            "article_time": "30. May 2023",
+            "article_link": "https:\/\/www.forbes.com\/sites\/bradmoon\/2023\/05\/30\/review-ugreens-new-powerroam-1200-portable-power-station\/?sh=4bf59bbb3592"
+          }
+        },
+        "825550c7-7dd9-42e5-b34e-14225813ca8c": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/www.gizchina.com\/wp-content\/uploads\/images\/2023\/05\/Lifestyle-4.jpg",
+            "article_title": "[GIZCHINA]UGREEN’S POWERROAM SERIES PROVIDES SAFE, GREEN ENERGY OPTIONS FOR A MULTITUDE OF INDOOR AND OUTDOOR SCENARIOS",
+            "article_time": "5. May 2023",
+            "article_link": "https:\/\/www.gizchina.com\/2023\/05\/08\/ugreens-powerroam-series-provides-safe-green-energy-options-for-a-multitude-of-indoor-and-outdoor-scenarios\/"
+          }
+        },
+        "493c2ef0-ba90-4447-8cd4-60636e11d3cb": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/static1.pocketlintimages.com\/wordpress\/wp-content\/uploads\/2023\/05\/ugreen-powerroam-1200-power-station.png?q=50&fit=contain&w=1140&h=&dpr=1.5",
+            "article_title": "[Pocket-lint]How the Ugreen PowerRoam 1200 power station keeps you charged for any adventure",
+            "article_time": "8. May 2023",
+            "article_link": "https:\/\/www.pocket-lint.com\/ugreen-powerroam-1200-power-station\/"
+          }
+        }
+      },
+      "block_order": [
+        "48d5111f-a00f-4869-8903-3b6ceb78cf4e",
+        "825550c7-7dd9-42e5-b34e-14225813ca8c",
+        "493c2ef0-ba90-4447-8cd4-60636e11d3cb"
+      ],
       "settings": {
         "section_id": "ug_blog_box_4",
         "box_title": "Reviews",
         "box_more_title": "More",
-        "box_more_url": "",
+        "box_more_url": "shopify:\/\/pages\/blog-center",
         "blog_img": "https:\/\/i.ytimg.com\/vi\/CN7Sawwqfrg\/maxresdefault.jpg",
         "blog_title": "[MakeUseOf]Almost Perfect: The UGreeen PowerRoam 1200 and SC200 Solar Panels",
         "blog_url": "https:\/\/youtu.be\/CN7Sawwqfrg"
@@ -145,18 +179,86 @@
     },
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4": {
       "type": "blog_tags_list",
+      "blocks": {
+        "9bc8c207-e682-462e-8f32-244fb1d428b6": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/apple-mif-certified-guide-1689665484626_1200x.webp?v=1689673396",
+            "article_title": "Apple MFi zertifiziert: Der endgültige Leitfaden",
+            "article_time": "18. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/apple-mfi-zertifiziert-leitfaden"
+          }
+        },
+        "39814391-5be9-4cdd-827e-9abde1d8e311": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2022\/03\/wireless-charging-speed_%E6%97%A0%E6%96%87%E6%A1%88.png?resize=1140%2C680&ssl=1",
+            "article_title": "Wie schnell kann kabelloses Aufladen sein?",
+            "article_time": "18. April 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/kabelloses-laden"
+          }
+        },
+        "53205389-7563-4f7c-afd8-b0fc3a4246d7": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/i0.wp.com\/blogtest.ugreen.com\/wp-content\/uploads\/2020\/09\/1-PD%E6%8A%80%E6%9C%AF.png?resize=836%2C488&ssl=1",
+            "article_title": "Power Delivery: Alles, was Sie über USB-PD-Technik wissen sollten",
+            "article_time": "18. April 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/usb-pd-technologie"
+          }
+        }
+      },
+      "block_order": [
+        "9bc8c207-e682-462e-8f32-244fb1d428b6",
+        "39814391-5be9-4cdd-827e-9abde1d8e311",
+        "53205389-7563-4f7c-afd8-b0fc3a4246d7"
+      ],
       "settings": {
         "box_title": "Tech-Trends",
         "box_more_title": "More",
-        "box_more_url": ""
+        "box_more_url": "shopify:\/\/pages\/blog-center"
       }
     },
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
       "type": "blog_tags_list",
+      "blocks": {
+        "1395b89f-e3ac-4948-aedf-3547299d09d1": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/gaming-laptop-docking-station-1689903889606_1200x.webp?v=1689907067",
+            "article_title": "Die ultimative Gaming-Laptop-Dockingstation-Anleitung",
+            "article_time": "21. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/gaming-laptop-dockingstation-anleitung"
+          }
+        },
+        "77fed6cf-0712-4597-b35c-4f2ff374ba2f": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-pc-1690335924045_1200x.jpg?v=1690336022",
+            "article_title": "Wie können Sie Steam Deck verwenden, um Ihre PC-Spiele zu steuern?",
+            "article_time": "26. Jul 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/wie-konnen-sie-steam-deck-verwenden-um-ihre-pc-spiele-zu-steuern"
+          }
+        },
+        "01647c83-3338-4394-a79d-27c41c5d85b2": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/niedrige-latenz-101-1691120170774_1200x.png?v=1691128796",
+            "article_title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
+            "article_time": "4. Aug 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/bluetooth\/niedrige-latenz-101-die-latenz-von-bluetooth-kopfhorern-verstehen"
+          }
+        }
+      },
+      "block_order": [
+        "1395b89f-e3ac-4948-aedf-3547299d09d1",
+        "77fed6cf-0712-4597-b35c-4f2ff374ba2f",
+        "01647c83-3338-4394-a79d-27c41c5d85b2"
+      ],
       "settings": {
         "box_title": "Tipps & Anleitungen",
         "box_more_title": "More",
-        "box_more_url": ""
+        "box_more_url": "shopify:\/\/pages\/blog-center"
       }
     }
   },
