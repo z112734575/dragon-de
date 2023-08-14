@@ -152,7 +152,8 @@
           "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
           "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
           "70321",
-          "ugreen-usb-c-auf-lightning-kabel-mfi-zertifiziert-usb-c-lightning-ladekabel-pd-3-0-kompatibel"
+          "ugreen-usb-c-auf-lightning-kabel-mfi-zertifiziert-usb-c-lightning-ladekabel-pd-3-0-kompatibel",
+          "10-00-gift"
         ],
         "title": "",
         "subtitle": "",
@@ -162,7 +163,7 @@
         "product_item_bg_color": "#ffffff",
         "pc_product_item_img_size": "100%",
         "mobile_product_item_img_size": "100%",
-        "pc_row": "4",
+        "pc_row": "5",
         "mobile_row": "2",
         "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/weekly_slae_tag.png?v=1671085492",
         "pc_product_sale_width": "60px",
