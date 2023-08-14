@@ -15,6 +15,21 @@
         "code_cus_css": ""
       }
     },
+    "cc892ac6-2c5c-45a9-80b8-f91120da88ab": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<section class=\"blog_nav\">\n    <div class=\"ug_section_box\">\n        <h1>Blog-Zentrum<\/h1>\n        <ul>\n            <li><a href=\"\/blogs\/powerstation\">Tragbare Powerstation<\/a><\/li>\n            <li><a href=\"\/blogs\/ladegerat\">Ladegerät<\/a><\/li>\n            <li><a href=\"\/blogs\/dockingstation\">Dockingstation<\/a><\/li>\n        <\/ul>\n    <\/div>\n<\/section>\n<style>\n    .blog_nav .ug_section_box {\n        display: flex;\n        align-items: center;\n        justify-content: space-between;\n        padding: 18px 0;\n        margin-top: 10px;\n    }\n\n    .blog_nav .ug_section_box ul {\n        display: flex;\n        gap: 40px;\n        padding: 0;\n        margin: 0;\n    }\n\n    .blog_nav .ug_section_box h1 {\n        color: #000;\n        font-size: 24px;\n        font-weight: 600;\n    }\n\n    .blog_nav .ug_section_box a {\n        color: #000;\n        font-size: 16px;\n    }\n\n    @media(max-width:767px) {\n        .blog_nav .ug_section_box {\n            overflow-y: auto;\n            gap: 40px;\n            padding: 18px;\n        }\n\n        .blog_nav .ug_section_box h1 {\n            font-size: 16px;\n            flex: none;\n        }\n\n        .blog_nav .ug_section_box ul {\n            flex: none;\n            gap: 20px;\n        }\n\n        .blog_nav .ug_section_box a {\n            font-size: 14px;\n        }\n\n        .blog_nav .ug_section_box ul li {\n            flex: none;\n        }\n    }\n<\/style>",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
     "70ab769d-49b9-4078-9378-130a70a775b9": {
       "type": "blog_center",
       "blocks": {
@@ -264,6 +279,7 @@
   },
   "order": [
     "397388d8-4257-4b0e-a373-f48b6c576ea0",
+    "cc892ac6-2c5c-45a9-80b8-f91120da88ab",
     "70ab769d-49b9-4078-9378-130a70a775b9",
     "b8e8c9f9-4031-482a-b69a-652c18751758",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
