@@ -1313,6 +1313,7 @@
           },
           "224acbf9-e273-470e-aeb8-ce1cab7498c4": {
             "type": "html",
+            "disabled": true,
             "settings": {
               "html": "<script type=\"module\" crossorigin=\"\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-b2689dbf.js?v=1687144807\"><\/script>\n    <link rel=\"stylesheet\" href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/index-de-eeaa7cff.css?v=1679491134\">\n<div id=\"ug-mega-menu-app\"><\/div>",
               "page": "",
@@ -1321,7 +1322,6 @@
           },
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d": {
             "type": "tab_list",
-            "disabled": true,
             "settings": {
               "tab_name_list": "Tragbare Powerstation,Ladegeräte,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Car",
               "tab_image_list": "",
@@ -1330,7 +1330,6 @@
           },
           "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 1,
               "product_list": [
@@ -1349,7 +1348,6 @@
           },
           "062bd733-351d-4773-ae0d-49f8754a13f2": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 2,
               "product_list": [
@@ -1368,7 +1366,6 @@
           },
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 3,
               "product_list": [
@@ -1387,7 +1384,6 @@
           },
           "dc181cf8-5099-4066-aade-9708a6be74a7": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 4,
               "product_list": [
@@ -1406,7 +1402,6 @@
           },
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 5,
               "product_list": [
@@ -1425,7 +1420,6 @@
           },
           "70921ea8-7186-4d68-bf40-82235a8f7a86": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 6,
               "product_list": [
@@ -1444,7 +1438,6 @@
           },
           "a3d832d6-d857-4034-b7ec-50e882c86b2d": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 7,
               "product_list": [
@@ -1463,7 +1456,6 @@
           },
           "78b2740a-8429-40a0-a215-81c59a5f224f": {
             "type": "tab_content",
-            "disabled": true,
             "settings": {
               "tab_id": 8,
               "product_list": [
