@@ -1470,10 +1470,10 @@
 
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "Autoladegerät,\nAutohalterung,\nUSB A auf USB C Ladekabel,\nBluetooth Adapter,\nSound Card",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/auto-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-halterung,https:\/\/de.ugreen.com\/collections\/usb-a-auf-usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/sound-card",
+              "all_collection_url": "shopify:\/\/collections\/fur-auto",
+              "all_collection_name": "All"
             }
           }
         },
