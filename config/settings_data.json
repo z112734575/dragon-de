@@ -1408,15 +1408,15 @@
             "type": "tab_content",
             "disabled": true,
             "settings": {
-              "tab_id": 1,
+              "tab_id": 5,
               "product_list": [
 
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "Bluetooth Adapter,\nLAN Adapter,\nSD Adapter,\nSound Card,\nSwitcher",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/lan-adapter,https:\/\/de.ugreen.com\/collections\/sd-adapter,https:\/\/de.ugreen.com\/collections\/sound-card,https:\/\/de.ugreen.com\/collections\/switcher",
+              "all_collection_url": "shopify:\/\/collections\/adapters",
+              "all_collection_name": "All"
             }
           }
         },
