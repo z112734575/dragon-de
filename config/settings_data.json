@@ -1406,6 +1406,7 @@
           },
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f": {
             "type": "tab_content",
+            "disabled": true,
             "settings": {
               "tab_id": 1,
               "product_list": [
