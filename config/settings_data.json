@@ -1422,6 +1422,51 @@
               "all_collection_url": "shopify:\/\/collections\/adapters",
               "all_collection_name": "All"
             }
+          },
+          "70921ea8-7186-4d68-bf40-82235a8f7a86": {
+            "type": "tab_content",
+            "disabled": true,
+            "settings": {
+              "tab_id": 6,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "a3d832d6-d857-4034-b7ec-50e882c86b2d": {
+            "type": "tab_content",
+            "disabled": true,
+            "settings": {
+              "tab_id": 7,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "78b2740a-8429-40a0-a215-81c59a5f224f": {
+            "type": "tab_content",
+            "disabled": true,
+            "settings": {
+              "tab_id": 8,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
           }
         },
         "block_order": [
@@ -1432,7 +1477,10 @@
           "062bd733-351d-4773-ae0d-49f8754a13f2",
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18",
           "dc181cf8-5099-4066-aade-9708a6be74a7",
-          "bcd5cc0d-d546-46fd-b68d-8d555850bf5f"
+          "bcd5cc0d-d546-46fd-b68d-8d555850bf5f",
+          "70921ea8-7186-4d68-bf40-82235a8f7a86",
+          "a3d832d6-d857-4034-b7ec-50e882c86b2d",
+          "78b2740a-8429-40a0-a215-81c59a5f224f"
         ],
         "settings": {
         }
