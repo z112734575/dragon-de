@@ -315,6 +315,7 @@
     {% capture commentSuccessMessage %}  {% endcapture %}
     {% capture commentErrorMessage %}  {% endcapture %}
 {% endif %}
+    {% capture titleSideBarClass %} undefined {% endcapture %}
   <script async src="https://d2xvgzwm836rzd.cloudfront.net/lazysizes-bloggle.min.js"></script>
   <link href="https://d2xvgzwm836rzd.cloudfront.net/article-layout.min.css" type="text/css" rel="stylesheet">
   <div id="bloggle_article-layout" class="sideBar__right{%if localization.language.iso_code == "ar" or localization.language.iso_code == "he" %} blggle-rtl{%endif%}">
@@ -370,9 +371,9 @@
         {% if productSideBar != "" %}
             <p id="bggle-product-sideBar" class="bggle--sideBar--title {{titleSideBarClass}}">{{productSideBar}}</p>
         {% endif %}
-        <a id="bggle--product-related-link" href="{{product.url}}" bggle-product-title="{{ product.title }}" bggle-product-handle="{{ product.handle }}" >
+        <a id="bggle--product-related-link" href="{{product.url}}" bggle-product-title="{{ product.title }}" bggle-product-handle="{{ product.handle }}" target="_blank">
           <div class="bggle--info-siderBar-product">
-            <img class="bggle--product-item-img" src="{{product.images[0] | img_url: '420x420' }}" alt="{{ product.images[0].alt }}">
+            <img class="bggle--product-item-img lazybloggle" data-src="{{product.images[0] | img_url: '420x420' }}" alt="{{ product.images[0].alt }}">
             <div class="bggle--product-info">
                 
                 <p id="bggle--product-title" class="bggle--product-title ">{{product.title}}</p>
@@ -405,7 +406,7 @@
             {% unless recoArticle.title == article.title or count >= 3 %}
               {% assign count = count | plus: 1 %}
               <a class="bggle-latest-article" href="{{recoArticle.url}}">
-                {% if recoArticle.image %}<img class="bggle-latest-article-img" src="{{ recoArticle.image | img_url }}" alt="">{% endif %}
+                {% if recoArticle.image %}<img class="bggle-latest-article-img lazybloggle" data-src="{{ recoArticle.image | img_url }}" alt="{{ recoArticle.image.alt }}">{% endif %}
                 <p>{{recoArticle.title}}</p>
               </a>
             {% endunless %}
@@ -482,7 +483,7 @@
       }
       }
       #bloggle_sideBar{
-width: %
+width: 35%
 }
 
   </style>
