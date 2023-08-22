@@ -21,6 +21,19 @@
             "className": "buy-more-save-more"
           }
         },
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_pc.png?v=1692683632",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_mo.png?v=1692683615",
+            "text_color": "#ffffff",
+            "title": "Das erste 300W Multiport GaN-Ladegerät",
+            "subtitle": "05 September 11:00 Uhr",
+            "button_text": "Jetzt kaufen",
+            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": ""
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -47,19 +60,6 @@
             "className": ""
           }
         },
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_pc.png?v=1692683632",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_mo.png?v=1692683615",
-            "text_color": "#ffffff",
-            "title": "Das erste 300W Multiport GaN-Ladegerät",
-            "subtitle": "05 September 11:00 Uhr",
-            "button_text": "Jetzt kaufen",
-            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": ""
-          }
-        },
         "ug-index-carousel-11": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -77,9 +77,9 @@
       },
       "block_order": [
         "86777b6a-bde9-4981-9d0b-274743aba41c",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-1",
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-11"
       ],
       "custom_css": [
