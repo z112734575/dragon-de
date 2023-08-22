@@ -51,13 +51,13 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Nexode_300w_Banner_pc.png?v=1692683823",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Nexode_300w_Banner_mo.png?v=1692683805",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_pc.png?v=1692683632",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_mo.png?v=1692683615",
             "text_color": "#fff",
-            "title": "Ermöglicht stärkere und schnellere Ladegeräte.",
-            "subtitle": "Überlegene GaN-Technologie",
+            "title": "Das erste 300W Multiport GaN-Ladegerät",
+            "subtitle": "05 September 11:00 Uhr",
             "button_text": "Jetzt kaufen",
-            "link": "\/collections\/gan-ladegerat",
+            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
             "className": ""
           }
         },
