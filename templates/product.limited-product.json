@@ -163,7 +163,7 @@
             "size": 14,
             "source": "2",
             "wimg": 65,
-            "svg": "visa,paypal,maestro,american_express,discover,apple_pay,diners_club,jcb,shopify_pay,klarna",
+            "svg": "visa,paypal,maestro,american_express,discover,diners_club,jcb,klarna",
             "height": 40
           }
         },
@@ -338,7 +338,6 @@
     },
     "sidebar": {
       "type": "sidebar-product",
-      "disabled": true,
       "blocks": {
         "f01b181b-62ee-4735-8e25-32cb71ccfaba": {
           "type": "category",
@@ -413,6 +412,7 @@
         "9ce9ded8-1cef-4e32-b98b-47364ffa328c",
         "4a9c6ae8-f3b4-4192-a6d1-82d01670bce6"
       ],
+      "disabled": true,
       "settings": {
         "enable_drawer": true,
         "space": 50,
@@ -537,7 +537,6 @@
     },
     "opinew-reviews-product-page-code": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "opinew-reviews-widget": {
           "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
@@ -548,6 +547,7 @@
       "block_order": [
         "opinew-reviews-widget"
       ],
+      "disabled": true,
       "custom_css": [
         "#shopify-block-opinew-reviews-widget {max-width: 1200px; margin: 0 auto;}"
       ],
