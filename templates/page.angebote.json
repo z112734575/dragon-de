@@ -58,7 +58,7 @@
     "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
       "type": "custom-html",
       "settings": {
-        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
+        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Sets Angebote<\/span>\n<\/h2>\n<\/section>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
