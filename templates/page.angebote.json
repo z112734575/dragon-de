@@ -55,6 +55,70 @@
         "code_cus_css": ""
       }
     },
+    "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "abb8946c-f9b7-4cec-a3e9-364e77d522be": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<style>\n    .ug-day-bg {\n        position: absolute;\n        \n    }\n    .ug-day-bg1 {\n        left: 0;\n        top: 14.125vw;\n        width: min(460px, 21vw);\n    }\n    .ug-day-bg2 {\n        right: -4.375vw;\n        top: 30vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg3{\n        left: 2.375vw;\n        top: 85vw; \n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg4{\n        right: -5.375vw;\n        top: 83vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg5{\n        left: -0.625vw;\n        top: 157vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg6{\n        left: 2.625vw;\n        top: 192vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg7{\n        right: 2vw;\n        width: min(360px, 18.75vw);\n        top: 174vw;\n        transform: rotate(65deg);\n    }\n    @media screen and (max-width: 1200px){\n        .ug-day-bg {\n            display: none;\n        }\n    }\n<\/style>\n<div class=\"ug-day-bg1 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img1_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg2 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img2_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg3 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img3_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg4 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img4_pc.png?v=1680255000\" alt=\"\"><\/div>\n<!-- <div class=\"ug-day-bg5 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img5_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg6 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img6_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg7 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img7_pc.png?v=1680255000\" alt=\"\"><\/div> -->\n\n<script>\n    $(function(){\n        if(isMobile()){\n            $('.ug-day-bg').remove()\n        }\n    })\n<\/script>",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "ug-product-list": {
+      "type": "ug-product-list",
+      "settings": {
+        "product_list": [
+          "ugreen-usb-c-ladegerat-65w-3-port-pd-charger-1m-60w-usb-c-kabel",
+          "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-60w-usb-c-ladekabel",
+          "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+          "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
+          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+        ],
+        "title": "",
+        "subtitle": "",
+        "section_id": "ug-product-list",
+        "pc_product_type": "row",
+        "mobile_product_type": "row",
+        "product_item_bg_color": "#f5f5f5",
+        "pc_product_item_img_size": "100%",
+        "mobile_product_item_img_size": "57%",
+        "pc_row": "2",
+        "mobile_row": "2",
+        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/weekly_slae_tag.png?v=1671085492",
+        "pc_product_sale_width": "60px",
+        "mobile_product_sale_width": "48px",
+        "pc_padding": "0 0 120px 0",
+        "mobile_padding": "0 0 60px 0",
+        "need_load_more": false,
+        "load_more_default_count": 4,
+        "show_sale_flag": true,
+        "show_compare": true,
+        "show_rating": true,
+        "show_learn_btn": true
+      }
+    },
     "ug-tabs-product-list": {
       "type": "ug-tabs-product-list",
       "blocks": {
@@ -166,74 +230,10 @@
         "show_learn_btn": true
       }
     },
-    "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
-      "type": "custom-html",
-      "settings": {
-        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "ug-product-list": {
-      "type": "ug-product-list",
-      "settings": {
-        "product_list": [
-          "ugreen-usb-c-ladegerat-65w-3-port-pd-charger-1m-60w-usb-c-kabel",
-          "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-60w-usb-c-ladekabel",
-          "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
-          "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
-          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
-          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
-        ],
-        "title": "",
-        "subtitle": "",
-        "section_id": "ug-product-list",
-        "pc_product_type": "row",
-        "mobile_product_type": "row",
-        "product_item_bg_color": "#f5f5f5",
-        "pc_product_item_img_size": "100%",
-        "mobile_product_item_img_size": "57%",
-        "pc_row": "2",
-        "mobile_row": "2",
-        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/weekly_slae_tag.png?v=1671085492",
-        "pc_product_sale_width": "60px",
-        "mobile_product_sale_width": "48px",
-        "pc_padding": "0 0 120px 0",
-        "mobile_padding": "0 0 60px 0",
-        "need_load_more": false,
-        "load_more_default_count": 4,
-        "show_sale_flag": true,
-        "show_compare": true,
-        "show_rating": true,
-        "show_learn_btn": true
-      }
-    },
     "121d9e92-ecf9-4049-b9c6-bf173a4295fe": {
       "type": "custom-html",
       "settings": {
         "code": "<section class=\"details_box\">\n    <div class=\"section_box\">\n        <h2>Details：<\/h2>\n        <ul>\n            <li>1. Alle Produkte auf dieser Seite sind Preise nach Rabatten, und zur gleichen Zeit genießen Sie volle Rabatte.<\/li>\n            <li>2. Für Bestellungen ab €79 sichern Sie sich €10 Rabatt (Code: <button data-ug-copy-data=\"UGREEN10\" class=\"copy-btn\">UGREEN10<\/button>),Für Bestellungen ab €149 sichern Sie sich einen Rabatt von €25 (Code:<button data-ug-copy-data=\"UGREEN25\" class=\"copy-btn\">UGREEN25<\/button>)<\/li>\n            <li>3. Diese Aktion und der anschließende Rabatt gelten NUR für die Produkte auf der Aktionsseite.<\/li>\n        <\/ul>\n    <\/div>\n<\/section>\n<script src=\"https:\/\/at.alicdn.com\/t\/c\/font_3829374_0qkgxntptos.js\"><\/script>\n<script type=\"text\/javascript\">\n     \/\/ copy\n    $(function() {\n    let timeId = null;\n    $('[data-ug-copy-data]').click(function () {\n        clearTimeout(timeId);\n        timeId = setTimeout(() => {\n            var copyText = $(this).attr('data-ug-copy-data');\n            var input = document.createElement('input');\n            input.setAttribute('value',copyText);\n            document.body.appendChild(input);\n            input.select();\n            if (document.execCommand('copy')) {\n                document.execCommand('copy');\n                $(this).text('Copied!');\n                }\n                document.body.removeChild(input);\n        },200);});\n        $('.ug-product-buy-btn').text('In den Einkaufswagen');\n    })\n<\/script>",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "abb8946c-f9b7-4cec-a3e9-364e77d522be": {
-      "type": "custom-html",
-      "settings": {
-        "code": "<style>\n    .ug-day-bg {\n        position: absolute;\n        \n    }\n    .ug-day-bg1 {\n        left: 0;\n        top: 14.125vw;\n        width: min(460px, 21vw);\n    }\n    .ug-day-bg2 {\n        right: -4.375vw;\n        top: 30vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg3{\n        left: 2.375vw;\n        top: 85vw; \n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg4{\n        right: -5.375vw;\n        top: 83vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg5{\n        left: -0.625vw;\n        top: 157vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg6{\n        left: 2.625vw;\n        top: 192vw;\n        width: min(360px, 18.75vw);\n    }\n    .ug-day-bg7{\n        right: 2vw;\n        width: min(360px, 18.75vw);\n        top: 174vw;\n        transform: rotate(65deg);\n    }\n    @media screen and (max-width: 1200px){\n        .ug-day-bg {\n            display: none;\n        }\n    }\n<\/style>\n<div class=\"ug-day-bg1 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img1_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg2 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img2_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg3 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img3_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg4 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img4_pc.png?v=1680255000\" alt=\"\"><\/div>\n<!-- <div class=\"ug-day-bg5 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img5_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg6 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img6_pc.png?v=1680255000\" alt=\"\"><\/div>\n<div class=\"ug-day-bg7 ug-day-bg\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/img7_pc.png?v=1680255000\" alt=\"\"><\/div> -->\n\n<script>\n    $(function(){\n        if(isMobile()){\n            $('.ug-day-bg').remove()\n        }\n    })\n<\/script>",
         "layout": "t4s-container-fluid",
         "cl_bg": "",
         "cl_bg_gradient": "",
@@ -251,10 +251,10 @@
     "d2230466-b5fe-49cc-ac39-926497ba0c21",
     "ba30f705-8ef4-4326-9574-a9913009c92c",
     "e8f15098-8dc6-40ea-98fc-74037a3d1191",
-    "ug-tabs-product-list",
     "87863d7e-936f-43c0-9c2b-4d59cb5688f1",
+    "abb8946c-f9b7-4cec-a3e9-364e77d522be",
     "ug-product-list",
-    "121d9e92-ecf9-4049-b9c6-bf173a4295fe",
-    "abb8946c-f9b7-4cec-a3e9-364e77d522be"
+    "ug-tabs-product-list",
+    "121d9e92-ecf9-4049-b9c6-bf173a4295fe"
   ]
 }
