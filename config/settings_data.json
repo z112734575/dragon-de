@@ -1323,7 +1323,7 @@
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d": {
             "type": "tab_list",
             "settings": {
-              "tab_name_list": "Tragbare Powerstation,Ladegeräte,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Car",
+              "tab_name_list": "Tragbare Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Car",
               "tab_image_list": "",
               "tab_link_list": ""
             }
@@ -1346,10 +1346,28 @@
               "all_collection_name": "All"
             }
           },
-          "062bd733-351d-4773-ae0d-49f8754a13f2": {
+          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b": {
             "type": "tab_content",
             "settings": {
               "tab_id": 2,
+              "product_list": [
+                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
+                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "062bd733-351d-4773-ae0d-49f8754a13f2": {
+            "type": "tab_content",
+            "settings": {
+              "tab_id": 3,
               "product_list": [
                 "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
                 "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
@@ -1367,7 +1385,7 @@
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 3,
+              "tab_id": 4,
               "product_list": [
                 "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
                 "90912-1",
@@ -1385,7 +1403,7 @@
           "dc181cf8-5099-4066-aade-9708a6be74a7": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 4,
+              "tab_id": 5,
               "product_list": [
                 "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-qc-4-0-4-0-usb-c-ladekabel-5a-20v-kompatibel-mit-2022-macbook-pro-m2-2022-macbook-air-m2-ipad-pro-2021-galaxy-s22-s21-s20-steam-deck-usw-0-5m",
                 "ugreen-usb-c-auf-lightning-ladekabel-weiss-mfi-lightning-usb-c-kabel-pd-3-0-kompatibel-mit-iphone-14-pro-max-iphone-13-mini-iphone-12-iphone-se-ipad-2021-ipad-2020-airpods-pro-ladecase-usw-1m",
@@ -1403,7 +1421,7 @@
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 5,
+              "tab_id": 6,
               "product_list": [
                 "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
                 "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
@@ -1421,7 +1439,7 @@
           "70921ea8-7186-4d68-bf40-82235a8f7a86": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 6,
+              "tab_id": 7,
               "product_list": [
                 "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
                 "ugreen-nvme-m-2-gehause-usb-3-2-nvme-ssd-gehause-adapter-mit-kuhlkissen-10-gbps-fur-nvme-pcie-m-key-m-b-key-in-2230-2242-2260-2280-mit-usb-cc-und-ac-kabel-werkzeuglos",
@@ -1439,7 +1457,7 @@
           "a3d832d6-d857-4034-b7ec-50e882c86b2d": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 7,
+              "tab_id": 8,
               "product_list": [
                 "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
                 "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
@@ -1457,7 +1475,7 @@
           "78b2740a-8429-40a0-a215-81c59a5f224f": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 8,
+              "tab_id": 9,
               "product_list": [
                 "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-zigarettenanzunder-pd-kfz-ladegerat-usb-c-kompatibel-mit-macbook-ipad-pro-air-iphone-14-14-pro-14-pro-max-13-galaxy-s22-s21-a53-usw",
                 "ugreen-handyhalterung-auto-handy-halterung-pkw-luftung-schwerkraft-handy-autohalterung-kfz-handyhalter-furs-auto-kompatibel-mit-iphone-12-13-14-pro-max-galaxy-s22-s21-s20-huawei-xiaomi-usw-silber",
@@ -1478,6 +1496,7 @@
           "224acbf9-e273-470e-aeb8-ce1cab7498c4",
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d",
           "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30",
+          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b",
           "062bd733-351d-4773-ae0d-49f8754a13f2",
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18",
           "dc181cf8-5099-4066-aade-9708a6be74a7",
