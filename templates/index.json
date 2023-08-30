@@ -225,10 +225,10 @@
         "show_learn_btn": false
       }
     },
-    "3e512506-881c-454b-873e-64d3734bafe9": {
+    "ccf44744-8756-46d6-8a1a-e64366583b8d": {
       "type": "ug-index-new-fit-life",
       "blocks": {
-        "976ff35f-a6ed-4752-a960-e174d61ca7d1": {
+        "85f1eb91-9584-4822-abc2-d677f3f35e63": {
           "type": "ug-index-category-item",
           "settings": {
             "pc_image": "shopify:\/\/shop_images\/10001_70d94fc9-40e7-4ef4-b476-133732174f0a.png",
@@ -239,41 +239,45 @@
             "link": ""
           }
         },
-        "811e9ce4-ce70-4f48-818e-a4962a13e633": {
+        "2d1a40fd-ad9d-4e17-9a81-dca3a92fe603": {
           "type": "ug-index-category-item",
           "settings": {
             "pc_image": "shopify:\/\/shop_images\/10003.png",
             "mobile_image": "shopify:\/\/shop_images\/10003.png",
             "title": "Für geschäftlich Versierte",
             "content": "",
-            "btn_text": "Mehr erfahren",
+            "btn_text": "Learn More",
             "link": ""
           }
         },
-        "975e1ee7-a08c-418d-8029-39843c7e334e": {
+        "96ece927-afd8-4aba-a009-195cc32287eb": {
           "type": "ug-index-category-item",
           "settings": {
+            "pc_image": "shopify:\/\/shop_images\/10002_40f32ead-abf8-472e-8e29-45f1187ab914.png",
+            "mobile_image": "shopify:\/\/shop_images\/10002_40f32ead-abf8-472e-8e29-45f1187ab914.png",
             "title": "Notwendige Dinge für den Reisenden",
             "content": "",
-            "btn_text": "Mehr erfahren",
+            "btn_text": "Learn More",
             "link": ""
           }
         },
-        "0d65ee7e-3f2e-4968-b1f8-6be1304cc866": {
+        "4169b39d-d2d0-46a3-b7aa-5af8c795b1fd": {
           "type": "ug-index-category-item",
           "settings": {
+            "pc_image": "shopify:\/\/shop_images\/10004.png",
+            "mobile_image": "shopify:\/\/shop_images\/10004.png",
             "title": "Großartiges für den Gaming Explorer",
             "content": "",
-            "btn_text": "Mehr erfahren",
+            "btn_text": "Learn More",
             "link": ""
           }
         }
       },
       "block_order": [
-        "976ff35f-a6ed-4752-a960-e174d61ca7d1",
-        "811e9ce4-ce70-4f48-818e-a4962a13e633",
-        "975e1ee7-a08c-418d-8029-39843c7e334e",
-        "0d65ee7e-3f2e-4968-b1f8-6be1304cc866"
+        "85f1eb91-9584-4822-abc2-d677f3f35e63",
+        "2d1a40fd-ad9d-4e17-9a81-dca3a92fe603",
+        "96ece927-afd8-4aba-a009-195cc32287eb",
+        "4169b39d-d2d0-46a3-b7aa-5af8c795b1fd"
       ],
       "disabled": true,
       "settings": {
@@ -333,7 +337,6 @@
     },
     "ug-index-benefit": {
       "type": "ug-index-benefit",
-      "disabled": true,
       "settings": {
       }
     },
@@ -404,7 +407,7 @@
     "ug-index-whybuy",
     "ug-index-category",
     "ug-product-list",
-    "3e512506-881c-454b-873e-64d3734bafe9",
+    "ccf44744-8756-46d6-8a1a-e64366583b8d",
     "ug-index-fit-life",
     "ug-index-benefit",
     "ug-index-blog",
