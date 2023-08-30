@@ -236,7 +236,7 @@
             "title": "Perfekt für den Hausmann",
             "content": "Schauen Sie sich unsere Produktkollektion an, die jedes Haus in ein kraftstrotzendes Zuhause verwandelt!",
             "btn_text": "Mehr erfahren",
-            "link": ""
+            "link": "shopify:\/\/collections\/fur-laptop"
           }
         },
         "2d1a40fd-ad9d-4e17-9a81-dca3a92fe603": {
@@ -279,7 +279,6 @@
         "96ece927-afd8-4aba-a009-195cc32287eb",
         "4169b39d-d2d0-46a3-b7aa-5af8c795b1fd"
       ],
-      "disabled": true,
       "settings": {
         "section_title": "Ugreen passt zu Ihrem Leben",
         "section_bg": ""
@@ -330,6 +329,7 @@
         "ug-index-fit-life-carousel-2",
         "ug-index-fit-life-carousel-3"
       ],
+      "disabled": true,
       "settings": {
         "section_title": "Umfassende Lösungen Ihr bester Freund",
         "custom_style": ".nexode-100w .green-home-banner-box {\n   left: 12vw;\n    right: auto;\n    top: 12.292vw;\n    color: black;\n    text-align: left;\n}\n.nexode-100w .green-home-banner-box .btn {\n  border-color: black;\n}\n@media (max-width: 767px) {\n.nexode-100w .green-home-banner-box {\n    text-align: center;\n    top: 15%;\n}\n}"
