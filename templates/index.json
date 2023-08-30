@@ -225,6 +225,62 @@
         "show_learn_btn": false
       }
     },
+    "3e512506-881c-454b-873e-64d3734bafe9": {
+      "type": "ug-index-new-fit-life",
+      "blocks": {
+        "976ff35f-a6ed-4752-a960-e174d61ca7d1": {
+          "type": "ug-index-category-item",
+          "settings": {
+            "pc_image": "shopify:\/\/shop_images\/10001_70d94fc9-40e7-4ef4-b476-133732174f0a.png",
+            "mobile_image": "shopify:\/\/shop_images\/10001_70d94fc9-40e7-4ef4-b476-133732174f0a.png",
+            "title": "Perfekt für den Hausmann",
+            "content": "Schauen Sie sich unsere Produktkollektion an, die jedes Haus in ein kraftstrotzendes Zuhause verwandelt!",
+            "btn_text": "Mehr erfahren",
+            "link": ""
+          }
+        },
+        "811e9ce4-ce70-4f48-818e-a4962a13e633": {
+          "type": "ug-index-category-item",
+          "settings": {
+            "pc_image": "shopify:\/\/shop_images\/10003.png",
+            "mobile_image": "shopify:\/\/shop_images\/10003.png",
+            "title": "Für geschäftlich Versierte",
+            "content": "",
+            "btn_text": "Mehr erfahren",
+            "link": ""
+          }
+        },
+        "975e1ee7-a08c-418d-8029-39843c7e334e": {
+          "type": "ug-index-category-item",
+          "settings": {
+            "title": "Notwendige Dinge für den Reisenden",
+            "content": "",
+            "btn_text": "Mehr erfahren",
+            "link": ""
+          }
+        },
+        "0d65ee7e-3f2e-4968-b1f8-6be1304cc866": {
+          "type": "ug-index-category-item",
+          "settings": {
+            "title": "Großartiges für den Gaming Explorer",
+            "content": "",
+            "btn_text": "Mehr erfahren",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "976ff35f-a6ed-4752-a960-e174d61ca7d1",
+        "811e9ce4-ce70-4f48-818e-a4962a13e633",
+        "975e1ee7-a08c-418d-8029-39843c7e334e",
+        "0d65ee7e-3f2e-4968-b1f8-6be1304cc866"
+      ],
+      "disabled": true,
+      "settings": {
+        "section_title": "Ugreen passt zu Ihrem Leben",
+        "section_bg": ""
+      }
+    },
     "ug-index-fit-life": {
       "type": "ug-index-fit-life",
       "blocks": {
@@ -277,6 +333,7 @@
     },
     "ug-index-benefit": {
       "type": "ug-index-benefit",
+      "disabled": true,
       "settings": {
       }
     },
@@ -347,6 +404,7 @@
     "ug-index-whybuy",
     "ug-index-category",
     "ug-product-list",
+    "3e512506-881c-454b-873e-64d3734bafe9",
     "ug-index-fit-life",
     "ug-index-benefit",
     "ug-index-blog",
