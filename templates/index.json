@@ -341,8 +341,53 @@
     },
     "ug-index-benefit": {
       "type": "ug-index-benefit",
-      "disabled": true,
+      "blocks": {
+        "7fb89af9-0660-4368-9378-f2056f315828": {
+          "type": "ug-index-benefit-item-pro",
+          "settings": {
+            "title": "Grüne Gutscheine",
+            "content": "Geld sparen mit Rabatten auf Ugreen-Produkte",
+            "link": "shopify:\/\/pages\/voucher",
+            "icon_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/e0499a22d3b764477b6f0b29183620c9.png?v=1672917013"
+          }
+        },
+        "330e66d9-5e64-4a58-a11d-8e26b63c0ce5": {
+          "type": "ug-index-benefit-item-pro",
+          "settings": {
+            "title": "Partnerprogramm",
+            "content": "Erhalten Sie 20% Provision mit dem Partnerprogramm",
+            "link": "shopify:\/\/pages\/affiliate",
+            "icon_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/cbac91317d8a47f9fe47582942c3cee7.png?v=1672917013"
+          }
+        },
+        "c49e27ef-4207-4b9c-8386-ef48e9971bbb": {
+          "type": "ug-index-benefit-item-pro",
+          "disabled": true,
+          "settings": {
+            "title": "",
+            "content": "",
+            "link": "",
+            "icon_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/d3225ab021040514f24fda6b9469ff51.png?v=1672917013"
+          }
+        },
+        "f1363928-d76d-4ac8-9774-ee6bd698d81b": {
+          "type": "ug-index-benefit-item-pro",
+          "settings": {
+            "title": "Punkte & Belohnungen",
+            "content": "Punkte verdienen, Belohnungen und Einsparungen erhalten",
+            "link": "shopify:\/\/pages\/rewards",
+            "icon_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/member_icon__2X_dcd74648-10bc-48ed-b318-f19cb74e4388.png?v=1681805550"
+          }
+        }
+      },
+      "block_order": [
+        "7fb89af9-0660-4368-9378-f2056f315828",
+        "330e66d9-5e64-4a58-a11d-8e26b63c0ce5",
+        "c49e27ef-4207-4b9c-8386-ef48e9971bbb",
+        "f1363928-d76d-4ac8-9774-ee6bd698d81b"
+      ],
       "settings": {
+        "title": "Ugreen Vorteile"
       }
     },
     "ug-index-blog": {
