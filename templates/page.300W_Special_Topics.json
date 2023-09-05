@@ -172,7 +172,7 @@
             "text_shadow": false,
             "hidden_mobile": false,
             "text_fs_mb": 16,
-            "text_lh_mb": 16,
+            "text_lh_mb": 18,
             "text_ls_mb": 0,
             "text_mgb_mobile": 10,
             "animation": "fadeInUp"
