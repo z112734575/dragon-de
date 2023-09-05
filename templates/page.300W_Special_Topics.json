@@ -21,7 +21,7 @@
         "template--14559285149758__2ac9ca40-7a86-4210-9714-1727d0a3e29f-16818003977dd5f31e-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Nexode 300W 5-Port PD GaN Fast Charger",
+            "text": "Nexode 300W 5-Port GaN Schnellladegerät",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -43,7 +43,7 @@
         "template--14559285149758__2ac9ca40-7a86-4210-9714-1727d0a3e29f-16818003977dd5f31e-0": {
           "type": "custom_text",
           "settings": {
-            "text": "Dare to Aspire For More",
+            "text": "Trauen Sie sich, nach mehr zu streben",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -73,7 +73,7 @@
             "btn_close": true,
             "source_btn": "btn_custom",
             "click_action": "data-open-mfp-video",
-            "button_text": "Watch Video",
+            "button_text": "Das Video ansehen",
             "fontf": "inherit",
             "button_icon_w": 20,
             "button_style": "outline",
@@ -159,7 +159,7 @@
         "template--14559285149758__2ac9ca40-7a86-4210-9714-1727d0a3e29f-16818003977dd5f31e-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Nexode 300W 5-Port PD GaN Fast Charger",
+            "text": "Nexode 300W 5-Port GaN Schnellladegerät",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -181,7 +181,7 @@
         "template--14559285149758__2ac9ca40-7a86-4210-9714-1727d0a3e29f-16818003977dd5f31e-0": {
           "type": "custom_text",
           "settings": {
-            "text": "Dare to Aspire For More",
+            "text": "Trauen Sie sich, nach mehr zu streben",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -211,7 +211,7 @@
             "btn_close": true,
             "source_btn": "btn_custom",
             "click_action": "data-open-mfp-video",
-            "button_text": "Watch Video",
+            "button_text": "Das Video ansehen",
             "fontf": "inherit",
             "button_icon_w": 20,
             "button_style": "outline",
