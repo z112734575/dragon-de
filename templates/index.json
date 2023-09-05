@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
+            "text_color": "#ffffff",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": ""
+          }
+        },
         "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -24,6 +37,7 @@
         },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_pc.png?v=1692683632",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_mo.png?v=1692683615",
@@ -60,28 +74,14 @@
             "link": "\/collections\/hub-adapter",
             "className": ""
           }
-        },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#fff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": ""
-          }
         }
       },
       "block_order": [
+        "ug-index-carousel-11",
         "86777b6a-bde9-4981-9d0b-274743aba41c",
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-1",
-        "ug-index-carousel-11"
+        "ug-index-carousel-1"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
