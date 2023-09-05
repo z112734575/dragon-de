@@ -65,13 +65,13 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/web_banner.png?v=1680957539",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobile_banner.png?v=1680957538",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
             "text_color": "#000000",
-            "title": "Ugreen PowerRoam Startveranstaltung in Berlin",
-            "subtitle": "Veranstaltungsdatum: 22. April 7 <br> Veranstaltungszeit: 11:00 - 20:00 GMT+1 <br> Adresse: Mercedes-Platz, 10243 Berlin, Deutschland",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
             "button_text": "Mehr erfahren",
-            "link": "\/pages\/powerroam-series",
+            "link": "\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
             "className": ""
           }
         }
