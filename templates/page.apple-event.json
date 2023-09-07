@@ -9,10 +9,10 @@
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_8b046f76-0060-4426-b97c-741a6a86388a.png?v=1678088706",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile_d5b671f4-8dc6-44b8-86ef-0ab1b0b64edb.png?v=1678096000",
         "title": "Ugreen iOS Special",
-        "desc": "Making the MacBook & iPhone Even Better!",
-        "title_1": "The Apple Event Is On!",
-        "title_2": "What's New for This Year's Apple Event?",
-        "text": "The Apple Spring Event 2023 is fast approaching and we KNOW you're excited! We all want to know how Apple plans to improve product desgin, quality, and just what awesome products they plan to add to the Apple ecosystem! To celebrate this upcoming event, stay tuned at Ugreen.com as we plan to showcase amazing products that are the perfect companions to any Apple User!"
+        "desc": "Das MacBook & iPhone noch besser machen!",
+        "title_1": "Das Apple Event ist da!",
+        "title_2": "Was gibt es Neues beim diesjährigen Apple Event?",
+        "text": "Das Apple Spring Event 2023 steht kurz bevor, und WIR wissen, dass Sie sich darauf freuen! Wir alle möchten wissen, wie Apple plant, das Produktdesign, die Qualität zu verbessern und welche fantastischen Produkte sie dem Apple-Ökosystem hinzufügen werden! Um dieses bevorstehende Event zu feiern, bleiben Sie auf de.ugreen.com dran, denn wir planen, erstaunliche Produkte vorzustellen, die die perfekten Begleiter für jeden Apple-Benutzer sind!"
       }
     },
     "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2": {
@@ -20,9 +20,9 @@
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_1_banner_pc.png?v=1678088586",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_2_banner_mobile.png?v=1678096000",
-        "title": "Portable, Powerful, Perfect for You",
-        "title1": "",
-        "desc": "Keep iOS Devices Charged, Faster",
+        "title": "Tragbar, Leistungsstark,",
+        "title1": "Perfekt für Sie",
+        "desc": "Halten Sie iOS-Geräte schneller aufgeladen",
         "product_list": [
           "ugreen-nexode-mini-45w-dual-usb-c-charger",
           "ugreen-2-in-1-magnetic-wireless-charging-station",
@@ -36,9 +36,9 @@
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_2_banner_pc.png?v=1678159469",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_2_banner_mobile.png?v=1678096000",
-        "title": "More Ports,",
-        "title1": "Ultimate Connectivity",
-        "desc": "Stay Connected, No Choosing Needed",
+        "title": "Mehr Anschlüsse,",
+        "title1": "Ultimative Konnektivität",
+        "desc": "Bleiben Sie verbunden, keine Auswahl erforderlich",
         "product_list": [
           "ugreen-usb-c-triple-display-docking-station",
           "snap-deal-ugreen-usb-c-7-in-1-hub-with-4k-60hz-hdmi",
@@ -52,9 +52,9 @@
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_4_banner_pc.png?v=1678159418",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_4_banner_mobile.png?v=1678159403",
-        "title": "Smart Device Holders",
+        "title": "Smart Device-Halterungen",
         "title1": "",
-        "desc": "Adjustable & Designed for Optimum Viewing",
+        "desc": "Verstellbar und für optimale Ansicht gestaltet",
         "product_list": [
           "snap-deal-ugreen-aluminum-adjustable-tablet-stand",
           "snap-deal-ugreen-mobile-phone-stand-for-desk-adjustable-aluminum-phone-holder-compatible-with-iphone-galaxy-phone-xiaomi-redmi-motorola-oneplus-huawei-phones-mini-tabletsgray",
@@ -67,9 +67,9 @@
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_pc.png?v=1678159419",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_mobile.png?v=1678159403",
-        "title": "Expand More, Transfer Faster",
+        "title": "Erweitern Sie mehr, übertragen Sie schneller",
         "title1": "",
-        "desc": "Broaden Your Device Capabilities",
+        "desc": "Erweitern Sie Ihre Gerätefähigkeiten",
         "product_list": [
           "snap-deal-ugreen-usb-c-to-ethernet-adapter",
           "snap-deal-ugreen-bluetooth-aux-adapter",
