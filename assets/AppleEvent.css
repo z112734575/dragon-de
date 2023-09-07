@@ -98,7 +98,7 @@ section {
   font-size: 3.5vw;
   line-height: 5.208vw;
   color: #ffffff;
-  max-width: 39.583vw;
+  max-width: 48vw;
 }
 
 .apple_section_1 .section_1_box h2:nth-child(1) {
@@ -162,7 +162,7 @@ section {
   top: 50%;
   left: 4.167vw;
   transform: translateY(-50%);
-  max-width: 25vw;
+  max-width: 30vw;
 }
 
 .product_section .title_img .title h2 {
