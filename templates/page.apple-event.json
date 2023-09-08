@@ -48,16 +48,15 @@
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
       "type": "ug_AppleEvent_product",
       "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_2_banner_pc.png?v=1678159469",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_2_banner_mobile.png?v=1678096000",
-        "title": "Mehr Anschlüsse,",
-        "title1": "Ultimative Konnektivität",
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1_1c711cf9-5a0e-4102-a6b3-b3f6d9f689e7.png?v=1694155530",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/app1.png?v=1694155530",
+        "title": "Mehr Anschlüsse",
+        "title1": "",
         "desc": "Bleiben Sie verbunden, keine Auswahl erforderlich",
         "product_list": [
-          "ugreen-usb-c-triple-display-docking-station",
-          "snap-deal-ugreen-usb-c-7-in-1-hub-with-4k-60hz-hdmi",
-          "snap-deal-ugreen-6-in-1-usb-c-hub",
-          "snap-deal-ugreen-macbook-pro-usb-c-hub-adapter-5-in-2-hdmi-4k-type-c-port-thunderbolt-3-for-video-100w-pd-charging"
+          "nexode-300w-5-anschluss-gan-schnellladegerat",
+          "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
+          "ugreen-diginest-pro-100w-usb-c-steckdosenleiste-gan-usb-c-ladegerat-usb-2-fach-steckdose-mit-schalter-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-13-12-ipad-pro-air-galaxy-s22-xps-pixel"
         ]
       }
     },
