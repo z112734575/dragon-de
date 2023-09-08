@@ -12,7 +12,7 @@
         "desc": "USB C,",
         "title_1": "Das Apple Event ist da!",
         "title_2": "",
-        "text": "Das Apple Spring Event 2023 steht kurz bevor, und WIR wissen, dass Sie sich darauf freuen! Wir alle möchten wissen, wie Apple plant, das Produktdesign, die Qualität zu verbessern und welche fantastischen Produkte sie dem Apple-Ökosystem hinzufügen werden! Um dieses bevorstehende Event zu feiern, bleiben Sie auf de.ugreen.com dran, denn wir planen, erstaunliche Produkte vorzustellen, die die perfekten Begleiter für jeden Apple-Benutzer sind!"
+        "text": ""
       }
     },
     "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2": {
@@ -33,11 +33,11 @@
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17": {
       "type": "ug_AppleEvent_product",
       "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/15283_15279-1500x750.png?v=1694155531",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/15283_15279-1500x750.png?v=1694155531",
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/cable_pc6.png?v=1694158990",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/cable_m.png?v=1694158989",
         "title": "",
-        "title1": "",
-        "desc": "",
+        "title1": "USB C,",
+        "desc": "Schnellere Ladegeschwindigkeit",
         "product_list": [
           "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
           "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
