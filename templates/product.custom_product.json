@@ -165,7 +165,7 @@
           "type": "img",
           "settings": {
             "al": "start",
-            "mess": "Pay with Ease",
+            "mess": "Bequem bezahlen",
             "size": 14,
             "source": "2",
             "wimg": 65,
@@ -176,7 +176,7 @@
         "trust_delivery": {
           "type": "trust_delivery",
           "settings": {
-            "mess": "Trusted Delivery",
+            "mess": "Zuverlässige Lieferung",
             "size": 10,
             "imageList": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DHL.png?v=1692786011,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/UPS.png?v=1692785941,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/FedEx.png?v=1692785957,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Amazon.png?v=1692785981,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/usp.png?v=1692786038"
           }

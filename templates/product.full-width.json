@@ -159,7 +159,7 @@
           "type": "img",
           "settings": {
             "al": "start",
-            "mess": "Pay with Ease",
+            "mess": "Bequem bezahlen",
             "size": 14,
             "source": "2",
             "wimg": 65,
@@ -171,7 +171,7 @@
           "type": "trust_delivery",
           "disabled": true,
           "settings": {
-            "mess": "Trusted Delivery",
+            "mess": "Zuverlässige Lieferung",
             "size": 14,
             "imageList": ""
           }
