@@ -295,6 +295,9 @@
     #t4s-trust_sealtrust_delivery .t4s-pr-mess_trust {
     width: 100%;
 }
+    .flickityt4s-button {
+        background: #ccc;
+    }
 }
 @media (min-width: 768px) {
    .t4s-product-media__one_column .t4s-product__media-item {
