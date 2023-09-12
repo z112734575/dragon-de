@@ -289,6 +289,12 @@
    .t4s-product__info-wrapper {
        margin-top: 25px;
    }
+    #t4s-trust_sealtrust_delivery {
+        flex-wrap: wrap;
+    }
+    #t4s-trust_sealtrust_delivery .t4s-pr-mess_trust {
+    width: 100%;
+}
 }
 @media (min-width: 768px) {
    .t4s-product-media__one_column .t4s-product__media-item {
