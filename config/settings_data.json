@@ -800,7 +800,7 @@
             "type": "drop",
             "settings": {
               "title": "Deals",
-              "url": "shopify:\/\/collections\/autumn-deals",
+              "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
               "open_link": "_self",
               "menu": "deals",
               "icon": "",
