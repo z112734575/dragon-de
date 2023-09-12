@@ -54,6 +54,53 @@
         "code_cus_css": ""
       }
     },
+    "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
+      "type": "custom-html",
+      "settings": {
+        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
+        "layout": "t4s-container-fluid",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": "",
+        "pd": "",
+        "mg_mb": "",
+        "pd_mb": "",
+        "use_cus_css": false,
+        "code_cus_css": ""
+      }
+    },
+    "ug-product-list": {
+      "type": "ug-product-list",
+      "settings": {
+        "product_list": [
+          "ugreen-bluetooth-fm-transmitter-auto-radio-adapter-20w-usb-c-auto-ladegerat-pd-und-qc-netzteil-mit-freisprecheinrichtung-5-0-wireless-bluetooth-musik-player-unterstutzt-usb-stick-und-tf-karte",
+          "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
+          "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
+          "90597a"
+        ],
+        "title": "",
+        "subtitle": "",
+        "section_id": "ug-product-list",
+        "pc_product_type": "row",
+        "mobile_product_type": "row",
+        "product_item_bg_color": "#f5f5f7",
+        "pc_product_item_img_size": "100%",
+        "mobile_product_item_img_size": "57%",
+        "pc_row": "2",
+        "mobile_row": "2",
+        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/weekly_slae_tag.png?v=1671085492",
+        "pc_product_sale_width": "60px",
+        "mobile_product_sale_width": "48px",
+        "pc_padding": "0 0 120px 0",
+        "mobile_padding": "0 0 60px 0",
+        "need_load_more": false,
+        "load_more_default_count": 4,
+        "show_sale_flag": true,
+        "show_compare": true,
+        "show_rating": true,
+        "show_learn_btn": true
+      }
+    },
     "ug-tabs-product-list": {
       "type": "ug-tabs-product-list",
       "blocks": {
@@ -168,53 +215,6 @@
         "show_learn_btn": true
       }
     },
-    "87863d7e-936f-43c0-9c2b-4d59cb5688f1": {
-      "type": "custom-html",
-      "settings": {
-        "code": "<section class=\"svg_title\">\n    <svg class=\"icon\" aria-hidden=\"true\">\n        <use xlink:href=\"#icon-sale_icon1\"><\/use>\n    <\/svg>\n    <h2> <span>Meistverkaufte Artikel<\/span>\n<\/h2>\n<\/section>",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "ug-product-list": {
-      "type": "ug-product-list",
-      "settings": {
-        "product_list": [
-          "ugreen-bluetooth-fm-transmitter-auto-radio-adapter-20w-usb-c-auto-ladegerat-pd-und-qc-netzteil-mit-freisprecheinrichtung-5-0-wireless-bluetooth-musik-player-unterstutzt-usb-stick-und-tf-karte",
-          "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
-          "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-          "90597a"
-        ],
-        "title": "",
-        "subtitle": "",
-        "section_id": "ug-product-list",
-        "pc_product_type": "row",
-        "mobile_product_type": "row",
-        "product_item_bg_color": "#f5f5f7",
-        "pc_product_item_img_size": "100%",
-        "mobile_product_item_img_size": "57%",
-        "pc_row": "2",
-        "mobile_row": "2",
-        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/weekly_slae_tag.png?v=1671085492",
-        "pc_product_sale_width": "60px",
-        "mobile_product_sale_width": "48px",
-        "pc_padding": "0 0 120px 0",
-        "mobile_padding": "0 0 60px 0",
-        "need_load_more": false,
-        "load_more_default_count": 4,
-        "show_sale_flag": true,
-        "show_compare": true,
-        "show_rating": true,
-        "show_learn_btn": true
-      }
-    },
     "121d9e92-ecf9-4049-b9c6-bf173a4295fe": {
       "type": "custom-html",
       "settings": {
@@ -251,9 +251,9 @@
     "d2230466-b5fe-49cc-ac39-926497ba0c21",
     "ba30f705-8ef4-4326-9574-a9913009c92c",
     "e8f15098-8dc6-40ea-98fc-74037a3d1191",
-    "ug-tabs-product-list",
     "87863d7e-936f-43c0-9c2b-4d59cb5688f1",
     "ug-product-list",
+    "ug-tabs-product-list",
     "121d9e92-ecf9-4049-b9c6-bf173a4295fe",
     "abb8946c-f9b7-4cec-a3e9-364e77d522be"
   ]
