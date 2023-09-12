@@ -31,7 +31,7 @@
       }
     },
     "main": {
-      "type": "main-product",
+      "type": "main-custom-product",
       "blocks": {
         "column1-delivery-info": {
           "type": "column1-delivery-info",
@@ -566,7 +566,8 @@
         "sma_reviews_section_auto": {
           "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/lai-product-section\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
           "settings": {
-            "lai_product": ""
+            "lai_product": "",
+            "title": ""
           }
         }
       },
