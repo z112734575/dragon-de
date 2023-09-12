@@ -1505,7 +1505,7 @@
           "78b2740a-8429-40a0-a215-81c59a5f224f"
         ],
         "settings": {
-          "show_price": false,
+          "show_price": true,
           "show_compare_price": false,
           "tag_color": "#00cc88"
         }
