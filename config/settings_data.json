@@ -1506,7 +1506,7 @@
         ],
         "settings": {
           "show_price": true,
-          "show_compare_price": false,
+          "show_compare_price": true,
           "tag_color": "#00cc88"
         }
       },
