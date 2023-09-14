@@ -191,8 +191,8 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     {% render 'usf' %}
 
     {%- render 'head_assets', t_name: t_name, isRTL: isRTL -%}
-    {{ 'jquery@3.min.js' | asset_url | script_tag }}
-    {{ 'clipboard@2.min.js' | asset_url | script_tag }}
+    <script src="{{ 'jquery@3.js' | asset_url }}"></script>
+    <script src="{{ 'clipboard@2.min.js' | asset_url }}"></script>
     {% comment %} iconfont 的 js {% endcomment %}
 
     {{ 'theme-new.css?id=123' | asset_url | stylesheet_tag }}
