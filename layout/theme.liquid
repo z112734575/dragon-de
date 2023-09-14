@@ -196,7 +196,7 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     {% comment %} iconfont 的 js {% endcomment %}
 
     {{ 'theme-new.css?id=123' | asset_url | stylesheet_tag }}
-    {{ 'theme-new.js' | asset_url | script_tag }}
+    <script src="{{ 'theme-new.js' | asset_url }}" defer="defer"></script>
     <script src="https://cdn.shopify.com/s/files/1/0257/5246/9566/files/iconfont.js?v=1673494914" async></script>
     {% comment %}ug-custom{% endcomment %}
 
