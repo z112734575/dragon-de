@@ -203,16 +203,12 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     {{ 'theme-new.js' | asset_url | script_tag }}
     {% comment %}ug-custom{% endcomment %}
 
-    {{ shop.metafields.loox.global_html_head }}
     {% include 'upsellio' %}
-    {% capture boostersnippet %}{% include "booster-apps-common" %}{% endcapture %}
-    {% unless boostersnippet contains 'Liquid error' %}{{ boostersnippet }}{% endunless %}
 
     {% include 'bss-product-labels-configs' %}
     <script src="//staticxx.s3.amazonaws.com/aio_stats_lib_v1.min.js?v=1.0"></script>
     {% include 'hulk_po_vd.liquid' %}
     {% render 'gsf-conversion-pixels' %}
-  {% render 'opinew_head' %}
 {% include "rto_ads" %} </head>
 
   <body
@@ -259,7 +255,6 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     {%- render 'render_bottom' -%}
     {% include 'social-login' %}
 
-    {{ shop.metafields.loox.global_html_body }}
     <!-- CRITEO START -->
     {% render 'criteo-tracking' %}
     <!-- CRITEO END -->
