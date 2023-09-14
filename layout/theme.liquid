@@ -203,9 +203,6 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     {{ 'theme-new.js' | asset_url | script_tag }}
     {% comment %}ug-custom{% endcomment %}
 
-    {% include 'upsellio' %}
-
-    {% include 'bss-product-labels-configs' %}
     <script src="//staticxx.s3.amazonaws.com/aio_stats_lib_v1.min.js?v=1.0"></script>
     {% include 'hulk_po_vd.liquid' %}
     {% render 'gsf-conversion-pixels' %}
@@ -260,11 +257,6 @@ t4sp-theme t4s-wrapper__{{settings.general_layout}} rtl_{{isRTL}} swatch_color_s
     <!-- CRITEO END -->
 
     {% render 'preorder-now' %}
-    {% if content_for_header contains 'product_label' -%}
-      {%- include 'bss-product-label-js' -%}
-      {%- include 'bss-label-style-css' -%}
-      {%- include 'bss-product-label-fonts' -%}
-    {%- endif %}
     {% include 'smile-initializer' %}
 
     <!-- **BEGIN** Hextom CTB Integration // Main Include - DO NOT MODIFY -->
