@@ -624,10 +624,6 @@
     overflow: visible !important;
   }
 
-  .t4s-product__media-wrapper .flickityt4s-button {
-    background-color: #cfcfcf !important;
-  }
-
   .t4s-product__media-wrapper
     .t4s-flicky-slider
     .flickityt4s-prev-next-button.next {
@@ -1310,4 +1306,8 @@
 }
 .ug-menu-custom ul {
   list-style: none !important;
+}
+
+.t4s-product__media-wrapper .flickityt4s-button {
+  background-color: #cfcfcf !important;
 }
