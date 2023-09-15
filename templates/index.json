@@ -39,7 +39,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__pc_1bdd3fa9-c775-47eb-88c7-4112c4aeca93.png?v=1694498785",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__Mobile_c35670e1-01ac-4d17-a33e-b65503123569.png?v=1694498773",
-            "text_color": "#ffffff",
+            "text_color": "#222222",
             "title": "Ugreen Oktoberfest,<br>Prost auf Ersparnisse!",
             "subtitle": "Bis zu 30% Rabatt",
             "button_text": "Jetzt kaufen",
@@ -88,7 +88,7 @@
       ],
       "settings": {
         "custom_style": "",
-        "banner_index": ""
+        "banner_index": "2"
       }
     },
     "ug-index-image": {
