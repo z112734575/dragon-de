@@ -8,19 +8,6 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
-        "86777b6a-bde9-4981-9d0b-274743aba41c": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/fr_38401840.png?v=1694744869",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobil_7501160.png?v=1694744867",
-            "text_color": "#ffffff",
-            "title": "USB C,Innoviert die Zukunft",
-            "subtitle": "Bis zu 30% Rabatt",
-            "button_text": "Learn More",
-            "link": "\/pages\/ugreen-apple-event",
-            "className": "buy-more-save-more"
-          }
-        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -31,6 +18,19 @@
             "subtitle": "Bis zu 30% Rabatt",
             "button_text": "Jetzt kaufen",
             "link": "\/pages\/oktoberfest",
+            "className": "buy-more-save-more"
+          }
+        },
+        "86777b6a-bde9-4981-9d0b-274743aba41c": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/fr_38401840.png?v=1694744869",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobil_7501160.png?v=1694744867",
+            "text_color": "#ffffff",
+            "title": "USB C,Innoviert die Zukunft",
+            "subtitle": "Bis zu 30% Rabatt",
+            "button_text": "Learn More",
+            "link": "\/pages\/ugreen-apple-event",
             "className": "buy-more-save-more"
           }
         },
@@ -76,8 +76,8 @@
         }
       },
       "block_order": [
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "758dee12-0c83-4073-ab52-baa690d72db1",
+        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-11",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-1"
