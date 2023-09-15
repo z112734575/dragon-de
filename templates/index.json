@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "text_color": "#ffffff",
+            "title": "Ugreen Tragbare Powerstation",
+            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
+            "button_text": "Jetzt kaufen",
+            "link": "collections\/power-station",
+            "className": ""
+          }
+        },
         "ug-index-carousel-11": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -21,18 +34,17 @@
             "className": "swiper_1"
           }
         },
-        "86777b6a-bde9-4981-9d0b-274743aba41c": {
+        "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
-          "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_ae51d297-40e4-413e-a3ca-f0ae2018c190.webp?v=1691573824",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile_c7bf64f5-7c5b-45af-88bd-b94aaae4f05e.webp?v=1691573823",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
             "text_color": "#ffffff",
-            "title": "<span style=\"font-weight: 500;\">Zurück zur Schule Aktion<\/span><br> Bis zu 30% Rabatt",
-            "subtitle": "Make Work & Study Easier",
-            "button_text": "Learn More",
-            "link": "\/pages\/ugreen-2023-zuruck-zur-schule-aktion",
-            "className": "buy-more-save-more"
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "",
+            "button_text": "Jetzt kaufen",
+            "link": "\/collections\/hub-adapter",
+            "className": ""
           }
         },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
@@ -49,43 +61,31 @@
             "className": ""
           }
         },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+        "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_ae51d297-40e4-413e-a3ca-f0ae2018c190.webp?v=1691573824",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile_c7bf64f5-7c5b-45af-88bd-b94aaae4f05e.webp?v=1691573823",
             "text_color": "#ffffff",
-            "title": "Ugreen Tragbare Powerstation",
-            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
-            "button_text": "Jetzt kaufen",
-            "link": "collections\/power-station",
-            "className": ""
-          }
-        },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "",
-            "button_text": "Jetzt kaufen",
-            "link": "\/collections\/hub-adapter",
-            "className": ""
+            "title": "<span style=\"font-weight: 500;\">Zurück zur Schule Aktion<\/span><br> Bis zu 30% Rabatt",
+            "subtitle": "Make Work & Study Easier",
+            "button_text": "Learn More",
+            "link": "\/pages\/ugreen-2023-zuruck-zur-schule-aktion",
+            "className": "buy-more-save-more"
           }
         }
       },
       "block_order": [
-        "ug-index-carousel-11",
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-1"
+        "ug-index-carousel-11",
+        "ug-index-carousel-1",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
+        "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
-        "@media (max-width: 767px) {.buy-more-save-more .green-home-banner-box {text-align: center; top: 15%; left: 0; } .swiper_1 .green-home-banner-box .btn{width: 170px!important; }}"
+        "@media (max-width: 767px) {.buy-more-save-more .green-home-banner-box {text-align: center; top: 15%; left: 0; } .swiper_1 .green-home-banner-box .btn {width: 170px !important; }}"
       ],
       "settings": {
         "custom_style": "",
@@ -94,6 +94,7 @@
     },
     "ug-index-image": {
       "type": "ug-index-image",
+      "disabled": true,
       "custom_css": [
 
       ],
