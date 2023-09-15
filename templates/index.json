@@ -36,6 +36,7 @@
         },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
@@ -51,8 +52,8 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_pc.png?v=1692683632",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_300w_Banner_mo.png?v=1692683615",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__pc.png?v=1694498783",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__Mobile.png?v=1694498772",
             "text_color": "#ffffff",
             "title": "Das erste 300W Multiport GaN-Ladegerät",
             "subtitle": "05 September 11:00 Uhr",
