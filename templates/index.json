@@ -8,30 +8,17 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+        "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/fr_38401840.png?v=1694744869",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobil_7501160.png?v=1694744867",
             "text_color": "#ffffff",
-            "title": "Ugreen Tragbare Powerstation",
-            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
-            "button_text": "Jetzt kaufen",
-            "link": "collections\/power-station",
-            "className": ""
-          }
-        },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#ffffff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": "swiper_1"
+            "title": "USB C,Innoviert die Zukunft",
+            "subtitle": "Bis zu 30% Rabatt",
+            "button_text": "Learn More",
+            "link": "\/pages\/ugreen-apple-event",
+            "className": "buy-more-save-more"
           }
         },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
@@ -47,17 +34,30 @@
             "className": "buy-more-save-more"
           }
         },
-        "86777b6a-bde9-4981-9d0b-274743aba41c": {
+        "ug-index-carousel-11": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/fr_38401840.png?v=1694744869",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobil_7501160.png?v=1694744867",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
             "text_color": "#ffffff",
-            "title": "USB C,Innoviert die Zukunft",
-            "subtitle": "Bis zu 30% Rabatt",
-            "button_text": "Learn More",
-            "link": "\/pages\/ugreen-apple-event",
-            "className": "buy-more-save-more"
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": "swiper_1"
+          }
+        },
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Web.png?v=1679535962",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Mobile.png?v=1679535957",
+            "text_color": "#ffffff",
+            "title": "Ugreen Tragbare Powerstation",
+            "subtitle": "Ermächtige dein Leben, Durchstreife die Welt",
+            "button_text": "Jetzt kaufen",
+            "link": "collections\/power-station",
+            "className": ""
           }
         },
         "ug-index-carousel-1": {
@@ -76,10 +76,10 @@
         }
       },
       "block_order": [
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-11",
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "86777b6a-bde9-4981-9d0b-274743aba41c",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
+        "ug-index-carousel-11",
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-1"
       ],
       "custom_css": [
