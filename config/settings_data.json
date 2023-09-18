@@ -1374,7 +1374,7 @@
                 "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
                 "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
               ],
-              "tag_list": "€36.99,€57.99,€16.99,€99.99,€129.99",
+              "tag_list": "",
               "collection_name_list": "Sets Angebote",
               "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
               "all_collection_url": "shopify:\/\/collections\/deal-1",
@@ -1505,8 +1505,8 @@
           "78b2740a-8429-40a0-a215-81c59a5f224f"
         ],
         "settings": {
-          "show_price": false,
-          "show_compare_price": false,
+          "show_price": true,
+          "show_compare_price": true,
           "tag_color": "#00cc88"
         }
       },
@@ -1521,7 +1521,6 @@
               "cat1": "adapters",
               "title1": "111",
               "url1": "",
-              "image1": "shopify:\/\/shop_images\/B0956BLF4S.MAIN.png",
               "cat2": "cinch-kabel",
               "title2": "222",
               "url2": "",
@@ -2713,12 +2712,6 @@
 
     ],
     "blocks": {
-      "opinew-global-code": {
-        "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/global\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "lai_embed_block_auto": {
         "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/appBlockEmbed\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
         "disabled": false,
