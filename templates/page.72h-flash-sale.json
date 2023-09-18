@@ -74,10 +74,12 @@
       "type": "ug-product-list",
       "settings": {
         "product_list": [
-          "ugreen-bluetooth-fm-transmitter-auto-radio-adapter-20w-usb-c-auto-ladegerat-pd-und-qc-netzteil-mit-freisprecheinrichtung-5-0-wireless-bluetooth-musik-player-unterstutzt-usb-stick-und-tf-karte",
-          "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
           "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-          "90597a"
+          "90597a",
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "90912-1",
+          "15076",
+          "ugreen-wireless-powerbank-10000mah-magnetische-power-bank"
         ],
         "title": "",
         "subtitle": "",
