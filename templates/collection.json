@@ -1,5 +1,10 @@
 {
   "sections": {
+    "related_collections_bar": {
+      "type": "related_collections_bar",
+      "settings": {
+      }
+    },
     "heading_template": {
       "type": "heading-template",
       "blocks": {
@@ -127,6 +132,7 @@
     }
   },
   "order": [
+    "related_collections_bar",
     "heading_template",
     "main",
     "3fcbc43b-4bf9-41ba-9768-629615709922"
