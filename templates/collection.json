@@ -1,10 +1,5 @@
 {
   "sections": {
-    "related_collections_bar": {
-      "type": "related_collections_bar",
-      "settings": {
-      }
-    },
     "heading_template": {
       "type": "heading-template",
       "blocks": {
@@ -33,6 +28,7 @@
       "block_order": [
         "3b0cc506-49ea-4851-b5a6-ff7c2153b0e6"
       ],
+      "disabled": true,
       "settings": {
         "use_specify_image": false,
         "parallax": false,
@@ -53,6 +49,11 @@
     "main": {
       "type": "main-collection",
       "blocks": {
+        "0715dae7-9ba0-496d-9c30-d91832971dd2": {
+          "type": "title",
+          "settings": {
+          }
+        },
         "684f988d-abe7-4692-8b3a-dbb3706bc26f": {
           "type": "filter",
           "disabled": true,
@@ -72,6 +73,7 @@
         }
       },
       "block_order": [
+        "0715dae7-9ba0-496d-9c30-d91832971dd2",
         "684f988d-abe7-4692-8b3a-dbb3706bc26f",
         "740319a4-8e19-4c70-b8a9-ada7cf235cbc",
         "30594d23-d644-4653-9545-9ff769d2e6ab"
@@ -132,7 +134,6 @@
     }
   },
   "order": [
-    "related_collections_bar",
     "heading_template",
     "main",
     "3fcbc43b-4bf9-41ba-9768-629615709922"
