@@ -726,7 +726,7 @@
               "lb": "Neu",
               "lb_cl": "#00badb",
               "pos_sub": "bottom",
-              "wid": "cus",
+              "wid": "full",
               "cus_wid": 1200,
               "id": 3,
               "enable_packery": true,
@@ -1345,14 +1345,12 @@
           },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
             "type": "mega",
-            "disabled": true,
             "settings": {
               "id": 3
             }
           },
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
