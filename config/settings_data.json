@@ -748,6 +748,7 @@
           },
           "b30b5544-2625-4051-a248-aaf36d0a6140": {
             "type": "mega",
+            "disabled": true,
             "settings": {
               "title": "Deals",
               "url": "",
@@ -768,6 +769,7 @@
           },
           "e6420fb7-1419-4d66-86f2-f47391508dba": {
             "type": "mega",
+            "disabled": true,
             "settings": {
               "title": "Neuerscheinungen",
               "url": "",
@@ -1350,54 +1352,14 @@
           },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
             "type": "mega",
+            "disabled": true,
             "settings": {
               "id": 2
             }
           },
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
-            "type": "banner",
-            "settings": {
-              "image_ratio": "ratioadapt",
-              "image_size": "cover",
-              "image_position": "8",
-              "height_dk": 400,
-              "img_effect": "none",
-              "b_effect": "none",
-              "b_link": "",
-              "open_link": "_self",
-              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
-              "content_align": "center",
-              "cv_pos": 50,
-              "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
-              "cl_opacity": 5,
-              "col": "4"
-            }
-          },
-          "33193927-d095-4d2f-8cae-4681c5ba459d": {
-            "type": "banner",
-            "settings": {
-              "image_ratio": "ratioadapt",
-              "image_size": "cover",
-              "image_position": "8",
-              "height_dk": 400,
-              "img_effect": "none",
-              "b_effect": "none",
-              "b_link": "",
-              "open_link": "_self",
-              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
-              "content_align": "center",
-              "cv_pos": 50,
-              "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
-              "cl_opacity": 5,
-              "col": "4"
-            }
-          },
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
@@ -1419,12 +1381,58 @@
           },
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b": {
             "type": "mega",
+            "disabled": true,
             "settings": {
               "id": 4
             }
           },
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e": {
             "type": "banner",
+            "disabled": true,
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "33193927-d095-4d2f-8cae-4681c5ba459d": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
+            "type": "banner",
+            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
@@ -1459,11 +1467,11 @@
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
           "78b2740a-8429-40a0-a215-81c59a5f224f",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb",
-          "33193927-d095-4d2f-8cae-4681c5ba459d",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
-          "b4b3c9b9-38cd-448e-af8d-804f7713b86e"
+          "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
+          "33193927-d095-4d2f-8cae-4681c5ba459d",
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb"
         ],
         "settings": {
           "show_price": true,
