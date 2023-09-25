@@ -684,6 +684,7 @@
           },
           "da9e8c0d-07c0-4f3e-a40e-2b68940ba167": {
             "type": "base",
+            "disabled": true,
             "settings": {
               "title": "Nexode 300W",
               "url": "shopify:\/\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
@@ -697,6 +698,7 @@
           },
           "16e2ef48-b04b-46f0-bf5f-d12823645624": {
             "type": "drop",
+            "disabled": true,
             "settings": {
               "title": "Tragbare Powerstation",
               "url": "shopify:\/\/collections\/power-station",
@@ -710,6 +712,26 @@
               "lazy_mn": true,
               "pos_sub": "bottom",
               "pos": "left"
+            }
+          },
+          "e6420fb7-1419-4d66-86f2-f47391508dba": {
+            "type": "mega",
+            "settings": {
+              "title": "Neuerscheinungen",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00badb",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 4,
+              "enable_packery": true,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
             }
           },
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
@@ -750,39 +772,18 @@
             "type": "mega",
             "disabled": true,
             "settings": {
-              "title": "Deals",
+              "title": "Zubehör für iphone 15",
               "url": "",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
-              "lb_cl": "#00BADB",
+              "lb_cl": "#00badb",
               "pos_sub": "bottom",
               "wid": "cus",
               "cus_wid": 1200,
               "id": 2,
-              "enable_packery": true,
-              "r_s_h_item": "20",
-              "r_s_v_item": "30"
-            }
-          },
-          "e6420fb7-1419-4d66-86f2-f47391508dba": {
-            "type": "mega",
-            "disabled": true,
-            "settings": {
-              "title": "Neuerscheinungen",
-              "url": "",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "#00BADB",
-              "pos_sub": "bottom",
-              "wid": "cus",
-              "cus_wid": 1200,
-              "id": 4,
               "enable_packery": true,
               "r_s_h_item": "20",
               "r_s_v_item": "30"
@@ -794,10 +795,10 @@
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
           "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
+          "e6420fb7-1419-4d66-86f2-f47391508dba",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
-          "b30b5544-2625-4051-a248-aaf36d0a6140",
-          "e6420fb7-1419-4d66-86f2-f47391508dba"
+          "b30b5544-2625-4051-a248-aaf36d0a6140"
         ],
         "settings": {
           "layout": "logo_left",
@@ -1373,8 +1374,8 @@
               "content_align": "center",
               "cv_pos": 50,
               "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
@@ -1402,8 +1403,8 @@
               "content_align": "center",
               "cv_pos": 50,
               "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
@@ -1424,8 +1425,8 @@
               "content_align": "center",
               "cv_pos": 50,
               "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
@@ -1446,8 +1447,8 @@
               "content_align": "center",
               "cv_pos": 50,
               "ch_pos": 50,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
