@@ -755,7 +755,7 @@
             "type": "base",
             "settings": {
               "title": "Für iphone 15",
-              "url": "\/https:\/\/de.ugreen.com\/pages\/ugreen-apple-event",
+              "url": "\/pages\/ugreen-apple-event",
               "open_link": "_self",
               "icon": "",
               "cus_cl": false,
@@ -1405,7 +1405,7 @@
               "b_effect": "none",
               "b_link": "",
               "open_link": "_self",
-              "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">PowerRoam 2200<span style=\"font-size: 18px;\"><br>Powerstation|2300w 2048wh\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
+              "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">USB-C<span style=\"font-size: 18px;\"><br>Powerstation|2300w 2048wh\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
               "content_align": "start",
               "cv_pos": 10,
               "ch_pos": 20,
