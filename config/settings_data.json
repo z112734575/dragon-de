@@ -682,38 +682,6 @@
               "pos": "left"
             }
           },
-          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167": {
-            "type": "base",
-            "disabled": true,
-            "settings": {
-              "title": "Nexode 300W",
-              "url": "shopify:\/\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "Neu",
-              "lb_cl": "#15f2de"
-            }
-          },
-          "16e2ef48-b04b-46f0-bf5f-d12823645624": {
-            "type": "drop",
-            "disabled": true,
-            "settings": {
-              "title": "Tragbare Powerstation",
-              "url": "shopify:\/\/collections\/power-station",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "Hot",
-              "lb_cl": "#ec0101",
-              "lazy_mn": true,
-              "pos_sub": "bottom",
-              "pos": "left"
-            }
-          },
           "e6420fb7-1419-4d66-86f2-f47391508dba": {
             "type": "mega",
             "settings": {
@@ -734,6 +702,19 @@
               "r_s_v_item": "30"
             }
           },
+          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
+            "type": "base",
+            "settings": {
+              "title": "Für iphone 15",
+              "url": "\/pages\/ugreen-apple-event",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "Hot",
+              "lb_cl": "#ec0101"
+            }
+          },
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c": {
             "type": "drop",
             "settings": {
@@ -749,19 +730,6 @@
               "lazy_mn": true,
               "pos_sub": "bottom",
               "pos": "left"
-            }
-          },
-          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
-            "type": "base",
-            "settings": {
-              "title": "Für iphone 15",
-              "url": "\/pages\/ugreen-apple-event",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "Hot",
-              "lb_cl": "#ec0101"
             }
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
@@ -780,17 +748,49 @@
               "pos_sub": "bottom",
               "pos": "left"
             }
+          },
+          "16e2ef48-b04b-46f0-bf5f-d12823645624": {
+            "type": "drop",
+            "disabled": true,
+            "settings": {
+              "title": "Tragbare Powerstation",
+              "url": "shopify:\/\/collections\/power-station",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "Hot",
+              "lb_cl": "#ec0101",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
+            }
+          },
+          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167": {
+            "type": "base",
+            "disabled": true,
+            "settings": {
+              "title": "Nexode 300W",
+              "url": "shopify:\/\/pages\/nexode-300w-5-anschluss-gan-schnellladegerat",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "Neu",
+              "lb_cl": "#15f2de"
+            }
           }
         },
         "block_order": [
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
-          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
-          "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "e6420fb7-1419-4d66-86f2-f47391508dba",
-          "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
           "aeb156df-3675-446b-bcaf-f09fa79006f0",
-          "16e48cac-0fd2-4f57-b570-7d74c3092cdc"
+          "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
+          "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
+          "16e2ef48-b04b-46f0-bf5f-d12823645624",
+          "da9e8c0d-07c0-4f3e-a40e-2b68940ba167"
         ],
         "settings": {
           "layout": "logo_left",
