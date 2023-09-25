@@ -100,6 +100,48 @@
         "code_cus_css": ""
       }
     },
+    "3880a3fc-8fea-4ed3-b0e2-f18136f84742": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "93bb2fd0-9d98-4b6c-8125-381181d3feb7": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/t\/9\/assets\/300w-1695635990148_1000x.jpg?v=1695635991",
+            "article_title": "Ugreen hat das weltweit erste 300 W GaNFast Desktop-Ladegerät mit 5 Anschlüssen vorgestellt",
+            "article_time": "28. Aug 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-300w-ganfast-desktop-ladegerat"
+          }
+        },
+        "04132775-d453-4ba9-813a-61812b9ff7e0": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2022\/03\/wireless-charging-speed_%E6%97%A0%E6%96%87%E6%A1%88.png?resize=1140%2C680&ssl=1",
+            "article_title": "Wie schnell kann kabelloses Aufladen sein?",
+            "article_time": "18. April 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/kabelloses-laden"
+          }
+        },
+        "f0d504c6-b9fc-4482-b75e-5ee31e4aaa64": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/i0.wp.com\/blogtest.ugreen.com\/wp-content\/uploads\/2020\/09\/1-PD%E6%8A%80%E6%9C%AF.png?resize=836%2C488&ssl=1",
+            "article_title": "Power Delivery: Alles, was Sie über USB-PD-Technik wissen sollten",
+            "article_time": "18. April 2023",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/usb-pd-technologie"
+          }
+        }
+      },
+      "block_order": [
+        "93bb2fd0-9d98-4b6c-8125-381181d3feb7",
+        "04132775-d453-4ba9-813a-61812b9ff7e0",
+        "f0d504c6-b9fc-4482-b75e-5ee31e4aaa64"
+      ],
+      "settings": {
+        "box_title": "News",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e": {
       "type": "blog_buying_guides",
       "blocks": {
@@ -282,6 +324,7 @@
     "cc892ac6-2c5c-45a9-80b8-f91120da88ab",
     "70ab769d-49b9-4078-9378-130a70a775b9",
     "b8e8c9f9-4031-482a-b69a-652c18751758",
+    "3880a3fc-8fea-4ed3-b0e2-f18136f84742",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
