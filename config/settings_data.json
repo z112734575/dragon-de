@@ -745,6 +745,46 @@
               "pos_sub": "bottom",
               "pos": "left"
             }
+          },
+          "b30b5544-2625-4051-a248-aaf36d0a6140": {
+            "type": "mega",
+            "settings": {
+              "title": "Deals",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 2,
+              "enable_packery": true,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
+          },
+          "e6420fb7-1419-4d66-86f2-f47391508dba": {
+            "type": "mega",
+            "settings": {
+              "title": "Neuerscheinungen",
+              "url": "",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "#00BADB",
+              "pos_sub": "bottom",
+              "wid": "cus",
+              "cus_wid": 1200,
+              "id": 4,
+              "enable_packery": true,
+              "r_s_h_item": "20",
+              "r_s_v_item": "30"
+            }
           }
         },
         "block_order": [
@@ -753,7 +793,9 @@
           "da9e8c0d-07c0-4f3e-a40e-2b68940ba167",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
-          "16e48cac-0fd2-4f57-b570-7d74c3092cdc"
+          "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
+          "b30b5544-2625-4051-a248-aaf36d0a6140",
+          "e6420fb7-1419-4d66-86f2-f47391508dba"
         ],
         "settings": {
           "layout": "logo_left",
@@ -1305,6 +1347,102 @@
               "all_collection_url": "shopify:\/\/collections\/fur-auto",
               "all_collection_name": "All"
             }
+          },
+          "da14ec79-5380-417b-9499-73f8332b8a3b": {
+            "type": "mega",
+            "settings": {
+              "id": 2
+            }
+          },
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
+            "type": "banner",
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "33193927-d095-4d2f-8cae-4681c5ba459d": {
+            "type": "banner",
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5": {
+            "type": "banner",
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b": {
+            "type": "mega",
+            "settings": {
+              "id": 4
+            }
+          },
+          "b4b3c9b9-38cd-448e-af8d-804f7713b86e": {
+            "type": "banner",
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
           }
         },
         "block_order": [
@@ -1319,7 +1457,13 @@
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f",
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
-          "78b2740a-8429-40a0-a215-81c59a5f224f"
+          "78b2740a-8429-40a0-a215-81c59a5f224f",
+          "da14ec79-5380-417b-9499-73f8332b8a3b",
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb",
+          "33193927-d095-4d2f-8cae-4681c5ba459d",
+          "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
+          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
+          "b4b3c9b9-38cd-448e-af8d-804f7713b86e"
         ],
         "settings": {
           "show_price": true,
