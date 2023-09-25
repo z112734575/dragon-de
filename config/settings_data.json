@@ -1355,7 +1355,7 @@
             "type": "mega",
             "disabled": true,
             "settings": {
-              "id": 2
+              "id": 3
             }
           },
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5": {
@@ -1378,13 +1378,6 @@
               "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
-            }
-          },
-          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b": {
-            "type": "mega",
-            "disabled": true,
-            "settings": {
-              "id": 4
             }
           },
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e": {
@@ -1431,6 +1424,13 @@
               "col": "4"
             }
           },
+          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b": {
+            "type": "mega",
+            "disabled": true,
+            "settings": {
+              "id": 4
+            }
+          },
           "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
             "type": "banner",
             "disabled": true,
@@ -1469,9 +1469,9 @@
           "78b2740a-8429-40a0-a215-81c59a5f224f",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
-          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
           "33193927-d095-4d2f-8cae-4681c5ba459d",
+          "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
           "ac1cdf58-6087-4296-8844-3ce01fe647bb"
         ],
         "settings": {
