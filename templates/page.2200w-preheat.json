@@ -21,7 +21,7 @@
         "743aaf41-343f-4919-aa92-407f030f42c2": {
           "type": "custom_text",
           "settings": {
-            "text": "UGREEN PowerRoam 2200 Portable Power Power Station",
+            "text": "UGREEN PowerRoam 2200 Portable Power Station",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
@@ -159,7 +159,7 @@
         "ebae89b8-14c1-4d60-9e58-52ed5c3debb8": {
           "type": "custom_text",
           "settings": {
-            "text": "UGREEN PowerRoam 2200 <br>\nPortable Power Power Station",
+            "text": "UGREEN PowerRoam 2200 <br>\nPortable Power Station",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#ffffff",
