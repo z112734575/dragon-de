@@ -1442,7 +1442,7 @@
             "type": "mega",
             "disabled": true,
             "settings": {
-              "id": 4
+              "id": 5
             }
           },
           "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
@@ -1466,6 +1466,50 @@
               "cl_opacity": 5,
               "col": "4"
             }
+          },
+          "878e31a4-7155-428d-88ee-52001507803f": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
+          },
+          "447269b2-3353-4ce5-bb07-154246044251": {
+            "type": "banner",
+            "disabled": true,
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "",
+              "open_link": "_self",
+              "html": "<h3 class=\"fs__30 mg__0 lh__1 cw mb__10\">lighting collections<\/h3><h4 class=\"fs__16 mg__0 cw\">Explorer<\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
           }
         },
         "block_order": [
@@ -1486,7 +1530,9 @@
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
           "33193927-d095-4d2f-8cae-4681c5ba459d",
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb"
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb",
+          "878e31a4-7155-428d-88ee-52001507803f",
+          "447269b2-3353-4ce5-bb07-154246044251"
         ],
         "settings": {
           "show_price": true,
