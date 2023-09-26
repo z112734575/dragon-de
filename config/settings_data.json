@@ -717,7 +717,6 @@
           },
           "b33308ca-34e6-46c5-bd38-c79bac7dc680": {
             "type": "mega",
-            "disabled": true,
             "settings": {
               "title": "Kaufratgeber",
               "url": "",
@@ -726,7 +725,7 @@
               "cus_cl": false,
               "cl": "#ec0101",
               "lb": "",
-              "lb_cl": "#00BADB",
+              "lb_cl": "#00badb",
               "pos_sub": "bottom",
               "wid": "cus",
               "cus_wid": 1200,
@@ -1440,25 +1439,24 @@
           },
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b": {
             "type": "mega",
-            "disabled": true,
             "settings": {
               "id": 5
             }
           },
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
+          "878e31a4-7155-428d-88ee-52001507803f": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
               "image_position": "8",
               "height_dk": 400,
+              "image": "shopify:\/\/shop_images\/Gan_Ladegerate.png",
               "img_effect": "none",
               "b_effect": "none",
               "b_link": "",
               "open_link": "_self",
               "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">PowerRoam 2200<span style=\"font-size: 18px;\"><br>Powerstation|2300w 2048wh\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
-              "content_align": "center",
+              "content_align": "start",
               "cv_pos": 10,
               "ch_pos": 20,
               "cl_txt": "#ffffff",
@@ -1467,36 +1465,36 @@
               "col": "4"
             }
           },
-          "878e31a4-7155-428d-88ee-52001507803f": {
+          "447269b2-3353-4ce5-bb07-154246044251": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
               "image_position": "8",
               "height_dk": 400,
+              "image": "shopify:\/\/shop_images\/Powerstation.png",
               "img_effect": "none",
               "b_effect": "none",
-              "b_link": "",
+              "b_link": "https:\/\/de.ugreen.com\/pages\/powerroam-powerstation",
               "open_link": "_self",
               "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">PowerRoam 2200<span style=\"font-size: 18px;\"><br>Powerstation|2300w 2048wh\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
               "content_align": "start",
               "cv_pos": 10,
               "ch_pos": 20,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
           },
-          "447269b2-3353-4ce5-bb07-154246044251": {
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb": {
             "type": "banner",
-            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
               "image_position": "8",
               "height_dk": 400,
+              "image": "shopify:\/\/shop_images\/Hub_Dockingstation.png",
               "img_effect": "none",
               "b_effect": "none",
               "b_link": "",
@@ -1505,8 +1503,8 @@
               "content_align": "start",
               "cv_pos": 10,
               "ch_pos": 20,
-              "cl_txt": "#fff",
-              "cl_overlay": "#000",
+              "cl_txt": "#ffffff",
+              "cl_overlay": "#000000",
               "cl_opacity": 5,
               "col": "4"
             }
@@ -1530,9 +1528,9 @@
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
           "33193927-d095-4d2f-8cae-4681c5ba459d",
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb",
           "878e31a4-7155-428d-88ee-52001507803f",
-          "447269b2-3353-4ce5-bb07-154246044251"
+          "447269b2-3353-4ce5-bb07-154246044251",
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb"
         ],
         "settings": {
           "show_price": true,
