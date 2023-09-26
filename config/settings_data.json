@@ -665,23 +665,6 @@
               "r_s_v_item": "30"
             }
           },
-          "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
-            "type": "drop",
-            "settings": {
-              "title": "Angebote",
-              "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
-              "open_link": "_self",
-              "menu": "",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "",
-              "lb_cl": "",
-              "lazy_mn": true,
-              "pos_sub": "bottom",
-              "pos": "left"
-            }
-          },
           "e6420fb7-1419-4d66-86f2-f47391508dba": {
             "type": "mega",
             "settings": {
@@ -702,19 +685,6 @@
               "r_s_v_item": "30"
             }
           },
-          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
-            "type": "base",
-            "settings": {
-              "title": "Für iphone 15",
-              "url": "\/pages\/ugreen-apple-event",
-              "open_link": "_self",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "Hot",
-              "lb_cl": "#ec0101"
-            }
-          },
           "b33308ca-34e6-46c5-bd38-c79bac7dc680": {
             "type": "mega",
             "settings": {
@@ -733,6 +703,36 @@
               "enable_packery": true,
               "r_s_h_item": "20",
               "r_s_v_item": "30"
+            }
+          },
+          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
+            "type": "base",
+            "settings": {
+              "title": "Für iphone 15",
+              "url": "\/pages\/ugreen-apple-event",
+              "open_link": "_self",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "Hot",
+              "lb_cl": "#ec0101"
+            }
+          },
+          "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
+            "type": "drop",
+            "settings": {
+              "title": "Angebote",
+              "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "",
+              "lb_cl": "",
+              "lazy_mn": true,
+              "pos_sub": "bottom",
+              "pos": "left"
             }
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
@@ -805,10 +805,10 @@
         },
         "block_order": [
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
-          "d516cbdb-698e-4b29-b113-ebdb7627acb7",
           "e6420fb7-1419-4d66-86f2-f47391508dba",
-          "aeb156df-3675-446b-bcaf-f09fa79006f0",
           "b33308ca-34e6-46c5-bd38-c79bac7dc680",
+          "aeb156df-3675-446b-bcaf-f09fa79006f0",
+          "d516cbdb-698e-4b29-b113-ebdb7627acb7",
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
