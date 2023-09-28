@@ -62,6 +62,9 @@
   <div class="related_icons_bar_wrap">
     <div class="related_icons_bar">
       {% for item in related_collections %}
+        <script>
+          console.log("{{item.title}}", 'title===========')
+        </script>
         {% assign handle = item.handle | prepend: '/collections/' %}
         {%- capture active -%}
     {%- if handle == request.path -%}
