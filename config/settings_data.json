@@ -1833,11 +1833,26 @@
               "all_collection_url": "shopify:\/\/collections\/back-to-school-stand-deals",
               "all_collection_name": "All Cables"
             }
+          },
+          "4dabb6a7-60ae-4c87-aca4-483d36bb996c": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
           }
         },
         "block_order": [
           "8d954c8a-601b-484c-a41a-790f2460396f",
-          "90862b21-7621-46e5-9f35-938af1220116"
+          "90862b21-7621-46e5-9f35-938af1220116",
+          "4dabb6a7-60ae-4c87-aca4-483d36bb996c"
         ],
         "settings": {
           "show_price": true,
