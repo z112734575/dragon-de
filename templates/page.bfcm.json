@@ -74,13 +74,12 @@
       "type": "ug-product-list",
       "settings": {
         "product_list": [
-          "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
           "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
           "das-ultimative-ugreen-power-pack1",
-          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-2pcs-pack",
-          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-verstellbar-tablet-halterung",
           "ugreen-revodok-usb-c-docking-station-dual-display-usb-c-hub-mit-dual-hdmi",
-          "ugreen-7-in-1-4k-hdmi-vga-usb-c-hub-tablet-halterung-1m-100w-usb-c"
+          "ugreen-7-in-1-4k-hdmi-vga-usb-c-hub-tablet-halterung-1m-100w-usb-c",
+          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-2pcs-pack",
+          "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-verstellbar-tablet-halterung"
         ],
         "title": "",
         "subtitle": "",
