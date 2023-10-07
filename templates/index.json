@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/tragbare-powerstation-solargenerator-2048Wh.jpg?v=1695721162",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/tragbare-powerstation-solargenerator-2048Wh-m.jpg?v=1695721199",
+            "text_color": "#ffffff",
+            "title": "UGREEN PowerRoam 2200 Tragbare Powerstation",
+            "subtitle": "11:30 Uhr, 9. Okt. Mach dich bereit!",
+            "button_text": "Mehr Erfahren",
+            "link": "\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
+            "className": ""
+          }
+        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -20,19 +33,6 @@
             "button_text": "Jetzt kaufen",
             "link": "\/pages\/oktoberfest",
             "className": "buy-more-save-more"
-          }
-        },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/tragbare-powerstation-solargenerator-2048Wh.jpg?v=1695721162",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/tragbare-powerstation-solargenerator-2048Wh-m.jpg?v=1695721199",
-            "text_color": "#ffffff",
-            "title": "UGREEN PowerRoam 2200 Tragbare Powerstation",
-            "subtitle": "11:30 Uhr, 9. Okt. Mach dich bereit!",
-            "button_text": "Mehr Erfahren",
-            "link": "\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
-            "className": ""
           }
         },
         "ug-index-carousel-11": {
@@ -78,8 +78,8 @@
         }
       },
       "block_order": [
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-11",
         "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-1"
