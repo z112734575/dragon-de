@@ -8,19 +8,6 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__pc_1bdd3fa9-c775-47eb-88c7-4112c4aeca93.png?v=1694498785",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__Mobile_c35670e1-01ac-4d17-a33e-b65503123569.png?v=1694498773",
-            "text_color": "#222222",
-            "title": "Ugreen Oktoberfest,<br>Prost auf Ersparnisse!",
-            "subtitle": "Bis zu 30% Rabatt",
-            "button_text": "Jetzt kaufen",
-            "link": "\/pages\/oktoberfest",
-            "className": "buy-more-save-more"
-          }
-        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -32,6 +19,32 @@
             "button_text": "Mehr Erfahren",
             "link": "\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
             "className": ""
+          }
+        },
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
+            "text_color": "#ffffff",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": "swiper_1"
+          }
+        },
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__pc_1bdd3fa9-c775-47eb-88c7-4112c4aeca93.png?v=1694498785",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__Mobile_c35670e1-01ac-4d17-a33e-b65503123569.png?v=1694498773",
+            "text_color": "#222222",
+            "title": "Ugreen Oktoberfest,<br>Prost auf Ersparnisse!",
+            "subtitle": "Bis zu 30% Rabatt",
+            "button_text": "Jetzt kaufen",
+            "link": "\/pages\/oktoberfest",
+            "className": "buy-more-save-more"
           }
         },
         "86777b6a-bde9-4981-9d0b-274743aba41c": {
@@ -46,19 +59,6 @@
             "button_text": "Learn More",
             "link": "\/pages\/ugreen-apple-event",
             "className": "buy-more-save-more"
-          }
-        },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#ffffff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": "swiper_1"
           }
         },
         "ug-index-carousel-1": {
@@ -77,10 +77,10 @@
         }
       },
       "block_order": [
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-11",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
+        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-1"
       ],
       "custom_css": [
