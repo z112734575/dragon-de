@@ -25,13 +25,13 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__pc_1bdd3fa9-c775-47eb-88c7-4112c4aeca93.png?v=1694498785",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__Mobile_c35670e1-01ac-4d17-a33e-b65503123569.png?v=1694498773",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/genieBen-sie-die-herbstfeier-pc.jpg?v=1696917477",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/genieben-sie-die-herbstfeier-mb.jpg?v=1696917499",
             "text_color": "#222222",
-            "title": "Ugreen Oktoberfest,<br>Prost auf Ersparnisse!",
-            "subtitle": "Bis zu 30% Rabatt",
-            "button_text": "Jetzt kaufen",
-            "link": "\/pages\/oktoberfest",
+            "title": "",
+            "subtitle": "",
+            "button_text": "",
+            "link": "\/pages\/72h-blitzverkauf",
             "className": "buy-more-save-more"
           }
         },
