@@ -1580,10 +1580,9 @@
           },
           "dd872d20-a844-4502-85b1-6065c2e41cb4": {
             "type": "mega_tab_list",
-            "disabled": true,
             "settings": {
-              "title": "超级菜单",
-              "tab_list": "111,222,333",
+              "title": "Produkte",
+              "tab_list": "Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
               "open": false
             }
           },
