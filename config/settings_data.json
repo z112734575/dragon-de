@@ -1541,45 +1541,9 @@
       "mb_nav": {
         "type": "mb_nav",
         "blocks": {
-          "9614846a-ab99-4255-86a2-9f2e8d4e5f3b": {
-            "type": "collection_list",
-            "disabled": true,
-            "settings": {
-              "title": "Products",
-              "cat1": "adapters",
-              "title1": "111",
-              "url1": "",
-              "cat2": "cinch-kabel",
-              "title2": "222",
-              "url2": "",
-              "cat3": "",
-              "title3": "",
-              "url3": "",
-              "cat4": "",
-              "title4": "",
-              "url4": "",
-              "cat5": "",
-              "title5": "",
-              "url5": "",
-              "cat6": "",
-              "title6": "",
-              "url6": "",
-              "cat7": "",
-              "title7": "",
-              "url7": "",
-              "cat8": "",
-              "title8": "",
-              "url8": "",
-              "cat9": "",
-              "title9": "",
-              "url9": "",
-              "cat10": "",
-              "title10": "",
-              "url10": ""
-            }
-          },
           "dd872d20-a844-4502-85b1-6065c2e41cb4": {
             "type": "mega_tab_list",
+            "disabled": true,
             "settings": {
               "title": "Produkte",
               "tab_list": "Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
@@ -1769,7 +1733,6 @@
           }
         },
         "block_order": [
-          "9614846a-ab99-4255-86a2-9f2e8d4e5f3b",
           "dd872d20-a844-4502-85b1-6065c2e41cb4",
           "6f549481-942e-4bc2-82b1-22f3208c3997",
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58",
