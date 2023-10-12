@@ -1799,6 +1799,80 @@
             "settings": {
               "tab_id": 3,
               "product_list": [
+                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
+                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+              ],
+              "tag_list": "",
+              "collection_name_list": "Sets Angebote",
+              "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
+              "all_collection_url": "shopify:\/\/collections\/deal-1",
+              "all_collection_name": "All"
+            }
+          },
+          "2e4b2512-751c-47e3-8dda-fa550157e15f": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "aad020ff-c97d-41ca-bc9d-e37e993dfa17": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "817df00b-4263-4540-835f-02cd665d52ad": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
+          "6b9c4d72-20ea-4deb-8952-1147db2fc880": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
 
               ],
               "tag_list": "",
@@ -1812,7 +1886,12 @@
         "block_order": [
           "8d954c8a-601b-484c-a41a-790f2460396f",
           "90862b21-7621-46e5-9f35-938af1220116",
-          "4dabb6a7-60ae-4c87-aca4-483d36bb996c"
+          "4dabb6a7-60ae-4c87-aca4-483d36bb996c",
+          "2e4b2512-751c-47e3-8dda-fa550157e15f",
+          "aad020ff-c97d-41ca-bc9d-e37e993dfa17",
+          "817df00b-4263-4540-835f-02cd665d52ad",
+          "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d",
+          "6b9c4d72-20ea-4deb-8952-1147db2fc880"
         ],
         "settings": {
           "show_price": true,
