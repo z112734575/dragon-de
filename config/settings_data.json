@@ -1580,6 +1580,7 @@
           },
           "dd872d20-a844-4502-85b1-6065c2e41cb4": {
             "type": "mega_tab_list",
+            "disabled": true,
             "settings": {
               "title": "超级菜单",
               "tab_list": "111,222,333",
