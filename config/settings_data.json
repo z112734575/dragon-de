@@ -1610,18 +1610,6 @@
               "lb_cl": ""
             }
           },
-          "mb_nav-3": {
-            "type": "menu",
-            "settings": {
-              "title": "Dienst",
-              "url": "shopify:\/\/blogs\/fashion",
-              "open_link": "_self",
-              "menu": "service",
-              "icon": "",
-              "lb": "",
-              "lb_cl": ""
-            }
-          },
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4": {
             "type": "menu",
             "settings": {
@@ -1632,6 +1620,18 @@
               "icon": "",
               "lb": "",
               "lb_cl": "#ff7e00"
+            }
+          },
+          "mb_nav-3": {
+            "type": "menu",
+            "settings": {
+              "title": "Dienst",
+              "url": "shopify:\/\/blogs\/fashion",
+              "open_link": "_self",
+              "menu": "service",
+              "icon": "",
+              "lb": "",
+              "lb_cl": ""
             }
           },
           "mb_nav-7": {
@@ -1650,8 +1650,8 @@
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd",
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf",
           "06092e7b-58cd-4790-9721-e86ddd55d4a0",
-          "mb_nav-3",
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4",
+          "mb_nav-3",
           "mb_nav-7"
         ],
         "settings": {
