@@ -1543,7 +1543,6 @@
         "blocks": {
           "dd872d20-a844-4502-85b1-6065c2e41cb4": {
             "type": "mega_tab_list",
-            "disabled": true,
             "settings": {
               "title": "Produkte",
               "tab_list": "Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
@@ -1833,57 +1832,87 @@
           "aad020ff-c97d-41ca-bc9d-e37e993dfa17": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 1,
+              "tab_id": 5,
               "product_list": [
-
+                "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
+                "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
+                "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-qc-4-0-4-0-usb-c-ladekabel-5a-20v-kompatibel-mit-2022-macbook-pro-m2-2022-macbook-air-m2-ipad-pro-2021-galaxy-s22-s21-s20-steam-deck-usw-0-5m",
+                "snap-deal-ugreen-cat-8-lan-kabel-40000mbit-s-netzwerkkabel-ethernet-kabel-0-5m",
+                "ugreen-2-pack-micro-usb-kabel-micro-usb-ladekabel-typ-schnellladekabel-kompatibel-mit-galaxy-s7-s6-s5-j7-j6-j5-huawei-p-smart-p40-lite-e-p10-lite-y9-y8-y7-ps4-controller-usw-0-5m"
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "USB C Ladekabel,\nLightning Kable,\nEthernet Kabel,\nAudio&Videokabel,\nUSB Kabel,",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/lightning-kable,https:\/\/de.ugreen.com\/collections\/ethernet-kabel,https:\/\/de.ugreen.com\/collections\/audio-video-kabel,https:\/\/de.ugreen.com\/collections\/usb-kabel",
+              "all_collection_url": "shopify:\/\/collections\/kabel",
+              "all_collection_name": "All"
             }
           },
           "817df00b-4263-4540-835f-02cd665d52ad": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 1,
+              "tab_id": 6,
               "product_list": [
 
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "Bluetooth Adapter,\nLAN Adapter,\nSD Adapter,\nSound Card,\nSwitcher",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/lan-adapter,https:\/\/de.ugreen.com\/collections\/sd-adapter,https:\/\/de.ugreen.com\/collections\/sound-card,https:\/\/de.ugreen.com\/collections\/switcher",
+              "all_collection_url": "shopify:\/\/collections\/adapters",
+              "all_collection_name": "All"
             }
           },
           "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 1,
+              "tab_id": 7,
               "product_list": [
-
+                "90597a",
+                "90912-1",
+                "nexode-300w-5-anschluss-gan-schnellladegerat",
+                "90850",
+                "70321"
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "Laptop Ladegerät,\nFestplattengehäuse,\nEthernet&Video kabel,\nDocks & Hubs,\nPeripheriegerät",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/laptop-ladegerat,https:\/\/de.ugreen.com\/collections\/festplattengehause,https:\/\/de.ugreen.com\/collections\/ethernet-video-kabel,https:\/\/de.ugreen.com\/collections\/docks-hubs,https:\/\/de.ugreen.com\/collections\/peripheriegerat",
+              "all_collection_url": "shopify:\/\/collections\/fur-laptop",
+              "all_collection_name": "All"
             }
           },
           "6b9c4d72-20ea-4deb-8952-1147db2fc880": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 1,
+              "tab_id": 8,
               "product_list": [
-
+                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+                "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-verstellbar-tablet-halterung",
+                "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
+                "ugreen-80636-hifi-tws-stereo-headphones-wireless-bluetooth-earphones-true-wireless-earbuds"
               ],
               "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
+              "collection_name_list": "Phone&Tablet Ladegerät,\nUSB C Ladekabel,\nPowerbank,\nKopfhörer,\nHalterung",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/phone-tablet-ladegerat,https:\/\/de.ugreen.com\/collections\/usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/powerbank,https:\/\/de.ugreen.com\/collections\/kopfhorer,https:\/\/de.ugreen.com\/collections\/halterung",
+              "all_collection_url": "shopify:\/\/collections\/fur-phone-und-mehr",
+              "all_collection_name": "All"
+            }
+          },
+          "56394d88-b511-4224-a5cb-2cd8d23f2bba": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 9,
+              "product_list": [
+                "10144",
+                "ugreen-autohalterung-cd-schlitz-auto-handyhalterung-schwerkraft-kfz-handy-halter-einhandbedienung-halterung-kompatibel-mit-iphone-14-pro-max-13-12-11-xr-galaxy-s22-s21-s20-huawei-p30-p20-redmi-poco",
+                "ugreen-3-5mm-klinke-auf-klinke-aux-kabel-stereo-audio-klinkenkabel-fur-autoradio-kopfhorer-galaxy-a-m-serien-redme-note-serie-pc-tablets-lautsprecher-mp3-mp4-player-usw-0-5m",
+                "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
+                "ugreen-bluetooth-fm-transmitter-auto-radio-adapter-20w-usb-c-auto-ladegerat-pd-und-qc-netzteil-mit-freisprecheinrichtung-5-0-wireless-bluetooth-musik-player-unterstutzt-usb-stick-und-tf-karte"
+              ],
+              "tag_list": "",
+              "collection_name_list": "Autoladegerät,\nAutohalterung,\nUSB A auf USB C Ladekabel,\nBluetooth Adapter,\nSound Card",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/auto-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-halterung,https:\/\/de.ugreen.com\/collections\/usb-a-auf-usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/sound-card",
+              "all_collection_url": "shopify:\/\/collections\/fur-auto",
+              "all_collection_name": "All"
             }
           }
         },
@@ -1895,7 +1924,8 @@
           "aad020ff-c97d-41ca-bc9d-e37e993dfa17",
           "817df00b-4263-4540-835f-02cd665d52ad",
           "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d",
-          "6b9c4d72-20ea-4deb-8952-1147db2fc880"
+          "6b9c4d72-20ea-4deb-8952-1147db2fc880",
+          "56394d88-b511-4224-a5cb-2cd8d23f2bba"
         ],
         "settings": {
           "show_price": true,
