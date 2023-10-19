@@ -23,14 +23,13 @@
         },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
-          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale.png?v=1697685134",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale-mb.png?v=1697685171",
             "text_color": "#222222",
-            "title": "",
-            "subtitle": "",
-            "button_text": "",
+            "title": "HALLOWEEN HOWLER",
+            "subtitle": "Gansehauterregende Rabatte I Bis zu 30% Rabatt",
+            "button_text": "Mehr Erfahren",
             "link": "\/pages\/halloween-sale",
             "className": "buy-more-save-more"
           }
