@@ -13,23 +13,18 @@
       "settings": {
         "section_title": "Purchase a <span>10%<\/span> OFF BFCM Gift Card",
         "sub_title": "Get ready for Black Friday by purchasing a 10% off gift card today.",
-        "product": "order-over-70-get-free-10-gift-card"
+        "product": "10-00-gift"
       }
     },
     "ug-product-list": {
       "type": "ug-product-list",
       "settings": {
         "product_list": [
-          "ugreen-usb-c-triple-display-docking-station",
-          "ugreen-130w-usb-c-car-charger",
-          "bluetooth5-3transmitteraudioadapter",
-          "order-over-70-get-free-10-gift-card",
-          "ugreen-1200w-portable-power-station-2023-deal",
-          "2023-deal-100w-3c1a-gan-fast-charger",
-          "ugreen-10-in-1-hub-with-4k-hdmi",
-          "ugreen-100w-usb-c-diginest-pro-power-strip",
-          "ugreen-100w-usb-c-to-usb-c-cable-6ft",
-          "ugreen-100w-usb-c-diginest-pro-charging-station-的副本-测试勿删"
+          "ugreen-600w-680wh-tragbarer-solargenerator-100w-solarpanel",
+          "90597a",
+          "10-00-gift",
+          "das-ultimative-ugreen-power-pack1",
+          "ugreen-100w-usb-c-auf-usb-c-kabel-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-13-2022-ipad-pro-12-9-2021-galaxy-s22-s21-s20-tab-s8-usw-1m"
         ],
         "title": "Limited-Time Offers",
         "subtitle": "",
@@ -63,16 +58,10 @@
           "settings": {
             "tabs_title": "Chargers",
             "product_list": [
-              "100w-3c1a-gan-fast-charger",
-              "ugreen-nexode-200w-usb-c-desktop-charger",
-              "65w-3-ports-gan-fast-charger",
-              "ugreen-nexode-140w-usb-c-wall-charger",
-              "ugreen-100w-usb-c-diginest-pro-power-strip",
-              "ugreen-65w-usb-c-diginest-cube-charging-station",
-              "ugreen-65w-nexode-gan-usb-c-3-port-charger-with-us-uk-eu-plug-for-travel",
-              "ugreen-65w-usb-c-charging-station",
-              "ugreen-usb-c-to-usb-c-cable-3ft-6ft-10ft",
-              "ugreen-100w-usb-c-to-usb-c-cable-6ft"
+              "90597a",
+              "10-00-gift",
+              "das-ultimative-ugreen-power-pack1",
+              "ugreen-600w-680wh-tragbarer-solargenerator-100w-solarpanel"
             ]
           }
         },
