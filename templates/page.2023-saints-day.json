@@ -81,15 +81,12 @@
         "56de405c-308f-4005-baf2-e1aac394fd05": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Stands & Holders",
+            "tabs_title": "Festplattengehäuse",
             "product_list": [
-              "cell-phone-stand-holder",
-              "adjustable-aluminum-phone-holder",
-              "ugreen-360-rotating-tablet-stand-holder",
-              "ugreen-tablet-stand-holder",
-              "gravity-drive-car-mount",
-              "ugreen-laptop-stand-vertical-laptop-holder",
-              "ugreen-selfie-stick-tripod-with-remote-59-inches-phone-holder"
+              "ugreen-nvme-m2-geh-use-usb-3-2-nvme-ssd-geh-use-adapter",
+              "15512",
+              "ugreen-m-2-gehause-nvme-usb-3-1-gen2-10gbps-nvme-ssd-gehause-adapter-fur-m2-nvme-pcie-m-key-und-b-m-key-in-grosse-2230-2242-2260-2280-unterstutzt-uasp-ruhemodus",
+              "ugreen-m2-ssd-adapter-usb3-2-10gbps-gen2-aluminium-geh-use"
             ]
           }
         },
