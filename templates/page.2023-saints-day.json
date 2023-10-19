@@ -3,15 +3,15 @@
     "5a97e0ca-1580-48d9-aafd-8a9feb3ade1f": {
       "type": "page_banner",
       "settings": {
-        "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/US_banner_pc.webp?v=1697512558",
-        "mol_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/US_banner_mo.webp?v=1697512566",
+        "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE_EU_banner_pc.webp?v=1697694525",
+        "mol_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE_EU_banner_mo.webp?v=1697694559",
         "image_alt": "The Best Deals AreOne Click Away"
       }
     },
     "2c9bf8f0-ce25-4c99-9bda-06c38ce52758": {
       "type": "gift_card",
       "settings": {
-        "section_title": "Purchase a <span>10%<\/span> OFF BFCM Gift Card",
+        "section_title": "Purchase a 10% OFF BFCM Gift Card",
         "sub_title": "Get ready for Black Friday by purchasing a 10% off gift card today.",
         "product": "10-00-gift"
       }
