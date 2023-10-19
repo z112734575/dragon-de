@@ -69,16 +69,10 @@
         "3f64d1a6-8e13-4c7a-8cfd-a4434dbebf88": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Hubs & Docking",
+            "tabs_title": "Docks & Hubs",
             "product_list": [
-              "6-in-1-usb-c-adapter-with-4k-hdmi",
-              "7-in-1-multiport-adapter-with-4k-60hz",
-              "ugreen-9-in-1-usb-c-docking-station",
-              "ugreen-usb-c-triple-display-docking-station",
-              "ugreen-10-in-1-hub-with-4k-hdmi",
-              "ultra-slim-5-in-1-usb-c-hub",
-              "ugreen-usb-3-0-4-port-switch",
-              "ugreen-m-2-nvme-sata-ssd-enclosure-reader"
+              "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+              "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports"
             ]
           }
         },
