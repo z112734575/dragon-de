@@ -11,8 +11,8 @@
     "2c9bf8f0-ce25-4c99-9bda-06c38ce52758": {
       "type": "gift_card",
       "settings": {
-        "section_title": "Purchase a 10% OFF BFCM Gift Card",
-        "sub_title": "Get ready for Black Friday by purchasing a 10% off gift card today.",
+        "section_title": "Kaufen Sie eine BFCM-Geschenkkarte mit 10% Rabatt",
+        "sub_title": "Bereiten Sie sich auf den Black Friday vor, indem Sie noch heute einen Geschenkgutschein mit 10 % Rabatt erwerben.",
         "product": "10-00-gift"
       }
     },
@@ -26,7 +26,7 @@
           "das-ultimative-ugreen-power-pack1",
           "ugreen-100w-usb-c-auf-usb-c-kabel-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-13-2022-ipad-pro-12-9-2021-galaxy-s22-s21-s20-tab-s8-usw-1m"
         ],
-        "title": "Limited-Time Offers",
+        "title": "Zeitlich begrenzte Angebote",
         "subtitle": "",
         "section_id": "ug-product-list",
         "pc_product_type": "column",
@@ -120,7 +120,7 @@
       "settings": {
         "section_id": "sainta-day",
         "section_icon": "",
-        "section_title": "Buy More, Save More",
+        "section_title": "Mehr kaufen, mehr sparen",
         "sub_title": "",
         "list_all": "4",
         "product_item_bg_color": "#202422",
