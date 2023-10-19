@@ -15,6 +15,7 @@
   assign show_compare = settings.show_compare
   assign show_rating = settings.show_rating
   assign show_learn_btn = settings.show_learn_btn
+  assign show_code = settings.show_code
   assign pc_product_item_img_size = settings.pc_product_item_img_size
   assign mobile_product_item_img_size = settings.mobile_product_item_img_size
   assign mobile_product_type = settings.mobile_product_type
@@ -247,7 +248,7 @@
      .svg_title svg {
         display: inline-block;
         width: 40px;
-        height: 40px;
+        height: 30px;
     }
 
      .svg_title h2 {
@@ -442,6 +443,14 @@
                           </div>
                         {% endif %}
                       </div>
+                {% assign discountbar = product.metafields.custom.discountbar.value %}
+                {% assign discount_code = discountbar[1] %}
+                      {% if show_code and discount_code%}
+                      <div class="ug_product_code">
+                        <p>Code: {{ discount_code }} </p>
+                        <button data-ug-copy-data="{{ discount_code }}" class="copy-btn">Copy</button>
+                      </div>
+                    {% endif %}
                       <div class="ug-product-buy">
                         <a
                           href="{{ product.url }}"
@@ -449,7 +458,7 @@
                           data-variant-id="{{ product.variants.first.id }}"
                           data-action-atc
                           rel="nofollow"
-                          >Buy Now</a
+                          >Jetzt kaufen</a
                         >
                         {% if show_learn_btn %}
                           <a href="{{ product.url }}" class="ug-product-learn-btn">Learn more</a>
@@ -695,6 +704,12 @@
       "id": "show_learn_btn",
       "label": "是否展示Learn按钮",
       "default": true
+    },
+    {
+      "type": "checkbox",
+      "id": "show_code",
+      "label": "是否展示折扣码",
+      "default": false
     }
   ],
 "blocks": [
