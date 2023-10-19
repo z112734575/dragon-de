@@ -57,12 +57,12 @@
         "35c9871c-733f-43d3-b0aa-a3e96b9ef85c": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Chargers",
+            "tabs_title": "Sets Angebote",
             "product_list": [
-              "90597a",
-              "10-00-gift",
-              "das-ultimative-ugreen-power-pack1",
-              "ugreen-600w-680wh-tragbarer-solargenerator-100w-solarpanel"
+              "ugreen-30w-usb-c-pd-ladegerat",
+              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+              "nexode-300w-5-anschluss-gan-schnellladegerat"
             ]
           }
         },
