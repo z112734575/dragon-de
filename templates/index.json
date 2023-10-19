@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale.png?v=1697685134",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale-mb.png?v=1697685171",
+            "text_color": "#ffffff",
+            "title": "HALLOWEEN HOWLER",
+            "subtitle": "Gansehauterregende Rabatte I Bis zu 30% Rabatt",
+            "button_text": "Mehr Erfahren",
+            "link": "\/pages\/halloween-sale",
+            "className": "buy-more-save-more"
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -19,20 +32,6 @@
             "button_text": "Mehr Erfahren",
             "link": "https:\/\/de.ugreen.com\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
             "className": ""
-          }
-        },
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale.png?v=1697685134",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale-mb.png?v=1697685171",
-            "text_color": "#fff",
-            "title": "HALLOWEEN HOWLER",
-            "subtitle": "Gansehauterregende Rabatte I Bis zu 30% Rabatt",
-            "button_text": "Mehr Erfahren",
-            "link": "\/pages\/halloween-sale",
-            "className": "buy-more-save-more"
           }
         },
         "ug-index-carousel-11": {
@@ -77,8 +76,8 @@
         }
       },
       "block_order": [
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "758dee12-0c83-4073-ab52-baa690d72db1",
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
         "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-1"
@@ -227,7 +226,8 @@
         "show_sale_flag": false,
         "show_compare": true,
         "show_rating": false,
-        "show_learn_btn": false
+        "show_learn_btn": false,
+        "show_code": false
       }
     },
     "ccf44744-8756-46d6-8a1a-e64366583b8d": {
