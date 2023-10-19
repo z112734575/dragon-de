@@ -93,14 +93,12 @@
         "75ce9223-3849-4530-97f8-99ba59ce9854": {
           "type": "ug-product-list-tabs",
           "settings": {
-            "tabs_title": "Cables",
+            "tabs_title": "Tablet Halterung",
             "product_list": [
-              "usb-c-to-lightning-fast-charging-cable",
-              "100w-pd-fast-charging-cable",
-              "ugreen-usb-c-to-usb-c-cable-3ft-6ft-10ft",
-              "ugreen-240w-pd3-1-usb-c-to-usb-c-cable",
-              "ugreen-usb-c-to-lightning-audio-adapter",
-              "ugreen-cat-8-ethernet-cable-high-speed-40gbps-2000mhz"
+              "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll",
+              "ugreen-tablet-halterung-tisch-schwanenhals-12-9-zoll-tablet-halter-lang-arm-gelenkarm-tablethalterung-bett-kompatibel-mit-ipad-pro-2021-air-mini-2-3-4-iphone-14-galaxy-tab-a-a7-s7-surface-pro-7",
+              "ugreen-tablet-stander-aluminium-verstellbar-tablet-halterung-tisch-tablet-halter-kompatibel-mit-ipad-pro-air-mini-11-12-9-galaxy-tab-a-a7-iphone-14-huawei-matepad-surface-bis-13-5-zoll-anthrazit",
+              "ugreen-handy-stander-tisch-handyhalter-schreibtisch-handyhalterung-klappbar-smartphone-stander-handystander-fur-tisch-kompatibel-mit-iphone-14-13-12-pro-max-galaxy-s22-a53-usw-bis-7-9-zoll-schwarz"
             ]
           }
         },
