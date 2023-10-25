@@ -43,15 +43,6 @@
         "show_code": true
       }
     },
-    "2c9bf8f0-ce25-4c99-9bda-06c38ce52758": {
-      "type": "gift_card",
-      "disabled": true,
-      "settings": {
-        "section_title": "20% Rabatt auf Halloween-Geschenkkarte!",
-        "sub_title": "Bereiten Sie sich auf Halloween vor, indem Sie noch heute eine Geschenkkarte mit 20% Rabatt erwerben.",
-        "product": "10-00-gift"
-      }
-    },
     "388f7fcd-4e61-4dd4-a908-861b90859d17": {
       "type": "ug-tabs-product-list",
       "blocks": {
@@ -185,6 +176,14 @@
         "show_code": true
       }
     },
+    "2c9bf8f0-ce25-4c99-9bda-06c38ce52758": {
+      "type": "gift_card",
+      "settings": {
+        "section_title": "20% Rabatt auf Halloween-Geschenkkarte!",
+        "sub_title": "Bereiten Sie sich auf Halloween vor, indem Sie noch heute eine Geschenkkarte mit 20% Rabatt erwerben.",
+        "product": "10-00-gift"
+      }
+    },
     "30d681da-5279-4baf-9bad-f096bd5258c8": {
       "type": "custom-html",
       "settings": {
@@ -204,8 +203,8 @@
   "order": [
     "5a97e0ca-1580-48d9-aafd-8a9feb3ade1f",
     "ug-product-list",
-    "2c9bf8f0-ce25-4c99-9bda-06c38ce52758",
     "388f7fcd-4e61-4dd4-a908-861b90859d17",
+    "2c9bf8f0-ce25-4c99-9bda-06c38ce52758",
     "30d681da-5279-4baf-9bad-f096bd5258c8"
   ]
 }
