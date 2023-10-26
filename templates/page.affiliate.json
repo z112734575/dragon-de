@@ -1798,7 +1798,7 @@
             "padding_inner": "30px,,30px,",
             "padding_inner_tb": "20px,30px,30px,30px",
             "padding_inner_mb": "20px,30px,30px,30px",
-            "bg_cl": "#fff"
+            "bg_cl": "#ffffff"
           }
         },
         "952004e3-5356-4f1a-b3af-db6659da8bd5": {
@@ -1818,26 +1818,26 @@
             "mgb_mb": 20
           }
         },
-        "b3a336c5-bb1b-43cc-8b4a-bdba2898b0d6": {
+        "432792ad-6caf-4327-b138-8e90e0c3f5af": {
           "type": "custom_button",
           "settings": {
             "button_text": "Loslegen",
-            "button_link": "",
-            "target_link": "_blank",
+            "button_link": "http:\/\/app.impact.com\/campaign-campaign-info-v2\/deugreencom.brand",
+            "target_link": "_self",
             "fontf": "inherit",
             "button_icon_w": 0,
             "button_style": "default",
             "button_effect": "default",
-            "pri_cl": "#222",
-            "second_cl": "",
-            "pri_cl_hover": "#56cfe1",
-            "second_cl_hover": "#fff",
-            "fsbutton": 14,
-            "fwbutton": 400,
+            "pri_cl": "#000000",
+            "second_cl": "#ffffff",
+            "pri_cl_hover": "#06c384",
+            "second_cl_hover": "#ffffff",
+            "fsbutton": 16,
+            "fwbutton": 500,
             "button_ls": 0,
-            "button_mh": 42,
-            "button_bdr": 0,
-            "button_pd_lr": 30,
+            "button_mh": 36,
+            "button_bdr": 40,
+            "button_pd_lr": 34,
             "button_mgb": 0,
             "hidden_mobile": false,
             "button_icon_w_mb": 0,
@@ -1858,7 +1858,7 @@
         "07531300-07c5-4c4c-9de5-261148b1545b",
         "47d4bec7-9cc4-4559-ade3-1c587e90a09b",
         "952004e3-5356-4f1a-b3af-db6659da8bd5",
-        "b3a336c5-bb1b-43cc-8b4a-bdba2898b0d6"
+        "432792ad-6caf-4327-b138-8e90e0c3f5af"
       ],
       "settings": {
         "space_h_item": "30",
