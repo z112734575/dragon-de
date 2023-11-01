@@ -260,7 +260,7 @@
       "from_price_html": "<span class=\"&lt;span class='notranslate'&gt;{{ class }}&lt;\/span&gt;\">Ab<\/span> {{price_min}}",
       "Please_choose_pr_options": "Bitte wählen Sie einige Produktoptionen aus, bevor Sie dieses Produkt in Ihren Warenkorb legen.",
       "choose_an_option": "Wähle eine Option",
-      "add_to_cart": "In den Warenkorb legen",
+      "add_to_cart": "In den Warenkorb",
       "pre_order": "Vorbestellen",
       "unavailable": "Nicht verfügbar",
       "sold_out": "Ausverkauft",
