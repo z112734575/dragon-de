@@ -5,8 +5,8 @@
       "settings": {
         "action_id": "d40c9bb9-0313-46e6-baa1-d4d401cdf8bd",
         "is_pre": true,
-        "pc_image": "shopify:\/\/shop_images\/US__pc_e0f07891-961a-4164-8257-aef4c1582ce9.webp",
-        "mobile_image": "shopify:\/\/shop_images\/US__mo_8d9b722b-ce52-47de-a12f-2556b439a6be.webp",
+        "pc_image": "shopify:\/\/shop_images\/EU__pc.webp",
+        "mobile_image": "shopify:\/\/shop_images\/EU__mo.webp",
         "title": "<span>Ugreen<\/span> <strong>BLACK FRIDAY<\/strong> <span>Pre-Sale<\/span>",
         "subtitle": "Subscribe Now and Receive a $5 Gift Card",
         "email_btn_text": "Sign Up Now",
@@ -44,18 +44,19 @@
       "settings": {
         "item_type": "black_friday",
         "product_list": [
-          "ugreen-145w-25000mah-power-bank-for-laptop-3-ports-power-bank-bundle",
-          "ugreen-nexode-100w-usb-c-wall-charger-4-ports",
-          "ugreen-nexode-140w-usb-c-gan-charger-3-ports-wall-charger-bundle",
-          "ugreen-nexode-200w-usb-c-desktop-charger-bundle",
-          "ugreen-nexode-300w-usb-c-gan-charger-5-ports-desktop-charger-bundle"
+          "ugreen-600w-680wh-tragbarer-solargenerator-100w-solarpanel",
+          "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-qc-4-0-4-0-usb-c-ladekabel-5a-20v-kompatibel-mit-2022-macbook-pro-m2-2022-macbook-air-m2-ipad-pro-2021-galaxy-s22-s21-s20-steam-deck-usw-0-5m",
+          "ugreen-100w-usb-c-auf-usb-c-kabel-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-13-2022-ipad-pro-12-9-2021-galaxy-s22-s21-s20-tab-s8-usw-1m",
+          "ugreen-100w-usb-c-auf-usb-c-kabel-winkel-pd-3-0-qc-4-0-usb-c-ladekabel-90-grad-kompatibel-mit-macbook-pro-16-2021-macbook-air-ipad-pro-12-9-2021-ipad-air-5-mini-6-galaxy-s22-steam-deck-usw-0-5m",
+          "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
+          "ugreen-100w-usb-c-ladegerat-4-port-desktop-charger-pd-ladegerat-usb-c-netzteil-mit-pps-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-13-pro-12-ipad-pro-dell-xps-galaxy-s22-s21-fe-usw"
         ],
         "title": "Hot Sale",
         "subtitle": "",
         "section_id": "ug-product-list",
         "pc_product_type": "column",
         "mobile_product_type": "row",
-        "title_color": "#ffffff",
+        "title_color": "#000",
         "product_item_bg_color": "#242320",
         "pc_product_item_img_size": "100%",
         "mobile_product_item_img_size": "100%",
@@ -83,22 +84,11 @@
           "settings": {
             "tabs_title": "Chargers",
             "product_list": [
-              "65w-3-ports-gan-fast-charger",
-              "100w-3c1a-gan-fast-charger",
-              "ugreen-nexode-140w-usb-c-wall-charger",
-              "ugreen-nexode-200w-usb-c-desktop-charger",
-              "ugreen-100w-usb-c-charger",
-              "ugreen-100w-usb-c-diginest-pro-power-strip",
-              "ugreen-65w-nexode-gan-usb-c-3-port-charger-with-us-uk-eu-plug-for-travel",
-              "ugreen-65w-usb-c-charging-station",
-              "ugreen-65w-usb-c-diginest-cube-charging-station",
-              "100w-dual-port-gan-fast-charger",
-              "ugreen-nexode-45w-dual-c-port-wall-charger",
-              "65w-4-port-3c1a-gan-pd-charger",
-              "ugreen-69w-usb-c-car-charger",
-              "ugreen-130w-usb-c-car-charger",
-              "ugreen-145w-power-bank-for-laptop",
-              "ugreen-10000mah-magsafe-wireless-power-bank"
+              "das-ultimative-ugreen-power-pack1",
+              "90597a",
+              "ugreen-100w-usb-c-auf-usb-c-kabel-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-13-2022-ipad-pro-12-9-2021-galaxy-s22-s21-s20-tab-s8-usw-1m",
+              "ugreen-100w-usb-c-ladegerat-4-port-desktop-charger-pd-ladegerat-usb-c-netzteil-mit-pps-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-13-pro-12-ipad-pro-dell-xps-galaxy-s22-s21-fe-usw",
+              "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw"
             ]
           }
         },
@@ -159,7 +149,7 @@
         "section_title": "Hot Sale",
         "sub_title": "",
         "list_all": "4",
-        "title_color": "#ffffff",
+        "title_color": "#000",
         "product_item_bg_color": "#242320",
         "pc_product_item_img_size": "50%",
         "mobile_product_item_img_size": "80%",
