@@ -11,6 +11,7 @@
     "ug-product-list": {
       "type": "ug-product-list",
       "settings": {
+        "item_type": "default",
         "product_list": [
           "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
           "das-ultimative-ugreen-power-pack1",
@@ -24,6 +25,7 @@
         "section_id": "ug-product-list",
         "pc_product_type": "column",
         "mobile_product_type": "row",
+        "title_color": "#000",
         "product_item_bg_color": "#202422",
         "pc_product_item_img_size": "70%",
         "mobile_product_item_img_size": "100%",
@@ -152,11 +154,13 @@
         "5496b2f6-4d2a-48ca-9e15-b8429902fc22"
       ],
       "settings": {
+        "item_type": "default",
         "section_id": "sainta-day",
         "section_icon": "",
         "section_title": "Mehr kaufen, mehr sparen",
         "sub_title": "",
         "list_all": "6",
+        "title_color": "#000",
         "product_item_bg_color": "#202422",
         "pc_product_item_img_size": "70%",
         "mobile_product_item_img_size": "100%",
@@ -178,6 +182,7 @@
     },
     "2c9bf8f0-ce25-4c99-9bda-06c38ce52758": {
       "type": "gift_card",
+      "disabled": true,
       "settings": {
         "section_title": "20% Rabatt auf Halloween-Geschenkkarte!",
         "sub_title": "Bereiten Sie sich auf Halloween vor, indem Sie noch heute eine Geschenkkarte mit 20% Rabatt erwerben.",
