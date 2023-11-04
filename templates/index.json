@@ -10,6 +10,7 @@
       "blocks": {
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale.png?v=1697685134",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/halloween-sale-mb.png?v=1697685171",
@@ -196,6 +197,7 @@
     "ug-product-list": {
       "type": "ug-product-list",
       "settings": {
+        "item_type": "default",
         "product_list": [
           "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
           "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
@@ -211,6 +213,7 @@
         "section_id": "ug-product-list",
         "pc_product_type": "column",
         "mobile_product_type": "column",
+        "title_color": "#000",
         "product_item_bg_color": "#f8f8f9",
         "pc_product_item_img_size": "100%",
         "mobile_product_item_img_size": "57%",
