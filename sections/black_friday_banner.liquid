@@ -17,15 +17,12 @@
     }
     .banner_content {
         position: absolute;
-        top: 3.25vw;
+        top: 1.25vw;
         left: 50%;
         color: white;
         text-align: center;
         transform: translateX(-50%);
     }
-  .banner_content.is_pre {
-    top: 1.25vw;
-  }
     .banner_content h1 {
         font-size: 2.5vw;
         font-weight: 700;
@@ -68,7 +65,7 @@
     .black_friday_form {
         position: relative;
         max-width: 28vw;
-        margin: 2vw auto 0.625vw;
+        margin: 2vw auto 1vw;
     }
     .black_friday_form input#email {
         width: 100%;
@@ -108,33 +105,31 @@
         display: none !important;
     }
     .black_friday_banner .time {
-        color: #cdcdcd;
+        color: #999999;
         margin-top: 1.56vw;
-        font-size: clamp(14px,1vw,20px);
+        font-size: 20px;
         line-height: 1;
-    }
-  .black_friday_banner .time span {
         position: relative;
-  }
+    }
     .black_friday_banner .time span:before {
         content: "";
         height: 1px;
         width: 7.3vw;
-        background: #cdcdcd;
+        background: #999;
         position: absolute;
         top: 50%;
-        left: -10%;
-        transform: translate(-100%, -100%);
+        left: 0;
+        transform: translate(0, -100%);
     }
     .black_friday_banner .time span:after {
         content: "";
         height: 1px;
         width: 7.3vw;
-        background: #cdcdcd;
+        background: #999;
         position: absolute;
         top: 50%;
-        right: -10%;
-        transform: translate(100%, -100%);
+        right: 0;
+        transform: translate(0, -100%);
     }
     @media (max-width: 768px) {
         .is_pc {
@@ -201,7 +196,7 @@
 %}
 <section class="black_friday_banner">
     {% render "ug-custom-picture", pc_image: pc_image, mobile_image: mobile_image, alt: title %}
-    <div class="banner_content {% if is_pre %} is_pre {% endif %}">
+    <div class="banner_content">
         <h1>{{ title }}</h1>
         <h3>{{ subtitle }}</h3>
         {% if is_pre %}
