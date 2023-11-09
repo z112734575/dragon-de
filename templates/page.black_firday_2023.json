@@ -4,7 +4,7 @@
       "type": "black_friday_banner",
       "settings": {
         "action_id": "1bcca63e-17bc-4843-87d4-8d8c7cd4068c",
-        "is_pre": true,
+        "is_pre": false,
         "pc_image": "shopify:\/\/shop_images\/EU__pc.webp",
         "mobile_image": "shopify:\/\/shop_images\/EU__mo.webp",
         "title": "<span>Ugreen<\/span> <strong>BLACK FRIDAY<\/strong> <span>Pre-Sale<\/span>",
