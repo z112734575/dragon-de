@@ -17,15 +17,15 @@
     "black_friday_step": {
       "type": "black_friday_step",
       "settings": {
-        "step_type": "2",
+        "step_type": "1",
         "title": "Zeitplan für Black Friday und Cyber Monday",
         "subtitle": "",
         "step1_text": "BLACK FRIDAY Pre-Sale",
         "step1_time": "Nov. 10 - Nov.16",
-        "step2_text": "Subscribe & Receive $5 Gift Card",
-        "step2_time": "Nov. 06 - Nov.19",
-        "step3_text": "Save UP TO 30% Web-Site Sale",
-        "step3_time": "Nov. 20 - Dec. 03",
+        "step2_text": "Black Friday Extravaganza",
+        "step2_time": "Nov. 17 - Nov.24",
+        "step3_text": "Cyber Monday Bonanza",
+        "step3_time": "Nov. 25 - Nov. 27",
         "padding_pc": "120px 0 0 0",
         "padding_mobile": "60px 0 0 0"
       }
@@ -59,7 +59,7 @@
         "section_id": "ug-product-list",
         "pc_product_type": "column",
         "mobile_product_type": "row",
-        "title_color": "#fff",
+        "title_color": "#ffffff",
         "product_item_bg_color": "#242320",
         "pc_product_item_img_size": "100%",
         "mobile_product_item_img_size": "100%",
@@ -206,7 +206,7 @@
         "section_title": "Hot Sale",
         "sub_title": "",
         "list_all": "6",
-        "title_color": "#fff",
+        "title_color": "#ffffff",
         "product_item_bg_color": "#242320",
         "pc_product_item_img_size": "50%",
         "mobile_product_item_img_size": "80%",
