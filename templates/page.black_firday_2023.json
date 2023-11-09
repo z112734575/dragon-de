@@ -5,8 +5,8 @@
       "settings": {
         "action_id": "1bcca63e-17bc-4843-87d4-8d8c7cd4068c",
         "is_pre": false,
-        "pc_image": "shopify:\/\/shop_images\/EU__pc.webp",
-        "mobile_image": "shopify:\/\/shop_images\/EU__mo.webp",
+        "pc_image": "shopify:\/\/shop_images\/EU__pc_5be76210-f7f3-42c4-9741-9302a265c697.webp",
+        "mobile_image": "shopify:\/\/shop_images\/EU__mo_9fc2f51c-b07c-496a-a979-6c0f11423997.webp",
         "title": "<span>Ugreen<\/span> <strong>BLACK FRIDAY<\/strong> <span>Pre-Sale<\/span>",
         "subtitle": "Erste Anlaufstelle für Rabatte: Sparen Sie noch heute",
         "email_btn_text": "Sign Up Now",
@@ -221,7 +221,7 @@
         "load_more_default_count": 4,
         "show_sale_flag": true,
         "show_compare": true,
-        "show_rating": false,
+        "show_rating": true,
         "show_learn_btn": false,
         "show_code": true
       }
