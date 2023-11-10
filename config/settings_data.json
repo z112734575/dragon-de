@@ -1544,7 +1544,6 @@
         "blocks": {
           "dd872d20-a844-4502-85b1-6065c2e41cb4": {
             "type": "mega_tab_list",
-            "disabled": true,
             "settings": {
               "title": "Produkte",
               "tab_list": "Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
@@ -1553,6 +1552,7 @@
           },
           "cecb3bc8-d54f-4ec7-a819-424e63c5ae58": {
             "type": "menu",
+            "disabled": true,
             "settings": {
               "title": "Produkte",
               "url": "",
