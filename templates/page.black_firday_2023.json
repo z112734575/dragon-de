@@ -16,9 +16,10 @@
     },
     "black_friday_step": {
       "type": "black_friday_step",
+      "disabled": true,
       "settings": {
         "step_type": "1",
-        "title": "Zeitplan für Black Friday und Cyber Monday",
+        "title": "Zeitplan für Black Friday",
         "subtitle": "",
         "step1_text": "Black Friday für Frühbucher！",
         "step1_time": "Nov. 10 - Nov.16",
