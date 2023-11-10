@@ -10,16 +10,15 @@
       "blocks": {
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
-          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_22506f4b-6e09-4aa4-9d18-8110c30c6721.webp?v=1699578679",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_daf88c9a-161f-4bad-bb61-3f5cb33887d4.webp?v=1699578677",
             "text_color": "#ffffff",
-            "title": "HALLOWEEN HOWLER",
-            "subtitle": "Gansehauterregende Rabatte I Bis zu 30% Rabatt",
+            "title": "Ugreen BLACK FRIDAY Pre-Sale",
+            "subtitle": "First Dibs on Discounts: Start Saving Today",
             "button_text": "Mehr Erfahren",
-            "link": "\/pages\/halloween-sale",
-            "className": "buy-more-save-more"
+            "link": "\/pages\/black-friday-cyber-monday",
+            "className": ""
           }
         },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
