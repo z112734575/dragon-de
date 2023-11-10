@@ -710,7 +710,7 @@
             "settings": {
               "title": "Für iphone 15",
               "url": "\/pages\/ugreen-apple-event",
-              "open_link": "_self",
+              "open_link": "_blank",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -723,7 +723,7 @@
             "settings": {
               "title": "Angebote",
               "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
-              "open_link": "_self",
+              "open_link": "_blank",
               "menu": "",
               "icon": "",
               "cus_cl": false,
