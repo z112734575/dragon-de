@@ -1546,7 +1546,7 @@
             "type": "mega_tab_list",
             "settings": {
               "title": "Produkte",
-              "tab_list": "Powerstation,Ladegeräte,Sets,Docks & Hubs,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
+              "tab_list": "Ladegeräte,Docks & Hubs,Powerstation,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
               "open": false
             }
           },
@@ -1785,28 +1785,10 @@
       "ug-mb-mega-menu": {
         "type": "ug-mb-mega-menu",
         "blocks": {
-          "8d954c8a-601b-484c-a41a-790f2460396f": {
-            "type": "menu-list",
-            "settings": {
-              "tab_id": 1,
-              "product_list": [
-                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
-                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh-1",
-                "15054a",
-                "ugreen-powerroam-1200-tragbare-powerstation-mit-byd-gemeinsam-entwickeltes-1200w-1024wh",
-                "15114"
-              ],
-              "tag_list": "Hot,Neu,,,",
-              "collection_name_list": "Tragbare Powerstation,\nStromaggregat Solar",
-              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/power-station,https:\/\/de.ugreen.com\/collections\/stromaggregat-solar",
-              "all_collection_url": "shopify:\/\/collections\/power-station",
-              "all_collection_name": "All"
-            }
-          },
           "90862b21-7621-46e5-9f35-938af1220116": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 2,
+              "tab_id": 1,
               "product_list": [
                 "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
                 "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
@@ -1821,28 +1803,10 @@
               "all_collection_name": "All"
             }
           },
-          "4dabb6a7-60ae-4c87-aca4-483d36bb996c": {
-            "type": "menu-list",
-            "settings": {
-              "tab_id": 3,
-              "product_list": [
-                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
-                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
-                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
-                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
-                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
-              ],
-              "tag_list": "",
-              "collection_name_list": "Sets Angebote",
-              "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
-              "all_collection_url": "shopify:\/\/collections\/deal-1",
-              "all_collection_name": "All"
-            }
-          },
           "2e4b2512-751c-47e3-8dda-fa550157e15f": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 4,
+              "tab_id": 2,
               "product_list": [
                 "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
                 "90912-1",
@@ -1854,6 +1818,42 @@
               "collection_name_list": "Dockingstation,\nMini Dock,\nUSB-C HDMI Hub,\nSwitch Hub,\nUSB Hub",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/dockingstation,https:\/\/de.ugreen.com\/collections\/mini-dock,https:\/\/de.ugreen.com\/collections\/usb-c-hdmi-hub,https:\/\/de.ugreen.com\/collections\/switch-hub,https:\/\/de.ugreen.com\/collections\/usb-hub",
               "all_collection_url": "shopify:\/\/collections\/docks-hubs",
+              "all_collection_name": "All"
+            }
+          },
+          "8d954c8a-601b-484c-a41a-790f2460396f": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 3,
+              "product_list": [
+                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
+                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh-1",
+                "15054a",
+                "ugreen-powerroam-1200-tragbare-powerstation-mit-byd-gemeinsam-entwickeltes-1200w-1024wh",
+                "15114"
+              ],
+              "tag_list": "Hot,Neu,,,",
+              "collection_name_list": "Tragbare Powerstation,\nStromaggregat Solar",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/power-station,https:\/\/de.ugreen.com\/collections\/stromaggregat-solar",
+              "all_collection_url": "shopify:\/\/collections\/power-station",
+              "all_collection_name": "All"
+            }
+          },
+          "4dabb6a7-60ae-4c87-aca4-483d36bb996c": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 4,
+              "product_list": [
+                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
+                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+              ],
+              "tag_list": "",
+              "collection_name_list": "Sets Angebote",
+              "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
+              "all_collection_url": "shopify:\/\/collections\/deal-1",
               "all_collection_name": "All"
             }
           },
@@ -1949,10 +1949,10 @@
           }
         },
         "block_order": [
-          "8d954c8a-601b-484c-a41a-790f2460396f",
           "90862b21-7621-46e5-9f35-938af1220116",
-          "4dabb6a7-60ae-4c87-aca4-483d36bb996c",
           "2e4b2512-751c-47e3-8dda-fa550157e15f",
+          "8d954c8a-601b-484c-a41a-790f2460396f",
+          "4dabb6a7-60ae-4c87-aca4-483d36bb996c",
           "aad020ff-c97d-41ca-bc9d-e37e993dfa17",
           "817df00b-4263-4540-835f-02cd665d52ad",
           "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d",
