@@ -707,6 +707,7 @@
           },
           "aeb156df-3675-446b-bcaf-f09fa79006f0": {
             "type": "base",
+            "disabled": true,
             "settings": {
               "title": "Für iphone 15",
               "url": "\/pages\/ugreen-apple-event",
@@ -721,7 +722,7 @@
           "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
             "type": "drop",
             "settings": {
-              "title": "Angebote",
+              "title": "BLACK FRIDAY Pre-Sale",
               "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
               "open_link": "_blank",
               "menu": "",
@@ -1427,7 +1428,7 @@
               "b_effect": "none",
               "b_link": "shopify:\/\/pages\/ugreen-apple-event",
               "open_link": "_self",
-              "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">USB-C<span style=\"font-size: 18px;\"><br>Innoviert die Zukunft\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
+              "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">USB-C Für iphone 15<span style=\"font-size: 18px;\"><br>Innoviert die Zukunft\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
               "content_align": "start",
               "cv_pos": 10,
               "ch_pos": 20,
