@@ -1204,28 +1204,10 @@
               "tab_link_list": ""
             }
           },
-          "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30": {
-            "type": "tab_content",
-            "settings": {
-              "tab_id": 1,
-              "product_list": [
-                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
-                "ugreen-powerroam-1200-tragbare-powerstation-mit-byd-gemeinsam-entwickeltes-1200w-1024wh",
-                "15054a",
-                "ugreen-power-station-mit-byd-gemeinsam-entwickeltes-powerroam-600",
-                "15114"
-              ],
-              "tag_list": "Hot,Neu,,,",
-              "collection_name_list": "Tragbare Powerstation,\nStromaggregat Solar",
-              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/power-station,https:\/\/de.ugreen.com\/collections\/stromaggregat-solar",
-              "all_collection_url": "shopify:\/\/collections\/power-station",
-              "all_collection_name": "All"
-            }
-          },
           "062bd733-351d-4773-ae0d-49f8754a13f2": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 2,
+              "tab_id": 1,
               "product_list": [
                 "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
                 "nexode-300w-5-anschluss-gan-schnellladegerat",
@@ -1240,28 +1222,28 @@
               "all_collection_name": "All"
             }
           },
-          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b": {
+          "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 3,
+              "tab_id": 2,
               "product_list": [
-                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
-                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
-                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
-                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
-                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+                "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
+                "ugreen-powerroam-1200-tragbare-powerstation-mit-byd-gemeinsam-entwickeltes-1200w-1024wh",
+                "15054a",
+                "ugreen-power-station-mit-byd-gemeinsam-entwickeltes-powerroam-600",
+                "15114"
               ],
-              "tag_list": "",
-              "collection_name_list": "Sets Angebote",
-              "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
-              "all_collection_url": "shopify:\/\/collections\/deal-1",
+              "tag_list": "Hot,Neu,,,",
+              "collection_name_list": "Tragbare Powerstation,\nStromaggregat Solar",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/power-station,https:\/\/de.ugreen.com\/collections\/stromaggregat-solar",
+              "all_collection_url": "shopify:\/\/collections\/power-station",
               "all_collection_name": "All"
             }
           },
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 4,
+              "tab_id": 3,
               "product_list": [
                 "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
                 "90912-1",
@@ -1273,6 +1255,24 @@
               "collection_name_list": "Dockingstation,\nDual Display Dock,\nUSB-C Hub,\nSwitch Hub,\nAndere Hubs",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/dockingstation,https:\/\/de.ugreen.com\/collections\/mini-dock,https:\/\/de.ugreen.com\/collections\/usb-c-hdmi-hub,https:\/\/de.ugreen.com\/collections\/switch-hub,https:\/\/de.ugreen.com\/collections\/usb-hub",
               "all_collection_url": "shopify:\/\/collections\/docks-hubs",
+              "all_collection_name": "All"
+            }
+          },
+          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b": {
+            "type": "tab_content",
+            "settings": {
+              "tab_id": 4,
+              "product_list": [
+                "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+                "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+                "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
+                "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+                "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+              ],
+              "tag_list": "",
+              "collection_name_list": "Sets Angebote",
+              "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
+              "all_collection_url": "shopify:\/\/collections\/deal-1",
               "all_collection_name": "All"
             }
           },
@@ -1515,10 +1515,10 @@
           "896b0a1b-4c88-41dc-aae8-3dc3fc782bd9",
           "224acbf9-e273-470e-aeb8-ce1cab7498c4",
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d",
-          "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30",
           "062bd733-351d-4773-ae0d-49f8754a13f2",
-          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b",
+          "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30",
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18",
+          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b",
           "dc181cf8-5099-4066-aade-9708a6be74a7",
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f",
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
