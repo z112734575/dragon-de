@@ -169,11 +169,10 @@
         },
         "trust_delivery": {
           "type": "trust_delivery",
-          "disabled": true,
           "settings": {
             "mess": "Zuverlässige Lieferung",
             "size": 14,
-            "imageList": ""
+            "imageList": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DHL.png?v=1692786011,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/UPS.png?v=1692785941,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/FedEx.png?v=1692785957"
           }
         },
         "4e85739a-0cb1-4fda-9fe8-441ed6ed155c": {
