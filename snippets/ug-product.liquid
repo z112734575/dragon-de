@@ -81,7 +81,7 @@
 
           {% if show_rating %}
             <div class="ug-product-review">
-              {%- render 'product-rating', product: product, app_review: '4' -%}
+              {%- render 'product-rating', product: product, app_review: settings.app_review -%}
             </div>
           {% endif %}
         </div>
