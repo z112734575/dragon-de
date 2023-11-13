@@ -178,7 +178,7 @@
           "settings": {
             "mess": "Zuverlässige Lieferung",
             "size": 14,
-            "imageList": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DHL.png?v=1692786011,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/UPS.png?v=1692785941,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/FedEx.png?v=1692785957,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Amazon.png?v=1692785981"
+            "imageList": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DHL.png?v=1692786011,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/UPS.png?v=1692785941,https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/FedEx.png?v=1692785957"
           }
         },
         "4e85739a-0cb1-4fda-9fe8-441ed6ed155c": {
@@ -543,17 +543,6 @@
     },
     "opinew-reviews-product-page-code": {
       "type": "apps",
-      "blocks": {
-        "opinew-reviews-widget": {
-          "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/product-widget\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-          "disabled": true,
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "opinew-reviews-widget"
-      ],
       "custom_css": [
         "#shopify-block-opinew-reviews-widget {max-width: 1200px; margin: 0 auto;}"
       ],
