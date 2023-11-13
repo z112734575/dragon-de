@@ -50,6 +50,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 .ug-product-price {
     font-weight: 600;
