@@ -77,10 +77,10 @@ $(function () {
         smileFrame && (smileFrame.style.zIndex = isMobile() ? '189' : '1000')
         shopifyChat && (shopifyChat.style.zIndex = isMobile() ? '189' : '1000')
       
-        var iframeContent = shopifyChat.contentWindow.document; //获取iframe内的文档对象
-         var btn= iframeContent.getElementById('dummy-chat-button'); // 获取 iframe 内指定 ID 的元素
-          btn.style.width = "40px"
-          btn.style.height = "40px"
+        // var iframeContent = shopifyChat.contentWindow.document; //获取iframe内的文档对象
+        //  var btn= iframeContent.getElementById('dummy-chat-button'); // 获取 iframe 内指定 ID 的元素
+        //   btn.style.width = "40px"
+        //   btn.style.height = "40px"
     }
 
     setTimeout(() => {
