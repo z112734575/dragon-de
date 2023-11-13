@@ -150,6 +150,7 @@
     color: #FFF;
     flex: 1;
     text-align: center;
+    border-right: 1px dashed;
 }
 .ug_product_code button {
     padding:0;
