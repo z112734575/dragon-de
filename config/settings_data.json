@@ -1170,11 +1170,11 @@
       "back_top": {
         "type": "back_top",
         "custom_css": [
-          "@media (max-width: 767px) {#t4s-backToTop {bottom: 120px; right: 24px; }}"
+          "@media (max-width: 767px) {#t4s-backToTop {bottom: 120px; right: 22px; }}"
         ],
         "settings": {
           "enable_backtop": true,
-          "enable_hidden_mobile": false,
+          "enable_hidden_mobile": true,
           "backtop_des": "2"
         }
       },
