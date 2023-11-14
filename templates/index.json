@@ -346,6 +346,7 @@
       "blocks": {
         "7fb89af9-0660-4368-9378-f2056f315828": {
           "type": "ug-index-benefit-item-pro",
+          "disabled": true,
           "settings": {
             "title": "Grüne Gutscheine",
             "content": "Geld sparen mit Rabatten auf Ugreen-Produkte",
