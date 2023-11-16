@@ -7,7 +7,7 @@
     "lookbook": {
       "title": {
         "product": "Produkt",
-        "text": ""
+        "text": "Text"
       }
     },
     "countdown_text": {
@@ -25,7 +25,7 @@
       "subscribing": "Abonnieren...",
       "confirmation": "Danke fürs Abonnieren",
       "error_exist": "E-Mail bereits für ein anderes Konto verwendet",
-      "email_placeholder": ""
+      "email_placeholder": "E-Mail*"
     },
     "agree_mail": {
       "conditions": "Sie müssen den Bedingungen zustimmen, um sich anzumelden.",
@@ -125,7 +125,7 @@
     "loading": "Wird geladen...",
     "total_reviews": "Gesamtbewertungen",
     "star_reviews_info": "{{ rating_value }} von {{ rating_max }} Sternen",
-    "vendor": ""
+    "vendor": "Lieferant："
   },
   "blogs": {
     "filter_all": "Alle",
@@ -142,13 +142,13 @@
       "back_to": "Zurück zu {{title}}",
       "view_all": "Mehr sehen",
       "by_author": "Von {{ author }}",
-      "in": ""
+      "in": "In"
     },
     "portfolio": {
       "filter_all": "Alle",
-      "category": "",
-      "author": "",
-      "tags": ""
+      "category": "Kategorie:",
+      "author": "Autor:",
+      "tags": "Tags:"
     },
     "comments": {
       "title": "Hinterlasse einen Kommentar",
@@ -180,8 +180,8 @@
         "one": "1 Gedanke zu „ <span>{{title}}<\/span> “",
         "other": "{{ count }} Gedanken zu „ <span>{{title}}<\/span> “"
       },
-      "name": "",
-      "email": ""
+      "name": "Name",
+      "email": "E-Mail"
     }
   },
   "products": {
@@ -232,8 +232,8 @@
         "other": "<span class=\"cp\">{{count}}<\/span> Produkte gefunden"
       },
       "clear_filter": "Filter löschen",
-      "filter_title": "",
-      "button_price": ""
+      "filter_title": "Filter",
+      "button_price": "Filter"
     },
     "aria_label": {
       "select_option": "Optionen für „ {{product_title}} “ auswählen",
@@ -279,12 +279,12 @@
       "product_size_guide": "Größentabelle",
       "delivery_return": "Lieferung &amp; Rücksendung",
       "ask_question": "Stelle eine Frage",
-      "product_vendor": "",
-      "product_type": "",
-      "product_sku": "",
-      "product_barcode": "",
-      "product_category": "",
-      "product_tag": ""
+      "product_vendor": "Lieferant:",
+      "product_type": "Typ:",
+      "product_sku": "SKU:",
+      "product_barcode": "Barcode:",
+      "product_category": "Kategorien:",
+      "product_tag": "Tags:"
     },
     "product_card": {
       "read_more": "Weiterlesen",
@@ -333,7 +333,7 @@
       "no_product_results": "Es wurden keine Produkte gefunden, die Ihrer Auswahl entsprechen.",
       "sort_by_label": "Sortiere nach:",
       "sort_button": "Sortieren",
-      "filter_button": ""
+      "filter_button": "Filter"
     },
     "search_for": "Suchen Sie nach \" {{ terms }} \"",
     "pagination": {
@@ -457,13 +457,13 @@
       "details": "Kontodetails :",
       "log_out": "Ausloggen",
       "address_2": "Adresse 2:",
-      "name": "",
-      "email": "",
-      "address": "",
-      "country": "",
-      "zip": "",
-      "phone": "",
-      "company": ""
+      "name": "Name:",
+      "email": "E-Mail:",
+      "address": "Adresse:",
+      "country": "Land:",
+      "zip": "Postleitzahl:",
+      "phone": "Telefon:",
+      "company": " Firma:"
     },
     "menu": {
       "dashboard": "Armaturenbrett",
@@ -510,7 +510,7 @@
       "sign_in": "anmelden",
       "guest_title": "Als Gast fortfahren",
       "guest_continue": "Weitermachen",
-      "email": ""
+      "email": "E-Mail"
     },
     "orders": {
       "title": "Bestellverlauf:",
@@ -571,7 +571,7 @@
       "submit": "Registrieren",
       "privacy_policy": "Ihre personenbezogenen Daten werden verwendet, um Ihr Erlebnis auf dieser Website zu unterstützen, den Zugriff auf Ihr Konto zu verwalten und für andere in unserer Datenschutzrichtlinie beschriebene Zwecke.",
       "privacy_policy_html": "Ihre personenbezogenen Daten werden verwendet, um Ihre Erfahrung auf dieser Website zu unterstützen, den Zugriff auf Ihr Konto zu verwalten und für andere Zwecke, die in unserer <a href=\"&lt;span%20class='notranslate'&gt;%7B%7Blink%7D%7D&lt;\/span&gt;\" class=\"privacy-policy-link fwm\" target=\"_blank\">Datenschutzrichtlinie<\/a> beschrieben sind.",
-      "email": ""
+      "email": "E-Mail"
     }
   },
   "password_page": {
@@ -662,7 +662,7 @@
       "posted_in": "Veröffentlicht in",
       "read_more": "Weiterlesen",
       "back_to_blog": "Zurück zu {{ title }}",
-      "tags": ""
+      "tags": "Tags:"
     },
     "comments": {
       "title": "Hinterlasse einen Kommentar",
@@ -675,8 +675,8 @@
         "one": "{{ count }} Kommentar",
         "other": "{{ count }} Kommentare"
       },
-      "name": "",
-      "email": ""
+      "name": "Name",
+      "email": "E-Mail"
     },
     "password_page": {
       "login_form_message": "Geben Sie den Store mit dem Passwort ein:",
@@ -685,7 +685,7 @@
       "login_form_submit": "Eingeben",
       "signup_form_success": "Wir senden Ihnen kurz vor der Eröffnung eine E-Mail!",
       "password_link": "Mit Passwort eingeben",
-      "signup_form_email_label": ""
+      "signup_form_email_label": "E-Mail"
     }
   },
   "list_collections": {
@@ -700,7 +700,7 @@
       "no_matches": "Es wurden keine Produkte gefunden, die Ihrer Auswahl entsprechen.",
       "sort_by_label": "Sortiere nach:",
       "sort_button": "Sortieren",
-      "filter_button": ""
+      "filter_button": "Filter"
     },
     "pagination": {
       "view_all": "Alle ansehen",
