@@ -1199,7 +1199,7 @@
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d": {
             "type": "tab_list",
             "settings": {
-              "tab_name_list": "Ladegeräte,Powerstation,Docks & Hubs,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
+              "tab_name_list": "Ladegeräte,Powerstation,Docks & Hubs,Sets,Powerbank,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
               "tab_image_list": "",
               "tab_link_list": ""
             }
@@ -1366,6 +1366,20 @@
               "all_collection_name": "All"
             }
           },
+          "361b105b-26c8-49d5-8407-8ade784f6023": {
+            "type": "tab_content",
+            "settings": {
+              "tab_id": 1,
+              "product_list": [
+
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "",
+              "all_collection_name": ""
+            }
+          },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
             "type": "mega",
             "settings": {
@@ -1524,6 +1538,7 @@
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
           "78b2740a-8429-40a0-a215-81c59a5f224f",
+          "361b105b-26c8-49d5-8407-8ade784f6023",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
