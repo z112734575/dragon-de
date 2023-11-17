@@ -687,7 +687,7 @@
             "settings": {
               "title": "Kaufratgeber",
               "url": "",
-              "open_link": "_self",
+              "open_link": "_blank",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -707,7 +707,7 @@
             "settings": {
               "title": "Neuerscheinungen",
               "url": "",
-              "open_link": "_self",
+              "open_link": "_blank",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
@@ -1483,6 +1483,7 @@
           },
           "447269b2-3353-4ce5-bb07-154246044251": {
             "type": "banner",
+            "disabled": true,
             "settings": {
               "image_ratio": "ratioadapt",
               "image_size": "cover",
@@ -1524,6 +1525,28 @@
               "cl_opacity": 5,
               "col": "4"
             }
+          },
+          "8aaaeef1-1055-40a1-9145-65bf0b91bf77": {
+            "type": "banner",
+            "settings": {
+              "image_ratio": "ratioadapt",
+              "image_size": "cover",
+              "image_position": "8",
+              "height_dk": 400,
+              "image": "shopify:\/\/shop_images\/10002_b61dfb41-9bdc-46e4-acf5-28038ce05731.jpg",
+              "img_effect": "none",
+              "b_effect": "none",
+              "b_link": "shopify:\/\/collections\/powerbank",
+              "open_link": "_blank",
+              "html": "<h3 class=\"fs__20 mg__0 lh__1 cw mb__10\" style=\"font-size: 20px;\">Wie man wählt？<span style=\"font-size: 18px;\"><br>USB-C Hub VS Dockingstation\n<\/span>\n<\/h3>\n<h4 class=\"fs__14 mg__0 cw\" style=\"font-size: 16px; color: #03F2A6;\">kaufen&gt; <\/h4>",
+              "content_align": "center",
+              "cv_pos": 50,
+              "ch_pos": 50,
+              "cl_txt": "#fff",
+              "cl_overlay": "#000",
+              "cl_opacity": 5,
+              "col": "4"
+            }
           }
         },
         "block_order": [
@@ -1547,7 +1570,8 @@
           "09f6c65c-7bdd-481b-84f5-5a51ecf6ff7b",
           "878e31a4-7155-428d-88ee-52001507803f",
           "447269b2-3353-4ce5-bb07-154246044251",
-          "ac1cdf58-6087-4296-8844-3ce01fe647bb"
+          "ac1cdf58-6087-4296-8844-3ce01fe647bb",
+          "8aaaeef1-1055-40a1-9145-65bf0b91bf77"
         ],
         "settings": {
           "show_price": true,
