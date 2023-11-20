@@ -711,7 +711,7 @@
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
-              "lb": "Neu",
+              "lb": "",
               "lb_cl": "#00badb",
               "pos_sub": "bottom",
               "wid": "full",
@@ -724,7 +724,6 @@
           },
           "aeb156df-3675-446b-bcaf-f09fa79006f0": {
             "type": "base",
-            "disabled": true,
             "settings": {
               "title": "Geschenk",
               "url": "https:\/\/de.ugreen.com\/pages\/giveaway",
