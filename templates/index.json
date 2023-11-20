@@ -50,14 +50,13 @@
         },
         "86777b6a-bde9-4981-9d0b-274743aba41c": {
           "type": "ug-index-carousel-item",
-          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/fr_38401840.png?v=1694744869",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/mobil_7501160.png?v=1694744867",
             "text_color": "#ffffff",
-            "title": "USB C,Innoviert die Zukunft",
-            "subtitle": "Bis zu 30% Rabatt",
-            "button_text": "Learn More",
+            "title": "BLACK FRIDAY GEWINNSPIEL",
+            "subtitle": "17.-26.November",
+            "button_text": "Jetzt Teilnehmen",
             "link": "\/pages\/ugreen-apple-event",
             "className": "buy-more-save-more"
           }
