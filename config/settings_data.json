@@ -726,14 +726,14 @@
             "type": "base",
             "disabled": true,
             "settings": {
-              "title": "Für iphone 15",
-              "url": "\/pages\/ugreen-apple-event",
+              "title": "Geschenk",
+              "url": "https:\/\/de.ugreen.com\/pages\/giveaway",
               "open_link": "_blank",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
-              "lb": "Hot",
-              "lb_cl": "#ec0101"
+              "lb": "Neu",
+              "lb_cl": "#01ece3"
             }
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
@@ -1606,7 +1606,7 @@
           "d94a87ae-5e56-4f05-8ad5-a8f8718ef8bf": {
             "type": "menu",
             "settings": {
-              "title": "Black Friday Pre-Sale",
+              "title": "Black Friday",
               "url": "https:\/\/de.ugreen.com\/pages\/black-friday-cyber-monday",
               "open_link": "_self",
               "menu": "",
