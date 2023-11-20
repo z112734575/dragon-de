@@ -682,6 +682,19 @@
               "pos": "left"
             }
           },
+          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
+            "type": "base",
+            "settings": {
+              "title": "Geschenk",
+              "url": "https:\/\/de.ugreen.com\/pages\/giveaway",
+              "open_link": "_blank",
+              "icon": "",
+              "cus_cl": false,
+              "cl": "#ec0101",
+              "lb": "Neu",
+              "lb_cl": "#01ece3"
+            }
+          },
           "b33308ca-34e6-46c5-bd38-c79bac7dc680": {
             "type": "mega",
             "settings": {
@@ -720,19 +733,6 @@
               "enable_packery": true,
               "r_s_h_item": "20",
               "r_s_v_item": "30"
-            }
-          },
-          "aeb156df-3675-446b-bcaf-f09fa79006f0": {
-            "type": "base",
-            "settings": {
-              "title": "Geschenk",
-              "url": "https:\/\/de.ugreen.com\/pages\/giveaway",
-              "open_link": "_blank",
-              "icon": "",
-              "cus_cl": false,
-              "cl": "#ec0101",
-              "lb": "Neu",
-              "lb_cl": "#01ece3"
             }
           },
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc": {
@@ -806,9 +806,9 @@
         "block_order": [
           "3944a4f5-3618-4f4b-9d13-238ddb1b72f2",
           "d516cbdb-698e-4b29-b113-ebdb7627acb7",
+          "aeb156df-3675-446b-bcaf-f09fa79006f0",
           "b33308ca-34e6-46c5-bd38-c79bac7dc680",
           "e6420fb7-1419-4d66-86f2-f47391508dba",
-          "aeb156df-3675-446b-bcaf-f09fa79006f0",
           "16e48cac-0fd2-4f57-b570-7d74c3092cdc",
           "6141bf58-9316-4ce8-bd6d-16b03ed3fc8c",
           "16e2ef48-b04b-46f0-bf5f-d12823645624",
