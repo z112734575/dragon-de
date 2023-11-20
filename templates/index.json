@@ -21,6 +21,19 @@
             "className": ""
           }
         },
+        "86777b6a-bde9-4981-9d0b-274743aba41c": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/pc_cf7eef57-0054-4cc2-b9dc-97732059d15b.png?v=1700463738",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/m.png?v=1700463733",
+            "text_color": "#ffffff",
+            "title": "BLACK FRIDAY GEWINNSPIEL",
+            "subtitle": "17.-26.November",
+            "button_text": "Jetzt Teilnehmen",
+            "link": "\/pages\/ugreen-apple-event",
+            "className": "buy-more-save-more"
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -48,19 +61,6 @@
             "className": "swiper_1"
           }
         },
-        "86777b6a-bde9-4981-9d0b-274743aba41c": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/pc_cf7eef57-0054-4cc2-b9dc-97732059d15b.png?v=1700463738",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/m.png?v=1700463733",
-            "text_color": "#ffffff",
-            "title": "BLACK FRIDAY GEWINNSPIEL",
-            "subtitle": "17.-26.November",
-            "button_text": "Jetzt Teilnehmen",
-            "link": "\/pages\/ugreen-apple-event",
-            "className": "buy-more-save-more"
-          }
-        },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -77,9 +77,9 @@
       },
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
+        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
         "ug-index-carousel-1"
       ],
       "custom_css": [
