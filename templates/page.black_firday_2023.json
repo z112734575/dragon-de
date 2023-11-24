@@ -40,49 +40,6 @@
         "product": "2023-ugreen-halloween-gift-card"
       }
     },
-    "ug-product-list": {
-      "type": "ug-product-list",
-      "settings": {
-        "item_type": "black_friday",
-        "product_list": [
-          "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-          "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
-          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
-          "90597a",
-          "90912-1",
-          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
-          "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw",
-          "nexode-300w-5-anschluss-gan-schnellladegerat",
-          "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
-          "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
-          "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
-          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
-        ],
-        "title": "Heißer Verkauf",
-        "subtitle": "",
-        "section_id": "ug-product-list",
-        "pc_product_type": "column",
-        "mobile_product_type": "row",
-        "title_color": "#ffffff",
-        "product_item_bg_color": "#242320",
-        "pc_product_item_img_size": "80%",
-        "mobile_product_item_img_size": "80%",
-        "pc_row": "3",
-        "mobile_row": "2",
-        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/ta2_pc.webp?v=1698051782",
-        "pc_product_sale_width": "80px",
-        "mobile_product_sale_width": "60px",
-        "pc_padding": "140px 0 120px 0",
-        "mobile_padding": "60px 0 30px 0",
-        "need_load_more": false,
-        "load_more_default_count": 3,
-        "show_sale_flag": true,
-        "show_compare": true,
-        "show_rating": true,
-        "show_learn_btn": true,
-        "show_code": true
-      }
-    },
     "ug-tabs-product-list": {
       "type": "ug-tabs-product-list",
       "blocks": {
@@ -93,7 +50,6 @@
             "product_list": [
               "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
               "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
-              "ugreen-nexode-30w-usb-c-ladegerat-with-gan-ii-tech-60w-usb-c-ladekabel",
               "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
               "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
               "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
@@ -102,7 +58,8 @@
               "90597a",
               "ugreen-100w-power-bank-20000mah-powerbank",
               "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
-              "pb560"
+              "pb560",
+              "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c"
             ]
           }
         },
@@ -234,13 +191,56 @@
         "show_learn_btn": false,
         "show_code": true
       }
+    },
+    "ug-product-list": {
+      "type": "ug-product-list",
+      "settings": {
+        "item_type": "black_friday",
+        "product_list": [
+          "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
+          "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+          "90597a",
+          "90912-1",
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw",
+          "nexode-300w-5-anschluss-gan-schnellladegerat",
+          "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
+          "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
+          "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
+        ],
+        "title": "Heißer Verkauf",
+        "subtitle": "",
+        "section_id": "ug-product-list",
+        "pc_product_type": "column",
+        "mobile_product_type": "row",
+        "title_color": "#ffffff",
+        "product_item_bg_color": "#242320",
+        "pc_product_item_img_size": "80%",
+        "mobile_product_item_img_size": "80%",
+        "pc_row": "3",
+        "mobile_row": "2",
+        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/ta2_pc.webp?v=1698051782",
+        "pc_product_sale_width": "80px",
+        "mobile_product_sale_width": "60px",
+        "pc_padding": "140px 0 120px 0",
+        "mobile_padding": "60px 0 30px 0",
+        "need_load_more": false,
+        "load_more_default_count": 3,
+        "show_sale_flag": true,
+        "show_compare": true,
+        "show_rating": true,
+        "show_learn_btn": true,
+        "show_code": true
+      }
     }
   },
   "order": [
     "black_friday_banner",
     "black_friday_step",
     "gift_card",
-    "ug-product-list",
-    "ug-tabs-product-list"
+    "ug-tabs-product-list",
+    "ug-product-list"
   ]
 }
