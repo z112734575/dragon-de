@@ -34,6 +34,19 @@
             "className": "buy-more-save-more"
           }
         },
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_pc.webp?v=1700925701",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_mo.webp?v=1700925700",
+            "text_color": "#000000",
+            "title": "Ugreen NAS-Produkttest im Gange",
+            "subtitle": "Speicher der nächsten Generation. Grenzenlose Möglichkeiten.",
+            "button_text": "Jetzt anmelden",
+            "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
+            "className": ""
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -79,6 +92,7 @@
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "86777b6a-bde9-4981-9d0b-274743aba41c",
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
         "ug-index-carousel-1"
