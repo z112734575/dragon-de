@@ -8,8 +8,61 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EUpc-min.png?v=1696842410",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU.png?v=1696842369",
+            "text_color": "#ffffff",
+            "title": "UGREEN PowerRoam 2200 Tragbare Powerstation",
+            "subtitle": "Stromversorgung für alles, jederzeit und überall.",
+            "button_text": "Mehr Erfahren",
+            "link": "https:\/\/de.ugreen.com\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
+            "className": ""
+          }
+        },
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_pc.webp?v=1700925701",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_mo.webp?v=1700925700",
+            "text_color": "#ffffff",
+            "title": "Ugreen NAS-Produkttest im Gange",
+            "subtitle": "Speicher der nächsten Generation. Grenzenlose Möglichkeiten.",
+            "button_text": "Jetzt anmelden",
+            "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
+            "className": ""
+          }
+        },
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
+            "text_color": "#ffffff",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": "swiper_1"
+          }
+        },
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "text_color": "#ffffff",
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "",
+            "button_text": "Jetzt kaufen",
+            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
+            "className": ""
+          }
+        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_22506f4b-6e09-4aa4-9d18-8110c30c6721.webp?v=1699578679",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_daf88c9a-161f-4bad-bb61-3f5cb33887d4.webp?v=1699578677",
@@ -34,69 +87,15 @@
             "link": "https:\/\/de.ugreen.com\/pages\/giveaway",
             "className": "buy-more-save-more"
           }
-        },
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_pc.webp?v=1700925701",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nas_banner_mo.webp?v=1700925700",
-            "text_color": "#ffffff",
-            "title": "Ugreen NAS-Produkttest im Gange",
-            "subtitle": "Speicher der nächsten Generation. Grenzenlose Möglichkeiten.",
-            "button_text": "Jetzt anmelden",
-            "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
-            "className": ""
-          }
-        },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EUpc-min.png?v=1696842410",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU.png?v=1696842369",
-            "text_color": "#ffffff",
-            "title": "UGREEN PowerRoam 2200 Tragbare Powerstation",
-            "subtitle": "Stromversorgung für alles, jederzeit und überall.",
-            "button_text": "Mehr Erfahren",
-            "link": "https:\/\/de.ugreen.com\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
-            "className": ""
-          }
-        },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#ffffff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": "swiper_1"
-          }
-        },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "",
-            "button_text": "Jetzt kaufen",
-            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
-            "className": ""
-          }
         }
       },
       "block_order": [
-        "758dee12-0c83-4073-ab52-baa690d72db1",
-        "86777b6a-bde9-4981-9d0b-274743aba41c",
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "ug-index-carousel-11",
-        "ug-index-carousel-1"
+        "ug-index-carousel-1",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
+        "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
