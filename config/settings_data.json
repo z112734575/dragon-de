@@ -668,10 +668,10 @@
           "d516cbdb-698e-4b29-b113-ebdb7627acb7": {
             "type": "drop",
             "settings": {
-              "title": "Cyber Monday",
-              "url": "https:\/\/de.ugreen.com\/pages\/black-friday-cyber-monday",
+              "title": "Angebote",
+              "url": "shopify:\/\/pages\/72h-blitzverkauf",
               "open_link": "_blank",
-              "menu": "",
+              "menu": "angebote",
               "icon": "",
               "cus_cl": false,
               "cl": "#ec0101",
