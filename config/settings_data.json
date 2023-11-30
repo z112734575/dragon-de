@@ -1327,7 +1327,7 @@
               "product_list": [
                 "ugreen-600w-680wh-tragbarer-solargenerator-100w-solarpanel",
                 "90597a",
-                "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-qc-4-0-4-0-usb-c-ladekabel-5a-20v-kompatibel-mit-2022-macbook-pro-m2-2022-macbook-air-m2-ipad-pro-2021-galaxy-s22-s21-s20-steam-deck-usw-0-5m",
+                "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-ladekabel-5a-20v",
                 "ugreen-100w-usb-c-auf-usb-c-kabel-winkel-pd-3-0-qc-4-0-usb-c-ladekabel-90-grad-kompatibel-mit-macbook-pro-16-2021-macbook-air-ipad-pro-12-9-2021-ipad-air-5-mini-6-galaxy-s22-steam-deck-usw-0-5m",
                 "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau"
               ],
@@ -2490,20 +2490,8 @@
 
     ],
     "blocks": {
-      "opinew-global-code": {
-        "type": "shopify:\/\/apps\/opinew-product-reviews-app\/blocks\/global\/e1d8e0dc-17ff-4e4a-8a8a-1e73c8ef8676",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "lai_embed_block_auto": {
         "type": "shopify:\/\/apps\/lai-product-reviews\/blocks\/appBlockEmbed\/cad3c6c6-329e-4416-ba74-b79359b5b6e1",
-        "disabled": false,
-        "settings": {
-        }
-      },
-      "4631727407673331639": {
-        "type": "shopify:\/\/apps\/omnitrack-facebook-pixels\/blocks\/app_snippet\/23ef33fb-c988-4959-840f-ab56d7775513",
         "disabled": false,
         "settings": {
         }
