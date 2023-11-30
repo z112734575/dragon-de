@@ -669,7 +669,7 @@
             "type": "drop",
             "settings": {
               "title": "Angebote",
-              "url": "shopify:\/\/pages\/black-friday-cyber-monday",
+              "url": "https:\/\/de.ugreen.com\/pages\/72h-blitzverkauf",
               "open_link": "_blank",
               "menu": "angebote",
               "icon": "",
