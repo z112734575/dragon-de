@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
+            "text_color": "#ffffff",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": "swiper_1"
+          }
+        },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -47,19 +60,6 @@
             "className": ""
           }
         },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#ffffff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": "swiper_1"
-          }
-        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -90,10 +90,10 @@
         }
       },
       "block_order": [
+        "ug-index-carousel-11",
         "ug-index-carousel-1",
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-11",
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "86777b6a-bde9-4981-9d0b-274743aba41c"
       ],
