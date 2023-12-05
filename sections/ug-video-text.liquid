@@ -105,7 +105,7 @@
                 {% endif %}
             </div>
             <div class="ug-video-text-product-info">
-                <div class="ug-video-text-product1">
+                <a class="ug-video-text-product1" href="{{block_se.product1.url}}">
                     <div class="ug-video-text-product-img">
 
                         {% if block_se.product1_img != blank %}
@@ -123,8 +123,8 @@
                         <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
                         <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
                     </div>
-                </div>
-                <div class="ug-video-text-product2">
+                </a>
+                <a class="ug-video-text-product2" href="{{block_se.product2.url}}">
                     <div class="ug-video-text-product-img">
                         {% if block_se.product2_img != blank %}
                             {% render "ug-picture", pc_image_url: block_se.product2_img, mobile_image_url: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
@@ -140,7 +140,7 @@
                         <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
                         <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
     {% endfor %}
