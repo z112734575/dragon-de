@@ -107,8 +107,13 @@
             <div class="ug-video-text-product-info">
                 <div class="ug-video-text-product1">
                     <div class="ug-video-text-product-img">
-                        {% assign product1_img = block_se.product1_img | default: block_se.product1.featured_media %}
-                        {% render "ug-picture", pc_image_url: product1_img, mobile_image_url: product1_img, alt: "{{block_se.product1.title}}" %}
+
+                        {% if block_se.product1_img != blank %}
+                            {% render "ug-picture", pc_image_url: block_se.product1_img, mobile_image_url: block_se.product1_img, alt: "{{block_se.product1.title}}" %}
+                        {% else %}
+                            <img src="{{block_se.product1.featured_media | img_url: "400x" }}" alt="{{block_se.product1.title}}" />
+                        {% endif %}    
+                        
                     </div>
                     {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
                     {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
@@ -121,8 +126,11 @@
                 </div>
                 <div class="ug-video-text-product2">
                     <div class="ug-video-text-product-img">
-                        {% assign product2_img = block_se.product2_img | default: block_se.product2.featured_media %}
-                        {% render "ug-picture", pc_image_url: product2_img, mobile_image_url: produc2_img, alt: "{{block_se.product2.title}}" %}
+                        {% if block_se.product2_img != blank %}
+                            {% render "ug-picture", pc_image_url: block_se.product2_img, mobile_image_url: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
+                        {% else %}
+                            <img src="{{block_se.product2.featured_media | img_url: "400x" }}" alt="{{block_se.product2.title}}" />
+                        {% endif %}    
                     </div>
                     {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
                     {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
