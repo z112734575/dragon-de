@@ -137,16 +137,17 @@
         "code_cus_css": ""
       }
     },
-    "5f0621af-b909-4d43-b988-ac3725109a70": {
-      "type": "ug_AppleEvent_banner",
+    "acab1ce9-6753-4e7b-90d8-cdf0b3981484": {
+      "type": "ug_AppleEvent_product",
       "settings": {
-        "pc_image": "",
-        "mobile_image": "",
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A2.jpg?v=1701745598",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A2.jpg?v=1701745598",
         "title": "",
+        "title1": "",
         "desc": "",
-        "title_1": "",
-        "title_2": "",
-        "text": ""
+        "product_list": [
+
+        ]
       }
     }
   },
@@ -160,6 +161,6 @@
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
     "d9e994f6-1a15-45ff-baf3-961a802d3cdf",
-    "5f0621af-b909-4d43-b988-ac3725109a70"
+    "acab1ce9-6753-4e7b-90d8-cdf0b3981484"
   ]
 }
