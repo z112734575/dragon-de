@@ -16,18 +16,45 @@
         background-color: {{ background }};
         padding: {{ pc_padding }};
     }
-    .ug-video-text-{{ id }} .ug-video-text {
+    .ug-video-text-{{ id }} .ug-video-text-inner {
         max-width: {{ max_width }};
         margin: 0 auto;
     }
     .ug-video-text-inner {
+        display: flex;
+        gap: 12px;
+    }
+    .ug-video-text-file-wrap {
+        width: 60%;
+        padding-bottom: 60%;
+        position: relative;
+        flex-shrink: 0;
+        height: 0;
+    }
+    .ug-video-text-file-wrap video, .ug-video-text-file-wrap img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        object-fit: cover;
+    }
+    .ug-video-text-product-info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .ug-video-text-product1,ug-video-text-product2 {
         display: flex;
     }
     @media (max-width: 767px) {
         .ug-video-text-{{ id }} {
             padding: {{ mobile_padding }};
         }
-        .ug-video-text-{{ id }} .ug-video-text {
+        .ug-video-text-{{ id }} .ug-video-text-inner {
             max-width: 100%;
         }
     }
@@ -57,9 +84,11 @@
                     {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
                     {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
                     {% assign product1_btn_text = block_se.product1_btn_text | default: "Jetzt kaufen" %}
-                    <div class="ug-video-text-product-title">{{product1_title}}</div>
-                    <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
-                    <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
+                    <div class="ug-video-text-product-info-main">
+                        <div class="ug-video-text-product-title">{{product1_title}}</div>
+                        <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
+                        <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
+                    </div>
                 </div>
                 <div class="ug-video-text-product2">
                     <div class="ug-video-text-product-img">
@@ -69,9 +98,11 @@
                     {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
                     {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
                     {% assign product2_btn_text = block_se.product2_btn_text | default: "Jetzt kaufen" %}
-                    <div class="ug-video-text-product-title">{{product2_title}}</div>
-                    <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
-                    <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
+                    <div class="ug-video-text-product-info-main">
+                        <div class="ug-video-text-product-title">{{product2_title}}</div>
+                        <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
+                        <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
+                    </div>
                 </div>
             </div>
         </div>
