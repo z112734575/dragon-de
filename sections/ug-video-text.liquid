@@ -42,7 +42,7 @@
         {% assign direction = settings.direction %}
         <div class="ug-video-text-inner" style="">
             <div class="ug-video-text-file-wrap">
-                {% if settings.type == 'video'%}
+                {% if block_se.type == 'video'%}
                     <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
                 {% else %}
                     {% render "ug-picture", pc_image_url: block_se.url, mobile_image_url: block_se.url, alt: "UGREEN" %}
