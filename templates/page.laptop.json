@@ -79,24 +79,6 @@
         ]
       }
     },
-    "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
-      "type": "ug_AppleEvent_product",
-      "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1_1c711cf9-5a0e-4102-a6b3-b3f6d9f689e7.png?v=1694155530",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/app1.png?v=1694155530",
-        "title": "Mehr Anschlüsse",
-        "title1": "",
-        "desc": "Bleiben Sie verbunden, keine Auswahl erforderlich",
-        "product_list": [
-          "nexode-300w-5-anschluss-gan-schnellladegerat",
-          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
-          "90597a",
-          "ugreen-nexode-140w-usb-c-ladegerat-pd-3-1-usb-c-netzteil-gan-3-port-power-adapter-kompatibel-mit-macbook-pro-16-2021-dell-xps-iphone-14-pro-max-pro-14-13-galaxy-s22-ultra-s22-s21-steam-deck-usw",
-          "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
-          "ugreen-diginest-pro-100w-usb-c-steckdosenleiste-gan-usb-c-ladegerat-usb-2-fach-steckdose-mit-schalter-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-13-12-ipad-pro-air-galaxy-s22-xps-pixel"
-        ]
-      }
-    },
     "a9c6f060-5fbd-455c-8321-f99aa9934742": {
       "type": "ug_AppleEvent_product",
       "settings": {
@@ -115,15 +97,28 @@
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
       "type": "ug_AppleEvent_product",
       "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_pc.png?v=1678159419",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_mobile.png?v=1678159403",
-        "title": "Erweitern Sie mehr, übertragen Sie schneller",
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10002_2.jpg?v=1701745256",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10002_2.jpg?v=1701745256",
+        "title": "",
         "title1": "",
-        "desc": "Erweitern Sie Ihre Gerätefähigkeiten",
+        "desc": "",
         "product_list": [
           "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
           "90912-1",
           "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
+        ]
+      }
+    },
+    "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1_1c711cf9-5a0e-4102-a6b3-b3f6d9f689e7.png?v=1694155530",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/app1.png?v=1694155530",
+        "title": "Mehr Anschlüsse",
+        "title1": "",
+        "desc": "Bleiben Sie verbunden, keine Auswahl erforderlich",
+        "product_list": [
+
         ]
       }
     },
@@ -141,73 +136,6 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
-    },
-    "94a680a1-8a96-4b81-a222-4e3e15fa17e4": {
-      "type": "collections-list-manual",
-      "blocks": {
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-1": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "collection_title": "Collection title",
-            "collection_link": ""
-          }
-        },
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-2": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "collection_title": "Collection title",
-            "collection_link": ""
-          }
-        },
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-3": {
-          "type": "collection_item",
-          "settings": {
-            "collection": "",
-            "collection_title": "Collection title",
-            "collection_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-1",
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-2",
-        "template--20319037227351__94a680a1-8a96-4b81-a222-4e3e15fa17e4-collection_item-3"
-      ],
-      "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "Collections list manual",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "collection_des": "1",
-        "title_cl": "#ffffff",
-        "title_cl_hover": "#222222",
-        "subtitle_cl": "#878787",
-        "count_cl": "#222222",
-        "border_cl": "#e5e5e5",
-        "collection_subtitle": "Products",
-        "open_link": "_self",
-        "space_bottom": 20,
-        "space_bottom_mb": 10,
-        "border": false,
-        "item_rd": 0,
-        "img_effect": "none",
-        "b_effect": "none",
-        "image_position": "8",
-        "coll_layout": "3",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
     }
   },
   "order": [
@@ -216,10 +144,9 @@
     "6967a717-93bc-4497-be73-932211a5ca08",
     "f90b406c-dc40-4977-8197-1d3539cf54ad",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
-    "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
     "a9c6f060-5fbd-455c-8321-f99aa9934742",
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
-    "d9e994f6-1a15-45ff-baf3-961a802d3cdf",
-    "94a680a1-8a96-4b81-a222-4e3e15fa17e4"
+    "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
+    "d9e994f6-1a15-45ff-baf3-961a802d3cdf"
   ]
 }
