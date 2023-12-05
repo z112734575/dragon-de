@@ -284,9 +284,12 @@
       "settings": {
         "max_width": "1280px",
         "title": "nihiao",
+        "title_size": "",
         "sub_title": "",
         "text_color": "#000000",
-        "body_color": "linear-gradient(90deg, rgba(78, 83, 100, 1), rgba(3, 5, 11, 1) 100%)"
+        "body_color": "linear-gradient(90deg, rgba(78, 83, 100, 1), rgba(3, 5, 11, 1) 100%)",
+        "pc_padding": "120px 0 60px",
+        "mobile_padding": "60px 10px 60px"
       }
     }
   },
