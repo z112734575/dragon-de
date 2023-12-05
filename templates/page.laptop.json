@@ -8,11 +8,11 @@
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_90db07da-9e21-41fc-be11-6aeef2ab0394.png?v=1701745307",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_90db07da-9e21-41fc-be11-6aeef2ab0394.png?v=1701745307",
-        "title": "12123",
-        "desc": "123123",
-        "title_1": "123123",
-        "title_2": "123123",
-        "text": "1231231212312131123123123"
+        "title": "",
+        "desc": "",
+        "title_1": "",
+        "title_2": "",
+        "text": ""
       }
     },
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
@@ -75,7 +75,12 @@
         "title1": "",
         "desc": "",
         "product_list": [
-
+          "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
+          "ugreen-bluetooth-adapter-fur-pc-bluetooth-stick-5-0-fur-windows-11-10-8-1-7-usb-bluetooth-dongle-fur-desktop-pc-laptop-maus-tastatur-kopfhorer-controller",
+          "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
+          "40522",
+          "ugreen-hdmi-switch-4k-3-in-1-out-hdmi-splitter-automatisch-hdmi-verteiler-fernbedienung-hdmi-umschalter-unterstutzt-4k-3d-hdr-fur-tv-stick-tv-pc-spielkonsole-switch-ps5-4-xbox-blu-ray-player",
+          "ugreen-usb-switch-2pc-kvm-usb-switch-2-in-4-out-fur-stabile-datenubertragung-umschalter-mit-2-usb-kabel-fur-tastatur-maus-drucker-scanner-usb-sticks-externe-festplatte-headsets-usw"
         ]
       }
     },
