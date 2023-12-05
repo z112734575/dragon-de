@@ -132,119 +132,6 @@
           "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll"
         ]
       }
-    },
-    "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
-      "type": "ug_AppleEvent_product",
-      "disabled": true,
-      "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1_1c711cf9-5a0e-4102-a6b3-b3f6d9f689e7.png?v=1694155530",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/app1.png?v=1694155530",
-        "title": "Mehr Anschlüsse",
-        "title1": "",
-        "desc": "Bleiben Sie verbunden, keine Auswahl erforderlich",
-        "product_list": [
-
-        ]
-      }
-    },
-    "d9e994f6-1a15-45ff-baf3-961a802d3cdf": {
-      "type": "custom-html",
-      "disabled": true,
-      "settings": {
-        "code": "<section class=\"apple_footer_form\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Subscribe_banner_pc.png?v=1678707580\" alt=\"\" class=\"img_pc\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Subscribe_banner_mobile.png?v=1678707578\" class=\"img_mobile\">\n    <div class=\"content\">\n        <div class=\"apple_footer_box\">\n            <h3>Abonnieren Sie Ugreen für exklusive Informationen und Vorteile!<\/h3>\n            <p><\/p>\n            <!-- csform -->\n            <div class=\"center-col cs-custom-form s-1928572913\">\n                <div class=\"form-col-wrap\">\n                    <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"645cb5fa-83ed-4204-9100-c91d3acd6840\">\n                        <div class=\"apple_form\">\n                            <div class=\"Polaris-FormLayout\">\n                                <div class=\"Polaris-FormLayout__Item\">\n                                    <div class=\"sc-jJEKmz\">\n                                        <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                            <div class=\"element-group  cs-width-100\">\n                                                <input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Email Address\">\n                                            <\/div>\n                                        <\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                            <div class=\"element-group\">\n                                <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                    <button type=\"submit\" class=\"submit-btn\" style=\"font-weight: 600\">\n                                        Subscribe\n                                    <\/button>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                    <\/form>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>\n\n<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
-        "layout": "t4s-container-fluid",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": "",
-        "pd": "",
-        "mg_mb": "",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
-    },
-    "a4e69f20-20c5-46b8-ae0e-0916e5fae44f": {
-      "type": "image_text",
-      "blocks": {
-        "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_text-1": {
-          "type": "bl_text",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "text_size": "40,15",
-            "txt_align": "center",
-            "sub_heading": "",
-            "heading": "Image with text",
-            "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "subhd_color": "#222222",
-            "hd_color": "#222222",
-            "des_color": "#878787",
-            "use_shadow": false,
-            "button_label": "Button label",
-            "button_link": "",
-            "open_link": "_blank",
-            "btn_icon": false,
-            "button_style": "default",
-            "btn_size": "large",
-            "btn_cl": "dark",
-            "button_effect": "default"
-          }
-        },
-        "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_image-1": {
-          "type": "bl_image",
-          "settings": {
-            "col_dk": "6",
-            "col_tb": "6",
-            "layout_des": "carousel",
-            "post_mobile": "default",
-            "image_ratio": "ratioadapt",
-            "image_size": "cover",
-            "image_position": "8",
-            "loop": true,
-            "au_time": 0,
-            "au_hover": true,
-            "nav_btn": false,
-            "btn_vi": "hover",
-            "btn_owl": "default",
-            "btn_shape": "none",
-            "btn_cl": "dark",
-            "btn_size": "small",
-            "btn_hidden_mobile": true,
-            "nav_dot": false,
-            "dot_owl": "default",
-            "dots_cl": "dark",
-            "dots_round": true,
-            "dots_space": 10,
-            "dots_hidden_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_text-1",
-        "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_image-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "design_heading": "1",
-        "heading_align": "t4s-text-center",
-        "top_heading": "",
-        "icon_heading": "las la-gem",
-        "top_subheading": "",
-        "tophead_mb": 30,
-        "space_h_item": "20",
-        "space_v_item": "10",
-        "space_h_item_mb": "20",
-        "space_v_item_mb": "10",
-        "layout": "t4s-container-wrap",
-        "cl_bg": "",
-        "cl_bg_gradient": "",
-        "mg": ",,50px,",
-        "pd": "",
-        "mg_mb": ",,30px,",
-        "pd_mb": "",
-        "use_cus_css": false,
-        "code_cus_css": ""
-      }
     }
   },
   "order": [
@@ -255,9 +142,6 @@
     "f90b406c-dc40-4977-8197-1d3539cf54ad",
     "acab1ce9-6753-4e7b-90d8-cdf0b3981484",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
-    "a9c6f060-5fbd-455c-8321-f99aa9934742",
-    "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
-    "d9e994f6-1a15-45ff-baf3-961a802d3cdf",
-    "a4e69f20-20c5-46b8-ae0e-0916e5fae44f"
+    "a9c6f060-5fbd-455c-8321-f99aa9934742"
   ]
 }
