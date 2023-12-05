@@ -136,6 +136,18 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "5f0621af-b909-4d43-b988-ac3725109a70": {
+      "type": "ug_AppleEvent_banner",
+      "settings": {
+        "pc_image": "",
+        "mobile_image": "",
+        "title": "",
+        "desc": "",
+        "title_1": "",
+        "title_2": "",
+        "text": ""
+      }
     }
   },
   "order": [
@@ -147,6 +159,7 @@
     "a9c6f060-5fbd-455c-8321-f99aa9934742",
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
-    "d9e994f6-1a15-45ff-baf3-961a802d3cdf"
+    "d9e994f6-1a15-45ff-baf3-961a802d3cdf",
+    "5f0621af-b909-4d43-b988-ac3725109a70"
   ]
 }
