@@ -2,7 +2,7 @@
 {% liquid
     assign settings = block.settings
     assign id = section.id
-    assign title = section.title
+    assign title = settings.title
     assign sub_title = settings.sub_title
     assign background = settings.body_color | default: "transparent"
     assign text_color = settings.text_color | default: "#000000"
