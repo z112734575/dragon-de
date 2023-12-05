@@ -20,7 +20,7 @@
         max-width: {{ max_width }};
         margin: 0 auto;
     }
-    .ug-video-text-inner {
+    .ug-video-text-inner-main {
         display: flex;
         gap: 12px;
         color: black;
@@ -99,50 +99,52 @@
         {% assign block_se = block.settings %}
         {% assign direction = settings.direction %}
         <div class="ug-video-text-inner" style="">
-            <div class="ug-video-text-file-wrap">
-                {% if block_se.type == 'video'%}
-                    <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
-                {% else %}
-                    {% render "ug-picture", pc_image_url: block_se.url, mobile_image_url: block_se.url, alt: "UGREEN" %}
-                {% endif %}
-            </div>
-            <div class="ug-video-text-product-info">
-                <a class="ug-video-text-product1" href="{{block_se.product1.url}}">
-                    <div class="ug-video-text-product-img">
+            <div class="ug-video-text-inner-main">
+                <div class="ug-video-text-file-wrap">
+                    {% if block_se.type == 'video'%}
+                        <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
+                    {% else %}
+                        {% render "ug-picture", pc_image_url: block_se.url, mobile_image_url: block_se.url, alt: "UGREEN" %}
+                    {% endif %}
+                </div>
+                <div class="ug-video-text-product-info">
+                    <a class="ug-video-text-product1" href="{{block_se.product1.url}}">
+                        <div class="ug-video-text-product-img">
 
-                        {% if block_se.product1_img != blank %}
-                            {% render "ug-picture", pc_image_url: block_se.product1_img, mobile_image_url: block_se.product1_img, alt: "{{block_se.product1.title}}" %}
-                        {% else %}
-                            <img src="{{block_se.product1.featured_media | img_url: "400x" }}" alt="{{block_se.product1.title}}" />
-                        {% endif %}    
-                        
-                    </div>
-                    {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
-                    {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
-                    {% assign product1_btn_text = block_se.product1_btn_text | default: "Jetzt kaufen" %}
-                    <div class="ug-video-text-product-info-main">
-                        <div class="ug-video-text-product-title">{{product1_title}}</div>
-                        <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
-                        <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
-                    </div>
-                </a>
-                <a class="ug-video-text-product2" href="{{block_se.product2.url}}">
-                    <div class="ug-video-text-product-img">
-                        {% if block_se.product2_img != blank %}
-                            {% render "ug-picture", pc_image_url: block_se.product2_img, mobile_image_url: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
-                        {% else %}
-                            <img src="{{block_se.product2.featured_media | img_url: "400x" }}" alt="{{block_se.product2.title}}" />
-                        {% endif %}    
-                    </div>
-                    {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
-                    {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
-                    {% assign product2_btn_text = block_se.product2_btn_text | default: "Jetzt kaufen" %}
-                    <div class="ug-video-text-product-info-main">
-                        <div class="ug-video-text-product-title">{{product2_title}}</div>
-                        <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
-                        <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
-                    </div>
-                </a>
+                            {% if block_se.product1_img != blank %}
+                                {% render "ug-picture", pc_image_url: block_se.product1_img, mobile_image_url: block_se.product1_img, alt: "{{block_se.product1.title}}" %}
+                            {% else %}
+                                <img src="{{block_se.product1.featured_media | img_url: "400x" }}" alt="{{block_se.product1.title}}" />
+                            {% endif %}    
+                            
+                        </div>
+                        {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
+                        {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
+                        {% assign product1_btn_text = block_se.product1_btn_text | default: "Jetzt kaufen" %}
+                        <div class="ug-video-text-product-info-main">
+                            <div class="ug-video-text-product-title">{{product1_title}}</div>
+                            <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
+                            <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
+                        </div>
+                    </a>
+                    <a class="ug-video-text-product2" href="{{block_se.product2.url}}">
+                        <div class="ug-video-text-product-img">
+                            {% if block_se.product2_img != blank %}
+                                {% render "ug-picture", pc_image_url: block_se.product2_img, mobile_image_url: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
+                            {% else %}
+                                <img src="{{block_se.product2.featured_media | img_url: "400x" }}" alt="{{block_se.product2.title}}" />
+                            {% endif %}    
+                        </div>
+                        {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
+                        {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
+                        {% assign product2_btn_text = block_se.product2_btn_text | default: "Jetzt kaufen" %}
+                        <div class="ug-video-text-product-info-main">
+                            <div class="ug-video-text-product-title">{{product2_title}}</div>
+                            <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
+                            <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     {% endfor %}
