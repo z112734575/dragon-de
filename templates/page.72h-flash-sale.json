@@ -239,6 +239,37 @@
         "use_cus_css": false,
         "code_cus_css": ""
       }
+    },
+    "77296d5b-557d-4ff3-af1c-e75ccf4815ca": {
+      "type": "ug-video-text",
+      "blocks": {
+        "3a48dbb2-949a-4756-a3d7-f2eb5ae0ee48": {
+          "type": "video_text",
+          "settings": {
+            "direction": "left",
+            "type": "video",
+            "url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c77f361dd81b403892e50043efc576b2.mp4",
+            "product1": "90597a",
+            "product2": "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+            "product1_title": "",
+            "product2_title": "",
+            "product1_subtitle": "",
+            "product2_subtitle": "",
+            "product1_btn_text": "",
+            "product2_btn_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "3a48dbb2-949a-4756-a3d7-f2eb5ae0ee48"
+      ],
+      "settings": {
+        "max_width": "1280px",
+        "title": "nihiao",
+        "sub_title": "",
+        "text_color": "#000000",
+        "body_color": "linear-gradient(90deg, rgba(78, 83, 100, 1), rgba(3, 5, 11, 1) 100%)"
+      }
     }
   },
   "order": [
@@ -250,6 +281,7 @@
     "87863d7e-936f-43c0-9c2b-4d59cb5688f1",
     "ug-product-list",
     "121d9e92-ecf9-4049-b9c6-bf173a4295fe",
-    "abb8946c-f9b7-4cec-a3e9-364e77d522be"
+    "abb8946c-f9b7-4cec-a3e9-364e77d522be",
+    "77296d5b-557d-4ff3-af1c-e75ccf4815ca"
   ]
 }
