@@ -111,9 +111,9 @@
         "title1": "",
         "desc": "",
         "product_list": [
+          "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-ladekabel-5a-20v",
           "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
-          "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
-          "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-ladekabel-5a-20v"
+          "50150p"
         ]
       }
     },
@@ -135,6 +135,7 @@
     },
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
       "type": "ug_AppleEvent_product",
+      "disabled": true,
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/1_1c711cf9-5a0e-4102-a6b3-b3f6d9f689e7.png?v=1694155530",
         "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/app1.png?v=1694155530",
@@ -148,6 +149,7 @@
     },
     "d9e994f6-1a15-45ff-baf3-961a802d3cdf": {
       "type": "custom-html",
+      "disabled": true,
       "settings": {
         "code": "<section class=\"apple_footer_form\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Subscribe_banner_pc.png?v=1678707580\" alt=\"\" class=\"img_pc\">\n    <img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0573\/0979\/0291\/files\/Subscribe_banner_mobile.png?v=1678707578\" class=\"img_mobile\">\n    <div class=\"content\">\n        <div class=\"apple_footer_box\">\n            <h3>Abonnieren Sie Ugreen für exklusive Informationen und Vorteile!<\/h3>\n            <p><\/p>\n            <!-- csform -->\n            <div class=\"center-col cs-custom-form s-1928572913\">\n                <div class=\"form-col-wrap\">\n                    <form method=\"post\" action=\"https:\/\/ecf.cirkleinc.com\/api\/form-submit\" class=\"cs-form-wrap\" id=\"645cb5fa-83ed-4204-9100-c91d3acd6840\">\n                        <div class=\"apple_form\">\n                            <div class=\"Polaris-FormLayout\">\n                                <div class=\"Polaris-FormLayout__Item\">\n                                    <div class=\"sc-jJEKmz\">\n                                        <div class=\"sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp\">\n                                            <div class=\"element-group  cs-width-100\">\n                                                <input type=\"email\" id=\"email\" name=\"email\" placeholder=\"Email Address\">\n                                            <\/div>\n                                        <\/div>\n                                    <\/div>\n                                <\/div>\n                            <\/div>\n                            <div class=\"element-group\">\n                                <div class=\"form-submit-btn-wrap\" style=\"justify-content: left; display: flex;\">\n                                    <button type=\"submit\" class=\"submit-btn\" style=\"font-weight: 600\">\n                                        Subscribe\n                                    <\/button>\n                                <\/div>\n                            <\/div>\n                        <\/div>\n                    <\/form>\n                <\/div>\n            <\/div>\n        <\/div>\n    <\/div>\n<\/section>\n\n<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
         "layout": "t4s-container-fluid",
@@ -221,6 +223,7 @@
         "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_text-1",
         "template--20319037227351__a4e69f20-20c5-46b8-ae0e-0916e5fae44f-bl_image-1"
       ],
+      "disabled": true,
       "settings": {
         "design_heading": "1",
         "heading_align": "t4s-text-center",
