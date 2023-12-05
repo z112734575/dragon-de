@@ -1,6 +1,6 @@
 
 {% liquid
-    assign settings = block.settings
+    assign settings = section.block.settings
     assign id = section.id
     assign title = settings.title
     assign sub_title = settings.sub_title
@@ -89,6 +89,16 @@
         }
         .ug-video-text-{{ id }} .ug-video-text-inner {
             max-width: 100%;
+        }
+        .ug-video-text-inner-main {
+            flex-direction: column;
+        }
+        .ug-video-text-file-wrap {
+            width: 100%;
+            padding-bottom: 100%;
+        }
+        .ug-video-text-product-info{
+            
         }
     }
 </style>
