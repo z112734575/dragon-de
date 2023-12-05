@@ -101,7 +101,7 @@
         {% assign block_se = block.settings %}
         {% assign direction = settings.direction %}
         <div class="ug-video-text-inner" style="">
-            <div class="ug-video-text-inner-main">
+            <div class="ug-video-text-inner-main" style="{% if block_se.direction == "right" %}flex-direction: row-reverse;{% endif %}">
                 <div class="ug-video-text-file-wrap">
                     {% if block_se.type == 'video'%}
                         <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
