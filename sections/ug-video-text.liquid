@@ -1,331 +1,336 @@
 
-{% liquid
-    assign settings = section.settings
-    assign id = section.id
-    assign title = settings.title
-    assign sub_title = settings.sub_title
-    assign background = settings.body_color | default: "transparent"
-    assign text_color = settings.text_color | default: "#000000"
-    assign max_width = settings.max_width | default: "1280px"
-    assign pc_padding = settings.pc_padding | default: "120px 0 0"
-    assign mobile_padding = settings.mobile_padding | default: "60px 10px 0"
-    assign blocks = section.blocks
-%}
-<style>
-    .ug-video-text-{{ id }} {
-        background-color: {{ background }};
-        padding: {{ pc_padding }};
-    }
-    .ug-video-text-{{ id }} .ug-video-text-inner {
-        max-width: {{ max_width }};
-        margin: 0 auto;
-    }
-    .ug-video-text-{{ id }} h2 {
-        font-size: 36px;
-        font-weight: 700;
-        text-align: center;
-        margin-bottom: 36px;
-    }
-    .ug-video-text-inner-main {
-        display: flex;
-        gap: 12px;
-        color: black;
-        margin-top: 12px;
-    }
-    .ug-video-text-file-wrap {
-        width: 50%;
-        padding-bottom: 50%;
-        position: relative;
-        flex-shrink: 0;
-        height: 0;
-    }
-    .ug-video-text-file-wrap video, .ug-video-text-file-wrap img {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-        bottom: 0;
-        right: 0;
-        object-fit: cover;
-    }
-    .ug-video-text-product-info {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        gap: 12px;
-        width: 100%;
-    }
-    .ug-video-text-product1,.ug-video-text-product2 {
-        display: flex;
-        align-items: center;
-        flex: 1;
-        background: linear-gradient(90deg, white, #95a7b7);
-        color: inherit;
-        width: 100%;
-    }
-    .ug-video-text-product-img {
-        width: 40%;
-        flex-shrink: 0;
-    }
-    .ug-video-text-product-info-main {
-        margin-left: 24px;
-    }
-    .ug-video-text-product-title {
-        font-size: 24px;
-        font-weight: 700;
-        line-height: 1.2;
-    }
-    .ug-video-text-product-subtitle {
-        font-size: 16px;
-        margin-top: 12px;
-    }
-    .ug-video-text-product-btn {
-        font-size: 14px;
-        border: 1px solid black;
-        display: inline-block;
-        padding: 6px 12px;
-        border-radius: 20px;
-        margin-top: 12px;
-    }
-    @media (max-width: 767px) {
+    {% liquid
+        assign settings = section.settings
+        assign id = section.id
+        assign title = settings.title
+        assign sub_title = settings.sub_title
+        assign background = settings.body_color | default: "transparent"
+        assign text_color = settings.text_color | default: "#000000"
+        assign max_width = settings.max_width | default: "1280px"
+        assign pc_padding = settings.pc_padding | default: "120px 0 0"
+        assign mobile_padding = settings.mobile_padding | default: "60px 10px 0"
+        assign blocks = section.blocks
+    %}
+    <style>
         .ug-video-text-{{ id }} {
-            padding: {{ mobile_padding }};
+            background-color: {{ background }};
+            padding: {{ pc_padding }};
         }
         .ug-video-text-{{ id }} .ug-video-text-inner {
-            max-width: 100%;
+            max-width: {{ max_width }};
+            margin: 0 auto;
         }
         .ug-video-text-{{ id }} h2 {
-            font-size: 24px;
-            margin-bottom: 12px;
+            font-size: 36px;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 36px;
         }
         .ug-video-text-inner-main {
-            flex-direction: column !important;
+            display: flex;
+            gap: 12px;
+            color: black;
+            margin-top: 12px;
         }
         .ug-video-text-file-wrap {
-            width: 100%;
-            padding-bottom: 100%;
+            width: 50%;
+            padding-bottom: 50%;
+            position: relative;
+            flex-shrink: 0;
+            height: 0;
         }
-
-        .ug-video-text-product1, .ug-video-text-product2 {
+        .ug-video-text-file-wrap video, .ug-video-text-file-wrap img {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            object-fit: cover;
+        }
+        .ug-video-text-product-info {
+            display: flex;
             flex-direction: column;
-            padding: 12px;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            width: 100%;
+        }
+        .ug-video-text-product1,.ug-video-text-product2 {
+            display: flex;
+            align-items: center;
+            flex: 1;
+            background: linear-gradient(90deg, white, #95a7b7);
+            color: inherit;
+            width: 100%;
+        }
+        .ug-video-text-product-img {
+            width: 40%;
+            flex-shrink: 0;
+        }
+        .ug-video-text-product-info-main {
+            margin-left: 24px;
+        }
+        .ug-video-text-product-title {
+            font-size: 24px;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+        .ug-video-text-product-subtitle {
+            font-size: 16px;
+            margin-top: 12px;
         }
         .ug-video-text-product-btn {
-            display: none;
+            font-size: 14px;
+            border: 1px solid black;
+            display: inline-block;
+            padding: 6px 12px;
+            border-radius: 20px;
+            margin-top: 12px;
         }
-    }
-</style>
+        @media (max-width: 767px) {
+            .ug-video-text-{{ id }} {
+                padding: {{ mobile_padding }};
+            }
+            .ug-video-text-{{ id }} .ug-video-text-inner {
+                max-width: 100%;
+            }
+            .ug-video-text-{{ id }} h2 {
+                font-size: 24px;
+                margin-bottom: 12px;
+            }
+            .ug-video-text-inner-main {
+                flex-direction: column !important;
+            }
+            .ug-video-text-file-wrap {
+                width: 100%;
+                padding-bottom: 100%;
+            }
+
+            .ug-video-text-product1, .ug-video-text-product2 {
+                flex-direction: column;
+                padding: 12px;
+                text-align: center;
+            }
+            .ug-video-text-product-title {
+                font-size: 18px;
+            }
+            .ug-video-text-product-subtitle{
+                font-size: 14px;
+                margin-top: 6px;
+            }
+        }
+    </style>
 
 
 
-<div class="ug-video-text-{{id}}">
-    <h2>{{title}}</h2>
-    {% for block in blocks %}
-        {% assign block_se = block.settings %}
-        {% assign direction = settings.direction %}
-        <div class="ug-video-text-inner" style="">
-            <div class="ug-video-text-inner-main" style="{% if block_se.direction == "right" %}flex-direction: row-reverse;{% endif %}">
-                <div class="ug-video-text-file-wrap">
-                    {% if block_se.type == 'video'%}
-                        <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
-                    {% else %}
-                        {% render "ug-picture", pc_image_url: block_se.url, mobile_image_url: block_se.url, alt: "UGREEN" %}
-                    {% endif %}
-                </div>
-                <div class="ug-video-text-product-info">
-                    <a class="ug-video-text-product1" href="{{block_se.product1.url}}">
-                        <div class="ug-video-text-product-img">
+    <div class="ug-video-text-{{id}}">
+        <h2>{{title}}</h2>
+        {% for block in blocks %}
+            {% assign block_se = block.settings %}
+            {% assign direction = settings.direction %}
+            <div class="ug-video-text-inner" style="">
+                <div class="ug-video-text-inner-main" style="{% if block_se.direction == "right" %}flex-direction: row-reverse;{% endif %}">
+                    <div class="ug-video-text-file-wrap">
+                        {% if block_se.type == 'video'%}
+                            <video tabindex="-1" class="vjs-tech" preload="metadata" loop="" muted="muted" playsinline="playsinline" autoplay="" src="{{block_se.url}}"></video>
+                        {% else %}
+                            {% render "ug-picture", pc_image_url: block_se.url, mobile_image_url: block_se.url, alt: "UGREEN" %}
+                        {% endif %}
+                    </div>
+                    <div class="ug-video-text-product-info">
+                        <a class="ug-video-text-product1" href="{{block_se.product1.url}}">
+                            <div class="ug-video-text-product-img">
 
-                            {% if block_se.product1_img != blank %}
-                                {% render "ug-custom-picture", pc_image: block_se.product1_img, mobile_image: block_se.product1_img, alt: "{{block_se.product1.title}}" %}
-                            {% else %}
-                                <img src="{{block_se.product1.featured_media | img_url: "400x" }}" alt="{{block_se.product1.title}}" />
-                            {% endif %}    
-                            
-                        </div>
-                        {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
-                        {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
-                        {% assign product1_btn_text = block_se.product1_btn_text | default: "Jetzt kaufen" %}
-                        <div class="ug-video-text-product-info-main">
-                            <div class="ug-video-text-product-title">{{product1_title}}</div>
-                            <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
-                            <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
-                        </div>
-                    </a>
-                    <a class="ug-video-text-product2" href="{{block_se.product2.url}}">
-                        <div class="ug-video-text-product-img">
-                            {% if block_se.product2_img != blank %}
-                                {% render "ug-custom-picture", pc_image: block_se.product2_img, mobile_image: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
-                            {% else %}
-                                <img src="{{block_se.product2.featured_media | img_url: "400x" }}" alt="{{block_se.product2.title}}" />
-                            {% endif %}    
-                        </div>
-                        {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
-                        {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
-                        {% assign product2_btn_text = block_se.product2_btn_text | default: "Jetzt kaufen" %}
-                        <div class="ug-video-text-product-info-main">
-                            <div class="ug-video-text-product-title">{{product2_title}}</div>
-                            <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
-                            <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
-                        </div>
-                    </a>
+                                {% if block_se.product1_img != blank %}
+                                    {% render "ug-custom-picture", pc_image: block_se.product1_img, mobile_image: block_se.product1_img, alt: "{{block_se.product1.title}}" %}
+                                {% else %}
+                                    <img src="{{block_se.product1.featured_media | img_url: "400x" }}" alt="{{block_se.product1.title}}" />
+                                {% endif %}    
+                                
+                            </div>
+                            {% assign product1_title = block_se.product1_title | default: block_se.product1.title %}
+                            {% assign product1_subtitle = block_se.product1_subtitle | default: block_se.product1.metafields.custom.sub_title %}
+                            {% assign product1_btn_text = block_se.product1_btn_text | default: "Jetzt kaufen" %}
+                            <div class="ug-video-text-product-info-main">
+                                <div class="ug-video-text-product-title">{{product1_title}}</div>
+                                <div class="ug-video-text-product-subtitle">{{product1_subtitle}}</div>
+                                <div class="ug-video-text-product-btn">{{product1_btn_text}}</div>
+                            </div>
+                        </a>
+                        <a class="ug-video-text-product2" href="{{block_se.product2.url}}">
+                            <div class="ug-video-text-product-img">
+                                {% if block_se.product2_img != blank %}
+                                    {% render "ug-custom-picture", pc_image: block_se.product2_img, mobile_image: block_se.product2_img, alt: "{{block_se.product2.title}}" %}
+                                {% else %}
+                                    <img src="{{block_se.product2.featured_media | img_url: "400x" }}" alt="{{block_se.product2.title}}" />
+                                {% endif %}    
+                            </div>
+                            {% assign product2_title = block_se.product2_title | default: block_se.product2.title %}
+                            {% assign product2_subtitle = block_se.product2_subtitle | default: block_se.product2.metafields.custom.sub_title %}
+                            {% assign product2_btn_text = block_se.product2_btn_text | default: "Jetzt kaufen" %}
+                            <div class="ug-video-text-product-info-main">
+                                <div class="ug-video-text-product-title">{{product2_title}}</div>
+                                <div class="ug-video-text-product-subtitle">{{product2_subtitle}}</div>
+                                <div class="ug-video-text-product-btn">{{product2_btn_text}}</div>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
+        {% endfor %}
         </div>
-    {% endfor %}
     </div>
-</div>
 
-{% schema %}
-    {
-      "name": "视频+图文",
-      "settings": [
+    {% schema %}
+        {
+        "name": "视频+图文",
+        "settings": [
+            {
+                "type": "text",
+                "id": "max_width",
+                "label": "PC 最大宽度",
+                "default": "1280px"
+            },
+            {
+                "type": "text",
+                "id": "title",
+                "label": "标题"
+            },
+            {
+                "type": "text",
+                "id": "title_size",
+                "label": "标题大小"
+            },
+            {
+                "type": "text",
+                "id": "sub_title",
+                "label": "副标题"
+            },
+            {
+                "type": "color",
+                "id": "text_color",
+                "label": "标题颜色",
+                "default": "#000000"
+            },
+            {
+                "type": "color_background",
+                "id": "body_color",
+                "label": "背景色",
+                "default": "linear-gradient(90deg, #4E5364 0%, #03050B 100%)"
+            },
+            {
+            "type": "text",
+            "id": "pc_padding",
+            "label": "pc 间距",
+            "default": "120px 0 0"
+        },
         {
             "type": "text",
-            "id": "max_width",
-            "label": "PC 最大宽度",
-            "default": "1280px"
-        },
-        {
-            "type": "text",
-            "id": "title",
-            "label": "标题"
-        },
-        {
-            "type": "text",
-            "id": "title_size",
-            "label": "标题大小"
-        },
-        {
-            "type": "text",
-            "id": "sub_title",
-            "label": "副标题"
-        },
-        {
-            "type": "color",
-            "id": "text_color",
-            "label": "标题颜色",
-            "default": "#000000"
-        },
-        {
-            "type": "color_background",
-            "id": "body_color",
-            "label": "背景色",
-            "default": "linear-gradient(90deg, #4E5364 0%, #03050B 100%)"
-        },
-        {
-        "type": "text",
-        "id": "pc_padding",
-        "label": "pc 间距",
-        "default": "120px 0 0"
-      },
-      {
-        "type": "text",
-        "id": "mobile_padding",
-        "label": "移动端 间距",
-        "default": "60px 10px 0"
-      }
-      ],
-      "blocks": [
-        {
-          "type": "video_text",
-          "name": "视频图文",
-          "settings": [
-            {
-              "id": "direction",
-              "type": "radio",
-              "label": "排布",
-              "default": "left",
-              "options": [
-                {
-                    "value": "left",
-                    "label": "左图右文"
-                },
-                {
-                    "value": "right",
-                    "label": "右图左文"
-                }
-              ]
-            },
-            {
-              "id": "type",
-              "type": "radio",
-              "label": "视频地址",
-              "default": "video",
-              "options": [
-                {
-                    "value": "video",
-                    "label": "视频"
-                },
-                {
-                    "value": "img",
-                    "label": "图片"
-                }
-              ]
-            },
-            {
-              "id": "url",
-              "type": "text",
-              "label": "资源地址",
-              "info": "视频地址或图片地址"
-            },
-            {
-              "id": "product1",
-              "type": "product",
-              "label": "商品1"
-            },
-            {
-              "id": "product2",
-              "type": "product",
-              "label": "商品2"
-            },
-            {
-               "type": "image_picker",
-               "id": "product1_img",
-               "label": "商品1图"
-            },
-            {
-               "type": "image_picker",
-               "id": "product2_img",
-               "label": "商品2图"
-            },
-            {
-              "id": "product1_title",
-              "type": "text",
-              "label": "商品标题1"
-            },
-            {
-              "id": "product2_title",
-              "type": "text",
-              "label": "商品标题2"
-            },
-            {
-              "id": "product1_subtitle",
-              "type": "text",
-              "label": "商品副标题1"
-            },
-            {
-              "id": "product2_subtitle",
-              "type": "text",
-              "label": "商品副标题2"
-            },
-            {
-              "id": "product1_btn_text",
-              "type": "text",
-              "label": "按钮文案1"
-            },
-            {
-              "id": "product2_btn_text",
-              "type": "text",
-              "label": "按钮文案2"
-            }
-          ]
+            "id": "mobile_padding",
+            "label": "移动端 间距",
+            "default": "60px 10px 0"
         }
-      ],
-      "presets": [
-        {"name": "视频+图文"}
-      ]
-    }
-  {% endschema %}
+        ],
+        "blocks": [
+            {
+            "type": "video_text",
+            "name": "视频图文",
+            "settings": [
+                {
+                "id": "direction",
+                "type": "radio",
+                "label": "排布",
+                "default": "left",
+                "options": [
+                    {
+                        "value": "left",
+                        "label": "左图右文"
+                    },
+                    {
+                        "value": "right",
+                        "label": "右图左文"
+                    }
+                ]
+                },
+                {
+                "id": "type",
+                "type": "radio",
+                "label": "视频地址",
+                "default": "video",
+                "options": [
+                    {
+                        "value": "video",
+                        "label": "视频"
+                    },
+                    {
+                        "value": "img",
+                        "label": "图片"
+                    }
+                ]
+                },
+                {
+                "id": "url",
+                "type": "text",
+                "label": "资源地址",
+                "info": "视频地址或图片地址"
+                },
+                {
+                "id": "product1",
+                "type": "product",
+                "label": "商品1"
+                },
+                {
+                "id": "product2",
+                "type": "product",
+                "label": "商品2"
+                },
+                {
+                "type": "image_picker",
+                "id": "product1_img",
+                "label": "商品1图"
+                },
+                {
+                "type": "image_picker",
+                "id": "product2_img",
+                "label": "商品2图"
+                },
+                {
+                "id": "product1_title",
+                "type": "text",
+                "label": "商品标题1"
+                },
+                {
+                "id": "product2_title",
+                "type": "text",
+                "label": "商品标题2"
+                },
+                {
+                "id": "product1_subtitle",
+                "type": "text",
+                "label": "商品副标题1"
+                },
+                {
+                "id": "product2_subtitle",
+                "type": "text",
+                "label": "商品副标题2"
+                },
+                {
+                "id": "product1_btn_text",
+                "type": "text",
+                "label": "按钮文案1"
+                },
+                {
+                "id": "product2_btn_text",
+                "type": "text",
+                "label": "按钮文案2"
+                }
+            ]
+            }
+        ],
+        "presets": [
+            {"name": "视频+图文"}
+        ]
+        }
+    {% endschema %}
