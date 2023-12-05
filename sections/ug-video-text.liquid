@@ -20,6 +20,11 @@
         max-width: {{ max_width }};
         margin: 0 auto;
     }
+    .ug-video-text-{{ id }} h2 {
+        font-size: 36px;
+        font-weight: 700;
+        text-align: center;
+    }
     .ug-video-text-inner-main {
         display: flex;
         gap: 12px;
@@ -90,6 +95,9 @@
         .ug-video-text-{{ id }} .ug-video-text-inner {
             max-width: 100%;
         }
+        .ug-video-text-{{ id }} h2 {
+            font-size: 24px;
+        }
         .ug-video-text-inner-main {
             flex-direction: column !important;
         }
@@ -111,7 +119,7 @@
 
 
 <div class="ug-video-text-{{id}}">
-    <h3>{{title}}</h3>
+    <h2>{{title}}</h2>
     {% for block in blocks %}
         {% assign block_se = block.settings %}
         {% assign direction = settings.direction %}
@@ -182,6 +190,11 @@
             "type": "text",
             "id": "title",
             "label": "标题"
+        },
+        {
+            "type": "text",
+            "id": "title_size",
+            "label": "标题大小"
         },
         {
             "type": "text",
