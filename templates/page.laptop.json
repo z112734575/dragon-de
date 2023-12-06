@@ -3,7 +3,7 @@
     "3155cc81-16ac-4d96-80a0-275500abaea3": {
       "type": "ug_AppleEvent_banner",
       "custom_css": [
-        ".apple_section_1 .content {display: none;}"
+        ".apple_section_1 {display: none;}"
       ],
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_200W_4_PC_2x_dbd57ded-ef54-43b3-aaa2-5636f18cf0ac.jpg?v=1701833201",
@@ -63,8 +63,8 @@
         "sub_title": "",
         "text_color": "#ffffff",
         "body_color": "#000000",
-        "pc_padding": "40px 0 0",
-        "mobile_padding": "20px 10px 0"
+        "pc_padding": "120px 0 120px",
+        "mobile_padding": "60px 10px 60px"
       }
     },
     "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
@@ -188,7 +188,7 @@
     "a8364ac4-9709-4a7a-b7dd-a4445dee4b14": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
+        "custom_liquid": "<style>\n.product_message{display:none;}\n<\/style>\n<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
         "layout": "t4s-container-wrap",
         "cl_bg": "",
         "cl_bg_gradient": "",
