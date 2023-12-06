@@ -133,6 +133,57 @@
         ]
       }
     },
+    "48463660-84e8-4c1b-9081-e5c62be433e6": {
+      "type": "ug-video-text",
+      "blocks": {
+        "465e6847-6c3d-421f-bffe-de95932a987b": {
+          "type": "video_text",
+          "settings": {
+            "direction": "left",
+            "type": "video",
+            "url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c77f361dd81b403892e50043efc576b2.mp4",
+            "product1": "ugreen-100w-usb-c-auf-usb-c-kabel-5a-20v-usb-c-ladekabel",
+            "product2": "ugreen-100w-usb-c-auf-usb-c-kabel-winkel-pd-3-0-qc-4-0-usb-c-ladekabel-90-grad-kompatibel-mit-macbook-pro-16-2021-macbook-air-ipad-pro-12-9-2021-ipad-air-5-mini-6-galaxy-s22-steam-deck-usw-0-5m",
+            "product1_title": "",
+            "product2_title": "",
+            "product1_subtitle": "",
+            "product2_subtitle": "",
+            "product1_btn_text": "",
+            "product2_btn_text": ""
+          }
+        },
+        "e39863eb-9935-4026-8fb1-b121b7dd967e": {
+          "type": "video_text",
+          "settings": {
+            "direction": "right",
+            "type": "video",
+            "url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c77f361dd81b403892e50043efc576b2.mp4",
+            "product1": "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+            "product2": "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+            "product1_title": "",
+            "product2_title": "",
+            "product1_subtitle": "",
+            "product2_subtitle": "",
+            "product1_btn_text": "",
+            "product2_btn_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "465e6847-6c3d-421f-bffe-de95932a987b",
+        "e39863eb-9935-4026-8fb1-b121b7dd967e"
+      ],
+      "settings": {
+        "max_width": "1280px",
+        "title": "1211",
+        "title_size": "",
+        "sub_title": "",
+        "text_color": "#fff",
+        "body_color": "#000000",
+        "pc_padding": "120px 0 0",
+        "mobile_padding": "60px 10px 0"
+      }
+    },
     "a8364ac4-9709-4a7a-b7dd-a4445dee4b14": {
       "type": "custom-liquid",
       "settings": {
@@ -156,6 +207,7 @@
     "acab1ce9-6753-4e7b-90d8-cdf0b3981484",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
     "a9c6f060-5fbd-455c-8321-f99aa9934742",
+    "48463660-84e8-4c1b-9081-e5c62be433e6",
     "a8364ac4-9709-4a7a-b7dd-a4445dee4b14"
   ]
 }
