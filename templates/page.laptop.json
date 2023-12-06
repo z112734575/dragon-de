@@ -180,8 +180,8 @@
         "sub_title": "",
         "text_color": "#fff",
         "body_color": "#000000",
-        "pc_padding": "120px 0 0",
-        "mobile_padding": "60px 10px 0"
+        "pc_padding": "40px 0 0",
+        "mobile_padding": "20px 10px 0"
       }
     },
     "a8364ac4-9709-4a7a-b7dd-a4445dee4b14": {
