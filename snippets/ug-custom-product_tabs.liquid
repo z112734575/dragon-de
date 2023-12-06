@@ -526,37 +526,54 @@
     {% endif -%}
 {%- endfor -%}
 <script>
+  
     $(function () {
-        if (window.innerWidth < 768) {
-            setTabsShadow()
-        } else {
-            $('.green-custom-tab').eq(1).addClass('active')
-        }
-        $('.green-custom-tab').on('click', function (e) {
-            e.preventDefault()
-            $('.green-custom-tab').removeClass('active')
-            $(e.target).addClass('active')
-            const id = e.target.getAttribute('href')
-            const targetElement = document.querySelector(id);
-            targetElement.scrollIntoView({behavior: 'smooth'})
+        const green615swiper = new Swiper('.green-home-banner', {
+            direction: 'horizontal',
+            loop: true,
+            threshold : 50, // 超过50px才算做滑动
+            pagination: {
+                el: '.green-home-banner  .swiper-pagination',
+            },
+            navigation: {
+                nextEl: '.green-home-banner .swiper-button-next',
+                prevEl: '.green-home-banner .swiper-button-prev',
+            },
+            autoplay: {
+                delay: 5000,
+            }
         })
+        const banner_index = `{{ section.settings.banner_index }}`;
+        const CHANGE_COLOR_INDEX = banner_index.split(',') // banner 需要改变 header 颜色的序号
 
-        function setTabsShadow() {
-            const topActivityBarHeight = document.getElementById('shopify-section-top-activity-bar')?.offsetHeight || 0
-            const topBarHeight = document.getElementById('shopify-section-top-bar')?.offsetHeight || 0
-            const headerHeight = document.getElementById('shopify-section-header-inline')?.offsetHeight || 0
+        const normalLogo = 'https://cdn.shopify.com/s/files/1/0257/5246/9566/files/95.svg?v=1663919287';
+        const colorLogo = 'https://cdn.shopify.com/s/files/1/0257/5246/9566/files/logo_color__2X_5a5b583f-27a2-43db-8ec5-413265a5d565.png?v=1673246856';
+        const blackLogo = 'https://cdn.shopify.com/s/files/1/0257/5246/9566/files/logo_black__2X_4afba75b-1447-44bc-bb0c-f7b962309404.png?v=1673246859';
+        const header = $('.t4s-section-header')
+        const logo = $('.header__normal-logo')
+        const mobileLogo = $('.header__mobile-logo')
 
-            const tasBar = document.getElementById('ugreen-product-tabs')
-            const topHeight = topActivityBarHeight + topBarHeight + headerHeight
-
-            window.addEventListener('scroll', function () {
-                if (window.scrollY > topHeight && !tasBar.classList.contains('shadow')) {
-                    tasBar.classList.add('shadow')
-                } else if (window.scrollY < topHeight && tasBar.classList.contains('shadow')) {
-                    tasBar.classList.remove('shadow')
-                }
-            })
-
+        function changeHeaderColor(index) {
+            if (CHANGE_COLOR_INDEX.indexOf(String(index)) >= 0) {
+                header.addClass('header-thirdly-type')
+                if (header.hasClass('header-second-type') || header.hasClass('header-hover')) return;
+                mobileLogo.attr('src', blackLogo)
+                logo.attr('src', blackLogo)
+            } else {
+                header.removeClass('header-thirdly-type')
+                if (header.hasClass('header-second-type') || header.hasClass('header-hover')) return;
+                mobileLogo.attr('src', normalLogo)
+                logo.attr('src', normalLogo)
+            }
         }
+        if(CHANGE_COLOR_INDEX.indexOf('0') >= 0) {
+            // 如果第一张需要改变颜色，需要初始化
+            changeHeaderColor(0)
+        }
+        green615swiper.on('slideChange', function (event) {
+            changeHeaderColor(event.realIndex)
+        });
     })
+
+
 </script>
