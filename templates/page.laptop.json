@@ -132,6 +132,19 @@
           "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll"
         ]
       }
+    },
+    "a8364ac4-9709-4a7a-b7dd-a4445dee4b14": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,50px,",
+        "pd": "",
+        "mg_mb": ",,30px,",
+        "pd_mb": ""
+      }
     }
   },
   "order": [
@@ -142,6 +155,7 @@
     "f90b406c-dc40-4977-8197-1d3539cf54ad",
     "acab1ce9-6753-4e7b-90d8-cdf0b3981484",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
-    "a9c6f060-5fbd-455c-8321-f99aa9934742"
+    "a9c6f060-5fbd-455c-8321-f99aa9934742",
+    "a8364ac4-9709-4a7a-b7dd-a4445dee4b14"
   ]
 }
