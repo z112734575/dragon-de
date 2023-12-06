@@ -3,7 +3,8 @@
     "3155cc81-16ac-4d96-80a0-275500abaea3": {
       "type": "ug_AppleEvent_banner",
       "custom_css": [
-        ".apple_section_1 {display: none;}"
+        ".apple_section_1 {display: none;}",
+        ".banner_box {position: absolute; top: 12%; left: 50%; max-width: 36.979vw; transform: translateX(-50%); display: flex; flex-direction: column-reverse; text-align: center;}"
       ],
       "settings": {
         "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Nexode_200W_4_PC_2x_dbd57ded-ef54-43b3-aaa2-5636f18cf0ac.jpg?v=1701833201",
