@@ -1,0 +1,250 @@
+{
+  "sections": {
+    "black_friday_banner": {
+      "type": "black_friday_banner",
+      "custom_css": [
+        "@media (max-width: 768px) {.black_friday_banner .banner_content {top: 40px; }.banner_content h3:after {display: none;}}"
+      ],
+      "settings": {
+        "action_id": "1bcca63e-17bc-4843-87d4-8d8c7cd4068c",
+        "is_pre": false,
+        "pc_image": "shopify:\/\/shop_images\/EU__pc_5be76210-f7f3-42c4-9741-9302a265c697.webp",
+        "mobile_image": "shopify:\/\/shop_images\/EU__mo_9fc2f51c-b07c-496a-a979-6c0f11423997.webp",
+        "title": "<span>Ugreen<\/span> <strong>Cyber Monday <\/strong> <span>Flash-Sale!<\/span>",
+        "subtitle": "Nur für kurze Zeit - sichern Sie sich jetzt unschlagbare Angebote.",
+        "email_btn_text": "Sign Up Now",
+        "email_tips": "Use it to stack up your savings during our Black Friday event!",
+        "time": "Nov. 27. 2023"
+      }
+    },
+    "black_friday_step": {
+      "type": "black_friday_step",
+      "disabled": true,
+      "settings": {
+        "step_type": "1",
+        "title": "Zeitplan für Black Friday",
+        "subtitle": "",
+        "step1_text": "Black Friday für Frühbucher！",
+        "step1_time": "Nov. 10 - Nov.16",
+        "step2_text": "Black Friday Extravaganza！",
+        "step2_time": "Nov. 17 - Nov.24",
+        "step3_text": "Cyber Monday Bonanza！",
+        "step3_time": "Nov. 25 - Nov. 27",
+        "padding_pc": "120px 0 0 0",
+        "padding_mobile": "60px 0 0 0"
+      }
+    },
+    "gift_card": {
+      "type": "gift_card_black",
+      "disabled": true,
+      "settings": {
+        "section_title": "Purchase a 10% OFF BFCM Gift Card",
+        "sub_title": "Get ready for Black Friday by purchasing a 10% off gift card today.",
+        "product": "2023-ugreen-halloween-gift-card"
+      }
+    },
+    "ug-tabs-product-list": {
+      "type": "ug-tabs-product-list",
+      "blocks": {
+        "2632b153-e4f5-4946-9146-3002be2c2b29": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Ladesets Rabatt",
+            "product_list": [
+              "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
+              "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+              "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
+              "90597a",
+              "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
+              "pb560",
+              "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+              "ugreen-100w-power-bank-20000mah-powerbank",
+              "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+              "ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat",
+              "ugreen-nexode-20w-usb-c-ladegerat-usb-c-netzteil-gan-ii-pd-3-0-usb-c-power-adapter-pps-ladestecker-kompatibel-mit-iphone-14-pro-max-14-plus-13-12-se-2022-watch-8-ipad-pro-s22-a53-pixel-usw",
+              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-ladestecker-pps-pd-3-0-super-fast-charger-mit-2m-usb-c-kabel",
+              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-pd-usb-c-ladestecker-ladeadapter-unterstutzt-20w-kompatibel-mit-iphone-14-pro-max-14-13-12-se-2022-ipad-pro-macbook-air-galaxy-s22-pixel-7-pro-6"
+            ]
+          }
+        },
+        "37cf4654-a486-4d1c-bdd8-2a50c4ce5bc4": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Docks & Hubs",
+            "product_list": [
+              "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
+              "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+              "90912-1",
+              "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
+              "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw",
+              "ugreen-revodok-usb-c-docking-station-dual-display-usb-c-hub-mit-dual-hdmi",
+              "ugreen-usb-c-hub-4k-60hz-usb-c-adapter-mit-hdmi-sd-tf-kartenleser-3-usb-3-0-usb-c-dock-kompatibel-mit-macbook-pro-air-ipad-pro-surface-pro-7-imac-mac-mini-m1-galaxy-tab-s8-s7-usw",
+              "ugreen-usb-c-hub-mit-usb-3-0-und-hdmi-adapter-usb-c-kompatibel-mit-surface-pro-surface-go-macbook-pro-air-ipad-air-4-galaxy-tab-s7-und-anderen-laptops-und-tablets"
+            ]
+          }
+        },
+        "82e89c4e-58ed-4668-b5e0-707f3f82a435": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Festplatten gehäuse",
+            "product_list": [
+              "ugreen-m2-ssd-adapter-usb3-2-10gbps-gen2-aluminium-geh-use",
+              "ugreen-m-2-gehause-nvme-usb-3-1-gen2-10gbps-nvme-ssd-gehause-adapter-fur-m2-nvme-pcie-m-key-und-b-m-key-in-grosse-2230-2242-2260-2280-unterstutzt-uasp-ruhemodus",
+              "ugreen-m-2-nvme-sata-ssd",
+              "60641",
+              "60638",
+              "ugreen-festplattengehause-2-5-zoll-usb-3-0-sata-gehause-fur-2-5-zoll-ssd-und-hdd-in-hohe-9-5mm-7mm-externe-festplatten-gehause-unterstutzt-uasp-hdd-case-mit-usb-3-0-kabel-werkzeugfreie-montage",
+              "ugreen-festplattengehause-2-5-zoll-usb-c-3-2-gen-2-auf-sata-iii-bis-zu-6-gbps-externes-gehause-fur-ssd-und-hdd-in-hohe-9-5mm-7mm-uasp-unterstutzt-sata-gehause-mit-usb-c-3-1kabel-werkzeugfreie-montage",
+              "ugreen-2-5-zoll-festplattengehause-usb-c-3-1-gen-2-auf-sata-iii-bis-zu-6gbps-gehause-fur-2-5-zoll-ssd-und-hdd-in-hohe-9-5mm-7mm-uasp-externes-case-fur-2-5-zoll-festplatten-mit-usb-c-zu-usb-c-kabel"
+            ]
+          }
+        },
+        "d34e9e35-2164-4636-9cba-8b376d673c3c": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Für Laptop",
+            "product_list": [
+              "90597a",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+              "nexode-300w-5-anschluss-gan-schnellladegerat",
+              "ugreen-360-drehbarer-laptop-tablet-stander",
+              "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+              "snap-deal-ugreen-cat-8-lan-kabel-40000mbit-s-netzwerkkabel-ethernet-kabel-0-5m",
+              "90840",
+              "ugreen-pc-maus-kabellos-leise-mit-4000-dpi-2-4ghz-verbindung-18-monate-akkulaufzeit-usb-kabellose-maus-kompatibel-mit-laptop-computer-windows-11-macos-linux-schwarz"
+            ]
+          }
+        },
+        "d32d3af3-a85b-403d-a072-d3a641d20c22": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Für Auto",
+            "product_list": [
+              "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
+              "ugreen-zigarettenanzunder-usb-20w-pd-3-0-usb-c-auto-ladegerat-12v-kfz-ladegerat-usb-c-zigarettenanzunder-adapter-steckdose-kompatibel-mit-iphone-14-14-pro-13-pro-12-12-pro-galaxy-s22-s21-usw",
+              "ugreen-zigarettenanzunder-usb-qc-3-0-autoladegerat-usb-36w-kfz-ladegerat-mit-1m-usb-c-kabel-kompatibel-mit-iphone-14-14-pro-14-pro-max-13-13-pro-galaxy-s22-s21-a53-usw",
+              "snap-deal-ugreen-handyhalterung-auto-handy-halterung-pkw-luftung-schwerkraft-handy-autohalterung-kfz-handyhalter-furs-auto-kompatibel-mit-iphone-12-13-14-pro-max-galaxy-s22-s21-s20-huawei-xiaomi-usw-silber",
+              "ugreen-tablet-halterung-auto-kopfstutze-tablethalterung-kinder-kopfstutzenhalterung-360-grad-kompatibel-mit-4-6-12-9-zoll-hd-10-ipad-pro-air-mini-iphone-14-galaxy-tab-a7-s7-surface-pro-6-switch",
+              "ugreen-usb-3-0-kartenleser-sd-card-reader-micro-sd-kartenlesegerat-sd-karte-usb-adapter-fur-sdxc-sdhc-tf-mmc-rs-mmc-micro-sdxc-micro-sd-micro-sdhc-karte-schwarz",
+              "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
+              "ugreen-micro-usb-kabel-schwarz-micro-usb-2-0-ladekabel-schnellladekabel-micro-usb-kompatibel-mit-galaxy-s7-s6-edge-s6-s5-a3-j7-huawei-p-smart-p40-lite-e-p10-lite-y9-y8-ps4-controller-usw-2m"
+            ]
+          }
+        },
+        "4257284a-f054-4967-9383-cfb70ce7bec8": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Für Phone&Tablet",
+            "product_list": [
+              "ugreen-30w-usb-c-pd-ladegerat",
+              "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
+              "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
+              "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+              "ugreen-hitune-t3-bluetooth-kopfhorer-in-ear-kopfhorer-kabellos-mit-10mm-treiber-aktive-gerauschunterdruckung-tiefer-bass-bluetooth-5-2-24-std-spielzeit-ki-anruf-rauschunterdruckung-weiss",
+              "ugreen-hitune-t3-bluetooth-kopfhorer-in-ear-kopfhorer-kabellos-mit-10mm-treiber-aktive-gerauschunterdruckung-tiefer-bass-bluetooth-5-2-24-std-spielzeit-ki-anruf-rauschunterdruckung-schwarz",
+              "ugreen-2-in-1-magnetischer-ladestander-kabellose-ladestation-ladegerat-mit-usb-c-ladekabel-kompatibel-mit-iphone-14-pro-max-14-plus-14-pro-13-13-mini-13-pro-12-12-pro-airpods-3-2-pro",
+              "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll",
+              "ugreen-tablet-stander-aluminium-verstellbar-tablet-halterung-tisch-tablet-halter-kompatibel-mit-ipad-pro-air-mini-11-12-9-galaxy-tab-a-a7-iphone-14-huawei-matepad-surface-bis-13-5-zoll-anthrazit"
+            ]
+          }
+        },
+        "464be3c3-55ff-49eb-bed4-7bfb270e7553": {
+          "type": "ug-product-list-tabs",
+          "disabled": true,
+          "settings": {
+            "tabs_title": "",
+            "product_list": [
+
+            ]
+          }
+        }
+      },
+      "block_order": [
+        "2632b153-e4f5-4946-9146-3002be2c2b29",
+        "37cf4654-a486-4d1c-bdd8-2a50c4ce5bc4",
+        "82e89c4e-58ed-4668-b5e0-707f3f82a435",
+        "d34e9e35-2164-4636-9cba-8b376d673c3c",
+        "d32d3af3-a85b-403d-a072-d3a641d20c22",
+        "4257284a-f054-4967-9383-cfb70ce7bec8",
+        "464be3c3-55ff-49eb-bed4-7bfb270e7553"
+      ],
+      "settings": {
+        "item_type": "black_friday",
+        "section_id": "tabs_product",
+        "section_icon": "",
+        "section_title": "Bis zu 40% Rabatt",
+        "sub_title": "",
+        "list_all": "6",
+        "title_color": "#ffffff",
+        "product_item_bg_color": "#242320",
+        "pc_product_item_img_size": "80%",
+        "mobile_product_item_img_size": "80%",
+        "pc_row": "4",
+        "mobile_row": "2",
+        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/ta2_pc.webp?v=1698051782",
+        "pc_product_sale_width": "80px",
+        "mobile_product_sale_width": "60px",
+        "pc_padding": "35px 0 80px 0",
+        "mobile_padding": "5px 0 80px 0",
+        "need_load_more": false,
+        "load_more_default_count": 4,
+        "show_sale_flag": true,
+        "show_compare": true,
+        "show_rating": true,
+        "show_learn_btn": false,
+        "show_code": true
+      }
+    },
+    "ug-product-list": {
+      "type": "ug-product-list",
+      "settings": {
+        "item_type": "black_friday",
+        "product_list": [
+          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+          "90597a",
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw",
+          "90912-1",
+          "nexode-300w-5-anschluss-gan-schnellladegerat",
+          "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
+          "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
+          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
+        ],
+        "title": "Black Friday Heißer Verkauf",
+        "subtitle": "",
+        "section_id": "ug-product-list",
+        "pc_product_type": "column",
+        "mobile_product_type": "row",
+        "title_color": "#ffffff",
+        "product_item_bg_color": "#242320",
+        "pc_product_item_img_size": "80%",
+        "mobile_product_item_img_size": "80%",
+        "pc_row": "3",
+        "mobile_row": "2",
+        "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/ta2_pc.webp?v=1698051782",
+        "pc_product_sale_width": "80px",
+        "mobile_product_sale_width": "60px",
+        "pc_padding": "140px 0 120px 0",
+        "mobile_padding": "60px 0 30px 0",
+        "need_load_more": false,
+        "load_more_default_count": 3,
+        "show_sale_flag": true,
+        "show_compare": true,
+        "show_rating": true,
+        "show_learn_btn": true,
+        "show_code": true
+      }
+    }
+  },
+  "order": [
+    "black_friday_banner",
+    "black_friday_step",
+    "gift_card",
+    "ug-tabs-product-list",
+    "ug-product-list"
+  ]
+}
