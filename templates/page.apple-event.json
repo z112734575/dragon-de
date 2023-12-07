@@ -15,6 +15,24 @@
         "text": ""
       }
     },
+    "6967a717-93bc-4497-be73-932211a5ca08": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/new_pc.png?v=1694486189",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/new_m.png?v=1694486188",
+        "title": "Powerbank",
+        "title1": "",
+        "desc": "Weniger zu tragen.Mehr zu Laden.",
+        "product_list": [
+          "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+          "pb561",
+          "pb560",
+          "90597a",
+          "ugreen-nexode-100w-usb-c-ladegerat-mit-magsafe-15w-usb-c-netzteil-gan-charger-4-in-1-ladestation",
+          "ugreen-100w-power-bank-20000mah-powerbank"
+        ]
+      }
+    },
     "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2": {
       "type": "ug_AppleEvent_product",
       "settings": {
@@ -30,24 +48,6 @@
           "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
           "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-ladestecker-pps-pd-3-0-super-fast-charger-mit-2m-usb-c-kabel",
           "ugreen-30w-usb-c-pd-ladegerat"
-        ]
-      }
-    },
-    "6967a717-93bc-4497-be73-932211a5ca08": {
-      "type": "ug_AppleEvent_product",
-      "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/new_pc.png?v=1694486189",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/new_m.png?v=1694486188",
-        "title": "Powerbank",
-        "title1": "",
-        "desc": "Weniger zu tragen.Mehr zu Laden.",
-        "product_list": [
-          "90597a",
-          "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
-          "ugreen-nexode-100w-usb-c-ladegerat-mit-magsafe-15w-usb-c-netzteil-gan-charger-4-in-1-ladestation",
-          "ugreen-100w-power-bank-20000mah-powerbank",
-          "pb561",
-          "pb560"
         ]
       }
     },
@@ -145,8 +145,8 @@
   },
   "order": [
     "3155cc81-16ac-4d96-80a0-275500abaea3",
-    "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2",
     "6967a717-93bc-4497-be73-932211a5ca08",
+    "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
     "a9c6f060-5fbd-455c-8321-f99aa9934742",
