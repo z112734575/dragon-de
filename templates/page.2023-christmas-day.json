@@ -167,11 +167,21 @@
         },
         "464be3c3-55ff-49eb-bed4-7bfb270e7553": {
           "type": "ug-product-list-tabs",
-          "disabled": true,
           "settings": {
-            "tabs_title": "",
+            "tabs_title": "Abverkauf",
             "product_list": [
-
+              "ugreen-6-in-1-usb-c-hub-mit-4k-hdmi-ausgang-sd-tf-kartenleser-3-usb-c-3-0-ports",
+              "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
+              "ugreen-nvme-m2-geh-use-usb-3-2-nvme-ssd-geh-use-adapter",
+              "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-usb-c-power-adapter-ladestecker-kompatibel-mit-iphone-14-14-pro-14-pro-max-13-13-mini-12-11-se-2022-ipad-pro-galaxy-s22-s21-usw-weiss",
+              "ugreen-nexode-20w-usb-c-ladegerat-usb-c-netzteil-gan-ii-pd-3-0-usb-c-power-adapter-pps-ladestecker-kompatibel-mit-iphone-14-pro-max-14-plus-13-12-se-2022-watch-8-ipad-pro-s22-a53-pixel-usw",
+              "ugreen-usb-c-hub-mit-4-ports-usb-3-0-adapter-otg-usb-type-c-hub-usb-c-splitter-kompatibel-mit-macbook-air-pro-ipad-air-pro-surface-pro-go-galaxy-s22-galaxy-tab-s8-s7-und-mehr-type-c-geraten",
+              "ugreen-2-5-zoll-festplattengehause-usb-c-3-1-gen-2-auf-sata-iii-bis-zu-6gbps-gehause-fur-2-5-zoll-ssd-und-hdd-in-hohe-9-5mm-7mm-uasp-externes-case-fur-2-5-zoll-festplatten-mit-usb-c-zu-usb-c-kabel",
+              "ugreen-diginest-wurfel-65w-usb-c-steckdosenleiste-gan-usb-c-ladegerat-usb-3-fach-steckdose-mit-schalter-kompatibel-mit-macbook-air-pro-iphone-14-pro-max-13-12-ipad-pro-galaxy-s22-s21-pixel",
+              "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
+              "ugreen-m2-ssd-adapter-usb3-2-10gbps-gen2-aluminium-geh-use",
+              "ugreen-festplattengehause-2-5-zoll-usb-c-3-2-gen-2-auf-sata-iii-bis-zu-6-gbps-externes-gehause-fur-ssd-und-hdd-in-hohe-9-5mm-7mm-uasp-unterstutzt-sata-gehause-mit-usb-c-3-1kabel-werkzeugfreie-montage",
+              "ugreen-usb-c-hub-4k-60hz-usb-c-adapter-mit-hdmi-sd-tf-kartenleser-3-usb-3-0-usb-c-dock-kompatibel-mit-macbook-pro-air-ipad-pro-surface-pro-7-imac-mac-mini-m1-galaxy-tab-s8-s7-usw"
             ]
           }
         }
