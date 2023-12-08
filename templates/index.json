@@ -8,6 +8,20 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "disabled": true,
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_22506f4b-6e09-4aa4-9d18-8110c30c6721.webp?v=1699578679",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_daf88c9a-161f-4bad-bb61-3f5cb33887d4.webp?v=1699578677",
+            "text_color": "#ffffff",
+            "title": "Ugreen <strong style=\"background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\">Cyber Monday<\/strong> Flash-Sale!",
+            "subtitle": "<strong style=\"background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\"> Nur für kurze Zeit - <\/strong> sichern Sie sich jetzt unschlagbare Angebote.",
+            "button_text": "Mehr Erfahren",
+            "link": "\/pages\/black-friday-cyber-monday",
+            "className": ""
+          }
+        },
         "ug-index-carousel-11": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -59,43 +73,14 @@
             "link": "https:\/\/de.ugreen.com\/pages\/ugreen-powerroam-2200-portable-powerstation-solargenerator",
             "className": ""
           }
-        },
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_22506f4b-6e09-4aa4-9d18-8110c30c6721.webp?v=1699578679",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_daf88c9a-161f-4bad-bb61-3f5cb33887d4.webp?v=1699578677",
-            "text_color": "#ffffff",
-            "title": "Ugreen <strong style=\"background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\">Cyber Monday<\/strong> Flash-Sale!",
-            "subtitle": "<strong style=\"background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\"> Nur für kurze Zeit - <\/strong> sichern Sie sich jetzt unschlagbare Angebote.",
-            "button_text": "Mehr Erfahren",
-            "link": "\/pages\/black-friday-cyber-monday",
-            "className": ""
-          }
-        },
-        "86777b6a-bde9-4981-9d0b-274743aba41c": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/pc_cf7eef57-0054-4cc2-b9dc-97732059d15b.png?v=1700463738",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/m.png?v=1700463733",
-            "text_color": "#ffffff",
-            "title": "BLACK FRIDAY <strong style=\"background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\">GEWINNSPIEL<\/strong>",
-            "subtitle": "17.-26.November",
-            "button_text": "Jetzt Teilnehmen",
-            "link": "https:\/\/de.ugreen.com\/pages\/giveaway",
-            "className": "buy-more-save-more"
-          }
         }
       },
       "block_order": [
+        "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-11",
         "ug-index-carousel-1",
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "758dee12-0c83-4073-ab52-baa690d72db1",
-        "86777b6a-bde9-4981-9d0b-274743aba41c"
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
