@@ -11,8 +11,8 @@
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_22506f4b-6e09-4aa4-9d18-8110c30c6721.webp?v=1699578679",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_daf88c9a-161f-4bad-bb61-3f5cb33887d4.webp?v=1699578677",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Ugreen-Weihnachtsangebote-2.webp?v=1702004317",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/ugreen-weihnachtsangebote.webp?v=1702004339",
             "text_color": "#ffffff",
             "title": "Feiern Sie die Jahreszeit mit Ugreen",
             "subtitle": "Bis zu 40% Rabatt auf besondere Weihnachtsangebote",
@@ -34,19 +34,6 @@
             "className": "swiper_1"
           }
         },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "Erweitern Sie lhre Kreativitat",
-            "button_text": "Jetzt kaufen",
-            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
-            "className": ""
-          }
-        },
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -60,8 +47,22 @@
             "className": ""
           }
         },
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "text_color": "#ffffff",
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "Erweitern Sie lhre Kreativitat",
+            "button_text": "Jetzt kaufen",
+            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
+            "className": ""
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EUpc-min.png?v=1696842410",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU.png?v=1696842369",
@@ -77,8 +78,8 @@
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-11",
-        "ug-index-carousel-1",
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
+        "ug-index-carousel-1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a"
       ],
       "custom_css": [
@@ -92,6 +93,7 @@
     },
     "ug-index-image": {
       "type": "ug-index-image",
+      "disabled": true,
       "custom_css": [
 
       ],
