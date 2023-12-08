@@ -24,10 +24,10 @@
         "pc_image": "shopify:\/\/shop_images\/banner_pc_43fad11f-57b1-4f34-aef1-e47776677734.webp",
         "mobile_image": "shopify:\/\/shop_images\/banner_mo.webp",
         "title": "Feiern Sie die <br> Jahreszeit mit Ugreen",
-        "subtitle": "Bis zu <b style=\"color: #FEFEA5;\">40%<\/b> Rabatt auf besondere Weihnachtsangebote",
-        "email_btn_text": "Sign Up Now",
-        "email_tips": "Use it to stack up your savings during our Black Friday event!",
-        "time": "Nov. 27. 2023"
+        "subtitle": "Bis zu <b style=\"color: #FEFEA5;\">30%<\/b> Rabatt auf besondere Weihnachtsangebote",
+        "email_btn_text": "",
+        "email_tips": "",
+        "time": ""
       }
     },
     "black_friday_step": {
@@ -189,7 +189,7 @@
         "item_type": "default",
         "section_id": "tabs_product",
         "section_icon": "",
-        "section_title": "Bis zu 40% Rabatt",
+        "section_title": "Bis zu 30% Rabatt",
         "sub_title": "",
         "list_all": "6",
         "title_color": "#000000",
@@ -227,7 +227,7 @@
           "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
           "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
         ],
-        "title": "Black Friday Heißer Verkauf",
+        "title": "Weihnachts Heißer Verkauf",
         "subtitle": "",
         "section_id": "ug-product-list",
         "pc_product_type": "column",
