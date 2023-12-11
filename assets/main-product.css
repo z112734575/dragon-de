@@ -790,6 +790,9 @@ button.t4s-product__description_readm:hover {
     right: -18px;
   }
 }
+#MainContent .t4s-flicky-slider .flickityt4s-button {
+  background: #ccc;
+}
   #MainContent .t4s-flicky-slider .flickityt4s-button:hover {
     background: black;
   }
