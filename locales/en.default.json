@@ -708,5 +708,31 @@
       "signup_form_success": "We will send you an email right before we open!",
       "password_link": "Enter using password"
     }
+  },
+  "smart_aliexpress_review": {
+    "box_reviews": {
+      "title_info": "Customer reviews",
+      "before_number": "Based on",
+      "after_number": "reviews"
+    },
+    "box_write": {
+      "title_write": "Write A Review",
+      "average_info": "Out of 5",
+      "before_star": "Your rating",
+      "input_name": "Your Name",
+      "input_email": "Your Email",
+      "input_text_area": "Enter your feedback here",
+      "input_photo": "Add photos",
+      "button_write": "Submit Review",
+      "message_error_character": "Please replace the '<,>' character with the equivalent character",
+      "message_error_file_upload": "Please upload a file smaller than 2m.",
+      "message_success": "Thank you!",
+      "message_fail": "Fail!"
+    },
+    "reviews_list": {
+      "view_product": "See product",
+      "reply": "Shop owner replied: ",
+      "button_load_more": "Load more"
+    }
   }
 }

@@ -713,5 +713,82 @@
     "page_titles": {
       "not_found": "404 Nicht gefunden"
     }
+  },
+  "smart_aliexpress_review": {
+    "sort_box": {
+      "date": "Nach Datum sortieren",
+      "content": "Nach Inhalt sortieren",
+      "reviews": "Bewertungen sortieren",
+      "pictures": "Nach Foto sortieren",
+      "rating": "Nach Tarif sortieren"
+    },
+    "box_write": {
+      "input_name": "Ihren Namen",
+      "before_star": "Deine Bewertung",
+      "input_email": "Deine E-Mail",
+      "input_photo": "Foto hinzufügen",
+      "title_write": "Eine Rezension schreiben",
+      "button_write": "Bewertung abschicken",
+      "message_fail": "Erfolglos übermittelt!",
+      "write_cancel": "Stornieren",
+      "input_text_area": "Geben Sie hier Ihr Feedback ein",
+      "message_success": "Danke schön!",
+      "message_error_character": "Bitte ersetzen Sie das Zeichen „<,>“ durch das entsprechende Zeichen",
+      "message_error_file_upload": "Bitte laden Sie eine Datei hoch, die kleiner als 4 MB ist.",
+      "message_error_video_upload": "Bitte laden Sie eine Videodatei hoch, die kleiner als 50 MB ist",
+      "message_error_type_media_upload": "Diese Datei wird nicht unterstützt.",
+      "purchase_to_leave_reviews": "Bitte tätigen Sie einen Kauf über diese E-Mail-Adresse, um uns Bewertungen zu hinterlassen.",
+      "log_in_to_leave_reviews": "Bitte melden Sie sich bei einem Konto an, um uns Bewertungen zu hinterlassen.",
+      "purchase_to_a_specific_product": "Bitte kaufen Sie dieses Produkt über diese E-Mail-Adresse, um uns Bewertungen zu hinterlassen."
+    },
+    "thank_you": {
+      "des": "Diese Nachricht wird nach 8 Sekunden automatisch geschlossen.",
+      "title": "Ihre Bewertung wurde übermittelt!"
+    },
+    "empty_page": {
+      "des": "Für dieses Produkt gibt es keine Bewertung. Seien Sie der Erste, der es bewertet",
+      "title": "Kundenbewertungen"
+    },
+    "box_reviews": {
+      "title_info": "Kundenbewertungen",
+      "all_reviews": "Alle Bewertungen",
+      "after_number": "Bewertungen",
+      "average_info": "von 5",
+      "before_number": "Bezogen auf",
+      "highlight_tab": "Bewertungen für andere Produkte",
+      "reviews_tab": "Rezensionen"
+    },
+    "reviews_list": {
+      "reply": "antwortete",
+      "read_more": "Weiterlesen",
+      "view_product": "Siehe Produkt",
+      "button_load_more": "Mehr laden",
+      "purchased": "Gekauft"
+    },
+    "discount": {
+      "action": "Weitermachen",
+      "badge": "Erhalten Sie einen Rabatt von {{discount_value}}",
+      "des": "Wir versenden es auch per E-Mail",
+      "photo": "Laden Sie Fotobewertungen hoch, um sofort {{discount_value}} Rabatt zu erhalten!",
+      "title": "Verwenden Sie den folgenden Rabattcode für {{discount_value}} Rabatt auf Ihren nächsten Einkauf",
+      "coupon_waiting_message": "Vielen Dank, dass Sie unser Produkt bewertet haben. Der Rabattcode wird Ihnen per E-Mail zugesandt, sobald die Bewertung genehmigt wurde."
+    },
+    "qa": {
+      "qaAnswerField": "Deine Antwort",
+      "qaQuestionField": "Ihre Frage",
+      "qaTitle": "Fragen",
+      "qaFormTitle": "Stelle eine Frage",
+      "qaQuestionTitle": "Frage:",
+      "qaAnswerTitle": "Antwort:",
+      "qaStoreOwnerBadge": "Ladenbesitzer",
+      "qaPastBuyerBadge": "Ehemaliger Kunde",
+      "qaSuccessMessage": "Danke schön!",
+      "qaFailMessage": "Erfolglos übermittelt!",
+      "qaAskQuestionBtn": "Stelle eine Frage",
+      "qaSubmitQuestionBtn": "Frage abschicken",
+      "qaSubmitAnswerBtn": "Antwort einreichen",
+      "qaReplyBtn": "Antwort",
+      "qaLoadMoreAnswerBtn": "Weitere Antworten anzeigen"
+    }
   }
 }
