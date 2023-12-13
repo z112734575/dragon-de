@@ -113,9 +113,9 @@
       "type": "ug-index-whybuy",
       "settings": {
         "reason1": "lokales Lager",
-        "reason2": "30-tägige risikofreie Probe",
+        "reason2": "14-tägige risikofreie Probe",
         "reason3": "2-jährige Produktgarantie",
-        "reason4": "Mehrwertsteuer inklusive."
+        "reason4": "Mehrwertsteuer inklusive"
       }
     },
     "ug-index-category": {
