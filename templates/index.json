@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_1b96642b-9f6b-45df-a797-71e48ded2302.webp?v=1702435602",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_7339be40-a1ab-46b4-b8af-a001d860b91b.webp?v=1702435602",
+            "text_color": "#ffffff",
+            "title": "Nexode Pro-Serie",
+            "subtitle": "Leistung für die Pro",
+            "button_text": "Mehr Erfahren",
+            "link": "https:\/\/de.ugreen.com\/pages\/ugreen-nexode-pro-ladegerat-series",
+            "className": ""
+          }
+        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -23,6 +36,7 @@
         },
         "ug-index-carousel-1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
@@ -31,6 +45,19 @@
             "subtitle": "Erweitern Sie lhre Kreativitat",
             "button_text": "Jetzt kaufen",
             "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
+            "className": ""
+          }
+        },
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_38e0c847-69ad-445e-ad49-8f6455ff7eda.webp?v=1701173260",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile_352abe62-04f3-40af-a203-8afe650e999b.webp?v=1701173259",
+            "text_color": "#ffffff",
+            "title": "Ugreen NAS-Produkttest im Gange",
+            "subtitle": "Speicher der nächsten Generation. Grenzenlose Möglichkeiten.",
+            "button_text": "Jetzt anmelden",
+            "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
             "className": ""
           }
         },
@@ -47,41 +74,14 @@
             "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
             "className": "swiper_1"
           }
-        },
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_pc_38e0c847-69ad-445e-ad49-8f6455ff7eda.webp?v=1701173260",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/banner_mobile_352abe62-04f3-40af-a203-8afe650e999b.webp?v=1701173259",
-            "text_color": "#ffffff",
-            "title": "Ugreen NAS-Produkttest im Gange",
-            "subtitle": "Speicher der nächsten Generation. Grenzenlose Möglichkeiten.",
-            "button_text": "Jetzt anmelden",
-            "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
-            "className": ""
-          }
-        },
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__pc_1b96642b-9f6b-45df-a797-71e48ded2302.webp?v=1702435602",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU__mo_7339be40-a1ab-46b4-b8af-a001d860b91b.webp?v=1702435602",
-            "text_color": "#ffffff",
-            "title": "Nexode Pro-Serie",
-            "subtitle": "Leistung für die Pro",
-            "button_text": "Mehr Erfahren",
-            "link": "https:\/\/de.ugreen.com\/pages\/ugreen-nexode-pro-ladegerat-series",
-            "className": ""
-          }
         }
       },
       "block_order": [
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "ug-index-carousel-1",
-        "ug-index-carousel-11",
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a"
+        "ug-index-carousel-11"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
