@@ -102,7 +102,7 @@
         "title": "Nexode Pro-Serie",
         "subtitle": "Leistung für die Pro",
         "button_text": "Mehr Erfahren",
-        "link": "https:\/\/de.ugreen.com\/pages\/ugreen-nexode-pro-ladegerat-series",
+        "link": "https:\/\/de.ugreen.com\/pages\/ugreen-revodok-series-new-release",
         "text_color": "#ffffff",
         "className": "",
         "custom_style": ".banner_left .topImageText {\n    top: 12.292vw;\n    text-align: left;\n    max-width: 1280px;\n    margin: 0 auto;\nleft: 30%\n}\n@media (max-width: 767px) {\n.banner_left .topImageText {\n    text-align: center;\n    top: 15%;\n    left: 50%;\n}\n}"
