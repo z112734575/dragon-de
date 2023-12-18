@@ -156,7 +156,10 @@
 </div>
                   <script>
                     if(wiindow.innerWidth < 768) {
-                      document.querySelector('.mo_video_bg').play()
+                      setTimeout(()=>{
+                        document.querySelector('.mo_video_bg').play()  
+                      })
+                      
                     }
                   </script>
 {%- if general_block -%}
