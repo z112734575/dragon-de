@@ -154,14 +154,6 @@
         </div>
     {{-html_layout[1]-}}
 </div>
-                  <script>
-                    if(wiindow.innerWidth < 768) {
-                      setTimeout(()=>{
-                        document.querySelector('.mo_video_bg').play()  
-                      }，3000)
-                      
-                    }
-                  </script>
 {%- if general_block -%}
     {{ 'general-block.css' | asset_url | stylesheet_tag }}
 {%- endif -%}
