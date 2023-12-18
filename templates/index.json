@@ -396,17 +396,6 @@
     "ug-index-blog": {
       "type": "ug-index-blog",
       "blocks": {
-        "825b9746-c7d0-4d97-a9ef-ba573b1ebc66": {
-          "type": "ug-index-blog-item",
-          "settings": {
-            "title": "Ugreen bereitet innovative Produktdemo für die IFA 2023 vor",
-            "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/ifa-invitation.png?v=1695637158",
-            "date": "",
-            "description": "",
-            "link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-bereitet-innovative-produktdemo-fur-die-ifa-2023-vor",
-            "tag": "Events"
-          }
-        },
         "2f682d42-1614-4781-ba3e-ff7d3fb6f30b": {
           "type": "ug-index-blog-item",
           "settings": {
@@ -415,6 +404,17 @@
             "date": "",
             "description": "",
             "link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-stellt-den-powerroam-2200-vor",
+            "tag": "News"
+          }
+        },
+        "825b9746-c7d0-4d97-a9ef-ba573b1ebc66": {
+          "type": "ug-index-blog-item",
+          "settings": {
+            "title": "Ugreen präsentiert die Nexode Pro Serie, die ein blitzschnelles Ladeerlebnis bietet",
+            "blog_img_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nexode-pro.webp?v=1702891094",
+            "date": "",
+            "description": "",
+            "link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-prasentiert-die-nexode-pro-serie",
             "tag": "News"
           }
         },
@@ -431,8 +431,8 @@
         }
       },
       "block_order": [
-        "825b9746-c7d0-4d97-a9ef-ba573b1ebc66",
         "2f682d42-1614-4781-ba3e-ff7d3fb6f30b",
+        "825b9746-c7d0-4d97-a9ef-ba573b1ebc66",
         "fe469495-d8cb-424c-af61-09b08c7155ab"
       ],
       "settings": {
