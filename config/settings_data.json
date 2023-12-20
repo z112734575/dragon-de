@@ -1787,6 +1787,18 @@
               "lb_cl": "#ec0101"
             }
           },
+          "db7ba95c-c382-4194-b6e2-8f71dfa66358": {
+            "type": "menu",
+            "settings": {
+              "title": "Nexode Pro",
+              "url": "https:\/\/de.ugreen.com\/collections\/ugreen-nexode-pro-gan-ladegerat-schnellladegerat",
+              "open_link": "_self",
+              "menu": "",
+              "icon": "",
+              "lb": "Neu",
+              "lb_cl": ""
+            }
+          },
           "6f549481-942e-4bc2-82b1-22f3208c3997": {
             "type": "menu",
             "settings": {
@@ -1851,6 +1863,7 @@
           "04271eda-28ca-43ad-a9d1-dafc24a3c5d7",
           "2e3d6610-df5a-4b86-9ff9-f4a4f33a6162",
           "b03e5afc-f3b2-4cb5-90fa-7f964e20c6cd",
+          "db7ba95c-c382-4194-b6e2-8f71dfa66358",
           "6f549481-942e-4bc2-82b1-22f3208c3997",
           "06092e7b-58cd-4790-9721-e86ddd55d4a0",
           "c29a9b68-4239-4e8c-bdcc-d598dd95b6f4",
