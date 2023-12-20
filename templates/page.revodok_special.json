@@ -6,7 +6,7 @@
         "template--14860304777278__5e0813ac-3a58-4e9d-8b1c-a5159d713070-custom_text1": {
           "type": "custom_text",
           "settings": {
-            "text": "Expand Your Creativity",
+            "text": "Erweitern Sie Ihre Kreativität",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#d9d9d9",
@@ -39,7 +39,7 @@
         "4b4a5a28-466c-43c2-9f66-bd4d63a93fa11": {
           "type": "custom_text",
           "settings": {
-            "text": "Ultra-high speed, Ultra-high efficiency",
+            "text": "Ultra-hohe Geschwindigkeit, Ultra-hohe Effizienz",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#d9d9d9",
@@ -69,7 +69,7 @@
             "btn_close": true,
             "source_btn": "btn_custom",
             "click_action": "data-open-mfp-video",
-            "button_text": "Watch Video",
+            "button_text": "Video Ansehen",
             "fontf": "inherit",
             "button_icon_w": 16,
             "button_style": "outline",
@@ -156,7 +156,7 @@
         "template--14860304777278__5e0813ac-3a58-4e9d-8b1c-a5159d713070-custom_text-1": {
           "type": "custom_text",
           "settings": {
-            "text": "Expand Your Creativity",
+            "text": "Erweitern Sie Ihre Kreativität",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#d9d9d9",
@@ -189,7 +189,7 @@
         "4b4a5a28-466c-43c2-9f66-bd4d63a93fa1": {
           "type": "custom_text",
           "settings": {
-            "text": "Ultra-high speed, Ultra-high efficiency",
+            "text": "Ultra-hohe Geschwindigkeit, Ultra-hohe Effizienz",
             "remove_br_tag": false,
             "fontf": "inherit",
             "text_cl": "#d9d9d9",
@@ -219,7 +219,7 @@
             "btn_close": true,
             "source_btn": "btn_custom",
             "click_action": "data-open-mfp-video",
-            "button_text": "Watch Video",
+            "button_text": "Video Ansehen",
             "fontf": "inherit",
             "button_icon_w": 16,
             "button_style": "outline",
