@@ -51,6 +51,24 @@
         ]
       }
     },
+    "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_pc.png?v=1678159419",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_mobile.png?v=1678159403",
+        "title": "Erweitern Sie mehr, übertragen Sie schneller",
+        "title1": "",
+        "desc": "Erweitern Sie Ihre Gerätefähigkeiten",
+        "product_list": [
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "90912-1",
+          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
+          "15532",
+          "ugreen-revodok-pro-210-docking-station",
+          "ugreen-revodok-pro-313-docking-station"
+        ]
+      }
+    },
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0": {
       "type": "ug_AppleEvent_product",
       "settings": {
@@ -83,24 +101,6 @@
           "ugreen-hitune-t3-bluetooth-kopfhorer-in-ear-kopfhorer-kabellos-mit-10mm-treiber-aktive-gerauschunterdruckung-tiefer-bass-bluetooth-5-2-24-std-spielzeit-ki-anruf-rauschunterdruckung-schwarz",
           "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll",
           "ugreen-tablet-stander-verstellbare-tablet-halterung"
-        ]
-      }
-    },
-    "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
-      "type": "ug_AppleEvent_product",
-      "settings": {
-        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_pc.png?v=1678159419",
-        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/module_3_banner_mobile.png?v=1678159403",
-        "title": "Erweitern Sie mehr, übertragen Sie schneller",
-        "title1": "",
-        "desc": "Erweitern Sie Ihre Gerätefähigkeiten",
-        "product_list": [
-          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
-          "90912-1",
-          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
-          "15532",
-          "ugreen-revodok-pro-210-docking-station",
-          "ugreen-revodok-pro-313-docking-station"
         ]
       }
     },
@@ -152,9 +152,9 @@
     "3155cc81-16ac-4d96-80a0-275500abaea3",
     "6967a717-93bc-4497-be73-932211a5ca08",
     "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2",
+    "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
     "abc75bc4-3f51-473a-b1dd-e439f37a15a0",
     "a9c6f060-5fbd-455c-8321-f99aa9934742",
-    "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
     "f90b406c-dc40-4977-8197-1d3539cf54ad",
     "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
     "d9e994f6-1a15-45ff-baf3-961a802d3cdf"
