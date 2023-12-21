@@ -106,13 +106,45 @@
         "93bb2fd0-9d98-4b6c-8125-381181d3feb7": {
           "type": "Item",
           "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/revodok.jpg?v=1703129149",
+            "article_title": "Ugreen stellt Revodok Hubs & Docking-Stationen für mehr Benutzerkreativität und -produktivität vor",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-stellt-revodok-hubs-docking-stationen"
+          }
+        },
+        "04132775-d453-4ba9-813a-61812b9ff7e0": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/nexode-pro-blog-cover.webp",
+            "article_title": "Ugreen präsentiert die Nexode Pro Serie, die ein blitzschnelles Ladeerlebnis bietet",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-prasentiert-die-nexode-pro-serie"
+          }
+        }
+      },
+      "block_order": [
+        "93bb2fd0-9d98-4b6c-8125-381181d3feb7",
+        "04132775-d453-4ba9-813a-61812b9ff7e0"
+      ],
+      "settings": {
+        "box_title": "News",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "b63255bf-7cdf-4fee-9e55-c62e0603bd21": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "38113c8e-2237-40d7-9e40-5ab0bacd13c8": {
+          "type": "Item",
+          "settings": {
             "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/t\/9\/assets\/300w-1695635990148_1000x.jpg?v=1695635991",
             "article_title": "Ugreen hat das weltweit erste 300 W GaNFast Desktop-Ladegerät mit 5 Anschlüssen vorgestellt",
             "article_time": "28. Aug 2023",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-300w-ganfast-desktop-ladegerat"
           }
         },
-        "04132775-d453-4ba9-813a-61812b9ff7e0": {
+        "35ab38f3-160a-41cb-8174-eaf8ef15a187": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/t\/9\/assets\/ifa-2023-1692866690542_1000x.png?v=1692866692",
@@ -121,7 +153,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/news\/ugreen-bereitet-innovative-produktdemo-fur-die-ifa-2023-vor"
           }
         },
-        "f0d504c6-b9fc-4482-b75e-5ee31e4aaa64": {
+        "842544c4-3de7-46e4-9735-6579be586f63": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/ugreen-powerroam-portable-power-station-1200.webp?v=1695637908",
@@ -132,12 +164,12 @@
         }
       },
       "block_order": [
-        "93bb2fd0-9d98-4b6c-8125-381181d3feb7",
-        "04132775-d453-4ba9-813a-61812b9ff7e0",
-        "f0d504c6-b9fc-4482-b75e-5ee31e4aaa64"
+        "38113c8e-2237-40d7-9e40-5ab0bacd13c8",
+        "35ab38f3-160a-41cb-8174-eaf8ef15a187",
+        "842544c4-3de7-46e4-9735-6579be586f63"
       ],
       "settings": {
-        "box_title": "News",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -325,6 +357,7 @@
     "70ab769d-49b9-4078-9378-130a70a775b9",
     "b8e8c9f9-4031-482a-b69a-652c18751758",
     "3880a3fc-8fea-4ed3-b0e2-f18136f84742",
+    "b63255bf-7cdf-4fee-9e55-c62e0603bd21",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
