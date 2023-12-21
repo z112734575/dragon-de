@@ -286,11 +286,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/off-grid-living-101-ultimativer-leitfaden"
           }
+        },
+        "847ac625-ec04-47a5-b53f-167a4cb15ae2": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/nintendo-switch-1697436893708-280645_1200x.webp?v=1697467704",
+            "article_title": "9 einfache Tipps, um die Nintendo Switch nicht zu überladen",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/nintendo-switch-ladt-nicht-auf"
+          }
         }
       },
       "block_order": [
         "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "d6210b58-1db2-4cd3-8b30-00f859f88dd0"
+        "d6210b58-1db2-4cd3-8b30-00f859f88dd0",
+        "847ac625-ec04-47a5-b53f-167a4cb15ae2"
       ],
       "settings": {
         "box_title": "Tipps & Anleitungen",
