@@ -226,13 +226,35 @@
         "4cdb9098-9852-4c07-b765-3edf7731d3d4": {
           "type": "Item",
           "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/power-station-vs-generator-1691473609829-253193_1200x.webp?v=1695015487",
+            "article_title": "Tragbare Powerstation vs. Generator: Was ist das Richtige für Sie?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbares-powerstation-vs-generator"
+          }
+        }
+      },
+      "block_order": [
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+      ],
+      "settings": {
+        "box_title": "",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "9b9f28e8-4efb-4979-93c0-8328c519a37d": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "a0fabd12-a192-47e7-9ebc-e87a55628dc5": {
+          "type": "Item",
+          "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-solar-panel-1693898560563-251160_1200x.jpg?v=1695015478",
             "article_title": "Solargenerator 101: Was ist ein Solargenerator und wie funktioniert er?",
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/solar\/solargenerator-101-was-ist-ein-solargenerator"
           }
         },
-        "a2403be5-f166-4a60-90e8-e31c21f56a27": {
+        "afccba5f-bb0d-4efd-95ff-d808919b35f7": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-1692588902815-345952_1200x.jpg?v=1695015482",
@@ -241,7 +263,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbare-powerstations-101-umfassender-leitfaden"
           }
         },
-        "21218523-e123-4f0e-8d1e-4b634d27188b": {
+        "17b45105-0404-456f-aa8d-3cc594c4802f": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/camping-power-station-1692066625801-613884_1200x.webp?v=1695015485",
@@ -252,9 +274,9 @@
         }
       },
       "block_order": [
-        "4cdb9098-9852-4c07-b765-3edf7731d3d4",
-        "a2403be5-f166-4a60-90e8-e31c21f56a27",
-        "21218523-e123-4f0e-8d1e-4b634d27188b"
+        "a0fabd12-a192-47e7-9ebc-e87a55628dc5",
+        "afccba5f-bb0d-4efd-95ff-d808919b35f7",
+        "17b45105-0404-456f-aa8d-3cc594c4802f"
       ],
       "settings": {
         "box_title": "",
@@ -580,11 +602,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbare-powerstations-101-umfassender-leitfaden"
           }
+        },
+        "492b9992-099f-46d8-8c3c-95e7c5f726cf": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/niedrige-latenz-101-1691120170774-217048_1200x.png?v=1695015450",
+            "article_title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/bluetooth\/niedrige-latenz-101-die-latenz-von-bluetooth-kopfhorern-verstehen"
+          }
         }
       },
       "block_order": [
         "e03fd24a-8eec-4492-9bd6-60491e0c9978",
-        "45dd08ee-5f8e-404e-85be-9cc2afea0121"
+        "45dd08ee-5f8e-404e-85be-9cc2afea0121",
+        "492b9992-099f-46d8-8c3c-95e7c5f726cf"
       ],
       "settings": {
         "box_title": "",
@@ -644,6 +676,7 @@
     "b63255bf-7cdf-4fee-9e55-c62e0603bd21",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
     "563503ed-23b6-4ee5-bc1b-277df07eb9b8",
+    "9b9f28e8-4efb-4979-93c0-8328c519a37d",
     "38368ef6-891d-47e5-8e28-9c3ec0533806",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
