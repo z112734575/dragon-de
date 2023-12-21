@@ -220,6 +220,28 @@
         "blog_url": "https:\/\/youtu.be\/Azs4REVc4k0"
       }
     },
+    "563503ed-23b6-4ee5-bc1b-277df07eb9b8": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-or-gaming-laptop-1696747310083_5e01a459-1291-4730-ae78-e1cb9222544c-378532_1200x.jpg?v=1696804882",
+            "article_title": "Steam Deck vs. Gaming Laptop: Was ist die beste Wahl?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/steam-deck-vs-gaming-laptop"
+          }
+        }
+      },
+      "block_order": [
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+      ],
+      "settings": {
+        "box_title": "",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
     "fabc6a84-fefb-4705-a404-2565883c824e": {
       "type": "blog_buying_guides",
       "blocks": {
@@ -433,6 +455,7 @@
     "3880a3fc-8fea-4ed3-b0e2-f18136f84742",
     "b63255bf-7cdf-4fee-9e55-c62e0603bd21",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
+    "563503ed-23b6-4ee5-bc1b-277df07eb9b8",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
     "38116198-d05d-496c-863f-6157a2e5e888",
