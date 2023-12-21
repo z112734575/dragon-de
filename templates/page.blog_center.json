@@ -266,41 +266,105 @@
         "blog_url": "https:\/\/youtu.be\/CN7Sawwqfrg"
       }
     },
+    "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "1395b89f-e3ac-4948-aedf-3547299d09d1": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/stromverbrauch-von-laptops-1699926816501-293563_1200x.jpg?v=1699948368",
+            "article_title": "Stromverbrauch von Laptops: Wie viel Watt verbraucht ein Laptop pro Tag\/Monat\/Jahr?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/stromverbrauch-von-laptops-wie-viel-watt-verbraucht-ein-laptop"
+          }
+        },
+        "d6210b58-1db2-4cd3-8b30-00f859f88dd0": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/off-grid-living-1698127272516-764608_1200x.jpg?v=1698213415",
+            "article_title": "Off-Grid Living 101: Alles, was Sie wissen müssen | Ultimativer Leitfaden 2023",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/off-grid-living-101-ultimativer-leitfaden"
+          }
+        }
+      },
+      "block_order": [
+        "1395b89f-e3ac-4948-aedf-3547299d09d1",
+        "d6210b58-1db2-4cd3-8b30-00f859f88dd0"
+      ],
+      "settings": {
+        "box_title": "Tipps & Anleitungen",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "38116198-d05d-496c-863f-6157a2e5e888": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "d3e68550-e1c8-478d-bb5c-d3650e593e9e": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/gaming-laptop-docking-station.jpg?v=1695362239",
+            "article_title": "Die ultimative Gaming-Laptop-Dockingstation-Anleitung",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/gaming-laptop-dockingstation-anleitung"
+          }
+        },
+        "9cb675f9-6775-4058-a8c4-bad2de5cc33f": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/steam-deck.jpg?v=1695361840",
+            "article_title": "Wie können Sie Steam Deck verwenden, um Ihre PC-Spiele zu steuern?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/wie-konnen-sie-steam-deck-verwenden-um-ihre-pc-spiele-zu-steuern"
+          }
+        },
+        "7981253d-0594-4ab3-aa81-e81587fcdcc3": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/niedrige-latenz-101.jpg?v=1695354487",
+            "article_title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/bluetooth\/niedrige-latenz-101-die-latenz-von-bluetooth-kopfhorern-verstehen"
+          }
+        }
+      },
+      "block_order": [
+        "d3e68550-e1c8-478d-bb5c-d3650e593e9e",
+        "9cb675f9-6775-4058-a8c4-bad2de5cc33f",
+        "7981253d-0594-4ab3-aa81-e81587fcdcc3"
+      ],
+      "settings": {
+        "box_title": "",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4": {
       "type": "blog_tags_list",
       "blocks": {
         "9bc8c207-e682-462e-8f32-244fb1d428b6": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/apple-mif-certified.jpg?v=1695361937",
-            "article_title": "Apple MFi zertifiziert: Der endgültige Leitfaden",
-            "article_time": "18. Jul 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/apple-mfi-zertifiziert-leitfaden"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/iphone-battery-1700529787554-874100_1200x.webp?v=1700620471",
+            "article_title": "Die Entwicklung des iPhone-Akkus und der Ladetechnik",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/die-entwicklung-des-iphone-akkus-und-der-ladetechnik"
           }
         },
-        "39814391-5be9-4cdd-827e-9abde1d8e311": {
+        "24774e1c-fdc0-43d9-95c7-a358f64bbb23": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2022\/03\/wireless-charging-speed_%E6%97%A0%E6%96%87%E6%A1%88.png?resize=1140%2C680&ssl=1",
-            "article_title": "Wie schnell kann kabelloses Aufladen sein?",
-            "article_time": "18. April 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/kabelloses-laden"
-          }
-        },
-        "53205389-7563-4f7c-afd8-b0fc3a4246d7": {
-          "type": "Item",
-          "settings": {
-            "article_cover": "https:\/\/i0.wp.com\/blogtest.ugreen.com\/wp-content\/uploads\/2020\/09\/1-PD%E6%8A%80%E6%9C%AF.png?resize=836%2C488&ssl=1",
-            "article_title": "Power Delivery: Alles, was Sie über USB-PD-Technik wissen sollten",
-            "article_time": "18. April 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/usb-pd-technologie"
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/lofepo4-battery-1698738661836-449014_1200x.jpg?v=1698793537",
+            "article_title": "LiFePO4-Batterie: Alles was man wissen muss (Gesamtübersicht 2023)",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/was-ist-eine-lifepo4-batterie"
           }
         }
       },
       "block_order": [
         "9bc8c207-e682-462e-8f32-244fb1d428b6",
-        "39814391-5be9-4cdd-827e-9abde1d8e311",
-        "53205389-7563-4f7c-afd8-b0fc3a4246d7"
+        "24774e1c-fdc0-43d9-95c7-a358f64bbb23"
       ],
       "settings": {
         "box_title": "Tech-Trends",
@@ -308,44 +372,44 @@
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
     },
-    "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
+    "97138084-19fe-47dd-a106-f8f81f964275": {
       "type": "blog_tags_list",
       "blocks": {
-        "1395b89f-e3ac-4948-aedf-3547299d09d1": {
+        "e03fd24a-8eec-4492-9bd6-60491e0c9978": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/gaming-laptop-docking-station.jpg?v=1695362239",
-            "article_title": "Die ultimative Gaming-Laptop-Dockingstation-Anleitung",
-            "article_time": "21. Jul 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/gaming-laptop-dockingstation-anleitung"
+            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/apple-mif-certified.jpg?v=1695361937",
+            "article_title": "Apple MFi zertifiziert: Der endgültige Leitfaden",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/apple-mfi-zertifiziert-leitfaden"
           }
         },
-        "77fed6cf-0712-4597-b35c-4f2ff374ba2f": {
+        "1e8d10d5-0911-4923-a90c-90234b9cdb46": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/steam-deck.jpg?v=1695361840",
-            "article_title": "Wie können Sie Steam Deck verwenden, um Ihre PC-Spiele zu steuern?",
-            "article_time": "26. Jul 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/wie-konnen-sie-steam-deck-verwenden-um-ihre-pc-spiele-zu-steuern"
+            "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2022\/03\/wireless-charging-speed_%E6%97%A0%E6%96%87%E6%A1%88.png?resize=1140%2C680&ssl=1",
+            "article_title": "Wie schnell kann kabelloses Aufladen sein?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/kabelloses-laden"
           }
         },
-        "01647c83-3338-4394-a79d-27c41c5d85b2": {
+        "7ec6e54e-af06-4a97-8c4f-f2b2e41756a9": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/niedrige-latenz-101.jpg?v=1695354487",
-            "article_title": "Niedrige Latenz 101: Die Latenz von Bluetooth-Kopfhörern verstehen",
-            "article_time": "4. Aug 2023",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/bluetooth\/niedrige-latenz-101-die-latenz-von-bluetooth-kopfhorern-verstehen"
+            "article_cover": "https:\/\/i0.wp.com\/blogtest.ugreen.com\/wp-content\/uploads\/2020\/09\/1-PD%E6%8A%80%E6%9C%AF.png?resize=836%2C488&ssl=1",
+            "article_title": "Power Delivery: Alles, was Sie über USB-PD-Technik wissen sollten",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/usb-pd-technologie"
           }
         }
       },
       "block_order": [
-        "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "77fed6cf-0712-4597-b35c-4f2ff374ba2f",
-        "01647c83-3338-4394-a79d-27c41c5d85b2"
+        "e03fd24a-8eec-4492-9bd6-60491e0c9978",
+        "1e8d10d5-0911-4923-a90c-90234b9cdb46",
+        "7ec6e54e-af06-4a97-8c4f-f2b2e41756a9"
       ],
       "settings": {
-        "box_title": "Tipps & Anleitungen",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -360,7 +424,9 @@
     "b63255bf-7cdf-4fee-9e55-c62e0603bd21",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
     "fabc6a84-fefb-4705-a404-2565883c824e",
+    "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
+    "38116198-d05d-496c-863f-6157a2e5e888",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
-    "d1a92bb6-e4ab-4d92-9421-602bf1386bad"
+    "97138084-19fe-47dd-a106-f8f81f964275"
   ]
 }
