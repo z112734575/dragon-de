@@ -231,10 +231,20 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/steam-deck-vs-gaming-laptop"
           }
+        },
+        "ac23a4b6-9c0a-411c-b771-65efc2d8af47": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/types-of-usb-cable-1701141518266-554055_1200x.jpg?v=1701200032",
+            "article_title": "Der ultimative Leitfaden zu den Typen von USB-Kabeln: Steckverbinder und Versionen",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/typen-von-usb-kabeln"
+          }
         }
       },
       "block_order": [
-        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4",
+        "ac23a4b6-9c0a-411c-b771-65efc2d8af47"
       ],
       "settings": {
         "box_title": "",
@@ -294,13 +304,35 @@
         "1395b89f-e3ac-4948-aedf-3547299d09d1": {
           "type": "Item",
           "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/laptop-charger-wattage-1701851743225_990d2163-404b-4be2-a250-96300dedf0f4-517735_1200x.jpg?v=1702028664",
+            "article_title": "Wie viel Watt braucht man, um einen Laptop aufzuladen (3 Methoden!)",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-viel-watt-braucht-man-um-einen-laptop-aufzuladen"
+          }
+        }
+      },
+      "block_order": [
+        "1395b89f-e3ac-4948-aedf-3547299d09d1"
+      ],
+      "settings": {
+        "box_title": "Tipps & Anleitungen",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "95b2a6ef-b394-44d6-8651-b1ef7ca844ad": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "1990f196-1e0d-4392-a7df-b19a79fa0601": {
+          "type": "Item",
+          "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/stromverbrauch-von-laptops-1699926816501-293563_1200x.jpg?v=1699948368",
             "article_title": "Stromverbrauch von Laptops: Wie viel Watt verbraucht ein Laptop pro Tag\/Monat\/Jahr?",
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/stromverbrauch-von-laptops-wie-viel-watt-verbraucht-ein-laptop"
           }
         },
-        "d6210b58-1db2-4cd3-8b30-00f859f88dd0": {
+        "565ecd1e-a012-4210-b2d0-353d065a0add": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/off-grid-living-1698127272516-764608_1200x.jpg?v=1698213415",
@@ -309,7 +341,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/off-grid-living-101-ultimativer-leitfaden"
           }
         },
-        "847ac625-ec04-47a5-b53f-167a4cb15ae2": {
+        "5e0661df-3ec5-45d6-879a-d2aa321a838a": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/nintendo-switch-1697436893708-280645_1200x.webp?v=1697467704",
@@ -320,12 +352,12 @@
         }
       },
       "block_order": [
-        "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "d6210b58-1db2-4cd3-8b30-00f859f88dd0",
-        "847ac625-ec04-47a5-b53f-167a4cb15ae2"
+        "1990f196-1e0d-4392-a7df-b19a79fa0601",
+        "565ecd1e-a012-4210-b2d0-353d065a0add",
+        "5e0661df-3ec5-45d6-879a-d2aa321a838a"
       ],
       "settings": {
-        "box_title": "Tipps & Anleitungen",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -458,6 +490,7 @@
     "563503ed-23b6-4ee5-bc1b-277df07eb9b8",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
+    "95b2a6ef-b394-44d6-8651-b1ef7ca844ad",
     "38116198-d05d-496c-863f-6157a2e5e888",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
     "97138084-19fe-47dd-a106-f8f81f964275"
