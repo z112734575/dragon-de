@@ -231,10 +231,20 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/solar\/solargenerator-101-was-ist-ein-solargenerator"
           }
+        },
+        "a2403be5-f166-4a60-90e8-e31c21f56a27": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-1692588902815-345952_1200x.jpg?v=1695015482",
+            "article_title": "Tragbare Powerstations 101: Ein umfassender Leitfaden",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbare-powerstations-101-umfassender-leitfaden"
+          }
         }
       },
       "block_order": [
-        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4",
+        "a2403be5-f166-4a60-90e8-e31c21f56a27"
       ],
       "settings": {
         "box_title": "",
@@ -551,10 +561,20 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/solar\/solargenerator-101-was-ist-ein-solargenerator"
           }
+        },
+        "45dd08ee-5f8e-404e-85be-9cc2afea0121": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-1692588902815-345952_1200x.jpg?v=1695015482",
+            "article_title": "Tragbare Powerstations 101: Ein umfassender Leitfaden",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbare-powerstations-101-umfassender-leitfaden"
+          }
         }
       },
       "block_order": [
-        "e03fd24a-8eec-4492-9bd6-60491e0c9978"
+        "e03fd24a-8eec-4492-9bd6-60491e0c9978",
+        "45dd08ee-5f8e-404e-85be-9cc2afea0121"
       ],
       "settings": {
         "box_title": "",
