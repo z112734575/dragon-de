@@ -454,11 +454,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/was-ist-eine-lifepo4-batterie"
           }
+        },
+        "578356e8-0287-4b09-b164-b7fcd52bccf1": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/usb-basics-1695105633687-579182_1200x.webp?v=1695190433",
+            "article_title": "USB-Grundlagen: Typen, Geschwindigkeiten und warum sie so beliebt sind",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/usb-connector"
+          }
         }
       },
       "block_order": [
         "9bc8c207-e682-462e-8f32-244fb1d428b6",
-        "24774e1c-fdc0-43d9-95c7-a358f64bbb23"
+        "24774e1c-fdc0-43d9-95c7-a358f64bbb23",
+        "578356e8-0287-4b09-b164-b7fcd52bccf1"
       ],
       "settings": {
         "box_title": "Tech-Trends",
