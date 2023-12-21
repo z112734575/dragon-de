@@ -231,10 +231,30 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbares-powerstation-vs-generator"
           }
+        },
+        "dac6ab5a-7599-4061-8e64-fce2fa0a1d1c": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/ugreen-usb-ethernet-adapter-collection-1690875055799-576383_1200x.webp?v=1695015445",
+            "article_title": "Der vollständige Leitfaden für einen USB-Ethernet-Adapter | UGREEN",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/adapter\/lan-usb-ethernet-adapters"
+          }
+        },
+        "b1d4326c-96c7-48d9-abe1-2492c68e0c65": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/magsafe-charger-1690536404477-396988_1200x.webp?v=1695015465",
+            "article_title": "Die Pro und Contra des Apple MagSafe-Ladegeräts",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/die-pro-und-contra-des-apple-magsafe-ladegerats"
+          }
         }
       },
       "block_order": [
-        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4",
+        "dac6ab5a-7599-4061-8e64-fce2fa0a1d1c",
+        "b1d4326c-96c7-48d9-abe1-2492c68e0c65"
       ],
       "settings": {
         "box_title": "",
