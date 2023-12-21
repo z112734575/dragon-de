@@ -309,10 +309,30 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-viel-watt-braucht-man-um-einen-laptop-aufzuladen"
           }
+        },
+        "f654f7a7-6c46-4135-a3f5-48f7cfc7afa3": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/low-battery-laptop-1702284295583-320016_1200x.webp?v=1702360128",
+            "article_title": "So laden Sie Ihren Laptop mühelos mit einem HDMI-Kabel auf",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/kabel\/so-laden-sie-ihren-laptop-muhelos-mit-einem-hdmi-kabel-auf?ose=false"
+          }
+        },
+        "7cb06f13-ce1a-47f7-a6ab-23864c57dcf1": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/phone-gets-hot-while-charging-1702950329905_1200x.jpg?v=1702953264",
+            "article_title": "Warum wird mein Handy beim Aufladen heiß? Verhindern Sie es mit 7 Tipps",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/warum-wird-mein-handy-beim-aufladen-hei"
+          }
         }
       },
       "block_order": [
-        "1395b89f-e3ac-4948-aedf-3547299d09d1"
+        "1395b89f-e3ac-4948-aedf-3547299d09d1",
+        "f654f7a7-6c46-4135-a3f5-48f7cfc7afa3",
+        "7cb06f13-ce1a-47f7-a6ab-23864c57dcf1"
       ],
       "settings": {
         "box_title": "Tipps & Anleitungen",
