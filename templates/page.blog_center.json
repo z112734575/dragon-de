@@ -320,7 +320,39 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-viel-watt-braucht-man-um-einen-laptop-aufzuladen"
           }
         },
-        "f654f7a7-6c46-4135-a3f5-48f7cfc7afa3": {
+        "26ec2ebc-b976-4611-b648-ab8f486d64ae": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/phone-chargers-get-hot-1694511546542-785168_1200x.jpg?v=1695015462",
+            "article_title": "Warum werden manche Ladegeräte heiß und wie kann man sie kühlen?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/warum-werden-manche-ladegerate-hei"
+          }
+        }
+      },
+      "block_order": [
+        "1395b89f-e3ac-4948-aedf-3547299d09d1",
+        "26ec2ebc-b976-4611-b648-ab8f486d64ae"
+      ],
+      "settings": {
+        "box_title": "Tipps & Anleitungen",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "1c3b97d1-c7fd-4c94-96e1-69e72d54dc46": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "cd5dd2d4-4d30-4801-b863-ae11772267a7": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/laptop-charger-wattage-1701851743225_990d2163-404b-4be2-a250-96300dedf0f4-517735_1200x.jpg?v=1702028664",
+            "article_title": "Wie viel Watt braucht man, um einen Laptop aufzuladen (3 Methoden!)",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-viel-watt-braucht-man-um-einen-laptop-aufzuladen"
+          }
+        },
+        "37567bc3-fecc-40d7-84b6-c747bd4da2ef": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/low-battery-laptop-1702284295583-320016_1200x.webp?v=1702360128",
@@ -329,7 +361,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/kabel\/so-laden-sie-ihren-laptop-muhelos-mit-einem-hdmi-kabel-auf?ose=false"
           }
         },
-        "7cb06f13-ce1a-47f7-a6ab-23864c57dcf1": {
+        "0ad77bad-13f8-4999-9e2a-64f890544712": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/phone-gets-hot-while-charging-1702950329905_1200x.jpg?v=1702953264",
@@ -340,12 +372,12 @@
         }
       },
       "block_order": [
-        "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "f654f7a7-6c46-4135-a3f5-48f7cfc7afa3",
-        "7cb06f13-ce1a-47f7-a6ab-23864c57dcf1"
+        "cd5dd2d4-4d30-4801-b863-ae11772267a7",
+        "37567bc3-fecc-40d7-84b6-c747bd4da2ef",
+        "0ad77bad-13f8-4999-9e2a-64f890544712"
       ],
       "settings": {
-        "box_title": "Tipps & Anleitungen",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -530,6 +562,7 @@
     "563503ed-23b6-4ee5-bc1b-277df07eb9b8",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
+    "1c3b97d1-c7fd-4c94-96e1-69e72d54dc46",
     "95b2a6ef-b394-44d6-8651-b1ef7ca844ad",
     "38116198-d05d-496c-863f-6157a2e5e888",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
