@@ -226,13 +226,35 @@
         "4cdb9098-9852-4c07-b765-3edf7731d3d4": {
           "type": "Item",
           "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-solar-panel-1693898560563-251160_1200x.jpg?v=1695015478",
+            "article_title": "Solargenerator 101: Was ist ein Solargenerator und wie funktioniert er?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/solar\/solargenerator-101-was-ist-ein-solargenerator"
+          }
+        }
+      },
+      "block_order": [
+        "4cdb9098-9852-4c07-b765-3edf7731d3d4"
+      ],
+      "settings": {
+        "box_title": "",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "38368ef6-891d-47e5-8e28-9c3ec0533806": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "0af0ebed-22ae-42cf-ac50-c111f175058c": {
+          "type": "Item",
+          "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-or-gaming-laptop-1696747310083_5e01a459-1291-4730-ae78-e1cb9222544c-378532_1200x.jpg?v=1696804882",
             "article_title": "Steam Deck vs. Gaming Laptop: Was ist die beste Wahl?",
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/steam-deck-vs-gaming-laptop"
           }
         },
-        "ac23a4b6-9c0a-411c-b771-65efc2d8af47": {
+        "40924568-f52c-4b9a-ad2b-e336f4f8e606": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/types-of-usb-cable-1701141518266-554055_1200x.jpg?v=1701200032",
@@ -241,7 +263,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/typen-von-usb-kabeln"
           }
         },
-        "3a960e5a-91ac-4874-b1f2-9beac2d75aa7": {
+        "83b3c62b-8125-4d0c-99ac-0529ca9eb1aa": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-controller-1695868021351-711406_1200x.jpg?v=1695893388",
@@ -252,9 +274,9 @@
         }
       },
       "block_order": [
-        "4cdb9098-9852-4c07-b765-3edf7731d3d4",
-        "ac23a4b6-9c0a-411c-b771-65efc2d8af47",
-        "3a960e5a-91ac-4874-b1f2-9beac2d75aa7"
+        "0af0ebed-22ae-42cf-ac50-c111f175058c",
+        "40924568-f52c-4b9a-ad2b-e336f4f8e606",
+        "83b3c62b-8125-4d0c-99ac-0529ca9eb1aa"
       ],
       "settings": {
         "box_title": "",
@@ -328,11 +350,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/warum-werden-manche-ladegerate-hei"
           }
+        },
+        "b456c596-1713-4791-95d8-897949996afa": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/wie-viele-kwh-ein-haushalt-taglich-monatlich-und-jahrlich-1693274673440-732896_1200x.jpg?v=1695015459",
+            "article_title": "Wie viele kWh ein Haushalt täglich, monatlich und jährlich in den USA verbraucht (mit Datentabelle)",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/hausbatterie-backup\/wie-viele-kwh-ein-haushalt-taglich-monatlich-und-jahrlich"
+          }
         }
       },
       "block_order": [
         "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "26ec2ebc-b976-4611-b648-ab8f486d64ae"
+        "26ec2ebc-b976-4611-b648-ab8f486d64ae",
+        "b456c596-1713-4791-95d8-897949996afa"
       ],
       "settings": {
         "box_title": "Tipps & Anleitungen",
@@ -514,13 +546,35 @@
         "e03fd24a-8eec-4492-9bd6-60491e0c9978": {
           "type": "Item",
           "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/portable-power-station-solar-panel-1693898560563-251160_1200x.jpg?v=1695015478",
+            "article_title": "Solargenerator 101: Was ist ein Solargenerator und wie funktioniert er?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/solar\/solargenerator-101-was-ist-ein-solargenerator"
+          }
+        }
+      },
+      "block_order": [
+        "e03fd24a-8eec-4492-9bd6-60491e0c9978"
+      ],
+      "settings": {
+        "box_title": "",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "94775d3e-d334-4c63-935f-40a91c258107": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "43a931d0-5b5e-48d7-b8cc-bb8f4de4db89": {
+          "type": "Item",
+          "settings": {
             "article_cover": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/apple-mif-certified.jpg?v=1695361937",
             "article_title": "Apple MFi zertifiziert: Der endgültige Leitfaden",
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/apple-mfi-zertifiziert-leitfaden"
           }
         },
-        "1e8d10d5-0911-4923-a90c-90234b9cdb46": {
+        "dd3e2907-1316-4b88-9835-243f46f0a5fa": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/i0.wp.com\/blog.ugreen.com\/wp-content\/uploads\/2022\/03\/wireless-charging-speed_%E6%97%A0%E6%96%87%E6%A1%88.png?resize=1140%2C680&ssl=1",
@@ -529,7 +583,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/kabelloses-laden"
           }
         },
-        "7ec6e54e-af06-4a97-8c4f-f2b2e41756a9": {
+        "341b5b47-c055-4840-94ee-bd2b22e00994": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/i0.wp.com\/blogtest.ugreen.com\/wp-content\/uploads\/2020\/09\/1-PD%E6%8A%80%E6%9C%AF.png?resize=836%2C488&ssl=1",
@@ -540,9 +594,9 @@
         }
       },
       "block_order": [
-        "e03fd24a-8eec-4492-9bd6-60491e0c9978",
-        "1e8d10d5-0911-4923-a90c-90234b9cdb46",
-        "7ec6e54e-af06-4a97-8c4f-f2b2e41756a9"
+        "43a931d0-5b5e-48d7-b8cc-bb8f4de4db89",
+        "dd3e2907-1316-4b88-9835-243f46f0a5fa",
+        "341b5b47-c055-4840-94ee-bd2b22e00994"
       ],
       "settings": {
         "box_title": "",
@@ -560,12 +614,14 @@
     "b63255bf-7cdf-4fee-9e55-c62e0603bd21",
     "a87d8fe4-d9c6-4c7b-82cc-c209de5a354e",
     "563503ed-23b6-4ee5-bc1b-277df07eb9b8",
+    "38368ef6-891d-47e5-8e28-9c3ec0533806",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
     "1c3b97d1-c7fd-4c94-96e1-69e72d54dc46",
     "95b2a6ef-b394-44d6-8651-b1ef7ca844ad",
     "38116198-d05d-496c-863f-6157a2e5e888",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
-    "97138084-19fe-47dd-a106-f8f81f964275"
+    "97138084-19fe-47dd-a106-f8f81f964275",
+    "94775d3e-d334-4c63-935f-40a91c258107"
   ]
 }
