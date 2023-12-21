@@ -240,11 +240,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/typen-von-usb-kabeln"
           }
+        },
+        "3a960e5a-91ac-4874-b1f2-9beac2d75aa7": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/steam-deck-controller-1695868021351-711406_1200x.jpg?v=1695893388",
+            "article_title": "Steam-Deck-Controller-Kompatibilitätsleitfaden: Das volle Potenzial Ihres Gamerlebnisses entfesseln",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/dockingstation\/steam-deck-controller-kompatibilitatsleitfaden"
+          }
         }
       },
       "block_order": [
         "4cdb9098-9852-4c07-b765-3edf7731d3d4",
-        "ac23a4b6-9c0a-411c-b771-65efc2d8af47"
+        "ac23a4b6-9c0a-411c-b771-65efc2d8af47",
+        "3a960e5a-91ac-4874-b1f2-9beac2d75aa7"
       ],
       "settings": {
         "box_title": "",
