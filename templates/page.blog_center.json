@@ -240,11 +240,21 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/tragbare-powerstations-101-umfassender-leitfaden"
           }
+        },
+        "21218523-e123-4f0e-8d1e-4b634d27188b": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/camping-power-station-1692066625801-613884_1200x.webp?v=1695015485",
+            "article_title": "[Ultimativer Leitfaden]Wie wählt man eine tragbare Powerstation für das Camping aus?",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/wahlt-man-eine-tragbare-powerstation-fur-das-camping-aus"
+          }
         }
       },
       "block_order": [
         "4cdb9098-9852-4c07-b765-3edf7731d3d4",
-        "a2403be5-f166-4a60-90e8-e31c21f56a27"
+        "a2403be5-f166-4a60-90e8-e31c21f56a27",
+        "21218523-e123-4f0e-8d1e-4b634d27188b"
       ],
       "settings": {
         "box_title": "",
