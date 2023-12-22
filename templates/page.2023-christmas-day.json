@@ -64,22 +64,14 @@
           "settings": {
             "tabs_title": "Ladesets Rabatt",
             "product_list": [
+              "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
               "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
-              "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
-              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
               "90597a",
               "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
-              "pb560",
-              "ugreen-140w-usb-c-ladegerat-3-ports-gan-wandladegerat-3-stuck-100w-usb-c-ladekabel",
-              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
-              "ugreen-100w-power-bank-20000mah-powerbank",
+              "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
               "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
-              "ugreen-30w-usb-c-ladegerat-gan-ii-tech-schnellladegerat",
-              "ugreen-nexode-20w-usb-c-ladegerat-usb-c-netzteil-gan-ii-pd-3-0-usb-c-power-adapter-pps-ladestecker-kompatibel-mit-iphone-14-pro-max-14-plus-13-12-se-2022-watch-8-ipad-pro-s22-a53-pixel-usw",
-              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-ladestecker-pps-pd-3-0-super-fast-charger-mit-2m-usb-c-kabel",
-              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-pd-usb-c-ladestecker-ladeadapter-unterstutzt-20w-kompatibel-mit-iphone-14-pro-max-14-13-12-se-2022-ipad-pro-macbook-air-galaxy-s22-pixel-7-pro-6",
-              "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck"
+              "nexode-300w-5-anschluss-gan-schnellladegerat",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
             ]
           }
         },
@@ -184,6 +176,18 @@
               "ugreen-usb-c-hub-4k-60hz-usb-c-adapter-mit-hdmi-sd-tf-kartenleser-3-usb-3-0-usb-c-dock-kompatibel-mit-macbook-pro-air-ipad-pro-surface-pro-7-imac-mac-mini-m1-galaxy-tab-s8-s7-usw"
             ]
           }
+        },
+        "6b4b7f23-c3e7-4a02-8e97-e11760144f33": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Sets",
+            "product_list": [
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+            ]
+          }
         }
       },
       "block_order": [
@@ -193,7 +197,8 @@
         "d34e9e35-2164-4636-9cba-8b376d673c3c",
         "d32d3af3-a85b-403d-a072-d3a641d20c22",
         "4257284a-f054-4967-9383-cfb70ce7bec8",
-        "464be3c3-55ff-49eb-bed4-7bfb270e7553"
+        "464be3c3-55ff-49eb-bed4-7bfb270e7553",
+        "6b4b7f23-c3e7-4a02-8e97-e11760144f33"
       ],
       "settings": {
         "item_type": "default",
@@ -236,8 +241,8 @@
       "settings": {
         "item_type": "default",
         "product_list": [
-          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
           "90597a",
+          "90912-1",
           "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
           "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw",
           "nexode-300w-5-anschluss-gan-schnellladegerat",
@@ -247,7 +252,8 @@
           "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
           "15114",
           "15054a",
-          "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh"
+          "ugreen-tragbare-powerstation-solargenerator-lifepo4-batterie-2300w-2048wh",
+          "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
         ],
         "title": "Weihnachts Heißer Verkauf",
         "subtitle": "",
