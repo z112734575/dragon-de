@@ -26,7 +26,7 @@
           content_ids: ['{{ product.id }}'],
           image_link:'{{product.featured_image | product_img_url: "large" | replace: "//", "https://"}}'
       });
-      
+      console.log('in product----------button-------', $('button[data-atc-form]'))
       $('button[data-atc-form]').on('click',function(){
         console.log('in product----------add to cart')
         mkq('track', 'AddToCart', {
