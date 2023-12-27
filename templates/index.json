@@ -10,6 +10,7 @@
       "blocks": {
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE____pc.webp?v=1702016608",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/DE__mo.webp?v=1702016606",
@@ -18,6 +19,32 @@
             "subtitle": "Bis zu 30% Rabatt auf besondere Weihnachtsangebote",
             "button_text": "Mehr Erfahren",
             "link": "https:\/\/de.ugreen.com\/pages\/ugreen-christmas-sales",
+            "className": ""
+          }
+        },
+        "ug-index-carousel-11": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
+            "text_color": "#ffffff",
+            "title": "Trauen Sie sich, nach mehr zu streben",
+            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
+            "button_text": "Mehr erfahren",
+            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
+            "className": "swiper_1"
+          }
+        },
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "text_color": "#ffffff",
+            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
+            "subtitle": "Erweitern Sie lhre Kreativitat",
+            "button_text": "Jetzt kaufen",
+            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
             "className": ""
           }
         },
@@ -34,20 +61,6 @@
             "className": ""
           }
         },
-        "ug-index-carousel-11": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_banner_pc.webp?v=1693898908",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/300w_Banner_mobile.webp?v=1693898907",
-            "text_color": "#ffffff",
-            "title": "Trauen Sie sich, nach mehr zu streben",
-            "subtitle": "Nexode 300W 5-Port GaN Schnellladegerät",
-            "button_text": "Mehr erfahren",
-            "link": "\/products\/nexode-300w-5-anschluss-gan-schnellladegerat",
-            "className": "swiper_1"
-          }
-        },
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -60,28 +73,14 @@
             "link": "https:\/\/de.ugreen.com\/pages\/nas-storage-test",
             "className": ""
           }
-        },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
-            "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "Erweitern Sie lhre Kreativitat",
-            "button_text": "Jetzt kaufen",
-            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs",
-            "className": ""
-          }
         }
       },
       "block_order": [
         "758dee12-0c83-4073-ab52-baa690d72db1",
-        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
-        "ug-index-carousel-1"
+        "ug-index-carousel-1",
+        "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
