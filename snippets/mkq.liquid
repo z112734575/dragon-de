@@ -18,6 +18,7 @@
 
   {% if template.name == 'product' && product %}
     <script type="text/javascript">
+    console.log('in product----------')
       mkq('track', 'ViewContent', {
           value: '{{ product.price | money_without_currency | remove: '.' | remove: ','  | divided_by: 100.0 }}',
           currency: window.ShopifyAnalytics.meta.currency,
@@ -26,7 +27,8 @@
           image_link:'{{product.featured_image | product_img_url: "large" | replace: "//", "https://"}}'
       });
       
-      $('.single_add_to_cart_button').on('click',function(){
+      $('button[data-atc-form]').on('click',function(){
+        console.log('in product----------add to cart')
         mkq('track', 'AddToCart', {
             value: '{{ product.price | money_without_currency | remove: '.' | remove: ','  | divided_by: 100.0 }}',
             currency: '{{ shop.currency }}',
@@ -50,6 +52,7 @@
 
   {% if template.name == 'index' %}
     <script type="text/javascript">
+    console.log('in index----------')
       mkq('track', 'Home');
     </script>
   {% endif %}
