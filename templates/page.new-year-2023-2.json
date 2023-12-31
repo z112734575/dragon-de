@@ -3,18 +3,18 @@
     "black_friday_banner": {
       "type": "black_friday_banner",
       "custom_css": [
-        "@media (max-width: 768px) {.black_friday_banner .banner_content {top: 40px; }.banner_content h3:after {display: none;}}"
+        "@media (max-width: 768px) {.black_friday_banner .banner_content {top: 40px; } .banner_content h3:after {display: none; }}"
       ],
       "settings": {
         "action_id": "1bcca63e-17bc-4843-87d4-8d8c7cd4068c",
         "is_pre": false,
-        "pc_image": "shopify:\/\/shop_images\/EU__pc_5be76210-f7f3-42c4-9741-9302a265c697.webp",
-        "mobile_image": "shopify:\/\/shop_images\/EU__mo_9fc2f51c-b07c-496a-a979-6c0f11423997.webp",
-        "title": "<span>Ugreen<\/span> <strong>Cyber Monday <\/strong> <span>Flash-Sale!<\/span>",
-        "subtitle": "Nur für kurze Zeit - sichern Sie sich jetzt unschlagbare Angebote.",
+        "pc_image": "shopify:\/\/shop_images\/3840_1840.png",
+        "mobile_image": "shopify:\/\/shop_images\/750_1160.png",
+        "title": "<span>2024 <\/span> <strong>Neujahrsverkauf <\/strong> <span><\/span>",
+        "subtitle": "Bis zu 30 % Rabatt auf coole Gadgets für ein kleines Budget",
         "email_btn_text": "Sign Up Now",
         "email_tips": "Use it to stack up your savings during our Black Friday event!",
-        "time": "Nov. 27. 2023"
+        "time": ""
       }
     },
     "black_friday_step": {
@@ -176,11 +176,18 @@
         "item_type": "black_friday",
         "section_id": "tabs_product",
         "section_icon": "",
-        "section_title": "Bis zu 40% Rabatt",
+        "section_title": "Bis zu 30% Rabatt",
         "sub_title": "",
         "list_all": "6",
         "title_color": "#ffffff",
         "product_item_bg_color": "#242320",
+        "tabs_bar_bg_color": "transparent",
+        "tab_bg_color": "#fff5d3",
+        "tab_text_color": "#ff8818",
+        "tab_boder_color": "#fff5d3",
+        "tab_active_bg_color": "#ff8818",
+        "tab_active_text_color": "#fff",
+        "tab_active_border_color": "#ff8818",
         "pc_product_item_img_size": "80%",
         "mobile_product_item_img_size": "80%",
         "pc_row": "4",
@@ -190,6 +197,8 @@
         "mobile_product_sale_width": "60px",
         "pc_padding": "35px 0 80px 0",
         "mobile_padding": "5px 0 80px 0",
+        "buy_btn_text": "Jetzt Kaufen",
+        "learn_btn_text": "Mehr Erfahren",
         "need_load_more": false,
         "load_more_default_count": 4,
         "show_sale_flag": true,
@@ -214,8 +223,10 @@
           "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
           "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc"
         ],
-        "title": "Black Friday Heißer Verkauf",
+        "title": "Heißer Verkauf",
         "subtitle": "",
+        "buy_btn_text": "Jetzt Kaufen",
+        "learn_btn_text": "Mehr Erfahren",
         "section_id": "ug-product-list",
         "pc_product_type": "column",
         "mobile_product_type": "row",
