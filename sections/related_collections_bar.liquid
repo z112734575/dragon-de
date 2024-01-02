@@ -58,11 +58,7 @@
 {% assign related_collections = collection.metafields.custom.related_collections.value.collections.value %}
 
 {% if related_collections != blank %}
-<script>
-  console.log('size---', {{related_collections.count}})
-  console.log('size---2', {{related_collections.length}})
-  console.log('size---4', {{collection.metafields.custom.related_collections.value.collections.size}})
-</script>
+
   <div class="related_icons_bar_wrap">
     <div class="related_icons_bar" style="{% if related_collections.count < 4 %} justify-content: center;{% endif %}">
       {% for item in related_collections %}
