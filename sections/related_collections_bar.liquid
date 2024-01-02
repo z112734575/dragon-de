@@ -60,7 +60,7 @@
 {% if related_collections != blank %}
 
   <div class="related_icons_bar_wrap">
-    <div class="related_icons_bar">
+    <div class="related_icons_bar" style="{% if related_collections.count < 4 %} justify-content: center;{% endif %}">
       {% for item in related_collections %}
         {% assign handle = item.handle | prepend: '/collections/' %}
         {%- capture active -%}
