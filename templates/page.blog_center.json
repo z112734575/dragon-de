@@ -563,7 +563,29 @@
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4": {
       "type": "blog_tags_list",
       "blocks": {
-        "9bc8c207-e682-462e-8f32-244fb1d428b6": {
+        "item_GJNVLG": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/qi-wireless-charging-1703570241933-977307_1200x.jpg?v=1703603005",
+            "article_title": "Was ist Qi-Laden, und wie funktioniert es? 2024",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/was-ist-qi-laden-und-wie-funktioniert-es"
+          }
+        }
+      },
+      "block_order": [
+        "item_GJNVLG"
+      ],
+      "settings": {
+        "box_title": "Tech-Trends",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "blog_tags_list_W7Ez7P": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "item_VLaiW8": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/iphone-battery-1700529787554-874100_1200x.webp?v=1700620471",
@@ -572,7 +594,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/die-entwicklung-des-iphone-akkus-und-der-ladetechnik"
           }
         },
-        "24774e1c-fdc0-43d9-95c7-a358f64bbb23": {
+        "item_kDUG4m": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/lofepo4-battery-1698738661836-449014_1200x.jpg?v=1698793537",
@@ -581,7 +603,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/powerstation\/was-ist-eine-lifepo4-batterie"
           }
         },
-        "578356e8-0287-4b09-b164-b7fcd52bccf1": {
+        "item_HMhNYE": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/usb-basics-1695105633687-579182_1200x.webp?v=1695190433",
@@ -592,12 +614,12 @@
         }
       },
       "block_order": [
-        "9bc8c207-e682-462e-8f32-244fb1d428b6",
-        "24774e1c-fdc0-43d9-95c7-a358f64bbb23",
-        "578356e8-0287-4b09-b164-b7fcd52bccf1"
+        "item_VLaiW8",
+        "item_kDUG4m",
+        "item_HMhNYE"
       ],
       "settings": {
-        "box_title": "Tech-Trends",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -704,6 +726,7 @@
     "95b2a6ef-b394-44d6-8651-b1ef7ca844ad",
     "38116198-d05d-496c-863f-6157a2e5e888",
     "bf504a34-6bb9-4b51-8576-a6eafaec39e4",
+    "blog_tags_list_W7Ez7P",
     "97138084-19fe-47dd-a106-f8f81f964275",
     "94775d3e-d334-4c63-935f-40a91c258107"
   ]
