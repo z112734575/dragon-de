@@ -395,16 +395,48 @@
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad": {
       "type": "blog_tags_list",
       "blocks": {
-        "1395b89f-e3ac-4948-aedf-3547299d09d1": {
+        "item_ghEWHd": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/laptop-charger-wattage-1701851743225_990d2163-404b-4be2-a250-96300dedf0f4-517735_1200x.jpg?v=1702028664",
-            "article_title": "Wie viel Watt braucht man, um einen Laptop aufzuladen (3 Methoden!)",
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/istockphoto-1601945061-612x612_1200x.jpg?v=1705893523",
+            "article_title": "Wie Sie Ihr Telefon ohne Ladegerät aufladen (7 Methoden!)",
             "article_time": "",
-            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-viel-watt-braucht-man-um-einen-laptop-aufzuladen"
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-sie-ihr-telefon-ohne-ladegerat-aufladen"
           }
         },
-        "26ec2ebc-b976-4611-b648-ab8f486d64ae": {
+        "item_qtenmE": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/stream-from-phone-to-tv-with-hdmi-612173_1200x.jpg?v=1705343079",
+            "article_title": "Wie streamt man vom Handy auf den Fernseher mit HDMI? (9 Wege)",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/kabel\/wie-streamt-man-vom-handy-auf-den-fernseher-mit-hdmi"
+          }
+        }
+      },
+      "block_order": [
+        "item_ghEWHd",
+        "item_qtenmE"
+      ],
+      "settings": {
+        "box_title": "Tipps & Anleitungen",
+        "box_more_title": "More",
+        "box_more_url": "shopify:\/\/pages\/blog-center"
+      }
+    },
+    "blog_tags_list_iPapin": {
+      "type": "blog_tags_list",
+      "blocks": {
+        "item_CawLn6": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/dingtalk_20231205105142_165b2676-5de7-47ec-ba14-f8662d92bd7f-221320_1200x.jpg?v=1704763003",
+            "article_title": "Wie man einen Laptop ohne Ladegerät auflädt: Tipps für Dell, Lenovo, Asus",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-man-einen-laptop-ohne-ladegerat-aufladt"
+          }
+        },
+        "item_FB9a4X": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/phone-chargers-get-hot-1694511546542-785168_1200x.jpg?v=1695015462",
@@ -413,7 +445,7 @@
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/warum-werden-manche-ladegerate-hei"
           }
         },
-        "b456c596-1713-4791-95d8-897949996afa": {
+        "item_6bC4MH": {
           "type": "Item",
           "settings": {
             "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/wie-viele-kwh-ein-haushalt-taglich-monatlich-und-jahrlich-1693274673440-732896_1200x.jpg?v=1695015459",
@@ -424,12 +456,12 @@
         }
       },
       "block_order": [
-        "1395b89f-e3ac-4948-aedf-3547299d09d1",
-        "26ec2ebc-b976-4611-b648-ab8f486d64ae",
-        "b456c596-1713-4791-95d8-897949996afa"
+        "item_CawLn6",
+        "item_FB9a4X",
+        "item_6bC4MH"
       ],
       "settings": {
-        "box_title": "Tipps & Anleitungen",
+        "box_title": "",
         "box_more_title": "More",
         "box_more_url": "shopify:\/\/pages\/blog-center"
       }
@@ -722,6 +754,7 @@
     "38368ef6-891d-47e5-8e28-9c3ec0533806",
     "fabc6a84-fefb-4705-a404-2565883c824e",
     "d1a92bb6-e4ab-4d92-9421-602bf1386bad",
+    "blog_tags_list_iPapin",
     "1c3b97d1-c7fd-4c94-96e1-69e72d54dc46",
     "95b2a6ef-b394-44d6-8651-b1ef7ca844ad",
     "38116198-d05d-496c-863f-6157a2e5e888",
