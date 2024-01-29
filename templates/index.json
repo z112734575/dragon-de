@@ -8,6 +8,19 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/kv_0102_final_248476b1-c8f5-44b2-8a38-7274eac1c2cb.png?v=1705049359",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo.png?v=1705052939",
+            "text_color": "#ffffff",
+            "title": "UGREEN NASync Serie",
+            "subtitle": "<i><font color=\"#808080\">Netzwerkgebundener Speicher<\/font><br><font color=\"#FFC300\"><\/font><\/i>\nZukunftsweisendes Speichersystem.<br> Grenzenlose Möglichkeiten.",
+            "button_text": "Mehr Erfahren",
+            "link": "https:\/\/nas.ugreen.com\/pages\/ugreen-nas-storage-preheat?utm_source=de.ugreen.com&utm_medium=official_de&utm_campaign=top_banner",
+            "className": ""
+          }
+        },
         "758dee12-0c83-4073-ab52-baa690d72db1": {
           "type": "ug-index-carousel-item",
           "disabled": true,
@@ -32,19 +45,6 @@
             "subtitle": "Leistung für die Pro",
             "button_text": "Mehr Erfahren",
             "link": "https:\/\/de.ugreen.com\/collections\/ugreen-nexode-pro-gan-ladegerat-schnellladegerat",
-            "className": ""
-          }
-        },
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/kv_0102_final_248476b1-c8f5-44b2-8a38-7274eac1c2cb.png?v=1705049359",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo.png?v=1705052939",
-            "text_color": "#ffffff",
-            "title": "UGREEN NASync Serie",
-            "subtitle": "<i><font color=\"#808080\">Netzwerkgebundener Speicher<\/font><br><font color=\"#FFC300\"><\/font><\/i>\nZukunftsweisendes Speichersystem.<br> Grenzenlose Möglichkeiten.",
-            "button_text": "Mehr Erfahren",
-            "link": "https:\/\/nas.ugreen.com\/pages\/ugreen-nas-storage-preheat?utm_source=de.ugreen.com&utm_medium=official_de&utm_campaign=top_banner",
             "className": ""
           }
         },
@@ -77,9 +77,9 @@
         }
       },
       "block_order": [
+        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "ug-index-carousel-11",
         "ug-index-carousel-1"
       ],
