@@ -398,7 +398,7 @@
         "item_ghEWHd": {
           "type": "Item",
           "settings": {
-            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/istockphoto-1601945061-612x612_1200x.jpg?v=1705893523",
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/istockphoto-1601945061-612x612-285809_1200x.jpg?v=1705923175",
             "article_title": "Wie Sie Ihr Telefon ohne Ladegerät aufladen (7 Methoden!)",
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/wie-sie-ihr-telefon-ohne-ladegerat-aufladen"
@@ -603,10 +603,20 @@
             "article_time": "",
             "article_link": "https:\/\/de.ugreen.com\/blogs\/ladegerat\/was-ist-qi-laden-und-wie-funktioniert-es"
           }
+        },
+        "item_PXa8xj": {
+          "type": "Item",
+          "settings": {
+            "article_cover": "https:\/\/de.ugreen.com\/cdn\/shop\/articles\/what-is-a-lightning-cable_1200x.jpg?v=1706510293",
+            "article_title": "Was ist ein Lightning-Kabel: Ein umfassender Überblick",
+            "article_time": "",
+            "article_link": "https:\/\/de.ugreen.com\/blogs\/kabel\/was-ist-ein-lightning-kabel"
+          }
         }
       },
       "block_order": [
-        "item_GJNVLG"
+        "item_GJNVLG",
+        "item_PXa8xj"
       ],
       "settings": {
         "box_title": "Tech-Trends",
