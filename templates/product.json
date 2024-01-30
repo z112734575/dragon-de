@@ -75,6 +75,11 @@
             "price_sale_color": "#001107"
           }
         },
+        "klarna_PiK37E": {
+          "type": "klarna",
+          "settings": {
+          }
+        },
         "short_description": {
           "type": "short_description",
           "settings": {
@@ -286,6 +291,7 @@
         "title",
         "fae2b5d0-792b-4897-acfb-2adce51192b7",
         "price_review",
+        "klarna_PiK37E",
         "short_description",
         "499dbc35-5fcc-4406-a16a-539fb4222185",
         "description",
