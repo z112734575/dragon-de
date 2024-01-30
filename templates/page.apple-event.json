@@ -96,6 +96,7 @@
         "title1": "",
         "desc": "Verstellbar und für optimale Ansicht gestaltet",
         "product_list": [
+          "ugreen-2-in-1-magnetischer-ladestander-kabellose-ladestation-ladegerat-mit-usb-c-ladekabel-kompatibel-mit-iphone-14-pro-max-14-plus-14-pro-13-13-mini-13-pro-12-12-pro-airpods-3-2-pro",
           "ugreen-handy-stander-verstellbar-aluminium-handystander-fur-tisch-handyhalterung-handyhalter-schreibtisch-kompatibel-mit-iphone-14-13-12-pro-max-galaxy-s22-s21-ultra-huawei-p50-bis-7-9-zoll-grau",
           "ugreen-hitune-t3-bluetooth-kopfhorer-in-ear-kopfhorer-kabellos-mit-10mm-treiber-aktive-gerauschunterdruckung-tiefer-bass-bluetooth-5-2-24-std-spielzeit-ki-anruf-rauschunterdruckung-weiss",
           "ugreen-hitune-t3-bluetooth-kopfhorer-in-ear-kopfhorer-kabellos-mit-10mm-treiber-aktive-gerauschunterdruckung-tiefer-bass-bluetooth-5-2-24-std-spielzeit-ki-anruf-rauschunterdruckung-schwarz",
@@ -106,6 +107,7 @@
     },
     "f90b406c-dc40-4977-8197-1d3539cf54ad": {
       "type": "ug_AppleEvent_product",
+      "disabled": true,
       "settings": {
         "pc_image": "",
         "mobile_image": "",
