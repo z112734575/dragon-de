@@ -45,6 +45,7 @@
                 {% else %}
                   <p>{{ product.price | money }}</p>
                 {% endif %}
+                {% if product.available == true %}
                 <a
                   href="{{ product.url }}"
                   class="t4s-pr-item-btn t4s-pr-addtocart buy_now"
@@ -53,6 +54,11 @@
                   rel="nofollow"
                   >Jetzt Kaufen</a
                 >
+                {% else %}
+                    <a class="sold_out">
+                      {{ 'products.badge.sold_out' | t }}
+                    </a>
+                {% endif %}
               </div>
             </div>
             {% assign apple_product_text = product.metafields.custom.apple_short_desc.value %}
