@@ -55,7 +55,7 @@
                   >Jetzt Kaufen</a
                 >
                 {% else %}
-                    <a class="sold_out">
+                    <a class="sold_out" href="{{ product.url }}">
                       {{ 'products.badge.sold_out' | t }}
                     </a>
                 {% endif %}
