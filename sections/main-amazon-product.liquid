@@ -394,6 +394,8 @@ t4option0_0 | alt text
                                         endif  %}
                                     <h1 class="t4s-product__title" style="--title-family:var(--font-family-{{bk_stts.fnt_df_pr}});--title-style:{{bk_stts.txt_tr_pr}};--title-size:{{bk_stts.size_pr}}px;--title-weight:{{bk_stts.fw_pr}};--title-line-height:{{lh_pr}};--title-spacing:{{bk_stts.ls_pr}}px;--title-color:{{bk_stts.pr_title_color}};--title-color-hover:{{bk_stts.pr_title_color}};" {{ block.shopify_attributes }}>{{product.title}}</h1>
                                     {% comment %}ugreen{% endcomment %}
+                                {%- when 'klarna' -%}
+                                    <div id="klarna"></div>
                                 {%- when 'short_description' -%}
                                     {% if product.metafields.custom.short_description %}
                                         {% render "ug-short-description", product: product %}
@@ -1932,6 +1934,11 @@ t4option0_0 | alt text
 "default": "#ec0101"
 }
 ]
+},
+{
+"type": "klarna",
+"name": "klarna",
+"settings": []
 },
 {
 "type": "short_description",
