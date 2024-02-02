@@ -24,7 +24,7 @@
         "pc_image": "shopify:\/\/shop_images\/EU_pc.png",
         "mobile_image": "shopify:\/\/shop_images\/EU_mo.png",
         "title": "<strong style=\"    background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\">Valentinstag-Special!<\/strong>",
-        "subtitle": "<font color=\"#3498DB\">\nEs ist Zeit, 30 % Rabatt.<\/font><br><font color=\"#FFC300\"><\/font>",
+        "subtitle": "Genießen Sie <b style=\"color: #FEFEA5;\">30%<\/b> Rabatt auf unwiderstehliche Geschenke",
         "email_btn_text": "",
         "email_tips": "",
         "time": ""
