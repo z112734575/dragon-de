@@ -8,19 +8,6 @@
     "ug-index-carousel": {
       "type": "ug-index-carousel",
       "blocks": {
-        "758dee12-0c83-4073-ab52-baa690d72db1": {
-          "type": "ug-index-carousel-item",
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU_banner_pc.png?v=1706861226",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU_banner_mo.png?v=1706861221",
-            "text_color": "#222222",
-            "title": "Valentinstag-Special!",
-            "subtitle": "Genießen Sie 30% Rabatt auf unwiderstehliche Geschenke",
-            "button_text": "Mehr Erfahren",
-            "link": "https:\/\/de.ugreen.com\/pages\/valentinstag",
-            "className": "buy-more-save-more"
-          }
-        },
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -32,6 +19,19 @@
             "button_text": "Mehr Erfahren",
             "link": "https:\/\/nas.ugreen.com\/pages\/ugreen-nas-storage-preheat?utm_source=de.ugreen.com&utm_medium=official_de&utm_campaign=top_banner",
             "className": ""
+          }
+        },
+        "758dee12-0c83-4073-ab52-baa690d72db1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU_banner_pc.png?v=1706861226",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/EU_banner_mo.png?v=1706861221",
+            "text_color": "#222222",
+            "title": "Valentinstag-Special!",
+            "subtitle": "Genießen Sie 30% Rabatt auf unwiderstehliche Geschenke",
+            "button_text": "Mehr Erfahren",
+            "link": "https:\/\/de.ugreen.com\/pages\/valentinstag",
+            "className": "buy-more-save-more"
           }
         },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
@@ -76,8 +76,8 @@
         }
       },
       "block_order": [
-        "758dee12-0c83-4073-ab52-baa690d72db1",
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
+        "758dee12-0c83-4073-ab52-baa690d72db1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
         "ug-index-carousel-11",
         "ug-index-carousel-1"
