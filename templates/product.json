@@ -440,7 +440,6 @@
     },
     "product-recommendations": {
       "type": "product-recommendations",
-      "disabled": true,
       "settings": {
         "show": true,
         "design_heading": "1",
@@ -493,7 +492,6 @@
     },
     "recently-viewed-products": {
       "type": "recently_viewed",
-      "disabled": true,
       "settings": {
         "show": true,
         "design_heading": "1",
