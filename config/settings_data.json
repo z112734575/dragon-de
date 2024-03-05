@@ -1404,6 +1404,24 @@
               "all_collection_name": "All"
             }
           },
+          "tab_content_PceVtJ": {
+            "type": "tab_content",
+            "settings": {
+              "tab_id": 10,
+              "product_list": [
+                "90597a",
+                "ugreen-100w-power-bank-20000mah-powerbank",
+                "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+                "pb560",
+                "ugreen-wirless-magnetische-powerbank-10000mah"
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "shopify:\/\/collections\/powerbank",
+              "all_collection_name": ""
+            }
+          },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
             "type": "mega",
             "settings": {
@@ -1585,6 +1603,7 @@
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
           "78b2740a-8429-40a0-a215-81c59a5f224f",
+          "tab_content_PceVtJ",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
