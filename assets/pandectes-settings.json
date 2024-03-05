@@ -6,7 +6,7 @@
     "primaryLocale": "de",
     "adminMode": false
   },
-  "tsPublished": 1709622703,
+  "tsPublished": 1709622786,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -380,19 +380,1496 @@
   },
   "cookies": {
     "0": [
-
+      {
+        "name": "secure_customer_sig",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit dem Kundenlogin verwendet."
+        }
+      },
+      {
+        "name": "localization",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Lokalisierung von Shopify-Shops"
+        }
+      },
+      {
+        "name": "_cmp_a",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": "Wird zum Verwalten der Datenschutzeinstellungen des Kunden verwendet."
+        }
+      },
+      {
+        "name": "_tracking_consent",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Tracking-Einstellungen."
+        }
+      },
+      {
+        "name": "keep_alive",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit der Käuferlokalisierung verwendet."
+        }
+      },
+      {
+        "name": "cart_currency",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Das Cookie ist für die sichere Checkout- und Zahlungsfunktion auf der Website erforderlich. Diese Funktion wird von shopify.com bereitgestellt."
+        }
+      },
+      {
+        "name": "cart_sig",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "cart",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Notwendig für die Warenkorbfunktion auf der Website."
+        }
+      },
+      {
+        "name": "cart_ts",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit der Kasse verwendet."
+        }
+      },
+      {
+        "name": "secure_customer_sig",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit dem Kundenlogin verwendet."
+        }
+      },
+      {
+        "name": "localization",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Lokalisierung von Shopify-Shops"
+        }
+      },
+      {
+        "name": "_pandectes_gdpr",
+        "domain": ".eu.ugreen.com",
+        "path": "\/",
+        "provider": "Pandectes",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird für die Funktionalität des Cookies-Zustimmungsbanners verwendet."
+        }
+      },
+      {
+        "name": "_secure_session_id",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "1 month(s)",
+        "expires": 1,
+        "unit": "declMonths",
+        "purpose": {
+          "de": "Wird in Verbindung mit der Navigation durch eine Storefront verwendet."
+        }
+      },
+      {
+        "name": "keep_alive",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Wird im Zusammenhang mit der Käuferlokalisierung verwendet."
+        }
+      }
     ],
     "1": [
-
+      {
+        "name": "wpm-domain-test",
+        "domain": "com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      },
+      {
+        "name": "wpm-domain-test",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      },
+      {
+        "name": "wpm-domain-test",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      },
+      {
+        "name": "wpm-domain-test",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Wird verwendet, um die Speicherung von Parametern zu Produkten, die dem Warenkorb hinzugefügt wurden, oder zur Zahlungswährung zu testen"
+        }
+      }
     ],
     "2": [
-
+      {
+        "name": "_shopify_y",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_orig_referrer",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Verfolgt Zielseiten."
+        }
+      },
+      {
+        "name": "_landing_page",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "2 ",
+        "expires": 2,
+        "unit": "declSession",
+        "purpose": {
+          "de": "Verfolgt Zielseiten."
+        }
+      },
+      {
+        "name": "_shopify_s",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_shopify_sa_t",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen in Bezug auf Marketing und Empfehlungen."
+        }
+      },
+      {
+        "name": "_shopify_sa_p",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Shopify-Analysen in Bezug auf Marketing und Empfehlungen."
+        }
+      },
+      {
+        "name": "_clck",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Microsoft",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird von Microsoft Clarity verwendet, um eine eindeutige Benutzer-ID zu speichern."
+        }
+      },
+      {
+        "name": "_ga",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Cookie wird von Google Analytics mit unbekannter Funktionalität gesetzt"
+        }
+      },
+      {
+        "name": "_clsk",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Microsoft",
+        "firstParty": false,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": "Wird von Microsoft Clarity verwendet, um eine eindeutige Benutzer-ID zu speichern."
+        }
+      },
+      {
+        "name": "_gid",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": "Cookie wird von Google Analytics platziert, um Seitenaufrufe zu zählen und zu verfolgen."
+        }
+      },
+      {
+        "name": "_gat",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 minute(s)",
+        "expires": 1,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": "Cookie wird von Google Analytics platziert, um Anfragen von Bots zu filtern."
+        }
+      },
+      {
+        "name": "_shopify_s",
+        "domain": "com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": "Shopify-Analysen."
+        }
+      },
+      {
+        "name": "_boomr_clss",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Shopify",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird zur Überwachung und Optimierung der Leistung von Shopify-Shops verwendet."
+        }
+      },
+      {
+        "name": "_ga_HNEQXZQWCD",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_ga_5NQH2FT3DC",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_ga_21J8FMT7MC",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_ga_W33QWDQH8E",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      }
     ],
     "4": [
-
+      {
+        "name": "_fbp",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Facebook",
+        "firstParty": false,
+        "retention": "3 month(s)",
+        "expires": 3,
+        "unit": "declMonths",
+        "purpose": {
+          "de": "Cookie wird von Facebook platziert, um Besuche auf Websites zu verfolgen."
+        }
+      },
+      {
+        "name": "MUID",
+        "domain": ".clarity.ms",
+        "path": "\/",
+        "provider": "Microsoft",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Cookie wird von Microsoft platziert, um Besuche auf Websites zu verfolgen."
+        }
+      },
+      {
+        "name": "MUID",
+        "domain": ".bing.com",
+        "path": "\/",
+        "provider": "Microsoft",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Cookie wird von Microsoft platziert, um Besuche auf Websites zu verfolgen."
+        }
+      },
+      {
+        "name": "_gcl_au",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "3 month(s)",
+        "expires": 3,
+        "unit": "declMonths",
+        "purpose": {
+          "de": "Cookie wird von Google Tag Manager platziert, um Conversions zu verfolgen."
+        }
+      },
+      {
+        "name": "_uetsid",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Bing",
+        "firstParty": false,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": "Dieses Cookie wird von Bing verwendet, um zu bestimmen, welche Anzeigen gezeigt werden sollen, die für den Endbenutzer relevant sein könnten, der die Website durchsucht."
+        }
+      },
+      {
+        "name": "_uetvid",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Bing",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird verwendet, um Besucher auf mehreren Websites zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren."
+        }
+      },
+      {
+        "name": "IDE",
+        "domain": ".doubleclick.net",
+        "path": "\/",
+        "provider": "Google",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Um die Aktionen der Besucher zu messen, nachdem sie sich durch eine Anzeige geklickt haben. Verfällt nach 1 Jahr."
+        }
+      },
+      {
+        "name": "lastExternalReferrerTime",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Facebook",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Enthält den Zeitstempel der letzten Aktualisierung des lastExternalReferrer-Cookies."
+        }
+      },
+      {
+        "name": "lastExternalReferrer",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Facebook",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Erkennt, wie der Benutzer auf die Website gelangt ist, indem er seine letzte URL-Adresse registriert."
+        }
+      }
     ],
     "8": [
-
+      {
+        "name": "_uetsid",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Dieses Cookie wird von Bing verwendet, um zu bestimmen, welche Anzeigen gezeigt werden sollen, die für den Endbenutzer relevant sein könnten, der die Website durchsucht."
+        }
+      },
+      {
+        "name": "_uetvid",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": "Wird verwendet, um Besucher auf mehreren Websites zu verfolgen, um relevante Werbung basierend auf den Präferenzen des Besuchers zu präsentieren."
+        }
+      },
+      {
+        "name": "CLID",
+        "domain": "www.clarity.ms",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "scm_reviews_importer_count",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": -54,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "scm_reviews_importer_app",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": -54,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "mkuuid",
+        "domain": ".clientgear.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "viewer_token",
+        "domain": ".csync.loopme.me",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "3 month(s)",
+        "expires": 3,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "mksession",
+        "domain": ".clientgear.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "30 minute(s)",
+        "expires": 30,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "BID",
+        "domain": ".toast.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_mk_sync",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "3 hour(s)",
+        "expires": 3,
+        "unit": "declHours",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "uid",
+        "domain": ".ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "MR",
+        "domain": ".c.bing.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 ",
+        "expires": 1,
+        "unit": "declSession",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "SRM_B",
+        "domain": ".c.bing.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "SM",
+        "domain": ".c.clarity.ms",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": -54,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "txpub_1272375336",
+        "domain": ".toast.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "txsync",
+        "domain": ".toast.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "MR",
+        "domain": ".c.clarity.ms",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 ",
+        "expires": 1,
+        "unit": "declSession",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "kalles_shown_pages",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "ANONCHK",
+        "domain": ".c.clarity.ms",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "10 minute(s)",
+        "expires": 10,
+        "unit": "declMinutes",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "MSPTC",
+        "domain": ".bing.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_spinthewheel55660PageLoaded",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": -54,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_fullwheel64730ShowFlag",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_fullwheel64730PageLoaded",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": -54,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_spinthewheel55660ShowFlag",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_spinthewheel55660Showed",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "updatetime",
+        "domain": ".clientgear.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "lkda_spinthewheel55660Timestamp",
+        "domain": "de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "1 day(s)",
+        "expires": 1,
+        "unit": "declDays",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_geo_country",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_event_user_id",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_current_visit_time",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 ",
+        "expires": 1,
+        "unit": "declSession",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_num_of_vists",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_forms_status",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_cart_json",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_first_visit_time",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_last_visit_time",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cnt_is_custom",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "1 year(s)",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "kalles_shown_pages",
+        "domain": "eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "6 month(s)",
+        "expires": 6,
+        "unit": "declMonths",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "zbx_test_0.3644444135090925",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "bugsnag-anonymous-id",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "rto:save_info_to_cart:c1-f1b91bbf018b6975d61fea5b3ceb9658",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_mk_luid",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "zbx_test_0.743545166746296",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "zbx_test_0.1299943962700485",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "zbx_test_0.5421617533842524",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "zbx_test_0.3683103555193532",
+        "domain": "ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declSeconds",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "omnitrackSendUserData_c1-f1b91bbf018b6975d61fea5b3ceb9658",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__klarna_sdk_version",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_uetsid_exp",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "shopifyChatData",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "wooHooReset",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_uetvid_exp",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "predictedLtv",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "wooHooLocalToken",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "wooHooClientDevice",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__klarna_sdk_default-config",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "rto:shopName",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "_cltk",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__pv__sdkSended",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__klarna_sdk_identity-api",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "omnitrackSettings",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "pageViewSwitch_v2",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "t4s",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "local-storage-test",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__pv__timestamp_v2",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "pageViewLinkId",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "__pv__prePage_v2",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "t4s",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "session-storage-test",
+        "domain": "https:\/\/de.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": true,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "klarnaosm_user_locale",
+        "domain": "https:\/\/eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Persistent",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      },
+      {
+        "name": "usfVP",
+        "domain": "https:\/\/eu.ugreen.com",
+        "path": "\/",
+        "provider": "Unknown",
+        "firstParty": false,
+        "retention": "Session",
+        "expires": 1,
+        "unit": "declYears",
+        "purpose": {
+          "de": ""
+        }
+      }
     ]
   },
   "blocker": {
