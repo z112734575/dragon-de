@@ -159,6 +159,7 @@
         },
         "d32d3af3-a85b-403d-a072-d3a641d20c22": {
           "type": "ug-product-list-tabs",
+          "disabled": true,
           "settings": {
             "tabs_title": "Für Auto",
             "product_list": [
@@ -175,6 +176,7 @@
         },
         "4257284a-f054-4967-9383-cfb70ce7bec8": {
           "type": "ug-product-list-tabs",
+          "disabled": true,
           "settings": {
             "tabs_title": "Für Phone&Tablet",
             "product_list": [
@@ -191,6 +193,7 @@
         },
         "464be3c3-55ff-49eb-bed4-7bfb270e7553": {
           "type": "ug-product-list-tabs",
+          "disabled": true,
           "settings": {
             "tabs_title": "Abverkauf",
             "product_list": [
@@ -239,7 +242,7 @@
         "tab_active_border_color": "#fff",
         "pc_product_item_img_size": "80%",
         "mobile_product_item_img_size": "80%",
-        "pc_row": "4",
+        "pc_row": "5",
         "mobile_row": "2",
         "product_sale_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/0726\/4111\/8528\/files\/bdage_bg.png?v=1704794570",
         "pc_product_sale_width": "80px",
