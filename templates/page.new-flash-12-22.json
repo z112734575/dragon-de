@@ -290,7 +290,7 @@
         "mobile_product_sale_width": "60px",
         "pc_padding": "80px 0 120px 0",
         "mobile_padding": "60px 0 30px 0",
-        "need_load_more": true,
+        "need_load_more": false,
         "load_more_default_count": 6,
         "show_sale_flag": true,
         "show_compare": true,
