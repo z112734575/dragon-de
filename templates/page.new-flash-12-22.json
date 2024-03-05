@@ -21,8 +21,8 @@
       "settings": {
         "action_id": "1bcca63e-17bc-4843-87d4-8d8c7cd4068c",
         "is_pre": false,
-        "pc_image": "shopify:\/\/shop_images\/banner_pc_347f7a8f-35e0-42b8-bf96-412e8ecb5220.webp",
-        "mobile_image": "shopify:\/\/shop_images\/banner_mo_b4287749-c440-49c6-9d59-69491e47f187.webp",
+        "pc_image": "shopify:\/\/shop_images\/Apple_3840-1400.png",
+        "mobile_image": "shopify:\/\/shop_images\/Apple_750-840.png",
         "title": "<strong style=\"    background: linear-gradient(180deg, #E5B854 -11.11%, #F7D381 12.62%, #FDE386 22.7%, #FDE386 54.73%, #D9A748 91.79%, #E7B456 102.78%);\n    background-clip: text;\n    -webkit-background-clip: text;\n    -webkit-text-fill-color: transparent;\n    font-weight: 700;\n    overflow: hidden;\n    -webkit-font-smoothing: antialiased;\">72-Stunden-Blitzangebot<\/strong>",
         "subtitle": "<font color=\"#3498DB\">\nEs ist Zeit, 30 % Rabatt.<\/font><br><font color=\"#FFC300\"><\/font>",
         "email_btn_text": "",
