@@ -1247,11 +1247,11 @@
             "settings": {
               "tab_id": 1,
               "product_list": [
-                "ugreen-nexode-pro-160w-usb-c-ladegerat-superschlank-gan-wandladegerat",
                 "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
                 "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
                 "90597a",
-                "ugreen-zigarettenanzunder-usb-qc-3-0-autoladegerat-usb-36w-kfz-ladegerat-mit-1m-usb-c-kabel-kompatibel-mit-iphone-14-14-pro-14-pro-max-13-13-pro-galaxy-s22-s21-a53-usw"
+                "ugreen-zigarettenanzunder-usb-qc-3-0-autoladegerat-usb-36w-kfz-ladegerat-mit-1m-usb-c-kabel-kompatibel-mit-iphone-14-14-pro-14-pro-max-13-13-pro-galaxy-s22-s21-a53-usw",
+                "ugreen-65w-usb-c-ladegerat-2-port-usb-c-netzteil-pd-ladegerat-pps-unterstutzt-66w"
               ],
               "tag_list": "Hot,Hot,,Neu,,",
               "collection_name_list": "Gan Ladegerät,\nNexode Pro,\nPowerbank,\nWireless Ladegerät,\nAutoladegerät,",
@@ -1355,11 +1355,11 @@
             "settings": {
               "tab_id": 7,
               "product_list": [
-                "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21",
                 "ugreen-nvme-m2-geh-use-usb-3-2-nvme-ssd-geh-use-adapter",
                 "snap-deal-ugreen-cat-8-lan-kabel-40000mbit-s-netzwerkkabel-ethernet-kabel-0-5m",
                 "90912-1",
-                "ugreen-tablet-stander-verstellbare-tablet-halterung"
+                "ugreen-tablet-stander-verstellbare-tablet-halterung",
+                "ugreen-nexode-usb-c-ladegerat-200w-usb-c-pd-netzteil-100w-100w-6-ports-gan-charger-mehrfach-pps-kompatibel-mit-macbook-pro-air-m2-2022-iphone-14-14-pro-14-pro-max-ipad-pro-galaxy-s22-s21"
               ],
               "tag_list": "",
               "collection_name_list": "Laptop Ladegerät,\nFestplattengehäuse,\nEthernet&Video kabel,\nDocks & Hubs,\nPeripheriegerät",
@@ -1402,21 +1402,6 @@
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/auto-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-halterung,https:\/\/de.ugreen.com\/collections\/usb-a-auf-usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/sound-card",
               "all_collection_url": "shopify:\/\/collections\/fur-auto",
               "all_collection_name": "All"
-            }
-          },
-          "361b105b-26c8-49d5-8407-8ade784f6023": {
-            "type": "tab_content",
-            "disabled": true,
-            "settings": {
-              "tab_id": 1,
-              "product_list": [
-
-              ],
-              "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "",
-              "all_collection_name": ""
             }
           },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
@@ -1600,7 +1585,6 @@
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
           "78b2740a-8429-40a0-a215-81c59a5f224f",
-          "361b105b-26c8-49d5-8407-8ade784f6023",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
