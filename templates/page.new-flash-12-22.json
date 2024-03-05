@@ -98,29 +98,11 @@
             ]
           }
         },
-        "6b4b7f23-c3e7-4a02-8e97-e11760144f33": {
-          "type": "ug-product-list-tabs",
-          "disabled": true,
-          "settings": {
-            "tabs_title": "Ladesets Rabatt",
-            "product_list": [
-              "das-ultimative-ugreen-power-pack1",
-              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
-              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
-              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
-              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
-              "ugreen-7-in-1-4k-hdmi-vga-usb-c-hub-tablet-halterung-1m-100w-usb-c",
-              "ugreen-nexode-20w-usb-c-ladegerat-pd-3-0-pps-ladestecker",
-              "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-ladestecker-pps-pd-3-0-super-fast-charger-mit-2m-usb-c-kabel"
-            ]
-          }
-        },
         "ug_product_list_tabs_rmyNgp": {
           "type": "ug-product-list-tabs",
           "settings": {
             "tabs_title": "Powerbank",
             "product_list": [
-              "das-ultimative-ugreen-power-pack1",
               "90597a",
               "ugreen-100w-power-bank-20000mah-powerbank",
               "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
@@ -221,7 +203,6 @@
       "block_order": [
         "2632b153-e4f5-4946-9146-3002be2c2b29",
         "37cf4654-a486-4d1c-bdd8-2a50c4ce5bc4",
-        "6b4b7f23-c3e7-4a02-8e97-e11760144f33",
         "ug_product_list_tabs_rmyNgp",
         "82e89c4e-58ed-4668-b5e0-707f3f82a435",
         "d34e9e35-2164-4636-9cba-8b376d673c3c",
