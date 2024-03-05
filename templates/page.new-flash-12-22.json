@@ -64,14 +64,16 @@
           "settings": {
             "tabs_title": "Ladegeräte",
             "product_list": [
+              "nexode-pro-65w-mini-gan-ladegerat",
               "ugreen-usb-c-ladegerat-65w-usb-c-netzteil-4-ports-gan-usb-c-charger-pd-ladegerat-unterstutzt-20w-kompatibel-mit-macbook-pro-air-iphone-14-14-pro-14-pro-max-13-pro-12-ipad-pro-s21-s22-steam-deck",
               "ugreen-nexode-usb-c-ladegerat-65w-usb-c-netzteil-3-port-gan-pd-charger-pps-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-14-iphone-13-ipad-pro-galaxy-s22-s21-steam-deck-schwarz",
-              "nexode-pro-100w-gan-ladegerat-schnellladegerat",
               "90597a",
               "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
               "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
               "nexode-300w-5-anschluss-gan-schnellladegerat",
-              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel"
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel"
             ]
           }
         },
@@ -93,6 +95,7 @@
         },
         "6b4b7f23-c3e7-4a02-8e97-e11760144f33": {
           "type": "ug-product-list-tabs",
+          "disabled": true,
           "settings": {
             "tabs_title": "Ladesets Rabatt",
             "product_list": [
@@ -159,7 +162,6 @@
         },
         "d32d3af3-a85b-403d-a072-d3a641d20c22": {
           "type": "ug-product-list-tabs",
-          "disabled": true,
           "settings": {
             "tabs_title": "Für Auto",
             "product_list": [
@@ -176,7 +178,6 @@
         },
         "4257284a-f054-4967-9383-cfb70ce7bec8": {
           "type": "ug-product-list-tabs",
-          "disabled": true,
           "settings": {
             "tabs_title": "Für Phone&Tablet",
             "product_list": [
@@ -193,7 +194,6 @@
         },
         "464be3c3-55ff-49eb-bed4-7bfb270e7553": {
           "type": "ug-product-list-tabs",
-          "disabled": true,
           "settings": {
             "tabs_title": "Abverkauf",
             "product_list": [
