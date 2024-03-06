@@ -1,0 +1,216 @@
+{
+  "sections": {
+    "3155cc81-16ac-4d96-80a0-275500abaea3": {
+      "type": "ug_AppleEvent_banner",
+      "custom_css": [
+        ".apple_section_1 {display: none;}",
+        ".banner_box {position: absolute; top: 12%; left: 50%; max-width: 36.979vw; transform: translateX(-50%); display: flex; flex-direction: column-reverse; text-align: center;}"
+      ],
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/3840-1400.png?v=1706767000",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/750-840.png?v=1706766999",
+        "title": "Erweitern Sie lhre Kreativitat-Bis zu 40% Rabatt",
+        "desc": "Ugreen Computer Zubehör",
+        "title_1": "",
+        "title_2": "",
+        "text": ""
+      }
+    },
+    "48463660-84e8-4c1b-9081-e5c62be433e6": {
+      "type": "ug-video-text",
+      "blocks": {
+        "465e6847-6c3d-421f-bffe-de95932a987b": {
+          "type": "video_text",
+          "settings": {
+            "direction": "left",
+            "type": "video",
+            "url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/dfaa91da519d4c4fad64a7ee3ce13494.mp4",
+            "product1": "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+            "product2": "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+            "product1_title": "",
+            "product2_title": "",
+            "product1_subtitle": "",
+            "product2_subtitle": "",
+            "product1_btn_text": "",
+            "product2_btn_text": ""
+          }
+        },
+        "e39863eb-9935-4026-8fb1-b121b7dd967e": {
+          "type": "video_text",
+          "disabled": true,
+          "settings": {
+            "direction": "right",
+            "type": "video",
+            "url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/c77f361dd81b403892e50043efc576b2.mp4",
+            "product1": "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+            "product2": "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+            "product1_title": "",
+            "product2_title": "",
+            "product1_subtitle": "",
+            "product2_subtitle": "",
+            "product1_btn_text": "",
+            "product2_btn_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "465e6847-6c3d-421f-bffe-de95932a987b",
+        "e39863eb-9935-4026-8fb1-b121b7dd967e"
+      ],
+      "settings": {
+        "max_width": "1280px",
+        "title": "Das ultimative Ladegerät für alle deine Desktop-Geräte",
+        "title_size": "",
+        "sub_title": "",
+        "text_color": "#ffffff",
+        "body_color": "#000000",
+        "pc_padding": "120px 0 120px",
+        "mobile_padding": "60px 10px 60px"
+      }
+    },
+    "ebdd4269-8c40-458a-890d-39cfe5f8cf15": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10002_2.jpg?v=1701745256",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10002_2.jpg?v=1701745256",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "90912-1",
+          "ugreen-usb-c-hub-7-in-1-usb-c-adapter-mit-4k-60hz-hdmi-ethernet-lan-rj45-100w-power-delivery-sd-microsd-2-usb-a-5gbps-datenports-docking-satation-fur-macbook-m1-m2-ipad-surface-go-pro-xps-usw",
+          "ugreen-revodok-usb-c-docking-station-dual-display-usb-c-hub-mit-dual-hdmi",
+          "ugreen-revodok-max-208-8-in-1-docking-station",
+          "ugreen-usb-c-dockingstation-12-in-1-usb-c-dock-fur-windows-und-macos-triple-display-2hdmi-dp-4k-60hz-10gbps-usb-c-und-usb-a-daten-100w-pd-ethernet-audio-sd-tf-fur-macbook-und-windows-pc",
+          "ugreen-usb-c-hub-usb-c-adapter-mit-100w-pd-laden-4k-hdmi-sd-tf-kartenleser-usb-3-0-kompatibel-mit-macbook-pro-air-ipad-pro-air-surface-pro-go-galaxy-tab-s8-s7-galaxy-s22-ultra-s22-s21-usw"
+        ]
+      }
+    },
+    "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10006.png?v=1701745258",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10006.png?v=1701745258",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "nexode-pro-100w-gan-ladegerat-schnellladegerat",
+          "ugreen-nexode-100w-usb-c-ladegerat-gan-usb-c-netzteil-4-ports-charger-pd-ladegerat-mit-pps-kompatibel-mit-macbook-pro-iphone-14-14-pro-14-pro-max-13-12-ipad-pro-s22-s21-steam-deck-usw",
+          "ugreen-nexode-pro-160w-usb-c-ladegerat-superschlank-gan-wandladegerat",
+          "ugreen-diginest-pro-100w-usb-c-steckdosenleiste-gan-usb-c-ladegerat-usb-2-fach-steckdose-mit-schalter-kompatibel-mit-macbook-pro-air-iphone-14-pro-max-13-12-ipad-pro-air-galaxy-s22-xps-pixel",
+          "ugreen-140w-usb-c-ladegerat-3-ports-wandladegerat",
+          "nexode-300w-5-anschluss-gan-schnellladegerat"
+        ]
+      }
+    },
+    "6967a717-93bc-4497-be73-932211a5ca08": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_1_abe5968d-18e6-4dd0-8140-dfa2e62dfebd.png?v=1701746272",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_1_abe5968d-18e6-4dd0-8140-dfa2e62dfebd.png?v=1701746272",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "90597a",
+          "ugreen-100w-power-bank-20000mah-powerbank",
+          "ugreen-nexode-100w-usb-c-ladegerat-mit-magsafe-15w-usb-c-netzteil-gan-charger-4-in-1-ladestation",
+          "ugreen-wireless-powerbank-10000mah-magnetische-power-bank"
+        ]
+      }
+    },
+    "f90b406c-dc40-4977-8197-1d3539cf54ad": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10003.jpg?v=1701745257",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10003.jpg?v=1701745257",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
+          "ugreen-bluetooth-adapter-fur-pc-bluetooth-stick-5-0-fur-windows-11-10-8-1-7-usb-bluetooth-dongle-fur-desktop-pc-laptop-maus-tastatur-kopfhorer-controller",
+          "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
+          "ugreen-usb-hub-aktiv-mit-netzteil-usb-adapter",
+          "ugreen-hdmi-switch-4k-3-in-1-out-hdmi-splitter-automatisch-hdmi-verteiler-fernbedienung-hdmi-umschalter-unterstutzt-4k-3d-hdr-fur-tv-stick-tv-pc-spielkonsole-switch-ps5-4-xbox-blu-ray-player",
+          "ugreen-usb-switch-2pc-kvm-usb-switch-2-in-4-out-fur-stabile-datenubertragung-umschalter-mit-2-usb-kabel-fur-tastatur-maus-drucker-scanner-usb-sticks-externe-festplatte-headsets-usw"
+        ]
+      }
+    },
+    "acab1ce9-6753-4e7b-90d8-cdf0b3981484": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A5.jpg?v=1701746034",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A5.jpg?v=1701746034",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "ugreen-sata-adapter-uasp-externe-festplatte-adapter-usb-3-0-adapter-ssd-hdd-sata-iii-komatibel-mit-2-5-sata-wie-samsung-860-evo-2-5-zoll-interne-sata-ssd-crucial-mx500-2-5-zoll-ssd-usw",
+          "90840",
+          "ugreen-micro-usb-kabel-schwarz-micro-usb-2-0-ladekabel-schnellladekabel-micro-usb-kompatibel-mit-galaxy-s7-s6-edge-s6-s5-a3-j7-huawei-p-smart-p40-lite-e-p10-lite-y9-y8-ps4-controller-usw-2m",
+          "ugreen-usb-c-klinke-adapter-aux-usb-c-auf-3-5mm-kopfhorer-adapter-mit-dac-chip-kompatibel-mit-galaxy-s-serie-ipad-p40-p30-mate-30-xiaomi-oneplus-usw-grau",
+          "ugreen-cat-8-lan-kabel-40gbps-2000mhz-superschnell-netzwerkkabel",
+          "ugreen-druckerkabel-usb-2-0-typ-b-usb-kabel-usb-a-auf-usb-b-printer-cable-kompatibel-mit-hp-canon-epson-lexmark-dell-brother-1m"
+        ]
+      }
+    },
+    "a2c80d04-8b44-464f-9c3e-93aec12a1f17": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_2.jpg?v=1701745593",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/10001_2.jpg?v=1701745593",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "ugreen-100w-usb-c-auf-usb-c-kabel-2-stuck-pd3-0-ladekabel-5a-20v",
+          "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
+          "ugreen-usb-c-auf-usb-c-kabel-ladekabel"
+        ]
+      }
+    },
+    "a9c6f060-5fbd-455c-8321-f99aa9934742": {
+      "type": "ug_AppleEvent_product",
+      "settings": {
+        "pc_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A2.jpg?v=1701745598",
+        "mobile_image": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/A2.jpg?v=1701745598",
+        "title": "",
+        "title1": "",
+        "desc": "",
+        "product_list": [
+          "ugreen-tablet-stander-verstellbare-tablet-halterung",
+          "ugreen-maus-kabellos-mit-ergonomisches-design-4000-dpi-2-4ghz-verbindung-und-18-monate-akkulaufzeit-usb-kabellose-maus-pc-kompatibel-mit-laptop-computer-windows-11-macos-linux-schwarz",
+          "ugreen-pc-maus-kabellos-leise-mit-4000-dpi-2-4ghz-verbindung-18-monate-akkulaufzeit-usb-kabellose-maus-kompatibel-mit-laptop-computer-windows-11-macos-linux-schwarz",
+          "ugreen-tablet-stander-hohenverstellbar-tablet-halterung-aluminium-verstellbare-hohe-tisch-tablet-halter-kompatibel-mit-ipad-pro-2020-air-galaxy-tab-a-a7-s7-huawei-matepad-surface-bis-12-9-zoll"
+        ]
+      }
+    },
+    "a8364ac4-9709-4a7a-b7dd-a4445dee4b14": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.product_message{display:none;}\n@media (max-width: 768px){\n.banner_box{max-width:100%!important;\ntransform: none !important;\ntop: 10% !important;\nleft: 0 !important;\n}\n.page_banner .banner_box p{\n    font-weight: 700;\n    font-size: 20px;\n    line-height: 10.133vw;\n    padding: 0 10%;\n    margin: 2.667vw 0 0;\n}\n.page_banner .banner_box h1 {\nfont-size: 16px;\n}\n.ug-video-text-template--20319037227351__48463660-84e8-4c1b-9081-e5c62be433e6 h2{font-size: 18px;}\n}\n<\/style>\n<script src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/swiper-bundle.min_23a60c44-0efc-4129-bf9f-c046f688609a.js?v=1655275790\"><\/script>\n<script>\n    $(\".section_1_box button\").click(function () {\n        $(\".box_text div\").fadeOut(1000);\n        $(\".section_1_box button\").fadeOut(1000);\n    });\n    const fitSwiper = new Swiper('.product_swiper', {\n        slidesPerView: 1,\n        spaceBetween: 20,\n        speed: 1000,\n        pagination: {\n            el: \".swiper-pagination\",\n        },\n        autoplay: {\n            delay: 5000,\n        },\n        breakpoints: {\n            768: {\n                slidesPerView: 3,\n            },\n        },\n    })\n<\/script>",
+        "layout": "t4s-container-wrap",
+        "cl_bg": "",
+        "cl_bg_gradient": "",
+        "mg": ",,,,",
+        "pd": "",
+        "mg_mb": ",,,,",
+        "pd_mb": ""
+      }
+    }
+  },
+  "order": [
+    "3155cc81-16ac-4d96-80a0-275500abaea3",
+    "48463660-84e8-4c1b-9081-e5c62be433e6",
+    "ebdd4269-8c40-458a-890d-39cfe5f8cf15",
+    "7b9a7ace-f9ed-4c03-8a70-8f9d91542ec2",
+    "6967a717-93bc-4497-be73-932211a5ca08",
+    "f90b406c-dc40-4977-8197-1d3539cf54ad",
+    "acab1ce9-6753-4e7b-90d8-cdf0b3981484",
+    "a2c80d04-8b44-464f-9c3e-93aec12a1f17",
+    "a9c6f060-5fbd-455c-8321-f99aa9934742",
+    "a8364ac4-9709-4a7a-b7dd-a4445dee4b14"
+  ]
+}
