@@ -75,7 +75,6 @@
         "2fef20ad-861c-4d15-aca6-4c26b6ee96f9": {
           "type": "tax",
           "settings": {
-            "image": ""
           }
         },
         "1f5c1718-08c4-406f-a332-28431934bf99": {
@@ -117,7 +116,7 @@
       "settings": {
         "enable_calc_ship": true,
         "enable_note": true,
-        "enable_rates": true,
+        "enable_rates": false,
         "enable_discount": true,
         "enable_gift_wrap": true,
         "ship_df_country": "United States"
