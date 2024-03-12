@@ -6,7 +6,7 @@
     "primaryLocale": "de",
     "adminMode": false
   },
-  "tsPublished": 1710210097,
+  "tsPublished": 1710210541,
   "declaration": {
     "showPurpose": false,
     "showProvider": false,
@@ -39,7 +39,7 @@
         "de": "Impressum"
       },
       "preferencesButtonText": {
-        "de": "Cookie-Einstellungen"
+        "de": "Einstellungen"
       },
       "allowButtonText": {
         "de": "Alle akzeptieren"
