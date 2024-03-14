@@ -135,7 +135,7 @@
         "link": "https:\/\/nas.ugreen.com\/pages\/ugreen-nas-storage-preheat?utm_source=de.ugreen.com&utm_medium=official_de&utm_campaign=top_banner",
         "text_color": "#ffffff",
         "className": "",
-        "custom_style": ".topImageText {\n    top: 8%;\n    text-align: center;\n    max-width: 1280px;\n    margin: 0 auto;\n}\n@media (max-width: 767px) {\n.topImageText {\n    text-align: center;\n    top: 15%;\n    left: 50%;\n}\n}"
+        "custom_style": ".topImageText {\n    top: 10%;\n    text-align: center;\n    max-width: 1280px;\n    margin: 0 auto;\n}\n@media (max-width: 767px) {\n.topImageText {\n    text-align: center;\n    top: 15%;\n    left: 50%;\n}\n}"
       }
     },
     "ug-index-whybuy": {
