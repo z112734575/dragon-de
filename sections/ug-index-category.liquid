@@ -8,7 +8,7 @@
 
 <style>
     .ug-index-category {
-        padding-top: 100px;
+        padding-top: 120px;
         background-color: #fff;
         max-width: 1280px;
         margin: 0 auto;
@@ -53,14 +53,14 @@
     .ug-index-category-item-title {
         font-size: {{ section.settings.pc_icon_size |  default: "inherit" }};
     }
-  .ug-index-category-item-title .icon{
-    color:#999999;
-  }
+    .ug-index-category-item-title .icon {
+        color: #999999;
+    }
     @media screen and (max-width: 768px) {
         .ug-index-category {
             padding: 80px 16px 0;
         }
-        .category-next{
+        .category-next {
             display: block;
         }
         .ug-index-category-title {
@@ -85,10 +85,10 @@
         .ug-index-category-item-title {
             font-size: {{ mobile_icon_size |  default: "inherit" }};
             width: 40px;
-            margin-right: 12px;
         }
         .ug-index-category-item-name {
             margin-top: 0;
+            margin-left: 12px;
         }
     }
 </style>
@@ -100,12 +100,17 @@
             {% assign name = item.settings.name %}
             {% assign icon_name = item.settings.icon_name %}
             {% assign link = item.settings.link %}
+            {% assign svg = item.settings.svg %}
             <a href="{{ link }}" class="ug-index-category-item-wrap">
                 <div class="ug-index-category-item">
                     <div class="ug-index-category-item-title">
-                        <svg class="icon" aria-hidden="true">
-                            <use xlink:href="#{{ icon_name }}"></use>
-                        </svg>
+                        {% if svg != blank %}
+                            {{ svg }}
+                        {% else %}
+                            <svg class="icon" aria-hidden="true">
+                                <use xlink:href="#{{ icon_name }}"></use>
+                            </svg>
+                        {% endif %}
                     </div>
                     <div class="ug-index-category-item-name">{{ name }}</div>
                 </div>
@@ -114,7 +119,6 @@
                 </svg>
             </a>
         {% endfor %}
-
     </div>
 </div>
 
@@ -158,6 +162,11 @@
           "type": "url",
           "id": "link",
           "label": "Item link"
+        },
+        {
+          "type": "textarea",
+          "id": "svg",
+          "label": "svg 代码"
         }
       ]
     }
