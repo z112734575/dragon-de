@@ -1628,7 +1628,7 @@
             "settings": {
               "title": "Produkte",
               "tab_list": "Ladegeräte,Docks & Hubs,Powerstation,Powerbank,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
-              "open": true
+              "open": false
             }
           },
           "db7ba95c-c382-4194-b6e2-8f71dfa66358": {
