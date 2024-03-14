@@ -171,7 +171,7 @@
           "settings": {
             "name": "Dockingstation",
             "icon_name": "icon-a-DockingStation_icon1",
-            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs"
+            "link": "https:\/\/de.ugreen.com\/collections\/dockingstation"
           }
         },
         "1123f8d8-d3e7-42d0-86eb-bb6af9faec50": {
@@ -179,7 +179,7 @@
           "settings": {
             "name": "Hubs",
             "icon_name": "icon-hub_icon1",
-            "link": "shopify:\/\/collections\/usb-hubs"
+            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs"
           }
         },
         "5253ea49-300b-4a16-9f67-419106408da3": {
@@ -187,7 +187,7 @@
           "settings": {
             "name": "Adapters",
             "icon_name": "icon-Adapters_icon",
-            "link": "shopify:\/\/collections\/adapters"
+            "link": "https:\/\/de.ugreen.com\/collections\/adapters"
           }
         },
         "bae355b2-fbec-48ce-82fe-a15893600ff8": {
@@ -195,7 +195,7 @@
           "settings": {
             "name": "Ladekabel",
             "icon_name": "icon-Cables_icon1",
-            "link": "shopify:\/\/collections\/ladekabel"
+            "link": "https:\/\/de.ugreen.com\/collections\/usb-c-ladekabel"
           }
         },
         "914a7dc5-0679-4c54-abf9-6721e9d89ebb": {
