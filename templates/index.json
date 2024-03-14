@@ -32,7 +32,7 @@
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Ugreen-nexode-rg-65w-ladegeraet-pc.png?v=1710380804",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/Ugreen-nexode-rg-65w-ladegeraet-m.png?v=1710380801",
-            "text_color": "#fff",
+            "text_color": "#ffffff",
             "title": "Los geht's! Aufladen!",
             "subtitle": "UGREEN Nexode RG 65W Ladegerät",
             "button_text": "Mehr Erfahren",
@@ -171,7 +171,7 @@
           "settings": {
             "name": "Dockingstation",
             "icon_name": "icon-a-DockingStation_icon1",
-            "link": "shopify:\/\/collections\/docking-station"
+            "link": "https:\/\/de.ugreen.com\/collections\/docks-hubs"
           }
         },
         "1123f8d8-d3e7-42d0-86eb-bb6af9faec50": {
