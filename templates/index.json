@@ -40,7 +40,7 @@
             "pc_align": "center",
             "mobile_align": "center",
             "pc_top": 30,
-            "pc_left": 35,
+            "pc_left": 50,
             "mobile_top": 15,
             "mobile_left": 0,
             "className": "buy-more-save-more"
