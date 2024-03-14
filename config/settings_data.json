@@ -1627,7 +1627,7 @@
             "type": "mega_tab_list",
             "settings": {
               "title": "Produkte",
-              "tab_list": "Ladegeräte,Docks & Hubs,Powerstation,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
+              "tab_list": "Ladegeräte,Docks & Hubs,Powerstation,Powerbank,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto",
               "open": false
             }
           },
@@ -1761,7 +1761,7 @@
               "collection_name_list": "Gan Ladegerät,\nNexode Pro,\nPowerbank,\nWireless Ladegerät,\nAutoladegerät,",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/gan-ladegerat,https:\/\/de.ugreen.com\/collections\/ugreen-nexode-pro-gan-ladegerat-schnellladegerat,https:\/\/de.ugreen.com\/collections\/powerbank,https:\/\/de.ugreen.com\/collections\/drahtloses-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-ladegerat",
               "all_collection_url": "shopify:\/\/collections\/usb-c-ladegerat",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "2e4b2512-751c-47e3-8dda-fa550157e15f": {
@@ -1779,7 +1779,7 @@
               "collection_name_list": "Dockingstation,\nMini Dock,\nUSB-C HDMI Hub,\nSwitch Hub,\nUSB Hub",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/dockingstation,https:\/\/de.ugreen.com\/collections\/mini-dock,https:\/\/de.ugreen.com\/collections\/usb-c-hdmi-hub,https:\/\/de.ugreen.com\/collections\/switch-hub,https:\/\/de.ugreen.com\/collections\/usb-hub",
               "all_collection_url": "shopify:\/\/collections\/docks-hubs",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "8d954c8a-601b-484c-a41a-790f2460396f": {
@@ -1797,13 +1797,31 @@
               "collection_name_list": "Tragbare Powerstation,\nStromaggregat Solar",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/power-station,https:\/\/de.ugreen.com\/collections\/stromaggregat-solar",
               "all_collection_url": "shopify:\/\/collections\/power-station",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
+            }
+          },
+          "menu_list_HTNWkw": {
+            "type": "menu-list",
+            "settings": {
+              "tab_id": 4,
+              "product_list": [
+                "90597a",
+                "ugreen-100w-power-bank-20000mah-powerbank",
+                "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+                "ugreen-wirless-magnetische-powerbank-10000mah",
+                "pb560"
+              ],
+              "tag_list": "",
+              "collection_name_list": "Powerbank,",
+              "collection_link_list": "https:\/\/de.ugreen.com\/collections\/powerbank,",
+              "all_collection_url": "shopify:\/\/collections\/powerbank",
+              "all_collection_name": "Alle"
             }
           },
           "4dabb6a7-60ae-4c87-aca4-483d36bb996c": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 4,
+              "tab_id": 5,
               "product_list": [
                 "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
                 "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
@@ -1815,13 +1833,13 @@
               "collection_name_list": "Sets Angebote",
               "collection_link_list": "https:\/\/de.ugreen.com\/pages\/ugreen-angebote",
               "all_collection_url": "shopify:\/\/collections\/sets",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "aad020ff-c97d-41ca-bc9d-e37e993dfa17": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 5,
+              "tab_id": 6,
               "product_list": [
                 "ugreen-usb-c-auf-usb-c-kabel-60w-ladekabel",
                 "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
@@ -1833,13 +1851,13 @@
               "collection_name_list": "USB C Ladekabel,\nLightning Kable,\nEthernet Kabel,\nAudio&Videokabel,\nUSB Kabel,",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/lightning-kable,https:\/\/de.ugreen.com\/collections\/ethernet-kabel,https:\/\/de.ugreen.com\/collections\/audio-video-kabel,https:\/\/de.ugreen.com\/collections\/usb-kabel",
               "all_collection_url": "shopify:\/\/collections\/kabel",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "817df00b-4263-4540-835f-02cd665d52ad": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 6,
+              "tab_id": 7,
               "product_list": [
                 "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
                 "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
@@ -1851,13 +1869,13 @@
               "collection_name_list": "Bluetooth Adapter,\nLAN Adapter,\nSD Adapter,\nSound Card,\nSwitcher",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/lan-adapter,https:\/\/de.ugreen.com\/collections\/sd-adapter,https:\/\/de.ugreen.com\/collections\/sound-card,https:\/\/de.ugreen.com\/collections\/switcher",
               "all_collection_url": "shopify:\/\/collections\/adapters",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "cff3cf4e-a6bf-48ab-be13-c47b2dc9ca8d": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 7,
+              "tab_id": 8,
               "product_list": [
                 "90597a",
                 "90912-1",
@@ -1869,13 +1887,13 @@
               "collection_name_list": "Laptop Ladegerät,\nFestplattengehäuse,\nEthernet&Video kabel,\nDocks & Hubs,\nPeripheriegerät",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/laptop-ladegerat,https:\/\/de.ugreen.com\/collections\/festplattengehause,https:\/\/de.ugreen.com\/collections\/ethernet-video-kabel,https:\/\/de.ugreen.com\/collections\/docks-hubs,https:\/\/de.ugreen.com\/collections\/peripheriegerat",
               "all_collection_url": "shopify:\/\/collections\/fur-laptop",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "6b9c4d72-20ea-4deb-8952-1147db2fc880": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 8,
+              "tab_id": 9,
               "product_list": [
                 "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
                 "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
@@ -1887,13 +1905,13 @@
               "collection_name_list": "Phone&Tablet Ladegerät,\nUSB C Ladekabel,\nPowerbank,\nKopfhörer,\nHalterung",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/phone-tablet-ladegerat,https:\/\/de.ugreen.com\/collections\/usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/powerbank,https:\/\/de.ugreen.com\/collections\/kopfhorer,https:\/\/de.ugreen.com\/collections\/halterung",
               "all_collection_url": "shopify:\/\/collections\/fur-phone-und-mehr",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           },
           "56394d88-b511-4224-a5cb-2cd8d23f2bba": {
             "type": "menu-list",
             "settings": {
-              "tab_id": 9,
+              "tab_id": 10,
               "product_list": [
                 "ugreen-36w-autoladeger-quick-charge-usb-doppelt-schnellladeger",
                 "ugreen-autohalterung-cd-schlitz-auto-handyhalterung-schwerkraft-kfz-handy-halter-einhandbedienung-halterung-kompatibel-mit-iphone-14-pro-max-13-12-11-xr-galaxy-s22-s21-s20-huawei-p30-p20-redmi-poco",
@@ -1905,7 +1923,7 @@
               "collection_name_list": "Autoladegerät,\nAutohalterung,\nUSB A auf USB C Ladekabel,\nBluetooth Adapter,\nSound Card",
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/auto-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-halterung,https:\/\/de.ugreen.com\/collections\/usb-a-auf-usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/sound-card",
               "all_collection_url": "shopify:\/\/collections\/fur-auto",
-              "all_collection_name": "All"
+              "all_collection_name": "Alle"
             }
           }
         },
@@ -1913,6 +1931,7 @@
           "90862b21-7621-46e5-9f35-938af1220116",
           "2e4b2512-751c-47e3-8dda-fa550157e15f",
           "8d954c8a-601b-484c-a41a-790f2460396f",
+          "menu_list_HTNWkw",
           "4dabb6a7-60ae-4c87-aca4-483d36bb996c",
           "aad020ff-c97d-41ca-bc9d-e37e993dfa17",
           "817df00b-4263-4540-835f-02cd665d52ad",
