@@ -10,6 +10,7 @@
       "blocks": {
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3": {
           "type": "ug-index-carousel-item",
+          "disabled": true,
           "settings": {
             "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_pc_1fa6e016-525c-4f7a-856f-cd96077b56a0.webp?v=1706579361",
             "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo_662df457-c6fd-45ed-86eb-a5a1929fae8d.webp?v=1706579359",
@@ -88,13 +89,13 @@
           "type": "ug-index-carousel-item",
           "disabled": true,
           "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3_Banner-Hub_Web.png?v=1677659098",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0257\/5246\/9566\/files\/3.1_Banner-Hub_Mobile.png?v=1677659090",
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/25054.webp?v=1703664723",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo_0520d500-fbc6-4671-9018-66e670190e6c.webp?v=1703058373",
             "text_color": "#ffffff",
-            "title": "Mehr Vielseitigkeit aus einem Hub erhalten.",
-            "subtitle": "Erweitern Sie lhre Kreativitat",
+            "title": "UGREEN Revodok Serie",
+            "subtitle": "Expand Your Creativity",
             "button_text": "Jetzt kaufen",
-            "link": "https:\/\/de.ugreen.com\/pages\/ugreen-neujahrsverkauf",
+            "link": "https:\/\/de.ugreen.com\/collections\/ugreen-revodok-serie-dockingstation",
             "pc_align": "center",
             "mobile_align": "center",
             "pc_top": 15,
