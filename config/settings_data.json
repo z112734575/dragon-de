@@ -1237,7 +1237,7 @@
           "5fa69f11-3bb8-4c03-a03f-9699cd07d22d": {
             "type": "tab_list",
             "settings": {
-              "tab_name_list": "Ladegeräte,Powerstation,Docks & Hubs,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto,Powerbank",
+              "tab_name_list": "Ladegeräte,Powerstation,Docks & Hubs,Powerbank,Sets,Kable,Adapters,Für Laptop,Für Phone&Tablet ,Für Auto,",
               "tab_image_list": "",
               "tab_link_list": ""
             }
@@ -1296,10 +1296,28 @@
               "all_collection_name": "Alle Hubs"
             }
           },
-          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b": {
+          "tab_content_PceVtJ": {
             "type": "tab_content",
             "settings": {
               "tab_id": 4,
+              "product_list": [
+                "90597a",
+                "ugreen-100w-power-bank-20000mah-powerbank",
+                "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
+                "pb560",
+                "ugreen-wirless-magnetische-powerbank-10000mah"
+              ],
+              "tag_list": "",
+              "collection_name_list": "",
+              "collection_link_list": "",
+              "all_collection_url": "shopify:\/\/collections\/powerbank",
+              "all_collection_name": "Alle Powerbank"
+            }
+          },
+          "38eb7bf8-4717-4c7c-941d-0780b7a4b28b": {
+            "type": "tab_content",
+            "settings": {
+              "tab_id": 5,
               "product_list": [
                 "ugreen-30w-usb-c-ladegerat-usb-c-netzteil-ladestecker-pps-pd-3-0-super-fast-charger-mit-2m-usb-c-kabel",
                 "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel-2",
@@ -1317,7 +1335,7 @@
           "dc181cf8-5099-4066-aade-9708a6be74a7": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 5,
+              "tab_id": 6,
               "product_list": [
                 "ugreen-100w-usb-c-kabel-auf-usb-c-5a-20v-usb-c-ladekabel-pd-3-0-qc-4-0-kompatibel-mit-macbook-pro-16-2021-m2-macbook-air-ipad-pro-galaxy-s22-s21-s20-redmi-note-11-steam-deck-usw-1m-space-grau",
                 "ugreen-usb-c-auf-lightning-ladekabel-weiss-mfi-lightning-usb-c-kabel-pd-3-0-kompatibel-mit-iphone-14-pro-max-iphone-13-mini-iphone-12-iphone-se-ipad-2021-ipad-2020-airpods-pro-ladecase-usw-1m",
@@ -1335,7 +1353,7 @@
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 6,
+              "tab_id": 7,
               "product_list": [
                 "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
                 "ugreen-usb-3-0-lan-adapter-10-100-1000-mbps-usb-auf-rj45-ethernet-adapter-gigabit-netzwerkadapter-kompatibel-mit-laptop-pc-macbook-pro-surface-pro-mi-box-unter-windows-mac-os-linux-aluminium",
@@ -1353,7 +1371,7 @@
           "70921ea8-7186-4d68-bf40-82235a8f7a86": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 7,
+              "tab_id": 8,
               "product_list": [
                 "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
                 "90912-1",
@@ -1371,7 +1389,7 @@
           "a3d832d6-d857-4034-b7ec-50e882c86b2d": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 8,
+              "tab_id": 9,
               "product_list": [
                 "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
                 "nexode-pro-65w-mini-gan-ladegerat",
@@ -1389,7 +1407,7 @@
           "78b2740a-8429-40a0-a215-81c59a5f224f": {
             "type": "tab_content",
             "settings": {
-              "tab_id": 9,
+              "tab_id": 10,
               "product_list": [
                 "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
                 "ugreen-aux-bluetooth-adapter-auto-fur-freisprechanruf-und-wireless-musik-bluetooth-5-0-empfanger-klinke-kompatibel-mit-auto-mit-aux-und-usb-anschluss-lautsprecher-verstarker",
@@ -1402,24 +1420,6 @@
               "collection_link_list": "https:\/\/de.ugreen.com\/collections\/auto-ladegerat,https:\/\/de.ugreen.com\/collections\/auto-halterung,https:\/\/de.ugreen.com\/collections\/usb-a-auf-usb-c-ladekabel,https:\/\/de.ugreen.com\/collections\/bluetooth-adapter,https:\/\/de.ugreen.com\/collections\/sound-card",
               "all_collection_url": "shopify:\/\/collections\/fur-auto",
               "all_collection_name": "Alle"
-            }
-          },
-          "tab_content_PceVtJ": {
-            "type": "tab_content",
-            "settings": {
-              "tab_id": 10,
-              "product_list": [
-                "90597a",
-                "ugreen-100w-power-bank-20000mah-powerbank",
-                "ugreen-wireless-powerbank-10000mah-magnetische-power-bank",
-                "pb560",
-                "ugreen-wirless-magnetische-powerbank-10000mah"
-              ],
-              "tag_list": "",
-              "collection_name_list": "",
-              "collection_link_list": "",
-              "all_collection_url": "shopify:\/\/collections\/powerbank",
-              "all_collection_name": "Alle Powerbank"
             }
           },
           "da14ec79-5380-417b-9499-73f8332b8a3b": {
@@ -1597,13 +1597,13 @@
           "062bd733-351d-4773-ae0d-49f8754a13f2",
           "0dc3c2ff-26ee-4b8b-b318-b273bf7eeb30",
           "31ea2182-da79-465c-b4b3-fd0d80fc0c18",
+          "tab_content_PceVtJ",
           "38eb7bf8-4717-4c7c-941d-0780b7a4b28b",
           "dc181cf8-5099-4066-aade-9708a6be74a7",
           "bcd5cc0d-d546-46fd-b68d-8d555850bf5f",
           "70921ea8-7186-4d68-bf40-82235a8f7a86",
           "a3d832d6-d857-4034-b7ec-50e882c86b2d",
           "78b2740a-8429-40a0-a215-81c59a5f224f",
-          "tab_content_PceVtJ",
           "da14ec79-5380-417b-9499-73f8332b8a3b",
           "5ac0bbc7-03cb-4fc9-b9d0-277be853c1c5",
           "b4b3c9b9-38cd-448e-af8d-804f7713b86e",
