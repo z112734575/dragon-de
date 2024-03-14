@@ -47,6 +47,25 @@
             "className": "buy-more-save-more"
           }
         },
+        "ug-index-carousel-1": {
+          "type": "ug-index-carousel-item",
+          "settings": {
+            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/25054.webp?v=1703664723",
+            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo_0520d500-fbc6-4671-9018-66e670190e6c.webp?v=1703058373",
+            "text_color": "#ffffff",
+            "title": "UGREEN Revodok Serie",
+            "subtitle": "Expand Your Creativity",
+            "button_text": "Jetzt kaufen",
+            "link": "https:\/\/de.ugreen.com\/collections\/ugreen-revodok-serie-dockingstation",
+            "pc_align": "center",
+            "mobile_align": "center",
+            "pc_top": 15,
+            "pc_left": 50,
+            "mobile_top": 15,
+            "mobile_left": 0,
+            "className": ""
+          }
+        },
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a": {
           "type": "ug-index-carousel-item",
           "settings": {
@@ -84,34 +103,14 @@
             "mobile_left": 0,
             "className": "swiper_1"
           }
-        },
-        "ug-index-carousel-1": {
-          "type": "ug-index-carousel-item",
-          "disabled": true,
-          "settings": {
-            "pc_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/25054.webp?v=1703664723",
-            "mobile_image_url": "https:\/\/cdn.shopify.com\/s\/files\/1\/0669\/7336\/8632\/files\/banner_mo_0520d500-fbc6-4671-9018-66e670190e6c.webp?v=1703058373",
-            "text_color": "#ffffff",
-            "title": "UGREEN Revodok Serie",
-            "subtitle": "Expand Your Creativity",
-            "button_text": "Jetzt kaufen",
-            "link": "https:\/\/de.ugreen.com\/collections\/ugreen-revodok-serie-dockingstation",
-            "pc_align": "center",
-            "mobile_align": "center",
-            "pc_top": 15,
-            "pc_left": 50,
-            "mobile_top": 15,
-            "mobile_left": 0,
-            "className": ""
-          }
         }
       },
       "block_order": [
         "9d28e7b3-c0ac-4478-9602-f27133f7f7f3",
         "758dee12-0c83-4073-ab52-baa690d72db1",
+        "ug-index-carousel-1",
         "2d1ee7db-ad86-4c2c-90e8-c84f2bd89e1a",
-        "ug-index-carousel-11",
-        "ug-index-carousel-1"
+        "ug-index-carousel-11"
       ],
       "custom_css": [
         ".buy-more-save-more .green-home-banner-box {text-align: left; top: 16vw; left: 14vw;}",
