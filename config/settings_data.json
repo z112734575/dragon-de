@@ -2876,6 +2876,12 @@
           "button_vertical_position": "lowest",
           "greeting_message": "👋Hello please tell me your problem here we are happy to serve you"
         }
+      },
+      "3254389093236589768": {
+        "type": "shopify:\/\/apps\/omnitrack-facebook-pixels\/blocks\/app-embed\/23ef33fb-c988-4959-840f-ab56d7775513",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   }
