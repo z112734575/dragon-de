@@ -30,22 +30,6 @@
     "ug-tabs-product-list": {
       "type": "ug-tabs-product-list",
       "blocks": {
-        "1c9fbfe1-6d72-4586-a37c-b9645f7163c7": {
-          "type": "ug-product-list-tabs",
-          "settings": {
-            "tabs_title": "Sets",
-            "product_list": [
-              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
-              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
-              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
-              "nexode-300w-5-anschluss-gan-schnellladegerat",
-              "das-ultimative-ugreen-power-pack1",
-              "ugreen-20w-usb-c-ladegerat-mit-mfi-zertifiziertem-lightning-kabel-pd-usb-c-netzteil-usb-c-ladestecker-pps-kompatibel-mit-iphone-14-pro-13-13-pro-13-pro-max-12-pro-se-2020-airpods-pro-weiss",
-              "ugreen-20w-usb-c-ladegerat-2-pack-usb-c-netzteil-pd-3-0-2-stuck-usb-c-power-adapter-kompatibel-mit-iphone-14-13-pro-13-pro-max-12-11-se-2022-ipad-pro-air-galaxy-s22-s21-pixel-weiss",
-              "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-60w-usb-c-ladekabel"
-            ]
-          }
-        },
         "2632b153-e4f5-4946-9146-3002be2c2b29": {
           "type": "ug-product-list-tabs",
           "settings": {
@@ -59,6 +43,22 @@
               "ugreen-wirless-magnetische-powerbank-10000mah",
               "ugreen-zigarettenanzunder-usb-c-69w-autoladegerat-pd-usb-c",
               "ugreen-2-in-1-magnetischer-ladestander-kabellose-ladestation-ladegerat-mit-usb-c-ladekabel-kompatibel-mit-iphone-14-pro-max-14-plus-14-pro-13-13-mini-13-pro-12-12-pro-airpods-3-2-pro"
+            ]
+          }
+        },
+        "1c9fbfe1-6d72-4586-a37c-b9645f7163c7": {
+          "type": "ug-product-list-tabs",
+          "settings": {
+            "tabs_title": "Sets",
+            "product_list": [
+              "ugreen-65w-usb-c-ladegerat-3-ports-gan-wandladegerat-60w-usb-c-ladekabel",
+              "ugreen-100w-usb-c-ladeger-t-4-ports-gan-wandladeger-2-stuck-60w-usb-c-ladekabel",
+              "ugreen-200w-usb-c-ladegerat-6-ports-gan-tischladegerat-2-stuck-100w-usb-c-ladekabel",
+              "nexode-300w-5-anschluss-gan-schnellladegerat",
+              "das-ultimative-ugreen-power-pack1",
+              "ugreen-20w-usb-c-ladegerat-mit-mfi-zertifiziertem-lightning-kabel-pd-usb-c-netzteil-usb-c-ladestecker-pps-kompatibel-mit-iphone-14-pro-13-13-pro-13-pro-max-12-pro-se-2020-airpods-pro-weiss",
+              "ugreen-20w-usb-c-ladegerat-2-pack-usb-c-netzteil-pd-3-0-2-stuck-usb-c-power-adapter-kompatibel-mit-iphone-14-13-pro-13-pro-max-12-11-se-2022-ipad-pro-air-galaxy-s22-s21-pixel-weiss",
+              "ugreen-20w-usb-c-ladegerat-usb-c-netzteil-pd-3-0-60w-usb-c-ladekabel"
             ]
           }
         },
@@ -115,8 +115,8 @@
         }
       },
       "block_order": [
-        "1c9fbfe1-6d72-4586-a37c-b9645f7163c7",
         "2632b153-e4f5-4946-9146-3002be2c2b29",
+        "1c9fbfe1-6d72-4586-a37c-b9645f7163c7",
         "37cf4654-a486-4d1c-bdd8-2a50c4ce5bc4",
         "b5981575-b7d3-4bcf-b303-7a81dd1f58ee",
         "82e89c4e-58ed-4668-b5e0-707f3f82a435",
