@@ -97,14 +97,7 @@
           "settings": {
             "tabs_title": "Cables",
             "product_list": [
-              "ugreen-240w-pd3-1-usb-c-to-usb-c-cable",
-              "ugreen-100w-usb-c-to-usb-c-cable-6ft",
-              "ugreen-usb-c-to-usb-c-cable-3ft-6ft-10ft",
-              "usb-c-to-lightning-fast-charging-cable",
-              "right-angel-lightning-to-usb-a-cable",
-              "usb-c-to-a-quick-charging-cable",
-              "100w-pd-fast-charging-cable",
-              "right-angle-usb-c-quick-charging-cable"
+
             ]
           }
         }
