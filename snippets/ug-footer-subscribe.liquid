@@ -88,10 +88,8 @@
     }
 
     .s-1455074946 .cs-form-wrap label {
-        font-weight: 600;
         font-size: 14px;
         display: inline-block;
-        margin-bottom: 2px;
     }
 
     .s-1455074946 .cs-form-wrap div.radio-group div>label {
@@ -219,6 +217,18 @@
 
     .s-1455074946 .recaptcha_wrap {
         padding: 10px;
+    }
+
+    .ug-footer-subscribe-checkbox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #BEBEBF;
+        cursor: pointer;
+    }
+
+    .ug-footer-subscribe-checkbox input {
+        margin-right: 12px;
     }
 </style>
 <style>
@@ -405,20 +415,22 @@
 <!-- csform -->
 <div class="ug-footer-subscribe">
     <div class="ug-footer-subscribe-title">
-        <h2>Erhalten Sie die neuesten Nachrichten von Ugreen</h2>
-        <h6>In nur 3 Schritten zum Geld sparen</h6>
+        <h2>{{se_stts.email_title}}</h2>
+        {% if se_stts.email_subtitle != blank %}
+            <h6>{{se_stts.email_subtitle}}</h6>
+        {% endif %} 
     </div>
     <div class="center-col cs-custom-form s-1455074946">
         <div class="form-col-wrap">
-            <form method="post" action="https://ecf.cirkleinc.com/api/form-submit" class="cs-form-wrap"
-                id="66e805e4-0a45-4f4a-867b-9cd2fa77ac10">
+            <form method="post" action="https://ecf.cirkleinc.com/api/form-submit"
+                class="cs-form-wrap ug-footer-subscribe-form" id="66e805e4-0a45-4f4a-867b-9cd2fa77ac10">
                 <div class="ug-input-main">
                     <div class="Polaris-FormLayout">
                         <div class="Polaris-FormLayout__Item">
                             <div class="sc-jJEKmz">
                                 <div class="sc-citxvW sc-iUuxjF gYTLuO iidRym drop-area-warp">
                                     <div class="element-group  cs-width-100"><input type="email" id="email" name="email"
-                                            placeholder="Enter Email" class="">
+                                            placeholder="Enter Email" class="" required>
                                     </div>
                                 </div>
                             </div>
@@ -427,40 +439,70 @@
                     <div class="element-group">
                         <div class="form-submit-btn-wrap" style="justify-content: left; display: flex;">
                             <button type="submit" class="submit-btn" style="font-weight: 600">
-                                Abonnieren
+                                {{se_stts.email_btn_text}}
                             </button>
                         </div>
                     </div>
                 </div>
+                <div class="element-group  cs-width-100 ug-footer-subscribe-checkbox" style="margin-bottom: 4px;"><input type="checkbox"
+                        id="ug_accepts_marketing" name="accepts_marketing" class="condition-trigger"><label
+                        for="ug_accepts_marketing">{{se_stts.email_terms_text}}</label></div>
+                <div class="help-block" style="text-align: center;">
+                    <span class="message" style="color: green;"></span>
+                    <span class="error" style="color: red;"></span>
+                </div>
             </form>
         </div>
     </div>
-    <div class="ug-footer-subscribe-steps">
-        <div class="ug-footer-subscribe-step">
-            <div class="ug-footer-subscribe-step-icon">
-                1
-            </div>
-            <div class="ug-footer-subscribe-step-description">
-                <p>E-Mail-Adresse eingeben</p>
-            </div>
-        </div>
-        <div class="ug-footer-subscribe-step">
-            <div class="ug-footer-subscribe-step-icon">
-                2
-            </div>
-            <div class="ug-footer-subscribe-step-description">
-                <p>Mein UGREEN-Konto erstellen</p>
-            </div>
-        </div>
-        <div class="ug-footer-subscribe-step">
-            <div class="ug-footer-subscribe-step-icon">
-                3
-            </div>
-            <div class="ug-footer-subscribe-step-description">
-                <p>Erhalte 200 Punkte</p>
-            </div>
-        </div>
-    </div>
 </div>
-<!-- csform -->
-<script src="https://ecf.cirkleinc.com/public/frontend/js/form-builder-helper-v2.js" defer></script>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        function formSubmitListener() {
+            const form = document.querySelector('.ug-footer-subscribe-form');
+            const accepts_marketing = form.querySelector('#ug_accepts_marketing');
+            const email = form.querySelector('#email');
+            const form_id = form.id;
+            const message = form.querySelector('.ug-footer-subscribe-form .help-block .message');
+            const error = form.querySelector('.ug-footer-subscribe-form .help-block  .error');
+            console.log(form, "form-------------------------")
+            form.addEventListener('submit', function (e) {
+                e.preventDefault();
+                console.log(accepts_marketing.checked)
+                message.innerHTML = '';
+                error.innerHTML = '';
+                if (accepts_marketing.checked) {
+                    fetch('https://ecf.cirkleinc.com/api/form-submit', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/json',
+                        },
+                        body: JSON.stringify({
+                            email: email.value,
+                            accepts_marketing: accepts_marketing.checked ? 'on' : 'off',
+                            form_id,
+                        }),
+                    })
+                        .then((response) => response.json())
+                        .then((data) => {
+                            if (data.status === 'success') {
+                                email.value = '';
+                                message.innerHTML = "{{se_stts.email_success_text}}" || data.message;
+                                // window.location.href = "/pages/thankyou"
+                            } else {
+                                error.innerHTML = data?.errors?.email[0] || data.message || 'Something went wrong!';
+                            }
+                        })
+                        .catch((error) => {
+                            console.error('Error:', error);
+                        });
+                } else {
+                    error.innerHTML = 'Please agree to the terms and conditions.';
+                }
+            });
+
+        }
+
+        formSubmitListener();
+    })
+</script>
