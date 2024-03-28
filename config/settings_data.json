@@ -2124,8 +2124,6 @@
         ],
         "settings": {
           "style": "1",
-          "pos": "2",
-          "enable_pr": true,
           "enable_calc_ship": false,
           "enable_note": true,
           "enable_rates": true,
